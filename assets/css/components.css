@@ -200,6 +200,17 @@ ul.proofs { list-style: none; padding: 0; margin: 0; max-width: var(--measure); 
 ul.proofs li { padding: 10px 0; border-top: 1px solid var(--color-divider); }
 ul.proofs strong { font-family: var(--font-heading); font-size: 1.05rem; color: var(--color-gold-text); }
 
+.chips { display: flex; flex-wrap: wrap; gap: 8px; margin: var(--space-3) 0 var(--space-4); }
+.chip { font: inherit; font-size: .85rem; cursor: pointer; background: transparent; color: var(--color-text); border: 1px solid var(--color-divider); border-radius: 3px; padding: 4px 12px; }
+.chip:hover { border-color: var(--color-gold); }
+.chip[aria-pressed="true"] { color: var(--color-gold-text); border-color: var(--color-gold); background: color-mix(in srgb, var(--color-gold) 12%, transparent); }
+ul.results { list-style: none; padding: 0; margin: 0; }
+.result { padding: var(--space-4) 0; border-top: 1px solid var(--color-divider); }
+.result-title { font-family: var(--font-heading); font-weight: 600; font-size: 1.3rem; line-height: 1.2; }
+.snippet { margin: 6px 0 0; font-size: .92rem; color: var(--color-neutral-800); }
+.snip-label { font-size: .64rem; letter-spacing: .12em; text-transform: uppercase; color: var(--color-gold-text); margin-right: 6px; }
+mark { background: var(--color-gold-200); color: var(--color-text); padding: 0 2px; border-radius: 2px; }
+
 /* ── Footer ─────────────────────────────────────────────── */
 .site-footer { border-top: 1px solid var(--color-divider); padding-block: var(--space-8); font-size: .88rem; background: var(--color-surface); }
 .footer-grid { display: grid; grid-template-columns: 1.4fr 1fr 1fr; gap: var(--space-8); }

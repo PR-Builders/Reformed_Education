@@ -1,213 +1,288 @@
 {
-  "_note": "Names supplied by reformededucation.org from its preliminary research. Entries are name-only (`verification: listed`); every other field is a placeholder until researched from the institution's own site. Nothing here is verified. Topics, ease of reading and original language use the vocabularies in taxonomies.json and stay placeholders until each author is assessed.",
+  "_note": "Researched 2026-09-29 by reformededucation.org from Wikipedia and published reading guides. Ease of reading is left as a placeholder where no reading guide was found.",
   "entries": [
     {
       "id": "john-calvin",
       "name": "John Calvin",
       "placeholder": false,
-      "verification": "listed",
-      "dates": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "dates": "1509–1564",
       "tradition": "[Placeholder — information to be added]",
       "works": [
-        "[Placeholder — information to be added]"
+        "Institutes of the Christian Religion",
+        "Commentary on Romans",
+        "Catechism of the Church of Geneva"
       ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Wikipedia: John Calvin",
+        "organization": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/John_Calvin",
+        "date": "Accessed 2026-09-29",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Dates, languages and principal works are taken from the linked page. Topics were assigned by reformededucation.org from the works and descriptions cited. Ease of reading is based on the published reading guides listed; it is a judgment, not a measurement."
       },
       "tags": [],
       "related": [],
       "topics": [
-        "[Placeholder — information to be added]"
+        "Systematic Theology",
+        "Biblical Theology",
+        "Covenant Theology",
+        "Worship",
+        "Confessions and Catechisms"
       ],
-      "reading_level": "[Placeholder — information to be added]",
+      "reading_level": "Moderate",
       "original_language": [
-        "[Placeholder — information to be added]"
+        "Latin",
+        "French"
+      ],
+      "reading_note": "J. I. Packer is quoted calling the Institutes’ readability “remarkable, considering its size”, and the guide suggests a guided reading plan; Ligonier recommends a readable secondary introduction (Wendel) before the primary works.",
+      "reading_sources": [
+        "https://www.thegospelcoalition.org/blogs/justin-taylor/why-and-how-to-read-calvins-institutes/",
+        "https://learn.ligonier.org/articles/john-calvin-recommended-reading"
       ]
     },
     {
       "id": "john-knox",
       "name": "John Knox",
       "placeholder": false,
-      "verification": "listed",
-      "dates": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "dates": "c. 1514–1572",
       "tradition": "[Placeholder — information to be added]",
       "works": [
-        "[Placeholder — information to be added]"
+        "The History of the Reformation in Scotland",
+        "The First Blast of the Trumpet Against the Monstruous Regiment of Women",
+        "Scots Confession (co-authored)"
       ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Wikipedia: John Knox",
+        "organization": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/John_Knox",
+        "date": "Accessed 2026-09-29",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Dates, languages and principal works are taken from the linked page. Topics were assigned by reformededucation.org from the works and descriptions cited. Ease of reading is based on the published reading guides listed; it is a judgment, not a measurement."
       },
       "tags": [],
       "related": [],
       "topics": [
-        "[Placeholder — information to be added]"
+        "Reformation History",
+        "Presbyterianism",
+        "Worship",
+        "Confessions and Catechisms"
       ],
       "reading_level": "[Placeholder — information to be added]",
       "original_language": [
-        "[Placeholder — information to be added]"
+        "English"
+      ],
+      "reading_note": "Christian History Institute recommends an edited volume of selections as the best place to begin. Not yet rated.",
+      "reading_sources": [
+        "https://christianhistoryinstitute.org/magazine/article/john-knox-recommended-resources"
       ]
     },
     {
       "id": "theodore-beza",
       "name": "Theodore Beza",
       "placeholder": false,
-      "verification": "listed",
-      "dates": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "dates": "1519–1605",
       "tradition": "[Placeholder — information to be added]",
       "works": [
-        "[Placeholder — information to be added]"
+        "Confession of the Christian Faith",
+        "De jure magistratuum",
+        "Greek New Testament editions",
+        "Histoire ecclésiastique des Églises réformées"
       ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Wikipedia: Theodore Beza",
+        "organization": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Theodore_Beza",
+        "date": "Accessed 2026-09-29",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Dates, languages and principal works are taken from the linked page. Topics were assigned by reformededucation.org from the works and descriptions cited. Ease of reading is based on the published reading guides listed; it is a judgment, not a measurement."
       },
       "tags": [],
       "related": [],
       "topics": [
-        "[Placeholder — information to be added]"
+        "Systematic Theology",
+        "Biblical Theology",
+        "Church History",
+        "Reformation History"
       ],
       "reading_level": "[Placeholder — information to be added]",
       "original_language": [
-        "[Placeholder — information to be added]"
+        "Latin",
+        "French"
+      ],
+      "reading_note": "A review recommends starting with his Confession of the Christian Faith, written as a handbook for laypeople, and describes his writing as warm and devotional. Not yet rated.",
+      "reading_sources": [
+        "https://heidelblog.net/2023/01/review-theodore-beza-the-man-and-the-myth-by-shawn-d-wright/"
       ]
     },
     {
       "id": "john-owen",
       "name": "John Owen",
       "placeholder": false,
-      "verification": "listed",
-      "dates": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "dates": "1616–1683",
       "tradition": "[Placeholder — information to be added]",
       "works": [
-        "[Placeholder — information to be added]"
+        "The Death of Death in the Death of Christ",
+        "Communion with God",
+        "On the Mortification of Sin in Believers",
+        "Commentary on Hebrews"
       ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Wikipedia: John Owen",
+        "organization": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/John_Owen_(theologian)",
+        "date": "Accessed 2026-09-29",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Dates, languages and principal works are taken from the linked page. Topics were assigned by reformededucation.org from the works and descriptions cited. Ease of reading is based on the published reading guides listed; it is a judgment, not a measurement."
       },
       "tags": [],
       "related": [],
       "topics": [
-        "[Placeholder — information to be added]"
+        "Systematic Theology",
+        "Biblical Theology",
+        "Christian Living"
       ],
-      "reading_level": "[Placeholder — information to be added]",
+      "reading_level": "Challenging",
       "original_language": [
-        "[Placeholder — information to be added]"
+        "English"
+      ],
+      "reading_note": "Puritan Paperbacks’ reading plan calls Owen “more demanding” than accessible Puritans and suggests reaching him after easier authors, beginning with The Mortification of Sin.",
+      "reading_sources": [
+        "https://puritanpaperbacks.com/puritan-reading-plan"
       ]
     },
     {
       "id": "thomas-watson",
       "name": "Thomas Watson",
       "placeholder": false,
-      "verification": "listed",
-      "dates": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "dates": "c. 1620–1686",
       "tradition": "[Placeholder — information to be added]",
       "works": [
-        "[Placeholder — information to be added]"
+        "A Body of Divinity",
+        "The Godly Man’s Picture",
+        "All Things for Good",
+        "The Ten Commandments"
       ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Wikipedia: Thomas Watson",
+        "organization": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Thomas_Watson_(Puritan)",
+        "date": "Accessed 2026-09-29",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Dates, languages and principal works are taken from the linked page. Topics were assigned by reformededucation.org from the works and descriptions cited. Ease of reading is based on the published reading guides listed; it is a judgment, not a measurement."
       },
       "tags": [],
       "related": [],
       "topics": [
-        "[Placeholder — information to be added]"
+        "Christian Living",
+        "Confessions and Catechisms",
+        "Systematic Theology"
       ],
-      "reading_level": "[Placeholder — information to be added]",
+      "reading_level": "Easy",
       "original_language": [
-        "[Placeholder — information to be added]"
+        "English"
+      ],
+      "reading_note": "Puritan Paperbacks says Watson “reads almost like a modern devotional”, and A Puritan’s Mind calls him “easy to understand”; it suggests shorter treatises as approachable entry points.",
+      "reading_sources": [
+        "https://puritanpaperbacks.com/puritan-reading-plan",
+        "https://www.apuritansmind.com/puritan-favorites/thomas-watson-1620-1686/"
       ]
     },
     {
       "id": "jonathan-edwards",
       "name": "Jonathan Edwards",
       "placeholder": false,
-      "verification": "listed",
-      "dates": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "dates": "1703–1758",
       "tradition": "[Placeholder — information to be added]",
       "works": [
-        "[Placeholder — information to be added]"
+        "Religious Affections",
+        "The Freedom of the Will",
+        "A Faithful Narrative of the Surprising Work of God",
+        "Sinners in the Hands of an Angry God"
       ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Wikipedia: Jonathan Edwards",
+        "organization": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jonathan_Edwards_(theologian)",
+        "date": "Accessed 2026-09-29",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Dates, languages and principal works are taken from the linked page. Topics were assigned by reformededucation.org from the works and descriptions cited. Ease of reading is based on the published reading guides listed; it is a judgment, not a measurement."
       },
       "tags": [],
       "related": [],
       "topics": [
-        "[Placeholder — information to be added]"
+        "Systematic Theology",
+        "Christian Living",
+        "Ethics"
       ],
-      "reading_level": "[Placeholder — information to be added]",
+      "reading_level": "Moderate",
       "original_language": [
-        "[Placeholder — information to be added]"
+        "English"
+      ],
+      "reading_note": "Crossway’s guide (Dane Ortlund) says Edwards isn’t inherently difficult and recommends starting with his sermons, such as Charity and Its Fruits.",
+      "reading_sources": [
+        "https://www.crossway.org/articles/why-read-jonathan-edwards/"
       ]
     },
     {
       "id": "charles-hodge",
       "name": "Charles Hodge",
       "placeholder": false,
-      "verification": "listed",
-      "dates": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "dates": "1797–1878",
       "tradition": "[Placeholder — information to be added]",
       "works": [
-        "[Placeholder — information to be added]"
+        "Systematic Theology",
+        "Commentary on the Epistle to the Romans",
+        "What Is Darwinism?"
       ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Wikipedia: Charles Hodge",
+        "organization": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Charles_Hodge",
+        "date": "Accessed 2026-09-29",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Dates, languages and principal works are taken from the linked page. Topics were assigned by reformededucation.org from the works and descriptions cited. Ease of reading is based on the published reading guides listed; it is a judgment, not a measurement."
       },
       "tags": [],
       "related": [],
       "topics": [
-        "[Placeholder — information to be added]"
+        "Systematic Theology",
+        "Biblical Theology",
+        "Apologetics"
       ],
       "reading_level": "[Placeholder — information to be added]",
       "original_language": [
+        "English"
+      ],
+      "reading_note": "No reading-difficulty guidance found on the pages consulted. Not yet rated.",
+      "reading_sources": [
         "[Placeholder — information to be added]"
       ]
     },
@@ -215,359 +290,471 @@
       "id": "b-b-warfield",
       "name": "B.B. Warfield",
       "placeholder": false,
-      "verification": "listed",
-      "dates": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "dates": "1851–1921",
       "tradition": "[Placeholder — information to be added]",
       "works": [
-        "[Placeholder — information to be added]"
+        "The Inspiration and Authority of the Bible",
+        "Biblical Doctrines",
+        "Counterfeit Miracles",
+        "Calvin and Calvinism"
       ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Wikipedia: B.B. Warfield",
+        "organization": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Benjamin_Breckinridge_Warfield",
+        "date": "Accessed 2026-09-29",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Dates, languages and principal works are taken from the linked page. Topics were assigned by reformededucation.org from the works and descriptions cited. Ease of reading is based on the published reading guides listed; it is a judgment, not a measurement."
       },
       "tags": [],
       "related": [],
       "topics": [
-        "[Placeholder — information to be added]"
+        "Systematic Theology",
+        "Apologetics",
+        "Church History"
       ],
       "reading_level": "[Placeholder — information to be added]",
       "original_language": [
-        "[Placeholder — information to be added]"
+        "English"
+      ],
+      "reading_note": "Kim Riddlebarger notes that some of Warfield’s essays are quite basic (encyclopedia and magazine articles) while others are much more technical. Not yet rated.",
+      "reading_sources": [
+        "http://kimriddlebarger.squarespace.com/the-latest-post/2008/7/1/reading-warfield-where-to-begin.html"
       ]
     },
     {
       "id": "j-gresham-machen",
       "name": "J. Gresham Machen",
       "placeholder": false,
-      "verification": "listed",
-      "dates": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "dates": "1881–1937",
       "tradition": "[Placeholder — information to be added]",
       "works": [
-        "[Placeholder — information to be added]"
+        "Christianity and Liberalism",
+        "The Origin of Paul’s Religion",
+        "What Is Faith?",
+        "The Virgin Birth of Christ"
       ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Wikipedia: J. Gresham Machen",
+        "organization": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/J._Gresham_Machen",
+        "date": "Accessed 2026-09-29",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Dates, languages and principal works are taken from the linked page. Topics were assigned by reformededucation.org from the works and descriptions cited. Ease of reading is based on the published reading guides listed; it is a judgment, not a measurement."
       },
       "tags": [],
       "related": [],
       "topics": [
-        "[Placeholder — information to be added]"
+        "Apologetics",
+        "Biblical Theology"
       ],
-      "reading_level": "[Placeholder — information to be added]",
+      "reading_level": "Easy",
       "original_language": [
-        "[Placeholder — information to be added]"
+        "English"
+      ],
+      "reading_note": "The Gospel Coalition’s review says Christianity and Liberalism still speaks “with simple clarity and precision”.",
+      "reading_sources": [
+        "https://au.thegospelcoalition.org/book-review/review-christianity-liberalism-by-j-gresham-machen/"
       ]
     },
     {
       "id": "herman-bavinck",
       "name": "Herman Bavinck",
       "placeholder": false,
-      "verification": "listed",
-      "dates": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "dates": "1854–1921",
       "tradition": "[Placeholder — information to be added]",
       "works": [
-        "[Placeholder — information to be added]"
+        "Reformed Dogmatics",
+        "Our Reasonable Faith (The Wonderful Works of God)",
+        "The Philosophy of Revelation"
       ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Wikipedia: Herman Bavinck",
+        "organization": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Herman_Bavinck",
+        "date": "Accessed 2026-09-29",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Dates, languages and principal works are taken from the linked page. Topics were assigned by reformededucation.org from the works and descriptions cited. Ease of reading is based on the published reading guides listed; it is a judgment, not a measurement."
       },
       "tags": [],
       "related": [],
       "topics": [
-        "[Placeholder — information to be added]"
+        "Systematic Theology"
       ],
-      "reading_level": "[Placeholder — information to be added]",
+      "reading_level": "Challenging",
       "original_language": [
-        "[Placeholder — information to be added]"
+        "Dutch"
+      ],
+      "reading_note": "Derek Rishmawy writes that “Bavinck isn’t for the beginner” and points readers to an abridged one-volume edition as far more approachable.",
+      "reading_sources": [
+        "https://www.thegospelcoalition.org/article/why-you-should-read-bavinck/"
       ]
     },
     {
       "id": "louis-berkhof",
       "name": "Louis Berkhof",
       "placeholder": false,
-      "verification": "listed",
-      "dates": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "dates": "1873–1957",
       "tradition": "[Placeholder — information to be added]",
       "works": [
-        "[Placeholder — information to be added]"
+        "Systematic Theology",
+        "History of Christian Doctrines",
+        "Manual of Christian Doctrine"
       ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Wikipedia: Louis Berkhof",
+        "organization": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Louis_Berkhof",
+        "date": "Accessed 2026-09-29",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Dates, languages and principal works are taken from the linked page. Topics were assigned by reformededucation.org from the works and descriptions cited. Ease of reading is based on the published reading guides listed; it is a judgment, not a measurement."
       },
       "tags": [],
       "related": [],
       "topics": [
-        "[Placeholder — information to be added]"
+        "Systematic Theology",
+        "Church History"
       ],
-      "reading_level": "[Placeholder — information to be added]",
+      "reading_level": "Challenging",
       "original_language": [
-        "[Placeholder — information to be added]"
+        "English"
+      ],
+      "reading_note": "A book review calls Berkhof’s Systematic Theology “not for the faint of heart”, though it says even novices gain from reading excerpts; J. I. Packer praises its concision.",
+      "reading_sources": [
+        "https://biblicalcounseling.com/resource-library/articles/systematic-theology-complete-edition-by-louis-berkhof-a-book-review/",
+        "https://banneroftruth.org/us/store/theology-books/systematic-theology/"
       ]
     },
     {
       "id": "geerhardus-vos",
       "name": "Geerhardus Vos",
       "placeholder": false,
-      "verification": "listed",
-      "dates": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "dates": "1862–1949",
       "tradition": "[Placeholder — information to be added]",
       "works": [
-        "[Placeholder — information to be added]"
+        "Biblical Theology: Old and New Testaments",
+        "Pauline Eschatology",
+        "Reformed Dogmatics"
       ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Wikipedia: Geerhardus Vos",
+        "organization": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Geerhardus_Vos",
+        "date": "Accessed 2026-09-29",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Dates, languages and principal works are taken from the linked page. Topics were assigned by reformededucation.org from the works and descriptions cited. Ease of reading is based on the published reading guides listed; it is a judgment, not a measurement."
       },
       "tags": [],
       "related": [],
       "topics": [
-        "[Placeholder — information to be added]"
+        "Biblical Theology",
+        "Systematic Theology"
       ],
-      "reading_level": "[Placeholder — information to be added]",
+      "reading_level": "Challenging",
       "original_language": [
-        "[Placeholder — information to be added]"
+        "English",
+        "Dutch"
+      ],
+      "reading_note": "Reformation Bible College says Vos “can be challenging to read”, and recommends beginning with the introduction to Biblical Theology.",
+      "reading_sources": [
+        "https://reformationbiblecollege.org/blog/new-to-biblical-theology-heres-where-to-begin"
       ]
     },
     {
       "id": "john-murray",
       "name": "John Murray",
       "placeholder": false,
-      "verification": "listed",
-      "dates": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "dates": "1898–1975",
       "tradition": "[Placeholder — information to be added]",
       "works": [
-        "[Placeholder — information to be added]"
+        "Redemption Accomplished and Applied",
+        "Principles of Conduct",
+        "The Imputation of Adam’s Sin",
+        "Commentary on Romans"
       ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Wikipedia: John Murray",
+        "organization": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/John_Murray_(theologian)",
+        "date": "Accessed 2026-09-29",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Dates, languages and principal works are taken from the linked page. Topics were assigned by reformededucation.org from the works and descriptions cited. Ease of reading is based on the published reading guides listed; it is a judgment, not a measurement."
       },
       "tags": [],
       "related": [],
       "topics": [
-        "[Placeholder — information to be added]"
+        "Systematic Theology",
+        "Ethics",
+        "Biblical Theology"
       ],
-      "reading_level": "[Placeholder — information to be added]",
+      "reading_level": "Moderate",
       "original_language": [
-        "[Placeholder — information to be added]"
+        "English"
+      ],
+      "reading_note": "Banner of Truth says Redemption Accomplished and Applied was “distilled and expressed for Christians in general rather than for theological students in particular”.",
+      "reading_sources": [
+        "https://banneroftruth.org/us/store/theology-books/redemption-accomplished-and-applied/"
       ]
     },
     {
       "id": "r-c-sproul",
       "name": "R.C. Sproul",
       "placeholder": false,
-      "verification": "listed",
-      "dates": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "dates": "1939–2017",
       "tradition": "[Placeholder — information to be added]",
       "works": [
-        "[Placeholder — information to be added]"
+        "The Holiness of God",
+        "Chosen by God",
+        "Essential Truths of the Christian Faith",
+        "What Is Reformed Theology?"
       ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Wikipedia: R.C. Sproul",
+        "organization": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/R._C._Sproul",
+        "date": "Accessed 2026-09-29",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Dates, languages and principal works are taken from the linked page. Topics were assigned by reformededucation.org from the works and descriptions cited. Ease of reading is based on the published reading guides listed; it is a judgment, not a measurement."
       },
       "tags": [],
       "related": [],
       "topics": [
-        "[Placeholder — information to be added]"
+        "Systematic Theology",
+        "Apologetics"
       ],
-      "reading_level": "[Placeholder — information to be added]",
+      "reading_level": "Easy",
       "original_language": [
-        "[Placeholder — information to be added]"
+        "English"
+      ],
+      "reading_note": "A buying guide calls Essential Truths of the Christian Faith “perfect for beginners” and notes Sproul’s clear style breaks down complex doctrines without jargon.",
+      "reading_sources": [
+        "https://christholdfast.org/buying-guides/best-rc-sproul-theology-books/"
       ]
     },
     {
       "id": "sinclair-ferguson",
       "name": "Sinclair Ferguson",
       "placeholder": false,
-      "verification": "listed",
-      "dates": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "dates": "b. 1948",
       "tradition": "[Placeholder — information to be added]",
       "works": [
-        "[Placeholder — information to be added]"
+        "The Whole Christ",
+        "Devoted to God",
+        "The Holy Spirit",
+        "John Owen on the Christian Life"
       ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Wikipedia: Sinclair Ferguson",
+        "organization": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sinclair_Ferguson",
+        "date": "Accessed 2026-09-29",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Dates, languages and principal works are taken from the linked page. Topics were assigned by reformededucation.org from the works and descriptions cited. Ease of reading is based on the published reading guides listed; it is a judgment, not a measurement."
       },
       "tags": [],
       "related": [],
       "topics": [
-        "[Placeholder — information to be added]"
+        "Systematic Theology",
+        "Christian Living",
+        "Church History"
       ],
-      "reading_level": "[Placeholder — information to be added]",
+      "reading_level": "Moderate",
       "original_language": [
-        "[Placeholder — information to be added]"
+        "English"
+      ],
+      "reading_note": "A review of Devoted to God says Ferguson “wears his profound scholarship lightly” in an easy-to-follow pastoral style, while his more doctrinal books such as The Whole Christ go deeper.",
+      "reading_sources": [
+        "https://gracefallbrook.church/grace-notes/2017/2/23/devoted-to-god-blueprints-for-sanctification-by-sinclair-b-ferguson"
       ]
     },
     {
       "id": "joel-beeke",
       "name": "Joel Beeke",
       "placeholder": false,
-      "verification": "listed",
-      "dates": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "dates": "b. 1952",
       "tradition": "[Placeholder — information to be added]",
       "works": [
-        "[Placeholder — information to be added]"
+        "Reformed Systematic Theology (with Paul Smalley)",
+        "A Puritan Theology",
+        "Meet the Puritans",
+        "Reformed Preaching"
       ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Wikipedia: Joel Beeke",
+        "organization": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Joel_Beeke",
+        "date": "Accessed 2026-09-29",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Dates, languages and principal works are taken from the linked page. Topics were assigned by reformededucation.org from the works and descriptions cited. Ease of reading is based on the published reading guides listed; it is a judgment, not a measurement."
       },
       "tags": [],
       "related": [],
       "topics": [
-        "[Placeholder — information to be added]"
+        "Systematic Theology",
+        "Church History",
+        "Christian Living",
+        "Preaching"
       ],
-      "reading_level": "[Placeholder — information to be added]",
+      "reading_level": "Easy",
       "original_language": [
-        "[Placeholder — information to be added]"
+        "English"
+      ],
+      "reading_note": "Rated Easy by reformededucation.org: modern and readable. Crossway describes the one-volume Essentials of Reformed Systematic Theology as “wonderfully accessible and readable”, with less technical language than the four-volume set.",
+      "reading_sources": [
+        "https://www.crossway.org/books/essentials-of-reformed-systematic-theology-hcj/"
       ]
     },
     {
       "id": "michael-horton",
       "name": "Michael Horton",
       "placeholder": false,
-      "verification": "listed",
-      "dates": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "dates": "b. 1964",
       "tradition": "[Placeholder — information to be added]",
       "works": [
-        "[Placeholder — information to be added]"
+        "The Christian Faith",
+        "Core Christianity",
+        "Justification",
+        "Calvin on the Christian Life"
       ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Wikipedia: Michael Horton",
+        "organization": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Michael_Horton_(theologian)",
+        "date": "Accessed 2026-09-29",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Dates, languages and principal works are taken from the linked page. Topics were assigned by reformededucation.org from the works and descriptions cited. Ease of reading is based on the published reading guides listed; it is a judgment, not a measurement."
       },
       "tags": [],
       "related": [],
       "topics": [
-        "[Placeholder — information to be added]"
+        "Systematic Theology",
+        "Covenant Theology",
+        "Apologetics"
       ],
-      "reading_level": "[Placeholder — information to be added]",
+      "reading_level": "Moderate",
       "original_language": [
-        "[Placeholder — information to be added]"
+        "English"
+      ],
+      "reading_note": "Tim Challies presents Core Christianity as an approachable entry point, a “springboard” to Horton’s more substantial works such as Pilgrim Theology and The Christian Faith.",
+      "reading_sources": [
+        "https://www.challies.com/book-reviews/core-christianity/"
       ]
     },
     {
       "id": "o-palmer-robertson",
       "name": "O. Palmer Robertson",
       "placeholder": false,
-      "verification": "listed",
-      "dates": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "dates": "b. 1937",
       "tradition": "[Placeholder — information to be added]",
       "works": [
-        "[Placeholder — information to be added]"
+        "The Christ of the Covenants",
+        "The Christ of the Prophets",
+        "Christ of the Consummation"
       ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Wikipedia: O. Palmer Robertson",
+        "organization": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/O._Palmer_Robertson",
+        "date": "Accessed 2026-09-29",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Dates, languages and principal works are taken from the linked page. Topics were assigned by reformededucation.org from the works and descriptions cited. Ease of reading is based on the published reading guides listed; it is a judgment, not a measurement."
       },
       "tags": [],
       "related": [],
       "topics": [
-        "[Placeholder — information to be added]"
+        "Covenant Theology",
+        "Biblical Theology"
       ],
-      "reading_level": "[Placeholder — information to be added]",
+      "reading_level": "Moderate",
       "original_language": [
-        "[Placeholder — information to be added]"
+        "English"
+      ],
+      "reading_note": "Endorsements on P&R’s page praise The Christ of the Covenants for “clarity and simplicity” and call it clearly written and readable.",
+      "reading_sources": [
+        "https://www.prpbooks.com/blog/2015/10/book-highlight-the-christ-of-the-covenants-by-o-palmer-robertson/"
       ]
     },
     {
       "id": "ligon-duncan",
       "name": "Ligon Duncan",
       "placeholder": false,
-      "verification": "listed",
-      "dates": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "dates": "b. 1960",
       "tradition": "[Placeholder — information to be added]",
       "works": [
-        "[Placeholder — information to be added]"
+        "The Westminster Confession in the 21st Century (general editor)",
+        "The Genesis Debate (contributor)",
+        "When Pain Is Real and God Seems Silent"
       ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Wikipedia: Ligon Duncan",
+        "organization": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/J._Ligon_Duncan",
+        "date": "Accessed 2026-09-29",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Dates, languages and principal works are taken from the linked page. Topics were assigned by reformededucation.org from the works and descriptions cited. Ease of reading is based on the published reading guides listed; it is a judgment, not a measurement."
       },
       "tags": [],
       "related": [],
       "topics": [
-        "[Placeholder — information to be added]"
+        "Covenant Theology",
+        "Presbyterianism",
+        "Confessions and Catechisms",
+        "Systematic Theology"
       ],
       "reading_level": "[Placeholder — information to be added]",
       "original_language": [
+        "English"
+      ],
+      "reading_note": "No reading-difficulty guidance found. Not yet rated.",
+      "reading_sources": [
         "[Placeholder — information to be added]"
       ]
     },
@@ -575,30 +762,41 @@
       "id": "j-v-fesko",
       "name": "J. V. Fesko",
       "placeholder": false,
-      "verification": "listed",
+      "verification": "researched",
       "dates": "[Placeholder — information to be added]",
       "tradition": "[Placeholder — information to be added]",
       "works": [
-        "[Placeholder — information to be added]"
+        "The Theology of the Westminster Standards",
+        "Signed, Sealed, Delivered",
+        "The Covenant of Works",
+        "Reforming Apologetics"
       ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Author biography, Reformed Theological Seminary and publisher pages",
+        "organization": "Various",
+        "url": "https://rts.edu/people/dr-john-v-fesko/",
+        "date": "Accessed 2026-09-29",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Dates, languages and principal works are taken from the linked page. Topics were assigned by reformededucation.org from the works and descriptions cited. Ease of reading is based on the published reading guides listed; it is a judgment, not a measurement."
       },
       "tags": [],
       "related": [],
       "topics": [
-        "[Placeholder — information to be added]"
+        "Systematic Theology",
+        "Covenant Theology",
+        "Confessions and Catechisms",
+        "Church History"
       ],
-      "reading_level": "[Placeholder — information to be added]",
+      "reading_level": "Challenging",
       "original_language": [
-        "[Placeholder — information to be added]"
+        "English"
+      ],
+      "reading_note": "The Gospel Coalition’s Themelios review says his 400-page Theology of the Westminster Standards “goes beyond an evening read”, though the effort “yields significant fruit”.",
+      "reading_sources": [
+        "https://www.thegospelcoalition.org/themelios/review/the-theology-of-the-westminster-standards-historical-context-and-theologica/"
       ]
     }
   ]

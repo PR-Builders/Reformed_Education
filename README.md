@@ -72,6 +72,10 @@ Entries were seeded from reformededucation.org's preliminary research as **names
 
 `data/catechisms.json` holds metadata only (name, group, source, `count`, `file`). Each catechism's questions live in `data/catechisms/<id>.json`, loaded on demand by `RE.data.catechism(id)`, so the home and directory pages stay small. The Westminster Shorter and Larger Catechisms and Fisher's Catechism (about 3,800 explanatory questions, grouped by `topic` under each Shorter Catechism question) are included. To add another, drop its file in `data/catechisms/`, add its entry to `catechisms.json` and run `python3 tools/validate_data.py`.
 
+## Search
+
+`assets/js/search.js` indexes every directory entry and the full text of every catechism: questions, answers, Scripture proof texts and prefaces. A search for a word finds every passage that mentions it, including variants (baptism, baptize, baptized, baptizing), shows each match highlighted in context, groups results by source with filter chips, and pages through all results. Put a phrase in quotation marks for an exact match. The index is built in the browser on the search page only.
+
 ## Interactive tools
 
 The catechism page (`catechism.html?id=wsc`) offers Study (Q&A, Scripture proofs, topics, search), Practice (flashcards, fill in the blank, multiple choice, random, memorize) and Games (10 / 25 / full challenge with optional timer, and streak). Data comes from the catechism's `questions` array (`question`, `answer`, optional `topic`, and `proofs` as `{ ref, text }` KJV citations). The catechism's quiz set is generated from the same text (`from_catechism` in `quizzes.json`). Multiple choice draws distractors from the other answers, so each new catechism gets every mode automatically. Progress, scores and best streaks are stored in `localStorage` only.
