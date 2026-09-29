@@ -20,7 +20,7 @@
   ];
 
   RE.config = {
-    version: "202609292344",   // stamped by tools/bump_version.py; appended to data requests to avoid stale caches
+    version: "202609292350",   // stamped by tools/bump_version.py; appended to data requests to avoid stale caches
     siteName: "Reformed Education",
     tagline: "Reformed education and resources, in one place.",
     latinTagline: "Quaere et Disce",

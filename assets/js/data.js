@@ -79,7 +79,7 @@
       if (!e) return null;
       if (!e.file) return Object.assign({ questions: [] }, e);
       const doc = await loadFile(e.file);
-      return Object.assign({}, e, { questions: doc.questions || [] });
+      return Object.assign({}, e, { questions: doc.questions || [], front_matter: doc.front_matter || [] });
     },
   };
 })();

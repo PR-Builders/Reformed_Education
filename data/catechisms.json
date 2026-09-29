@@ -19,7 +19,7 @@
         "license": "Public domain",
         "translation": "King James Version (Scripture proofs)",
         "date": "First published 1648",
-        "notes": "The catechism text and its KJV Scripture proofs are in the public domain. Text supplied by the site owner."
+        "notes": "The catechism text and its KJV Scripture proofs are in the public domain. Text supplied by reformededucation.org."
       },
       "count": 107,
       "file": "catechisms/wsc.json"
@@ -40,7 +40,7 @@
         "copyright": "Public domain.",
         "license": "Public domain",
         "translation": "King James Version (Scripture proofs)",
-        "notes": "Catechism text and KJV Scripture proofs are in the public domain. Text supplied by the site owner."
+        "notes": "Catechism text and KJV Scripture proofs are in the public domain. Text supplied by reformededucation.org."
       },
       "coverage_note": "This text was transcribed from supplied copies and has not yet been proofread against a standard edition. Questions 1–114 were also compared with a second, differently edited copy, and a few wording conflicts were settled in its favour. Questions 115–196 rest on one text.",
       "placeholder": false,
@@ -59,18 +59,19 @@
       "file": "catechisms/fishers.json",
       "count": 3827,
       "description": "James Fisher and Ebenezer Erskine’s exposition of the Westminster Shorter Catechism: about 3,800 questions and answers, arranged under each Shorter Catechism question, with Scripture cited in the answers.",
-      "coverage_note": "This text was transcribed from a supplied digital edition and has not been proofread against a printed one. Numbering and page-layout irregularities in that edition may remain in places. The publisher’s introduction, editorial footnotes and index are not included. Topics are the Shorter Catechism questions each item explains.",
+      "coverage_note": "This text was transcribed from a supplied digital edition and has not been proofread against a printed one. Numbering and page-layout irregularities in that edition may remain in places. James Fisher’s prefaces are included; the publisher’s introduction, editorial footnotes and index are not. Topics are the Shorter Catechism questions each item explains.",
       "tags": [],
       "source": {
         "title": "The Westminster Assembly’s Shorter Catechism Explained, by Way of Question and Answer",
         "author": "James Fisher and Ebenezer Erskine",
         "date": "Part 1, 1753; Part 2, 1760",
-        "edition": "Digital text supplied by the site owner",
+        "edition": "Digital text supplied by reformededucation.org",
         "copyright_status": "public-domain",
         "copyright": "Public domain.",
         "license": "Public domain",
-        "notes": "The text is in the public domain. Text supplied by the site owner. Scripture is quoted within the answers."
-      }
+        "notes": "The text is in the public domain. Text supplied by reformededucation.org. Scripture is quoted within the answers."
+      },
+      "has_front_matter": true
     },
     {
       "id": "wcf",

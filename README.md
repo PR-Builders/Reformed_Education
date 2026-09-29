@@ -61,7 +61,7 @@ Before each deploy run `python3 tools/bump_version.py`. GitHub Pages lets browse
 
 ## Directory content status
 
-Entries were seeded from the owner's preliminary research as **names only**. Each carries `"verification": "listed"` (shown as a *Details pending* badge); every other field is a placeholder until researched from the institution's own website. Move an entry to `researched` and then `verified` (which requires a cited source URL) as details are confirmed.
+Entries were seeded from reformededucation.org's preliminary research as **names only**. Each carries `"verification": "listed"` (shown as a *Details pending* badge); every other field is a placeholder until researched from the institution's own website. Move an entry to `researched` and then `verified` (which requires a cited source URL) as details are confirmed.
 
 - **Vocabularies:** Filter values (seminary tradition/delivery/degrees, school emphasis, subjects, officer role) live in `data/taxonomies.json`. Filters appear only when at least one entry uses a value.
 - **Related entries:** an entry may list `"related": [{ "type": "publishers", "id": "…" }]`, e.g. an author linking to books, courses and lectures.

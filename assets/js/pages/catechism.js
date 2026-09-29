@@ -25,6 +25,8 @@ RE.pages.catechisms = function () {
       Practice: [["flashcards", "Flashcards"], ["fillblank", "Fill in the blank"], ["choice", "Multiple choice"], ["random", "Random"], ["memorize", "Memorize"]],
       Games: [["challenge", "Challenge"], ["streak", "Streak"]],
     };
+    const fm = cat.front_matter || [];
+    if (fm.length) groups.Preface = [["preface", fm.length > 1 ? "Prefaces" : "Preface"]];
     const groupOf = (m) => Object.keys(groups).find((g) => groups[g].some((x) => x[0] === m));
     const big = qs.length > 300 && qs.some((q) => q.topic);      // e.g. Fisher's: open by topic, not one long list
     let mode = groupOf(param("mode")) ? param("mode") : big ? "topics" : "browse";
@@ -33,6 +35,7 @@ RE.pages.catechisms = function () {
       <p class="label">${esc(cat.kind || "Catechism")} · ${esc(cat.group || "")}</p><h1>${esc(cat.name)}</h1>
       ${cat.coverage_note ? `<div class="notice"><strong>Note.</strong> ${esc(cat.coverage_note)}</div>` : ""}
       ${cat.placeholder ? RE.ui.placeholderNotice("Question and answer text below is placeholder content pending an approved edition.") : ""}
+      ${fm.length ? `<p><a class="btn btn-primary" href="?id=${esc(cat.id)}&amp;mode=preface">Read the ${fm.length > 1 ? "prefaces" : "preface"}</a></p>` : ""}
       ${qs.length ? `<div class="tabs" role="tablist" id="groups">${Object.keys(groups).map((g) => `<button class="tab" role="tab" data-group="${g}">${g}</button>`).join("")}
           <a class="tab" style="text-decoration:none" href="quiz.html?set=${esc(cat.id)}">Quiz →</a></div>
         <div class="btn-row" id="modes" style="margin:-8px 0 24px"></div><div id="panel"></div>`
@@ -67,6 +70,13 @@ RE.pages.catechisms = function () {
     const needMC = () => qs.length < 2 && (panel.innerHTML = `<div class="notice">At least two questions are needed for multiple choice.</div>`, true);
 
     const views = {
+      preface() {
+        const block = (b) => b.type === "outline"
+          ? `<ul class="outline">${b.items.map((i) => `<li style="margin-left:${(i.level - 1) * 22}px">${i.label ? `<strong>${esc(i.label)}</strong> ` : ""}${esc(i.text)}</li>`).join("")}</ul>`
+          : b.type === "note" ? `<p class="muted" style="font-size:.85rem">${esc(b.text)}</p>` : `<p>${esc(b.text)}</p>`;
+        panel.innerHTML = `<div class="prose preface">${fm.map((f) => `<section style="margin-bottom:40px"><h2>${esc(f.title)}</h2>
+          <p class="muted" style="margin-top:-6px">${esc(f.byline)} · ${esc(f.date)}</p>${f.blocks.map(block).join("")}</section>`).join("")}</div>`;
+      },
       /* ── Study ── */
       browse() {
         const k = known(), PAGE = 200;
@@ -258,6 +268,7 @@ RE.pages.catechisms = function () {
     const select = (m) => {
       mode = m; const g = groupOf(m);
       $$("[data-group]").forEach((t) => t.setAttribute("aria-selected", t.dataset.group === g));
+      $("#modes").style.display = groups[g].length > 1 ? "" : "none";
       $("#modes").innerHTML = groups[g].map(([k, l]) => `<button class="btn ${k === m ? "btn-primary" : ""}" data-mode="${k}" aria-pressed="${k === m}">${l}</button>`).join("");
       $$("[data-mode]").forEach((b) => (b.onclick = () => select(b.dataset.mode)));
       history.replaceState(null, "", `?id=${encodeURIComponent(cat.id)}&mode=${m}`);

@@ -1,12 +1,12 @@
 {
-  "_note": "Names supplied by the site owner from preliminary research. Entries are name-only (`verification: listed`); every other field is a placeholder until researched from the institution's own site. Nothing here is verified.",
+  "_note": "Names supplied by reformededucation.org from its preliminary research. Entries are name-only (`verification: listed`); every other field is a placeholder until researched from the institution's own site. Nothing here is verified.",
   "entries": [
     {
       "id": "covenant-college",
       "name": "Covenant College",
       "placeholder": false,
       "verification": "listed",
-      "listing_note": "Description paraphrased from the institution's site as reported in the owner's research; re-verify.",
+      "listing_note": "Description paraphrased from the institution's site as reported in reformededucation.org's preliminary research; re-verify.",
       "location": "[Placeholder — information to be added]",
       "tradition": "[Placeholder — information to be added]",
       "affiliation": "[Placeholder — information to be added]",
@@ -63,7 +63,7 @@
       "name": "Kuyper College",
       "placeholder": false,
       "verification": "listed",
-      "listing_note": "Description as reported in the owner's research; source URL and wording to be verified.",
+      "listing_note": "Description as reported in reformededucation.org's preliminary research; source URL and wording to be verified.",
       "location": "[Placeholder — information to be added]",
       "tradition": "[Placeholder — information to be added]",
       "affiliation": "[Placeholder — information to be added]",
