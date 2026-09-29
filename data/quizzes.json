@@ -44,7 +44,16 @@
           "answer": 0,
           "placeholder": true
         }
-      ]
+      ],
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]",
+        "notes": "Quiz questions are written for this site. Any quoted source material will be attributed here."
+      }
     },
     {
       "id": "wlc",
@@ -52,7 +61,16 @@
       "category": "Catechisms",
       "status": "planned",
       "description": "Planned. Questions not yet added.",
-      "questions": []
+      "questions": [],
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]",
+        "notes": "Quiz questions are written for this site. Any quoted source material will be attributed here."
+      }
     },
     {
       "id": "heidelberg",
@@ -60,7 +78,16 @@
       "category": "Catechisms",
       "status": "planned",
       "description": "Planned. Questions not yet added.",
-      "questions": []
+      "questions": [],
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]",
+        "notes": "Quiz questions are written for this site. Any quoted source material will be attributed here."
+      }
     },
     {
       "id": "belgic",
@@ -68,7 +95,16 @@
       "category": "Confessions",
       "status": "planned",
       "description": "Planned. Questions not yet added.",
-      "questions": []
+      "questions": [],
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]",
+        "notes": "Quiz questions are written for this site. Any quoted source material will be attributed here."
+      }
     },
     {
       "id": "dort",
@@ -76,7 +112,16 @@
       "category": "Confessions",
       "status": "planned",
       "description": "Planned. Questions not yet added.",
-      "questions": []
+      "questions": [],
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]",
+        "notes": "Quiz questions are written for this site. Any quoted source material will be attributed here."
+      }
     },
     {
       "id": "lbcf1689",
@@ -84,7 +129,16 @@
       "category": "Confessions",
       "status": "planned",
       "description": "Planned. Questions not yet added.",
-      "questions": []
+      "questions": [],
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]",
+        "notes": "Quiz questions are written for this site. Any quoted source material will be attributed here."
+      }
     },
     {
       "id": "bible",
@@ -129,7 +183,16 @@
           "answer": 0,
           "placeholder": true
         }
-      ]
+      ],
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]",
+        "notes": "Quiz questions are written for this site. Any quoted source material will be attributed here."
+      }
     },
     {
       "id": "theology",
@@ -137,7 +200,16 @@
       "category": "Trivia",
       "status": "planned",
       "description": "Planned. Questions not yet added.",
-      "questions": []
+      "questions": [],
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]",
+        "notes": "Quiz questions are written for this site. Any quoted source material will be attributed here."
+      }
     },
     {
       "id": "history",
@@ -145,7 +217,16 @@
       "category": "Trivia",
       "status": "planned",
       "description": "Planned. Questions not yet added.",
-      "questions": []
+      "questions": [],
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]",
+        "notes": "Quiz questions are written for this site. Any quoted source material will be attributed here."
+      }
     }
   ]
 }

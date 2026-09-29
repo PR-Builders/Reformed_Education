@@ -18,6 +18,7 @@ RE.pages.catechisms = function () {
       <div class="tool-controls">
         ${cat.questions.some((x) => x.n === n - 1) ? `<a class="btn" href="${u(n - 1)}">← Question ${n - 1}</a>` : ""}
         ${cat.questions.some((x) => x.n === n + 1) ? `<a class="btn" href="${u(n + 1)}">Question ${n + 1} →</a>` : ""}
-        <a class="btn btn-primary" href="catechism.html?id=${esc(cat.id)}&amp;mode=memorize">Practice memorization</a></div>`;
+        <a class="btn btn-primary" href="catechism.html?id=${esc(cat.id)}&amp;mode=memorize">Practice memorization</a></div>
+      <div style="margin-top:40px;max-width:640px">${RE.ui.citation(cat.source, { heading: "Edition & Source" })}</div>`;
   });
 };

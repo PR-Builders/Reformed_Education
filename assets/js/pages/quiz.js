@@ -17,6 +17,7 @@ RE.pages.quizzes = function () {
         <p class="prose">${esc(set.description)}</p>
         ${set.questions.length ? `<label class="radio" style="display:flex;gap:8px;align-items:center;margin:20px 0"><input type="checkbox" id="timed"> Timed (${SECONDS} seconds per question)</label>
           <button class="btn btn-primary" id="start">Begin quiz</button>` : `<div class="notice">Planned. Questions have not yet been added.</div>`}
+        <div style="margin-top:32px;max-width:640px">${RE.ui.citation(set.source, { heading: "Sources" })}</div>
         ${hist.length ? `<h3 style="margin-top:40px">Recent scores</h3><table class="table"><thead><tr><th>Date</th><th>Score</th><th>Mode</th></tr></thead><tbody>${hist.map((h) =>
           `<tr><td>${new Date(h.date).toLocaleDateString()}</td><td>${h.score} / ${h.total}</td><td>${h.timed ? "Timed" : "Untimed"}</td></tr>`).join("")}</tbody></table>` : ""}`;
       const start = $("#start");

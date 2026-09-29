@@ -55,6 +55,28 @@ python3 -m http.server 8000
 
 **Add a new directory collection** (e.g. books, people): add a JSON file, then add one block to `collections` in `assets/js/config.js` (label, fields, filters) and copy one of the small list-page shells. Search, cards and detail pages work automatically.
 
+## Sources & attribution
+
+The site is a catalog: it links to, describes and credits original sources rather than republishing them. Policy is shown to visitors on `sources.html`.
+
+Every entry, catechism and quiz set has a `source` record:
+
+```json
+"source": {
+  "title": "", "author": "", "organization": "", "url": "https://…", "date": "",
+  "edition": "", "translation": "",
+  "copyright_status": "retained | public-domain | licensed | unknown",
+  "copyright": "", "license": "", "notes": ""
+}
+```
+
+- Unknown values stay `"[Placeholder — information to be added]"`. Never guess.
+- If `copyright` or `notes` are omitted, site defaults apply (`citationDefaults` in `config.js`): *"Copyright retained by original publisher."* / *"Resource indexed for educational and directory purposes."*
+- Components in `ui.js`: `RE.ui.citation()` (full block with a "Visit the original source" button and a formatted "Cite as" line), `RE.ui.citeLine()` (one-line credit on cards), `RE.ui.quote()` (attributed quotation, capped at 300 characters).
+- **Catechisms/confessions** must record the `edition` and `translation` used (e.g. a named publisher's or denomination's edition). Only use text that is public domain or licensed, and set `copyright_status` to say which.
+- Add brief quotations to an entry as `"quotes": [{ "text": "…", "source": { "author": "…", "title": "…", "url": "…" } }]`.
+- Run `python3 tools/validate_data.py` before committing data. It fails on a missing `source`, non-http(s) URLs, public-domain claims with no named source, over-long quotes, or catechism text with no edition.
+
 ## Migrating to a database later
 
 Pages never touch JSON directly. They only call `RE.data.list(type)`, `RE.data.get(type, id)`, `RE.data.all()`, `RE.data.quizzes()` in `assets/js/data.js`. To move to Supabase, Postgres behind an API, or similar:

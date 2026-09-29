@@ -16,8 +16,9 @@ RE.pages.entry = function () {
       <div class="container page-body"><div class="detail-grid">
         <div>${e.placeholder ? RE.ui.placeholderNotice() : ""}
           ${desc ? `<h2>About</h2><p class="prose">${RE.ui.value(e.description)}</p>` : ""}
-          <h2>Details</h2>${RE.ui.detailFacts(type, e)}</div>
-        <aside><div class="aside-box"><h4>Tags</h4><div class="card-tags">${(e.tags || []).map((t) => RE.ui.tag(t, t === "placeholder" ? "tag-placeholder" : "")).join("") || "—"}</div>
+          <h2>Details</h2>${RE.ui.detailFacts(type, e)}
+          ${(e.quotes || []).map(RE.ui.quote).join("")}</div>
+        <aside>${RE.ui.citation(e.source)}<div class="aside-box" style="margin-top:20px"><h4>Tags</h4><div class="card-tags">${(e.tags || []).map((t) => RE.ui.tag(t, t === "placeholder" ? "tag-placeholder" : "")).join("") || "—"}</div>
           <hr class="rule"><a href="${esc(cfg.page)}">← Back to ${esc(cfg.label)}</a></div></aside>
       </div></div>`;
   });

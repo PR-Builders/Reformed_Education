@@ -37,6 +37,7 @@
         <h3 class="card-title"><a href="${esc(RE.config.urlFor(type, e))}">${esc(e.name)}</a></h3>
         ${meta ? `<div class="card-meta">${esc(meta)}</div>` : ""}
         <p class="card-body">${ui.value(e.description)}</p>
+        ${ui.citeLine(e.source)}
         <div class="card-tags">${e.placeholder ? ui.tag("Placeholder entry", "tag-placeholder") : ""}${tags.map((t) => ui.tag(t)).join("")}</div>
       </article>`;
     },
@@ -46,6 +47,64 @@
       const cfg = RE.config.collections[type];
       return `<dl class="facts">${cfg.fields.filter((f) => f.type !== "text").map((f) =>
         `<div class="row"><dt>${esc(f.label)}</dt><dd>${ui.value(e[f.key], f.type)}</dd></div>`).join("")}</dl>`;
+    },
+
+    /* ── Citation components ────────────────────────────────────────────────
+       citation()     full "Source & Attribution" block (detail pages)
+       citeLine()     one-line source credit (cards, lists)
+       citationText() formatted reference string: Author. Title. Organization, Date. URL
+       quote()        brief attributed quotation (length-capped) */
+    realSource(s) { return s && ["title", "author", "organization", "url"].some((k) => s[k] && !isPH(s[k])); },
+
+    citationText(s) {
+      const ok = (v) => v && !isPH(v);
+      const parts = [];
+      if (ok(s.author)) parts.push(s.author.replace(/\.?$/, ".") );
+      if (ok(s.title)) parts.push(s.title.replace(/\.?$/, ".") + (ok(s.edition) ? ` ${s.edition}.` : ""));
+      const pub = [ok(s.organization) && s.organization, ok(s.date) && s.date].filter(Boolean).join(", ");
+      if (pub) parts.push(pub + ".");
+      if (ok(s.url)) parts.push(s.url);
+      return parts.join(" ");
+    },
+
+    citeLine(s) {
+      if (!ui.realSource(s)) return `<p class="cite-line ph">Source information to be added</p>`;
+      const who = [s.organization, s.author].filter((v) => v && !isPH(v)).map(esc).join(" · ");
+      const link = isURL(s.url) ? ` <a href="${esc(s.url)}" rel="noopener" target="_blank">Original source ↗</a>` : "";
+      return `<p class="cite-line">Source: ${who || esc(s.title)}${link}</p>`;
+    },
+
+    citation(s, opts) {
+      s = s || {};
+      opts = opts || {};
+      const D = RE.config.citationDefaults;
+      const status = RE.config.copyrightStatuses[s.copyright_status];
+      const rows = [
+        ["Source", s.title], ["Author", s.author], ["Organization", s.organization],
+        ["Edition", s.edition], ["Translation", s.translation], ["Published", s.date],
+        ["Original URL", s.url, "url"],
+        ["Copyright", s.copyright != null ? s.copyright : D.copyright],
+        ["License", s.license],
+        ["Attribution", s.notes != null ? s.notes : D.notes],
+      ].filter((r) => r[1] !== undefined || ["Source", "Author", "Organization", "Original URL", "Published", "License"].includes(r[0]));
+      const text = ui.citationText(s);
+      return `<section class="citation" aria-label="Source and attribution">
+        <h4 class="citation-title">${esc(opts.heading || "Source & Attribution")}${status ? ` ${ui.tag(status, s.copyright_status === "public-domain" ? "" : "tag-planned")}` : ""}</h4>
+        <dl class="citation-list">${rows.map(([l, v, t]) => `<div><dt>${esc(l)}</dt><dd>${ui.value(v, t)}</dd></div>`).join("")}</dl>
+        ${isURL(s.url) ? `<p class="citation-cta"><a class="btn btn-primary" href="${esc(s.url)}" rel="noopener" target="_blank">Visit the original source ↗</a></p>
+          <p class="citation-encourage">Please visit the original source for the full work.</p>` : ""}
+        ${text ? `<p class="citation-text"><span>Cite as</span> ${esc(text)}</p>` : ""}
+      </section>`;
+    },
+
+    /* Brief attributed quotation. Anything over MAX_QUOTE characters is cut short and pointed to the source. */
+    quote(q) {
+      const MAX_QUOTE = 300;
+      let text = String(q.text || "");
+      if (text.length > MAX_QUOTE) { console.warn("Quotation exceeds " + MAX_QUOTE + " characters; truncated."); text = text.slice(0, MAX_QUOTE).replace(/\s+\S*$/, "") + "…"; }
+      const s = q.source || {};
+      const by = [s.author, s.title].filter((v) => v && !isPH(v)).map(esc).join(", ");
+      return `<blockquote class="quote"><p>${esc(text)}</p><footer>${by ? "— " + by : ""}${isURL(s.url) ? ` <a href="${esc(s.url)}" rel="noopener" target="_blank">Source ↗</a>` : ""}</footer></blockquote>`;
     },
 
     categoryCard(c) {

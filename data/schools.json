@@ -1,5 +1,5 @@
 {
-  "_note": "All entries are placeholders demonstrating the data shape. Replace with verified information.",
+  "_note": "All entries are placeholders demonstrating the data shape. Replace with verified information. Every entry carries a `source` citation record (see README: Sources & attribution).",
   "entries": [
     {
       "id": "placeholder-school-1",
@@ -16,7 +16,15 @@
       "description": "[Placeholder — information to be added]",
       "tags": [
         "placeholder"
-      ]
+      ],
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      }
     }
   ]
 }

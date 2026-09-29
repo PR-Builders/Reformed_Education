@@ -20,6 +20,7 @@ RE.pages.catechisms = function () {
       ${qs.length ? `<div class="tabs" role="tablist">${modes.map(([k, l]) => `<button class="tab" role="tab" data-mode="${k}">${l}</button>`).join("")}
         <a class="tab" style="text-decoration:none" href="quiz.html?set=${esc(cat.id)}">Quiz →</a></div><div id="panel"></div>`
         : `<div class="notice">Planned. Content for this catechism has not yet been added.</div>`}`;
+    root.insertAdjacentHTML("beforeend", `<div style="margin-top:48px;max-width:640px">${RE.ui.citation(cat.source, { heading: "Edition & Source" })}</div>`);
     if (!qs.length) return;
 
     const panel = $("#panel");

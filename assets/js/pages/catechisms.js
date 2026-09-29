@@ -12,7 +12,7 @@ RE.pages.catechisms = function () {
         const n = c.questions.length;
         return `<article class="card"><div class="card-kicker">${esc(c.short)}</div>
           <h3 class="card-title"><a href="${esc(RE.config.urlFor("catechisms", c))}">${esc(c.name)}</a></h3>
-          <p class="card-body">${esc(c.description)}</p>
+          <p class="card-body">${esc(c.description)}</p>${RE.ui.citeLine(c.source)}
           <div class="card-tags">${tag(n ? "Framework ready · placeholder text" : "Planned", n ? "tag-placeholder" : "tag-planned")}</div></article>`;
       }).join("")}</div>`;
   });

@@ -1,5 +1,5 @@
 {
-  "_note": "Question and answer text is deliberately NOT included. Placeholder only, pending approved source text.",
+  "_note": "Question and answer text is deliberately NOT included. Placeholder only, pending approved source text. Each catechism records the edition/translation its text is drawn from in `source`. Text must come from a public-domain or licensed edition, and that edition must be identified.",
   "entries": [
     {
       "id": "wsc",
@@ -42,7 +42,18 @@
           "answer": "[Placeholder — answer 5 text to be added]",
           "placeholder": true
         }
-      ]
+      ],
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]",
+        "edition": "[Placeholder — information to be added]",
+        "translation": "[Placeholder — information to be added]",
+        "copyright_status": "unknown",
+        "author": "[Placeholder — information to be added]"
+      }
     },
     {
       "id": "wlc",
@@ -54,7 +65,18 @@
       "tags": [
         "planned"
       ],
-      "questions": []
+      "questions": [],
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]",
+        "edition": "[Placeholder — information to be added]",
+        "translation": "[Placeholder — information to be added]",
+        "copyright_status": "unknown",
+        "author": "[Placeholder — information to be added]"
+      }
     },
     {
       "id": "heidelberg",
@@ -66,7 +88,18 @@
       "tags": [
         "planned"
       ],
-      "questions": []
+      "questions": [],
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]",
+        "edition": "[Placeholder — information to be added]",
+        "translation": "[Placeholder — information to be added]",
+        "copyright_status": "unknown",
+        "author": "[Placeholder — information to be added]"
+      }
     }
   ]
 }

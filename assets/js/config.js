@@ -124,6 +124,20 @@
       { q: "What books, lectures and podcasts are available?", links: [["Educational Resources", "resources.html"], ["Online Courses", "courses.html"]] },
     ],
 
+    /* Citation style — one consistent set of fields for every source on the site.
+       Entry data: { source: { title, author, organization, url, date, edition, translation,
+       copyright_status, copyright, license, notes } }. Missing copyright/notes fall back to `citationDefaults`. */
+    citationDefaults: {
+      copyright: "Copyright retained by original publisher.",
+      notes: "Resource indexed for educational and directory purposes.",
+    },
+    copyrightStatuses: {
+      retained: "Copyright retained",
+      "public-domain": "Public domain",
+      licensed: "Open license",
+      unknown: "Status to be confirmed",
+    },
+
     /* URL of the page that shows one entry. */
     urlFor(type, entry) {
       const c = RE.config.collections[type];

@@ -166,6 +166,23 @@ table.table { width: 100%; border-collapse: collapse; font-size: .9rem; }
 .table th { text-align: left; font-size: .7rem; letter-spacing: .1em; text-transform: uppercase; color: var(--color-neutral-700); padding: 8px; border-bottom: 1px solid var(--color-divider); }
 .table td { padding: 8px; border-bottom: 1px solid var(--color-divider); }
 
+/* ── Citations ──────────────────────────────────────────── */
+.citation { border: 1px solid var(--color-divider); border-top: 2px solid var(--color-gold); border-radius: var(--radius-md); padding: var(--space-4); background: color-mix(in srgb, var(--color-vellum) 25%, transparent); }
+.citation-title { font-size: 1.2rem; margin-bottom: var(--space-3); display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.citation-list { margin: 0; font-size: .88rem; }
+.citation-list > div { display: grid; grid-template-columns: 105px 1fr; gap: var(--space-3); padding: 7px 0; border-top: 1px solid var(--color-divider); }
+.citation-list dt { font-size: .66rem; letter-spacing: .12em; text-transform: uppercase; color: var(--color-neutral-700); padding-top: 3px; }
+.citation-list dd { margin: 0; overflow-wrap: anywhere; }
+.citation-cta { margin: var(--space-4) 0 var(--space-1); }
+.citation-encourage { font-size: .8rem; color: var(--color-muted); margin: 0; }
+.citation-text { font-size: .82rem; margin: var(--space-3) 0 0; padding-top: var(--space-3); border-top: 1px solid var(--color-divider); overflow-wrap: anywhere; }
+.citation-text span { font-size: .66rem; letter-spacing: .12em; text-transform: uppercase; color: var(--color-neutral-700); margin-right: 6px; }
+.cite-line { margin: 0; font-size: .78rem; color: var(--color-muted); }
+.quote { overflow-wrap: anywhere; margin: var(--space-4) 0; padding: 0 0 0 var(--space-4); border-left: 2px solid var(--color-gold); font-family: var(--font-heading); font-size: 1.25rem; line-height: 1.35; }
+.quote p { margin: 0 0 var(--space-2); }
+.quote footer { font-family: var(--font-body); font-size: .8rem; color: var(--color-muted); }
+.band-navy .cite-line { color: rgba(243,242,242,.7); }
+
 /* ── Footer ─────────────────────────────────────────────── */
 .site-footer { border-top: 1px solid var(--color-divider); padding-block: var(--space-8); font-size: .88rem; background: var(--color-surface); }
 .footer-grid { display: grid; grid-template-columns: 1.4fr 1fr 1fr; gap: var(--space-8); }
