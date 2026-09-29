@@ -20,7 +20,7 @@
       <button class="btn menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
     </div></div>
     <nav class="site-nav" id="site-nav" aria-label="Primary"><div class="container">
-      <ul>${c.nav.map((n) => `<li><a href="${n.href}"${n.key === page ? ' aria-current="page"' : ""}>${esc(n.label)}</a></li>`).join("")}</ul>
+      <ul>${c.nav.map((n) => `<li><a href="${n.href}"${(n.keys || [n.key]).includes(page) ? ' aria-current="page"' : ""}>${esc(n.label)}</a></li>`).join("")}</ul>
       <div class="nav-search">${searchForm("ns")}</div>
     </div></nav>
   </header>`;
@@ -28,6 +28,7 @@
   const footer = `<footer class="site-footer"><div class="container">
     <div class="footer-grid">
       <div><h4>Reformed Education</h4><p>${esc(c.tagline)}</p>
+        <p class="motto" lang="la">${esc(c.latinTagline)} <span>· ${esc(c.latinTranslation)}</span></p>
         <p class="muted">A directory and resource hub for Reformed Christian education. Early foundation — most entries are placeholders.</p></div>
       <div><h4>Explore</h4><ul>${c.categories.map((x) => `<li><a href="${x.href}">${esc(x.label)}</a></li>`).join("")}</ul></div>
       <div><h4>Site</h4><ul><li><a href="education.html">Education</a></li><li><a href="search.html">Search</a></li><li><a href="sources.html">Sources &amp; Copyright</a></li><li><a href="about.html">About</a></li></ul></div>

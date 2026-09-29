@@ -30,7 +30,7 @@
     /* Directory card — used on list pages, home page, and search results. */
     directoryCard(type, e) {
       const cfg = RE.config.collections[type];
-      const meta = cfg.cardMeta.map((k) => e[k]).filter((v) => v && !isPH(v)).join(" · ");
+      const meta = cfg.cardMeta.map((k) => [].concat(e[k])).flat().filter((v) => v && !isPH(v)).join(" · ");
       const tags = (e.tags || []).filter((t) => t !== "placeholder");
       return `<article class="card">
         <div class="card-kicker">${esc(cfg.singular)}</div>
@@ -38,7 +38,7 @@
         ${meta ? `<div class="card-meta">${esc(meta)}</div>` : ""}
         <p class="card-body">${ui.value(e.description)}</p>
         ${ui.citeLine(e.source)}
-        <div class="card-tags">${e.placeholder ? ui.tag("Placeholder entry", "tag-placeholder") : ""}${tags.map((t) => ui.tag(t)).join("")}</div>
+        <div class="card-tags">${e.placeholder ? ui.tag("Placeholder entry", "tag-placeholder") : e.verification === "listed" ? ui.tag("Details pending", "tag-placeholder") : ""}${tags.map((t) => ui.tag(t)).join("")}</div>
       </article>`;
     },
 
@@ -117,6 +117,11 @@
 
     breadcrumb(items) {
       return `<nav class="breadcrumb" aria-label="Breadcrumb">${items.map((i) => i.href ? `<a href="${esc(i.href)}">${esc(i.label)}</a>` : esc(i.label)).join(" &nbsp;/&nbsp; ")}</nav>`;
+    },
+
+    /* Notice for name-only entries awaiting research. */
+    listedNotice(e) {
+      return `<div class="notice"><strong>Details pending.</strong> This entry lists the name only. Its details have not yet been researched or verified; please consult the original source.${e.listing_note ? `<br><span class="muted">Note: ${esc(e.listing_note)}</span>` : ""}</div>`;
     },
 
     placeholderNotice(what) {

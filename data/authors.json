@@ -1,0 +1,465 @@
+{
+  "_note": "Names supplied by the site owner from preliminary research. Entries are name-only (`verification: listed`); every other field is a placeholder until researched from the institution's own site. Nothing here is verified.",
+  "entries": [
+    {
+      "id": "john-calvin",
+      "name": "John Calvin",
+      "placeholder": false,
+      "verification": "listed",
+      "dates": "[Placeholder — information to be added]",
+      "tradition": "[Placeholder — information to be added]",
+      "works": [
+        "[Placeholder — information to be added]"
+      ],
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": [],
+      "related": []
+    },
+    {
+      "id": "john-knox",
+      "name": "John Knox",
+      "placeholder": false,
+      "verification": "listed",
+      "dates": "[Placeholder — information to be added]",
+      "tradition": "[Placeholder — information to be added]",
+      "works": [
+        "[Placeholder — information to be added]"
+      ],
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": [],
+      "related": []
+    },
+    {
+      "id": "theodore-beza",
+      "name": "Theodore Beza",
+      "placeholder": false,
+      "verification": "listed",
+      "dates": "[Placeholder — information to be added]",
+      "tradition": "[Placeholder — information to be added]",
+      "works": [
+        "[Placeholder — information to be added]"
+      ],
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": [],
+      "related": []
+    },
+    {
+      "id": "john-owen",
+      "name": "John Owen",
+      "placeholder": false,
+      "verification": "listed",
+      "dates": "[Placeholder — information to be added]",
+      "tradition": "[Placeholder — information to be added]",
+      "works": [
+        "[Placeholder — information to be added]"
+      ],
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": [],
+      "related": []
+    },
+    {
+      "id": "thomas-watson",
+      "name": "Thomas Watson",
+      "placeholder": false,
+      "verification": "listed",
+      "dates": "[Placeholder — information to be added]",
+      "tradition": "[Placeholder — information to be added]",
+      "works": [
+        "[Placeholder — information to be added]"
+      ],
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": [],
+      "related": []
+    },
+    {
+      "id": "jonathan-edwards",
+      "name": "Jonathan Edwards",
+      "placeholder": false,
+      "verification": "listed",
+      "dates": "[Placeholder — information to be added]",
+      "tradition": "[Placeholder — information to be added]",
+      "works": [
+        "[Placeholder — information to be added]"
+      ],
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": [],
+      "related": []
+    },
+    {
+      "id": "charles-hodge",
+      "name": "Charles Hodge",
+      "placeholder": false,
+      "verification": "listed",
+      "dates": "[Placeholder — information to be added]",
+      "tradition": "[Placeholder — information to be added]",
+      "works": [
+        "[Placeholder — information to be added]"
+      ],
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": [],
+      "related": []
+    },
+    {
+      "id": "b-b-warfield",
+      "name": "B.B. Warfield",
+      "placeholder": false,
+      "verification": "listed",
+      "dates": "[Placeholder — information to be added]",
+      "tradition": "[Placeholder — information to be added]",
+      "works": [
+        "[Placeholder — information to be added]"
+      ],
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": [],
+      "related": []
+    },
+    {
+      "id": "j-gresham-machen",
+      "name": "J. Gresham Machen",
+      "placeholder": false,
+      "verification": "listed",
+      "dates": "[Placeholder — information to be added]",
+      "tradition": "[Placeholder — information to be added]",
+      "works": [
+        "[Placeholder — information to be added]"
+      ],
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": [],
+      "related": []
+    },
+    {
+      "id": "herman-bavinck",
+      "name": "Herman Bavinck",
+      "placeholder": false,
+      "verification": "listed",
+      "dates": "[Placeholder — information to be added]",
+      "tradition": "[Placeholder — information to be added]",
+      "works": [
+        "[Placeholder — information to be added]"
+      ],
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": [],
+      "related": []
+    },
+    {
+      "id": "louis-berkhof",
+      "name": "Louis Berkhof",
+      "placeholder": false,
+      "verification": "listed",
+      "dates": "[Placeholder — information to be added]",
+      "tradition": "[Placeholder — information to be added]",
+      "works": [
+        "[Placeholder — information to be added]"
+      ],
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": [],
+      "related": []
+    },
+    {
+      "id": "geerhardus-vos",
+      "name": "Geerhardus Vos",
+      "placeholder": false,
+      "verification": "listed",
+      "dates": "[Placeholder — information to be added]",
+      "tradition": "[Placeholder — information to be added]",
+      "works": [
+        "[Placeholder — information to be added]"
+      ],
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": [],
+      "related": []
+    },
+    {
+      "id": "john-murray",
+      "name": "John Murray",
+      "placeholder": false,
+      "verification": "listed",
+      "dates": "[Placeholder — information to be added]",
+      "tradition": "[Placeholder — information to be added]",
+      "works": [
+        "[Placeholder — information to be added]"
+      ],
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": [],
+      "related": []
+    },
+    {
+      "id": "r-c-sproul",
+      "name": "R.C. Sproul",
+      "placeholder": false,
+      "verification": "listed",
+      "dates": "[Placeholder — information to be added]",
+      "tradition": "[Placeholder — information to be added]",
+      "works": [
+        "[Placeholder — information to be added]"
+      ],
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": [],
+      "related": []
+    },
+    {
+      "id": "sinclair-ferguson",
+      "name": "Sinclair Ferguson",
+      "placeholder": false,
+      "verification": "listed",
+      "dates": "[Placeholder — information to be added]",
+      "tradition": "[Placeholder — information to be added]",
+      "works": [
+        "[Placeholder — information to be added]"
+      ],
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": [],
+      "related": []
+    },
+    {
+      "id": "joel-beeke",
+      "name": "Joel Beeke",
+      "placeholder": false,
+      "verification": "listed",
+      "dates": "[Placeholder — information to be added]",
+      "tradition": "[Placeholder — information to be added]",
+      "works": [
+        "[Placeholder — information to be added]"
+      ],
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": [],
+      "related": []
+    },
+    {
+      "id": "michael-horton",
+      "name": "Michael Horton",
+      "placeholder": false,
+      "verification": "listed",
+      "dates": "[Placeholder — information to be added]",
+      "tradition": "[Placeholder — information to be added]",
+      "works": [
+        "[Placeholder — information to be added]"
+      ],
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": [],
+      "related": []
+    },
+    {
+      "id": "o-palmer-robertson",
+      "name": "O. Palmer Robertson",
+      "placeholder": false,
+      "verification": "listed",
+      "dates": "[Placeholder — information to be added]",
+      "tradition": "[Placeholder — information to be added]",
+      "works": [
+        "[Placeholder — information to be added]"
+      ],
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": [],
+      "related": []
+    },
+    {
+      "id": "ligon-duncan",
+      "name": "Ligon Duncan",
+      "placeholder": false,
+      "verification": "listed",
+      "dates": "[Placeholder — information to be added]",
+      "tradition": "[Placeholder — information to be added]",
+      "works": [
+        "[Placeholder — information to be added]"
+      ],
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": [],
+      "related": []
+    },
+    {
+      "id": "j-v-fesko",
+      "name": "J. V. Fesko",
+      "placeholder": false,
+      "verification": "listed",
+      "dates": "[Placeholder — information to be added]",
+      "tradition": "[Placeholder — information to be added]",
+      "works": [
+        "[Placeholder — information to be added]"
+      ],
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": [],
+      "related": []
+    }
+  ]
+}

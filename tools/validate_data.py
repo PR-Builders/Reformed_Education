@@ -8,6 +8,19 @@ DATA = pathlib.Path(__file__).resolve().parent.parent / "data"
 PH = re.compile(r"^\[Placeholder", re.I)
 MAX_QUOTE = 300
 errors = []
+TAX = json.load(open(DATA / "taxonomies.json"))
+VERIFICATION = {"listed", "researched", "verified"}
+
+def check_entry(w, coll, e):
+    if not e.get("placeholder") and e.get("verification") not in VERIFICATION:
+        errors.append(f"{w}: non-placeholder entries need verification = listed | researched | verified")
+    if e.get("verification") == "verified" and not real((e.get("source") or {}).get("url")):
+        errors.append(f"{w}: a verified entry must cite a source url")
+    for field, vocab in TAX.get(coll, {}).items():
+        vals = e.get(field, [])
+        for x in ([vals] if isinstance(vals, str) else vals):
+            if real(x) and x not in vocab: errors.append(f"{w}: {field} value {x!r} is not in the {coll}.{field} vocabulary")
+
 
 def real(v): return isinstance(v, str) and v and not PH.match(v)
 
@@ -31,6 +44,7 @@ for f in sorted(DATA.glob("*.json")):
         w = f"{f.name}:{e.get('id')}"
         check_source(w, e.get("source"), need_edition=(f.name == "catechisms.json" and any(not q.get("placeholder") for q in e.get("questions", []))))
         check_quotes(w, e)
+        check_entry(w, f.stem, e)
         if e.get("website") and real(e["website"]) and not re.match(r"^https?://", e["website"]): errors.append(f"{w}: website must be http(s)")
     for s in d.get("sets", []): check_source(f"{f.name}:{s.get('id')}", s.get("source"))
 

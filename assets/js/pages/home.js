@@ -6,7 +6,7 @@ RE.pages.home = function () {
 
   RE.ui.run(document.getElementById("home-entries"), async () => {
     const all = await RE.data.all();
-    const picks = ["seminaries", "colleges", "schools", "courses", "resources"].map((t) => [t, all[t][0]]).filter((p) => p[1]);
+    const picks = ["seminaries", "colleges", "schools", "courses", "publishers", "podcasts"].map((t) => [t, all[t][0]]).filter((p) => p[1]);
     document.getElementById("home-entries").innerHTML = picks.map(([t, e]) => directoryCard(t, e)).join("");
     const sets = await RE.data.quizzes();
     document.getElementById("home-quizzes").innerHTML = sets.slice(0, 6).map((s) => `

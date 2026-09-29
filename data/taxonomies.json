@@ -1,0 +1,86 @@
+{
+  "_note": "Controlled vocabularies for filters. Entry values must come from these lists.",
+  "seminaries": {
+    "tradition": [
+      "Presbyterian",
+      "Continental Reformed",
+      "Reformed Baptist"
+    ],
+    "delivery": [
+      "Residential",
+      "Online"
+    ],
+    "degrees": [
+      "M.Div.",
+      "M.A.",
+      "Th.M.",
+      "D.Min.",
+      "Ph.D."
+    ]
+  },
+  "schools": {
+    "emphasis": [
+      "Confessionally Reformed",
+      "Reformed worldview",
+      "Covenantal",
+      "Presbyterian",
+      "Classical Christian",
+      "Broad evangelical"
+    ],
+    "org_type": [
+      "School",
+      "Association / Network",
+      "Curriculum"
+    ]
+  },
+  "podcasts": {
+    "subject": [
+      "Systematic Theology",
+      "Biblical Theology",
+      "Church History",
+      "Apologetics",
+      "Covenant Theology",
+      "Presbyterianism",
+      "Worship",
+      "Ethics",
+      "Pastoral Theology"
+    ]
+  },
+  "lectures": {
+    "subject": [
+      "Systematic Theology",
+      "Biblical Theology",
+      "Church History",
+      "Apologetics",
+      "Covenant Theology",
+      "Presbyterianism",
+      "Worship",
+      "Ethics",
+      "Pastoral Theology"
+    ]
+  },
+  "officers": {
+    "office": [
+      "Elder",
+      "Deacon",
+      "Pastor"
+    ]
+  },
+  "resources": {
+    "kind": [
+      "Organization",
+      "Book",
+      "Podcast",
+      "Lecture Series",
+      "Game"
+    ]
+  },
+  "family": {
+    "kind": [
+      "Organization",
+      "Curriculum",
+      "Book",
+      "Worship resource"
+    ]
+  }
+}

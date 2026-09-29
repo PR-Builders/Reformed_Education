@@ -1,5 +1,5 @@
 /* Generic list page for any directory collection: <body data-type="seminaries"> */
-RE.pages.seminaries = RE.pages.colleges = RE.pages.schools = RE.pages.courses = RE.pages.resources = function () {
+RE.pages._directory = function () {
   const { esc, directoryCard, isPH, $ } = RE.ui;
   const type = document.body.dataset.type;
   const cfg = RE.config.collections[type];
@@ -9,11 +9,15 @@ RE.pages.seminaries = RE.pages.colleges = RE.pages.schools = RE.pages.courses = 
     const entries = await RE.data.list(type);
 
     // Build facet dropdowns from real (non-placeholder) values only.
-    const facets = cfg.filters.map((key) => {
+    // Options come from the controlled vocabulary (data/taxonomies.json) when one exists; only values
+    // actually used by an entry are shown, so a filter never leads to an empty result.
+    const facets = (await Promise.all(cfg.filters.map(async (key) => {
       const label = (cfg.fields.find((f) => f.key === key) || { label: key }).label;
-      const values = [...new Set(entries.map((e) => e[key]).filter((v) => typeof v === "string" && v && !isPH(v)))].sort();
+      const used = [...new Set(entries.flatMap((e) => [].concat(e[key] == null ? [] : e[key])).filter((v) => typeof v === "string" && v && !isPH(v)))];
+      const vocab = await RE.data.taxonomy(type, key);
+      const values = vocab ? vocab.filter((v) => used.includes(v)) : used.sort();
       return { key, label, values };
-    }).filter((f) => f.values.length);
+    }))).filter((f) => f.values.length);
 
     root.innerHTML = `
       <div class="page-head"><div class="container">
@@ -35,7 +39,7 @@ RE.pages.seminaries = RE.pages.colleges = RE.pages.schools = RE.pages.courses = 
     const draw = () => {
       const q = $("#filter-q").value.trim();
       const chosen = facets.map((f) => [f.key, $(`#f-${f.key}`).value]).filter((p) => p[1]);
-      const shown = entries.filter((e) => (!q || RE.search.matches(e, q)) && chosen.every(([k, v]) => e[k] === v));
+      const shown = entries.filter((e) => (!q || RE.search.matches(e, q)) && chosen.every(([k, v]) => [].concat(e[k]).includes(v)));
       $("#cards").innerHTML = shown.length ? shown.map((e) => directoryCard(type, e)).join("") : `<p class="muted">No entries match.</p>`;
       $("#count").textContent = `${shown.length} of ${entries.length} entries`;
     };
@@ -43,3 +47,5 @@ RE.pages.seminaries = RE.pages.colleges = RE.pages.schools = RE.pages.courses = 
     draw();
   });
 };
+
+Object.keys(RE.config.collections).filter((k) => !RE.config.collections[k].detailPage).forEach((k) => (RE.pages[k] = RE.pages._directory));

@@ -6,13 +6,11 @@
       "name": "Reformed Forum",
       "placeholder": false,
       "verification": "listed",
-      "listing_note": "Also lists an educational-resource library; to be researched.",
-      "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "cost": "[Placeholder — information to be added]",
+      "creator": "[Placeholder — information to be added]",
+      "organization": "[Placeholder — information to be added]",
+      "subject": [
+        "[Placeholder — information to be added]"
+      ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
@@ -26,16 +24,15 @@
       "tags": []
     },
     {
-      "id": "ligonier-ministries",
-      "name": "Ligonier Ministries",
+      "id": "mortification-of-spin",
+      "name": "Mortification of Spin",
       "placeholder": false,
       "verification": "listed",
-      "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "cost": "[Placeholder — information to be added]",
+      "creator": "[Placeholder — information to be added]",
+      "organization": "[Placeholder — information to be added]",
+      "subject": [
+        "[Placeholder — information to be added]"
+      ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
@@ -49,16 +46,15 @@
       "tags": []
     },
     {
-      "id": "rts-online",
-      "name": "RTS Online",
+      "id": "the-heidelcast",
+      "name": "The Heidelcast",
       "placeholder": false,
       "verification": "listed",
-      "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "cost": "[Placeholder — information to be added]",
+      "creator": "[Placeholder — information to be added]",
+      "organization": "[Placeholder — information to be added]",
+      "subject": [
+        "[Placeholder — information to be added]"
+      ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
@@ -72,16 +68,15 @@
       "tags": []
     },
     {
-      "id": "westminster-seminary-online-programs",
-      "name": "Westminster Seminary online programs",
+      "id": "the-white-horse-inn",
+      "name": "The White Horse Inn",
       "placeholder": false,
       "verification": "listed",
-      "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "cost": "[Placeholder — information to be added]",
+      "creator": "[Placeholder — information to be added]",
+      "organization": "[Placeholder — information to be added]",
+      "subject": [
+        "[Placeholder — information to be added]"
+      ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
@@ -95,16 +90,15 @@
       "tags": []
     },
     {
-      "id": "westminster-seminary-california-online-courses",
-      "name": "Westminster Seminary California online courses",
+      "id": "theology-simply-profound",
+      "name": "Theology Simply Profound",
       "placeholder": false,
       "verification": "listed",
-      "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "cost": "[Placeholder — information to be added]",
+      "creator": "[Placeholder — information to be added]",
+      "organization": "[Placeholder — information to be added]",
+      "subject": [
+        "[Placeholder — information to be added]"
+      ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
@@ -118,16 +112,15 @@
       "tags": []
     },
     {
-      "id": "puritan-reformed-seminary",
-      "name": "Puritan Reformed Seminary",
+      "id": "opc-podcasts",
+      "name": "OPC podcasts",
       "placeholder": false,
       "verification": "listed",
-      "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "cost": "[Placeholder — information to be added]",
+      "creator": "[Placeholder — information to be added]",
+      "organization": "[Placeholder — information to be added]",
+      "subject": [
+        "[Placeholder — information to be added]"
+      ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
@@ -141,16 +134,16 @@
       "tags": []
     },
     {
-      "id": "the-davenant-institute",
-      "name": "The Davenant Institute",
+      "id": "ruling-elder-podcast",
+      "name": "Ruling Elder Podcast",
       "placeholder": false,
       "verification": "listed",
-      "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "cost": "[Placeholder — information to be added]",
+      "listing_note": "Owner's research connects this to the OPC Committee on Christian Education, with episodes on the Westminster Standards; to be verified.",
+      "creator": "[Placeholder — information to be added]",
+      "organization": "[Placeholder — information to be added]",
+      "subject": [
+        "[Placeholder — information to be added]"
+      ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
@@ -164,16 +157,15 @@
       "tags": []
     },
     {
-      "id": "theopolis-institute",
-      "name": "Theopolis Institute",
+      "id": "reformed-faith-family",
+      "name": "Reformed Faith & Family",
       "placeholder": false,
       "verification": "listed",
-      "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "cost": "[Placeholder — information to be added]",
+      "creator": "[Placeholder — information to be added]",
+      "organization": "[Placeholder — information to be added]",
+      "subject": [
+        "[Placeholder — information to be added]"
+      ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
@@ -187,16 +179,15 @@
       "tags": []
     },
     {
-      "id": "reformed-presbyterian-seminary-resources",
-      "name": "Reformed Presbyterian Seminary resources",
+      "id": "presbycast",
+      "name": "Presbycast",
       "placeholder": false,
       "verification": "listed",
-      "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "cost": "[Placeholder — information to be added]",
+      "creator": "[Placeholder — information to be added]",
+      "organization": "[Placeholder — information to be added]",
+      "subject": [
+        "[Placeholder — information to be added]"
+      ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
@@ -210,16 +201,15 @@
       "tags": []
     },
     {
-      "id": "covenant-seminary-online-resources",
-      "name": "Covenant Seminary online resources",
+      "id": "the-gospel-coalition-s-reformed-resources",
+      "name": "The Gospel Coalition's Reformed resources",
       "placeholder": false,
       "verification": "listed",
-      "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "cost": "[Placeholder — information to be added]",
+      "creator": "[Placeholder — information to be added]",
+      "organization": "[Placeholder — information to be added]",
+      "subject": [
+        "[Placeholder — information to be added]"
+      ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {

@@ -1,0 +1,405 @@
+{
+  "_note": "Names supplied by the site owner from preliminary research. Entries are name-only (`verification: listed`); every other field is a placeholder until researched from the institution's own site. Nothing here is verified.",
+  "entries": [
+    {
+      "id": "elder-westminster-standards",
+      "name": "Westminster Standards",
+      "placeholder": false,
+      "verification": "listed",
+      "office": [
+        "Elder"
+      ],
+      "provider": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": []
+    },
+    {
+      "id": "elder-opc-elder-training",
+      "name": "OPC elder training",
+      "placeholder": false,
+      "verification": "listed",
+      "office": [
+        "Elder"
+      ],
+      "provider": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": [],
+      "listing_note": "Owner's research notes OPC-published training material structured around the Shorter Catechism for elders and deacons; to be verified."
+    },
+    {
+      "id": "elder-pca-officer-training",
+      "name": "PCA officer training",
+      "placeholder": false,
+      "verification": "listed",
+      "office": [
+        "Elder"
+      ],
+      "provider": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": []
+    },
+    {
+      "id": "elder-rpcna-officer-resources",
+      "name": "RPCNA officer resources",
+      "placeholder": false,
+      "verification": "listed",
+      "office": [
+        "Elder"
+      ],
+      "provider": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": []
+    },
+    {
+      "id": "elder-arp-resources",
+      "name": "ARP resources",
+      "placeholder": false,
+      "verification": "listed",
+      "office": [
+        "Elder"
+      ],
+      "provider": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": []
+    },
+    {
+      "id": "elder-presbyterian-polity",
+      "name": "Presbyterian polity",
+      "placeholder": false,
+      "verification": "listed",
+      "office": [
+        "Elder"
+      ],
+      "provider": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": []
+    },
+    {
+      "id": "elder-shepherding",
+      "name": "Shepherding",
+      "placeholder": false,
+      "verification": "listed",
+      "office": [
+        "Elder"
+      ],
+      "provider": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": []
+    },
+    {
+      "id": "elder-pastoral-visitation",
+      "name": "Pastoral visitation",
+      "placeholder": false,
+      "verification": "listed",
+      "office": [
+        "Elder"
+      ],
+      "provider": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": []
+    },
+    {
+      "id": "deacon-diaconal-ministry",
+      "name": "Diaconal ministry",
+      "placeholder": false,
+      "verification": "listed",
+      "office": [
+        "Deacon"
+      ],
+      "provider": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": []
+    },
+    {
+      "id": "deacon-mercy-ministry",
+      "name": "Mercy ministry",
+      "placeholder": false,
+      "verification": "listed",
+      "office": [
+        "Deacon"
+      ],
+      "provider": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": []
+    },
+    {
+      "id": "deacon-stewardship",
+      "name": "Stewardship",
+      "placeholder": false,
+      "verification": "listed",
+      "office": [
+        "Deacon"
+      ],
+      "provider": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": []
+    },
+    {
+      "id": "deacon-church-administration",
+      "name": "Church administration",
+      "placeholder": false,
+      "verification": "listed",
+      "office": [
+        "Deacon"
+      ],
+      "provider": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": []
+    },
+    {
+      "id": "pastor-seminary-education",
+      "name": "Seminary education",
+      "placeholder": false,
+      "verification": "listed",
+      "office": [
+        "Pastor"
+      ],
+      "provider": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": []
+    },
+    {
+      "id": "pastor-presbytery-requirements",
+      "name": "Presbytery requirements",
+      "placeholder": false,
+      "verification": "listed",
+      "office": [
+        "Pastor"
+      ],
+      "provider": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": []
+    },
+    {
+      "id": "pastor-homiletics",
+      "name": "Homiletics",
+      "placeholder": false,
+      "verification": "listed",
+      "office": [
+        "Pastor"
+      ],
+      "provider": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": []
+    },
+    {
+      "id": "pastor-pastoral-theology",
+      "name": "Pastoral theology",
+      "placeholder": false,
+      "verification": "listed",
+      "office": [
+        "Pastor"
+      ],
+      "provider": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": []
+    },
+    {
+      "id": "pastor-church-polity",
+      "name": "Church polity",
+      "placeholder": false,
+      "verification": "listed",
+      "office": [
+        "Pastor"
+      ],
+      "provider": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": []
+    },
+    {
+      "id": "pastor-sacraments",
+      "name": "Sacraments",
+      "placeholder": false,
+      "verification": "listed",
+      "office": [
+        "Pastor"
+      ],
+      "provider": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": []
+    },
+    {
+      "id": "pastor-counseling",
+      "name": "Counseling",
+      "placeholder": false,
+      "verification": "listed",
+      "office": [
+        "Pastor"
+      ],
+      "provider": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": []
+    }
+  ]
+}

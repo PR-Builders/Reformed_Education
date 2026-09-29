@@ -41,6 +41,11 @@
       const lists = await Promise.all(types.map((t) => RE.data.list(t)));
       return Object.fromEntries(types.map((t, i) => [t, lists[i]]));
     },
+    /* Controlled vocabulary for a filter field, e.g. taxonomy("seminaries", "tradition") → [...] */
+    async taxonomy(type, field) {
+      const doc = await load("taxonomies");
+      return (doc[type] && doc[type][field]) || null;
+    },
     quizzes: async () => (await load("quizzes")).sets || [],
     async quiz(id) { return (await RE.data.quizzes()).find((s) => s.id === id) || null; },
     /* Catechism helpers */

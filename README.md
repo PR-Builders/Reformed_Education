@@ -1,6 +1,7 @@
 # Reformed Education
 
-*Reformed education and resources, in one place.*
+*Reformed education and resources, in one place.*  
+Latin motto: *Quaere et Disce* (“Seek and learn”)
 
 A directory and resource hub for Reformed Christian education: seminaries, colleges, Christian schools, online courses, catechisms, books, lectures, podcasts, quizzes and more.
 
@@ -54,6 +55,18 @@ python3 -m http.server 8000
 `/data`: `seminaries`, `colleges`, `schools`, `courses`, `resources`, `catechisms`, `quizzes` (`.json`). Entries share a shape: `id`, `name`, `description`, `tags`, `placeholder`, plus type-specific fields. Any missing value should be `"[Placeholder — information to be added]"`. Placeholder-aware rendering and the "Placeholder entry" badge come from `placeholder: true`.
 
 **Add a new directory collection** (e.g. books, people): add a JSON file, then add one block to `collections` in `assets/js/config.js` (label, fields, filters) and copy one of the small list-page shells. Search, cards and detail pages work automatically.
+
+## Directory content status
+
+Entries were seeded from the owner's preliminary research as **names only**. Each carries `"verification": "listed"` (shown as a *Details pending* badge); every other field is a placeholder until researched from the institution's own website. Move an entry to `researched` and then `verified` (which requires a cited source URL) as details are confirmed.
+
+- **Vocabularies:** Filter values (seminary tradition/delivery/degrees, school emphasis, subjects, officer role) live in `data/taxonomies.json`. Filters appear only when at least one entry uses a value.
+- **Related entries:** an entry may list `"related": [{ "type": "publishers", "id": "…" }]`, e.g. an author linking to books, courses and lectures.
+- **Categories:** seminaries, colleges, schools, courses, catechisms, library (publishers, authors, podcasts, lectures, resources), family, officers, quizzes.
+
+## Interactive tools
+
+The catechism page (`catechism.html?id=wsc`) offers Study (Q&A, Scripture proofs, topics, search), Practice (flashcards, fill in the blank, multiple choice, random, memorize) and Games (10 / 25 / full challenge with optional timer, and streak). Data comes from the catechism's `questions` array (`question`, `answer`, `topic`, `proofs`). Multiple choice draws distractors from the other answers, so each new catechism gets every mode automatically. Progress, scores and best streaks are stored in `localStorage` only.
 
 ## Sources & attribution
 

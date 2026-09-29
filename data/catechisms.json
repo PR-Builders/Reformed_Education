@@ -1,73 +1,98 @@
 {
-  "_note": "Question and answer text is deliberately NOT included. Placeholder only, pending approved source text. Each catechism records the edition/translation its text is drawn from in `source`. Text must come from a public-domain or licensed edition, and that edition must be identified.",
+  "_note": "Question/answer text is deliberately NOT included; placeholder only, pending an approved edition. Each catechism records its edition/translation in `source`. Confessions and creeds are not yet split into a question structure.",
   "entries": [
     {
       "id": "wsc",
       "name": "Westminster Shorter Catechism",
       "short": "WSC",
+      "group": "Presbyterian / Reformed",
+      "kind": "Catechism",
       "placeholder": true,
+      "verification": "listed",
       "status": "framework",
-      "description": "Framework for the Westminster Shorter Catechism study tools. Question text is placeholder content pending approved source text.",
-      "tags": [
-        "placeholder"
-      ],
+      "description": "Framework ready. Text is placeholder content pending an approved edition.",
+      "tags": [],
       "questions": [
         {
           "n": 1,
           "question": "[Placeholder — question 1 text to be added]",
           "answer": "[Placeholder — answer 1 text to be added]",
+          "topic": "[Placeholder — topic to be added]",
+          "proofs": [
+            "[Placeholder — Scripture proofs to be added]"
+          ],
           "placeholder": true
         },
         {
           "n": 2,
           "question": "[Placeholder — question 2 text to be added]",
           "answer": "[Placeholder — answer 2 text to be added]",
+          "topic": "[Placeholder — topic to be added]",
+          "proofs": [
+            "[Placeholder — Scripture proofs to be added]"
+          ],
           "placeholder": true
         },
         {
           "n": 3,
           "question": "[Placeholder — question 3 text to be added]",
           "answer": "[Placeholder — answer 3 text to be added]",
+          "topic": "[Placeholder — topic to be added]",
+          "proofs": [
+            "[Placeholder — Scripture proofs to be added]"
+          ],
           "placeholder": true
         },
         {
           "n": 4,
           "question": "[Placeholder — question 4 text to be added]",
           "answer": "[Placeholder — answer 4 text to be added]",
+          "topic": "[Placeholder — topic to be added]",
+          "proofs": [
+            "[Placeholder — Scripture proofs to be added]"
+          ],
           "placeholder": true
         },
         {
           "n": 5,
           "question": "[Placeholder — question 5 text to be added]",
           "answer": "[Placeholder — answer 5 text to be added]",
+          "topic": "[Placeholder — topic to be added]",
+          "proofs": [
+            "[Placeholder — Scripture proofs to be added]"
+          ],
           "placeholder": true
         }
       ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
+        "title": "The Westminster Shorter Catechism",
+        "author": "[Placeholder — information to be added]",
+        "organization": "James Begg Society",
+        "url": "http://www.jbeggsoc.org.uk",
+        "date": "2004 (edition); catechism first published 1648",
         "license": "[Placeholder — information to be added]",
-        "edition": "[Placeholder — information to be added]",
+        "edition": "James Begg Society edition, with KJV Scripture proofs",
         "translation": "[Placeholder — information to be added]",
-        "copyright_status": "unknown",
-        "author": "[Placeholder — information to be added]"
+        "copyright_status": "retained",
+        "notes": "Candidate edition supplied by the site owner as a PDF. Its text is not reproduced on this site unless the James Begg Society grants permission or a public-domain edition is chosen. Question and answer text here remains placeholder.",
+        "copyright": "This edition © James Begg Society 2004."
       }
     },
     {
       "id": "wlc",
       "name": "Westminster Larger Catechism",
       "short": "WLC",
-      "placeholder": true,
+      "group": "Presbyterian / Reformed",
+      "kind": "Catechism",
+      "placeholder": false,
+      "verification": "listed",
       "status": "planned",
-      "description": "Planned. Content not yet added.",
-      "tags": [
-        "planned"
-      ],
+      "description": "Planned. Text not yet added.",
+      "tags": [],
       "questions": [],
       "source": {
         "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
         "organization": "[Placeholder — information to be added]",
         "url": "[Placeholder — information to be added]",
         "date": "[Placeholder — information to be added]",
@@ -75,30 +100,272 @@
         "edition": "[Placeholder — information to be added]",
         "translation": "[Placeholder — information to be added]",
         "copyright_status": "unknown",
-        "author": "[Placeholder — information to be added]"
+        "notes": "Candidate source per owner's research: the OPC standards page (opc.org/documents/standards.html), which offers the Westminster Standards with Scripture proofs. Edition and copyright status must be confirmed before any text is added."
+      }
+    },
+    {
+      "id": "wcf",
+      "name": "Westminster Confession of Faith",
+      "short": "WCF",
+      "group": "Presbyterian / Reformed",
+      "kind": "Confession",
+      "placeholder": false,
+      "verification": "listed",
+      "status": "planned",
+      "description": "Planned. Text not yet added.",
+      "tags": [],
+      "questions": [],
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]",
+        "edition": "[Placeholder — information to be added]",
+        "translation": "[Placeholder — information to be added]",
+        "copyright_status": "unknown",
+        "notes": "Candidate source per owner's research: the OPC standards page (opc.org/documents/standards.html), which offers the Westminster Standards with Scripture proofs. Edition and copyright status must be confirmed before any text is added."
       }
     },
     {
       "id": "heidelberg",
       "name": "Heidelberg Catechism",
       "short": "HC",
-      "placeholder": true,
+      "group": "Presbyterian / Reformed",
+      "kind": "Catechism",
+      "placeholder": false,
+      "verification": "listed",
       "status": "planned",
-      "description": "Planned. Content not yet added.",
-      "tags": [
-        "planned"
-      ],
+      "description": "Planned. Text not yet added.",
+      "tags": [],
       "questions": [],
       "source": {
         "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
         "organization": "[Placeholder — information to be added]",
         "url": "[Placeholder — information to be added]",
         "date": "[Placeholder — information to be added]",
         "license": "[Placeholder — information to be added]",
         "edition": "[Placeholder — information to be added]",
         "translation": "[Placeholder — information to be added]",
-        "copyright_status": "unknown",
-        "author": "[Placeholder — information to be added]"
+        "copyright_status": "unknown"
+      }
+    },
+    {
+      "id": "belgic",
+      "name": "Belgic Confession",
+      "short": "BC",
+      "group": "Presbyterian / Reformed",
+      "kind": "Confession",
+      "placeholder": false,
+      "verification": "listed",
+      "status": "planned",
+      "description": "Planned. Text not yet added.",
+      "tags": [],
+      "questions": [],
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]",
+        "edition": "[Placeholder — information to be added]",
+        "translation": "[Placeholder — information to be added]",
+        "copyright_status": "unknown"
+      }
+    },
+    {
+      "id": "dort",
+      "name": "Canons of Dort",
+      "short": "CD",
+      "group": "Presbyterian / Reformed",
+      "kind": "Confession",
+      "placeholder": false,
+      "verification": "listed",
+      "status": "planned",
+      "description": "Planned. Text not yet added.",
+      "tags": [],
+      "questions": [],
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]",
+        "edition": "[Placeholder — information to be added]",
+        "translation": "[Placeholder — information to be added]",
+        "copyright_status": "unknown"
+      }
+    },
+    {
+      "id": "helvetic2",
+      "name": "Second Helvetic Confession",
+      "short": "2HC",
+      "group": "Presbyterian / Reformed",
+      "kind": "Confession",
+      "placeholder": false,
+      "verification": "listed",
+      "status": "planned",
+      "description": "Planned. Text not yet added.",
+      "tags": [],
+      "questions": [],
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]",
+        "edition": "[Placeholder — information to be added]",
+        "translation": "[Placeholder — information to be added]",
+        "copyright_status": "unknown"
+      }
+    },
+    {
+      "id": "lbcf1689",
+      "name": "Second London Baptist Confession of Faith",
+      "short": "2LBCF",
+      "group": "Reformed Baptist",
+      "kind": "Confession",
+      "placeholder": false,
+      "verification": "listed",
+      "status": "planned",
+      "description": "Planned. Text not yet added.",
+      "tags": [],
+      "questions": [],
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]",
+        "edition": "[Placeholder — information to be added]",
+        "translation": "[Placeholder — information to be added]",
+        "copyright_status": "unknown"
+      }
+    },
+    {
+      "id": "baptist-catechism",
+      "name": "Baptist Catechism of 1693",
+      "short": "BC1693",
+      "group": "Reformed Baptist",
+      "kind": "Catechism",
+      "placeholder": false,
+      "verification": "listed",
+      "status": "planned",
+      "description": "Planned. Text not yet added.",
+      "tags": [],
+      "questions": [],
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]",
+        "edition": "[Placeholder — information to be added]",
+        "translation": "[Placeholder — information to be added]",
+        "copyright_status": "unknown"
+      }
+    },
+    {
+      "id": "apostles",
+      "name": "Apostles' Creed",
+      "short": "AC",
+      "group": "Ecumenical",
+      "kind": "Creed",
+      "placeholder": false,
+      "verification": "listed",
+      "status": "planned",
+      "description": "Planned. Text not yet added.",
+      "tags": [],
+      "questions": [],
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]",
+        "edition": "[Placeholder — information to be added]",
+        "translation": "[Placeholder — information to be added]",
+        "copyright_status": "unknown"
+      }
+    },
+    {
+      "id": "nicene",
+      "name": "Nicene Creed",
+      "short": "NC",
+      "group": "Ecumenical",
+      "kind": "Creed",
+      "placeholder": false,
+      "verification": "listed",
+      "status": "planned",
+      "description": "Planned. Text not yet added.",
+      "tags": [],
+      "questions": [],
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]",
+        "edition": "[Placeholder — information to be added]",
+        "translation": "[Placeholder — information to be added]",
+        "copyright_status": "unknown"
+      }
+    },
+    {
+      "id": "athanasian",
+      "name": "Athanasian Creed",
+      "short": "ATH",
+      "group": "Ecumenical",
+      "kind": "Creed",
+      "placeholder": false,
+      "verification": "listed",
+      "status": "planned",
+      "description": "Planned. Text not yet added.",
+      "tags": [],
+      "questions": [],
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]",
+        "edition": "[Placeholder — information to be added]",
+        "translation": "[Placeholder — information to be added]",
+        "copyright_status": "unknown"
+      }
+    },
+    {
+      "id": "chalcedon",
+      "name": "Definition of Chalcedon",
+      "short": "DC",
+      "group": "Ecumenical",
+      "kind": "Creed",
+      "placeholder": false,
+      "verification": "listed",
+      "status": "planned",
+      "description": "Planned. Text not yet added.",
+      "tags": [],
+      "questions": [],
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]",
+        "edition": "[Placeholder — information to be added]",
+        "translation": "[Placeholder — information to be added]",
+        "copyright_status": "unknown"
       }
     }
   ]

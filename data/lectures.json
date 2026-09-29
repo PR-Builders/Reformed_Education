@@ -6,13 +6,10 @@
       "name": "Reformed Forum",
       "placeholder": false,
       "verification": "listed",
-      "listing_note": "Also lists an educational-resource library; to be researched.",
       "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "cost": "[Placeholder — information to be added]",
+      "subject": [
+        "[Placeholder — information to be added]"
+      ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
@@ -26,16 +23,14 @@
       "tags": []
     },
     {
-      "id": "ligonier-ministries",
-      "name": "Ligonier Ministries",
+      "id": "rts",
+      "name": "RTS",
       "placeholder": false,
       "verification": "listed",
       "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "cost": "[Placeholder — information to be added]",
+      "subject": [
+        "[Placeholder — information to be added]"
+      ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
@@ -49,16 +44,14 @@
       "tags": []
     },
     {
-      "id": "rts-online",
-      "name": "RTS Online",
+      "id": "westminster-seminary",
+      "name": "Westminster Seminary",
       "placeholder": false,
       "verification": "listed",
       "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "cost": "[Placeholder — information to be added]",
+      "subject": [
+        "[Placeholder — information to be added]"
+      ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
@@ -72,16 +65,14 @@
       "tags": []
     },
     {
-      "id": "westminster-seminary-online-programs",
-      "name": "Westminster Seminary online programs",
+      "id": "westminster-seminary-california",
+      "name": "Westminster Seminary California",
       "placeholder": false,
       "verification": "listed",
       "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "cost": "[Placeholder — information to be added]",
+      "subject": [
+        "[Placeholder — information to be added]"
+      ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
@@ -95,16 +86,14 @@
       "tags": []
     },
     {
-      "id": "westminster-seminary-california-online-courses",
-      "name": "Westminster Seminary California online courses",
+      "id": "ligonier",
+      "name": "Ligonier",
       "placeholder": false,
       "verification": "listed",
       "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "cost": "[Placeholder — information to be added]",
+      "subject": [
+        "[Placeholder — information to be added]"
+      ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
@@ -123,11 +112,51 @@
       "placeholder": false,
       "verification": "listed",
       "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "cost": "[Placeholder — information to be added]",
+      "subject": [
+        "[Placeholder — information to be added]"
+      ],
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": []
+    },
+    {
+      "id": "covenant-seminary",
+      "name": "Covenant Seminary",
+      "placeholder": false,
+      "verification": "listed",
+      "provider": "[Placeholder — information to be added]",
+      "subject": [
+        "[Placeholder — information to be added]"
+      ],
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": []
+    },
+    {
+      "id": "greenville-presbyterian-theological-seminary",
+      "name": "Greenville Presbyterian Theological Seminary",
+      "placeholder": false,
+      "verification": "listed",
+      "provider": "[Placeholder — information to be added]",
+      "subject": [
+        "[Placeholder — information to be added]"
+      ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
@@ -146,11 +175,9 @@
       "placeholder": false,
       "verification": "listed",
       "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "cost": "[Placeholder — information to be added]",
+      "subject": [
+        "[Placeholder — information to be added]"
+      ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
@@ -169,57 +196,9 @@
       "placeholder": false,
       "verification": "listed",
       "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "cost": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
-      "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
-      },
-      "tags": []
-    },
-    {
-      "id": "reformed-presbyterian-seminary-resources",
-      "name": "Reformed Presbyterian Seminary resources",
-      "placeholder": false,
-      "verification": "listed",
-      "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "cost": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
-      "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
-      },
-      "tags": []
-    },
-    {
-      "id": "covenant-seminary-online-resources",
-      "name": "Covenant Seminary online resources",
-      "placeholder": false,
-      "verification": "listed",
-      "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "cost": "[Placeholder — information to be added]",
+      "subject": [
+        "[Placeholder — information to be added]"
+      ],
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {

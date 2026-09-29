@@ -2,17 +2,13 @@
   "_note": "Names supplied by the site owner from preliminary research. Entries are name-only (`verification: listed`); every other field is a placeholder until researched from the institution's own site. Nothing here is verified.",
   "entries": [
     {
-      "id": "reformed-forum",
-      "name": "Reformed Forum",
+      "id": "great-commission-publications",
+      "name": "Great Commission Publications",
       "placeholder": false,
       "verification": "listed",
-      "listing_note": "Also lists an educational-resource library; to be researched.",
       "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "cost": "[Placeholder — information to be added]",
+      "audience": "[Placeholder — information to be added]",
+      "kind": "[Placeholder — information to be added]",
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
@@ -26,16 +22,13 @@
       "tags": []
     },
     {
-      "id": "ligonier-ministries",
-      "name": "Ligonier Ministries",
+      "id": "new-growth-press",
+      "name": "New Growth Press",
       "placeholder": false,
       "verification": "listed",
       "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "cost": "[Placeholder — information to be added]",
+      "audience": "[Placeholder — information to be added]",
+      "kind": "[Placeholder — information to be added]",
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
@@ -49,16 +42,14 @@
       "tags": []
     },
     {
-      "id": "rts-online",
-      "name": "RTS Online",
+      "id": "reformed-family-books",
+      "name": "Reformed Family Books",
       "placeholder": false,
       "verification": "listed",
+      "listing_note": "Name as supplied; confirm the exact organization.",
       "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "cost": "[Placeholder — information to be added]",
+      "audience": "[Placeholder — information to be added]",
+      "kind": "[Placeholder — information to be added]",
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
@@ -72,16 +63,14 @@
       "tags": []
     },
     {
-      "id": "westminster-seminary-online-programs",
-      "name": "Westminster Seminary online programs",
+      "id": "reformed-heritage-books",
+      "name": "Reformed Heritage Books",
       "placeholder": false,
       "verification": "listed",
+      "listing_note": "Name as supplied; possibly Reformation Heritage Books (listed under Publishers). Confirm.",
       "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "cost": "[Placeholder — information to be added]",
+      "audience": "[Placeholder — information to be added]",
+      "kind": "[Placeholder — information to be added]",
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
@@ -95,16 +84,13 @@
       "tags": []
     },
     {
-      "id": "westminster-seminary-california-online-courses",
-      "name": "Westminster Seminary California online courses",
+      "id": "opc-children-s-resources",
+      "name": "OPC children's resources",
       "placeholder": false,
       "verification": "listed",
       "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "cost": "[Placeholder — information to be added]",
+      "audience": "[Placeholder — information to be added]",
+      "kind": "[Placeholder — information to be added]",
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
@@ -118,16 +104,13 @@
       "tags": []
     },
     {
-      "id": "puritan-reformed-seminary",
-      "name": "Puritan Reformed Seminary",
+      "id": "pca-christian-education-resources",
+      "name": "PCA Christian Education resources",
       "placeholder": false,
       "verification": "listed",
       "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "cost": "[Placeholder — information to be added]",
+      "audience": "[Placeholder — information to be added]",
+      "kind": "[Placeholder — information to be added]",
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
@@ -141,16 +124,13 @@
       "tags": []
     },
     {
-      "id": "the-davenant-institute",
-      "name": "The Davenant Institute",
+      "id": "presbyterian-catechism-resources",
+      "name": "Presbyterian Catechism resources",
       "placeholder": false,
       "verification": "listed",
       "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "cost": "[Placeholder — information to be added]",
+      "audience": "[Placeholder — information to be added]",
+      "kind": "[Placeholder — information to be added]",
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
@@ -161,19 +141,17 @@
         "date": "[Placeholder — information to be added]",
         "license": "[Placeholder — information to be added]"
       },
-      "tags": []
+      "tags": [],
+      "listing_note": "A category of resources rather than a single organization; entries to be researched and added individually."
     },
     {
-      "id": "theopolis-institute",
-      "name": "Theopolis Institute",
+      "id": "family-worship-resources",
+      "name": "Family worship resources",
       "placeholder": false,
       "verification": "listed",
       "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "cost": "[Placeholder — information to be added]",
+      "audience": "[Placeholder — information to be added]",
+      "kind": "[Placeholder — information to be added]",
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
@@ -184,19 +162,17 @@
         "date": "[Placeholder — information to be added]",
         "license": "[Placeholder — information to be added]"
       },
-      "tags": []
+      "tags": [],
+      "listing_note": "A category of resources rather than a single organization; entries to be researched and added individually."
     },
     {
-      "id": "reformed-presbyterian-seminary-resources",
-      "name": "Reformed Presbyterian Seminary resources",
+      "id": "children-s-catechism-resources",
+      "name": "Children's catechism resources",
       "placeholder": false,
       "verification": "listed",
       "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "cost": "[Placeholder — information to be added]",
+      "audience": "[Placeholder — information to be added]",
+      "kind": "[Placeholder — information to be added]",
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
@@ -207,19 +183,17 @@
         "date": "[Placeholder — information to be added]",
         "license": "[Placeholder — information to be added]"
       },
-      "tags": []
+      "tags": [],
+      "listing_note": "A category of resources rather than a single organization; entries to be researched and added individually."
     },
     {
-      "id": "covenant-seminary-online-resources",
-      "name": "Covenant Seminary online resources",
+      "id": "reformed-homeschool-curricula",
+      "name": "Reformed homeschool curricula",
       "placeholder": false,
       "verification": "listed",
       "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "cost": "[Placeholder — information to be added]",
+      "audience": "[Placeholder — information to be added]",
+      "kind": "[Placeholder — information to be added]",
       "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
@@ -230,7 +204,8 @@
         "date": "[Placeholder — information to be added]",
         "license": "[Placeholder — information to be added]"
       },
-      "tags": []
+      "tags": [],
+      "listing_note": "A category of resources rather than a single organization; entries to be researched and added individually."
     }
   ]
 }

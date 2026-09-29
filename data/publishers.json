@@ -2,51 +2,13 @@
   "_note": "Names supplied by the site owner from preliminary research. Entries are name-only (`verification: listed`); every other field is a placeholder until researched from the institution's own site. Nothing here is verified.",
   "entries": [
     {
-      "id": "covenant-college",
-      "name": "Covenant College",
-      "placeholder": false,
-      "verification": "listed",
-      "listing_note": "Description paraphrased from the institution's site as reported in the owner's research; re-verify.",
-      "location": "[Placeholder — information to be added]",
-      "tradition": "[Placeholder — information to be added]",
-      "affiliation": "[Placeholder — information to be added]",
-      "degree_programs": [
-        "[Placeholder — information to be added]"
-      ],
-      "online_programs": "[Placeholder — information to be added]",
-      "residential_programs": "[Placeholder — information to be added]",
-      "accreditation": "[Placeholder — information to be added]",
-      "tuition": "[Placeholder — information to be added]",
-      "website": "https://www.covenant.edu/about/",
-      "admissions_url": "[Placeholder — information to be added]",
-      "description": "Describes itself as a Christian liberal arts college in the Reformed tradition (per the college's own website).",
-      "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "Covenant College",
-        "url": "https://www.covenant.edu/about/",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
-      },
-      "tags": []
-    },
-    {
-      "id": "geneva-college",
-      "name": "Geneva College",
+      "id": "banner-of-truth",
+      "name": "Banner of Truth",
       "placeholder": false,
       "verification": "listed",
       "location": "[Placeholder — information to be added]",
       "tradition": "[Placeholder — information to be added]",
-      "affiliation": "[Placeholder — information to be added]",
-      "degree_programs": [
-        "[Placeholder — information to be added]"
-      ],
-      "online_programs": "[Placeholder — information to be added]",
-      "residential_programs": "[Placeholder — information to be added]",
-      "accreditation": "[Placeholder — information to be added]",
-      "tuition": "[Placeholder — information to be added]",
       "website": "[Placeholder — information to be added]",
-      "admissions_url": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
         "title": "[Placeholder — information to be added]",
@@ -59,51 +21,13 @@
       "tags": []
     },
     {
-      "id": "kuyper-college",
-      "name": "Kuyper College",
-      "placeholder": false,
-      "verification": "listed",
-      "listing_note": "Description as reported in the owner's research; source URL and wording to be verified.",
-      "location": "[Placeholder — information to be added]",
-      "tradition": "[Placeholder — information to be added]",
-      "affiliation": "[Placeholder — information to be added]",
-      "degree_programs": [
-        "[Placeholder — information to be added]"
-      ],
-      "online_programs": "[Placeholder — information to be added]",
-      "residential_programs": "[Placeholder — information to be added]",
-      "accreditation": "[Placeholder — information to be added]",
-      "tuition": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "admissions_url": "[Placeholder — information to be added]",
-      "description": "Describes its academics as integrating a Reformed worldview (per the college's own website).",
-      "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
-      },
-      "tags": []
-    },
-    {
-      "id": "dordt-university",
-      "name": "Dordt University",
+      "id": "presbyterian-reformed-publishing",
+      "name": "Presbyterian & Reformed Publishing",
       "placeholder": false,
       "verification": "listed",
       "location": "[Placeholder — information to be added]",
       "tradition": "[Placeholder — information to be added]",
-      "affiliation": "[Placeholder — information to be added]",
-      "degree_programs": [
-        "[Placeholder — information to be added]"
-      ],
-      "online_programs": "[Placeholder — information to be added]",
-      "residential_programs": "[Placeholder — information to be added]",
-      "accreditation": "[Placeholder — information to be added]",
-      "tuition": "[Placeholder — information to be added]",
       "website": "[Placeholder — information to be added]",
-      "admissions_url": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
         "title": "[Placeholder — information to be added]",
@@ -116,22 +40,13 @@
       "tags": []
     },
     {
-      "id": "calvin-university",
-      "name": "Calvin University",
+      "id": "reformation-heritage-books",
+      "name": "Reformation Heritage Books",
       "placeholder": false,
       "verification": "listed",
       "location": "[Placeholder — information to be added]",
       "tradition": "[Placeholder — information to be added]",
-      "affiliation": "[Placeholder — information to be added]",
-      "degree_programs": [
-        "[Placeholder — information to be added]"
-      ],
-      "online_programs": "[Placeholder — information to be added]",
-      "residential_programs": "[Placeholder — information to be added]",
-      "accreditation": "[Placeholder — information to be added]",
-      "tuition": "[Placeholder — information to be added]",
       "website": "[Placeholder — information to be added]",
-      "admissions_url": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
         "title": "[Placeholder — information to be added]",
@@ -144,22 +59,13 @@
       "tags": []
     },
     {
-      "id": "reformation-bible-college",
-      "name": "Reformation Bible College",
+      "id": "christian-focus",
+      "name": "Christian Focus",
       "placeholder": false,
       "verification": "listed",
       "location": "[Placeholder — information to be added]",
       "tradition": "[Placeholder — information to be added]",
-      "affiliation": "[Placeholder — information to be added]",
-      "degree_programs": [
-        "[Placeholder — information to be added]"
-      ],
-      "online_programs": "[Placeholder — information to be added]",
-      "residential_programs": "[Placeholder — information to be added]",
-      "accreditation": "[Placeholder — information to be added]",
-      "tuition": "[Placeholder — information to be added]",
       "website": "[Placeholder — information to be added]",
-      "admissions_url": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
         "title": "[Placeholder — information to be added]",
@@ -172,22 +78,13 @@
       "tags": []
     },
     {
-      "id": "montreat-college",
-      "name": "Montreat College",
+      "id": "reformation-trust",
+      "name": "Reformation Trust",
       "placeholder": false,
       "verification": "listed",
       "location": "[Placeholder — information to be added]",
       "tradition": "[Placeholder — information to be added]",
-      "affiliation": "[Placeholder — information to be added]",
-      "degree_programs": [
-        "[Placeholder — information to be added]"
-      ],
-      "online_programs": "[Placeholder — information to be added]",
-      "residential_programs": "[Placeholder — information to be added]",
-      "accreditation": "[Placeholder — information to be added]",
-      "tuition": "[Placeholder — information to be added]",
       "website": "[Placeholder — information to be added]",
-      "admissions_url": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
         "title": "[Placeholder — information to be added]",
@@ -200,22 +97,70 @@
       "tags": []
     },
     {
-      "id": "belhaven-university",
-      "name": "Belhaven University",
+      "id": "westminster-seminary-press",
+      "name": "Westminster Seminary Press",
       "placeholder": false,
       "verification": "listed",
       "location": "[Placeholder — information to be added]",
       "tradition": "[Placeholder — information to be added]",
-      "affiliation": "[Placeholder — information to be added]",
-      "degree_programs": [
-        "[Placeholder — information to be added]"
-      ],
-      "online_programs": "[Placeholder — information to be added]",
-      "residential_programs": "[Placeholder — information to be added]",
-      "accreditation": "[Placeholder — information to be added]",
-      "tuition": "[Placeholder — information to be added]",
       "website": "[Placeholder — information to be added]",
-      "admissions_url": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": []
+    },
+    {
+      "id": "reformed-free-publishing-association",
+      "name": "Reformed Free Publishing Association",
+      "placeholder": false,
+      "verification": "listed",
+      "location": "[Placeholder — information to be added]",
+      "tradition": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": []
+    },
+    {
+      "id": "evangelical-press",
+      "name": "Evangelical Press",
+      "placeholder": false,
+      "verification": "listed",
+      "location": "[Placeholder — information to be added]",
+      "tradition": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": []
+    },
+    {
+      "id": "founders-press",
+      "name": "Founders Press",
+      "placeholder": false,
+      "verification": "listed",
+      "location": "[Placeholder — information to be added]",
+      "tradition": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
       "source": {
         "title": "[Placeholder — information to be added]",

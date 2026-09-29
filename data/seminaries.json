@@ -1,55 +1,58 @@
 {
-  "_note": "All entries are placeholders demonstrating the data shape. Replace with verified information. Every entry carries a `source` citation record (see README: Sources & attribution).",
+  "_note": "Names supplied by the site owner from preliminary research. Entries are name-only (`verification: listed`); every other field is a placeholder until researched from the institution's own site. Nothing here is verified.",
   "entries": [
     {
-      "id": "placeholder-seminary-1",
-      "name": "[Placeholder — Seminary Name 1]",
-      "placeholder": true,
+      "id": "reformed-theological-seminary",
+      "name": "Reformed Theological Seminary",
+      "placeholder": false,
+      "verification": "listed",
+      "aliases": [
+        "RTS"
+      ],
+      "listing_note": "Description paraphrased from the institution's site as reported in the owner's research; re-verify before marking verified.",
       "location": "[Placeholder — information to be added]",
       "tradition": "[Placeholder — information to be added]",
       "affiliation": "[Placeholder — information to be added]",
-      "degree_programs": [
+      "degrees": [
         "[Placeholder — information to be added]"
       ],
-      "online_programs": "[Placeholder — information to be added]",
-      "residential_programs": "[Placeholder — information to be added]",
+      "delivery": [
+        "[Placeholder — information to be added]"
+      ],
       "accreditation": "[Placeholder — information to be added]",
       "tuition": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
+      "website": "https://rts.edu/",
       "admissions_url": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
-      "tags": [
-        "placeholder"
-      ],
+      "description": "Describes its theological education as rooted in the Reformed tradition and the Westminster Standards (per the seminary's own website).",
       "source": {
         "title": "[Placeholder — information to be added]",
         "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
+        "organization": "Reformed Theological Seminary",
+        "url": "https://rts.edu/",
         "date": "[Placeholder — information to be added]",
         "license": "[Placeholder — information to be added]"
-      }
+      },
+      "tags": []
     },
     {
-      "id": "placeholder-seminary-2",
-      "name": "[Placeholder — Seminary Name 2]",
-      "placeholder": true,
+      "id": "westminster-theological-seminary",
+      "name": "Westminster Theological Seminary",
+      "placeholder": false,
+      "verification": "listed",
       "location": "[Placeholder — information to be added]",
       "tradition": "[Placeholder — information to be added]",
       "affiliation": "[Placeholder — information to be added]",
-      "degree_programs": [
+      "degrees": [
         "[Placeholder — information to be added]"
       ],
-      "online_programs": "[Placeholder — information to be added]",
-      "residential_programs": "[Placeholder — information to be added]",
+      "delivery": [
+        "[Placeholder — information to be added]"
+      ],
       "accreditation": "[Placeholder — information to be added]",
       "tuition": "[Placeholder — information to be added]",
       "website": "[Placeholder — information to be added]",
       "admissions_url": "[Placeholder — information to be added]",
       "description": "[Placeholder — information to be added]",
-      "tags": [
-        "placeholder"
-      ],
       "source": {
         "title": "[Placeholder — information to be added]",
         "author": "[Placeholder — information to be added]",
@@ -57,7 +60,241 @@
         "url": "[Placeholder — information to be added]",
         "date": "[Placeholder — information to be added]",
         "license": "[Placeholder — information to be added]"
-      }
+      },
+      "tags": []
+    },
+    {
+      "id": "westminster-seminary-california",
+      "name": "Westminster Seminary California",
+      "placeholder": false,
+      "verification": "listed",
+      "location": "[Placeholder — information to be added]",
+      "tradition": "[Placeholder — information to be added]",
+      "affiliation": "[Placeholder — information to be added]",
+      "degrees": [
+        "[Placeholder — information to be added]"
+      ],
+      "delivery": [
+        "[Placeholder — information to be added]"
+      ],
+      "accreditation": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "admissions_url": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": []
+    },
+    {
+      "id": "greenville-presbyterian-theological-seminary",
+      "name": "Greenville Presbyterian Theological Seminary",
+      "placeholder": false,
+      "verification": "listed",
+      "location": "[Placeholder — information to be added]",
+      "tradition": "[Placeholder — information to be added]",
+      "affiliation": "[Placeholder — information to be added]",
+      "degrees": [
+        "[Placeholder — information to be added]"
+      ],
+      "delivery": [
+        "[Placeholder — information to be added]"
+      ],
+      "accreditation": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "admissions_url": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": []
+    },
+    {
+      "id": "puritan-reformed-theological-seminary",
+      "name": "Puritan Reformed Theological Seminary",
+      "placeholder": false,
+      "verification": "listed",
+      "location": "[Placeholder — information to be added]",
+      "tradition": "[Placeholder — information to be added]",
+      "affiliation": "[Placeholder — information to be added]",
+      "degrees": [
+        "[Placeholder — information to be added]"
+      ],
+      "delivery": [
+        "[Placeholder — information to be added]"
+      ],
+      "accreditation": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "admissions_url": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": []
+    },
+    {
+      "id": "covenant-theological-seminary",
+      "name": "Covenant Theological Seminary",
+      "placeholder": false,
+      "verification": "listed",
+      "location": "[Placeholder — information to be added]",
+      "tradition": "[Placeholder — information to be added]",
+      "affiliation": "[Placeholder — information to be added]",
+      "degrees": [
+        "[Placeholder — information to be added]"
+      ],
+      "delivery": [
+        "[Placeholder — information to be added]"
+      ],
+      "accreditation": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "admissions_url": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": []
+    },
+    {
+      "id": "reformed-presbyterian-theological-seminary",
+      "name": "Reformed Presbyterian Theological Seminary",
+      "placeholder": false,
+      "verification": "listed",
+      "location": "[Placeholder — information to be added]",
+      "tradition": "[Placeholder — information to be added]",
+      "affiliation": "[Placeholder — information to be added]",
+      "degrees": [
+        "[Placeholder — information to be added]"
+      ],
+      "delivery": [
+        "[Placeholder — information to be added]"
+      ],
+      "accreditation": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "admissions_url": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": []
+    },
+    {
+      "id": "calvin-theological-seminary",
+      "name": "Calvin Theological Seminary",
+      "placeholder": false,
+      "verification": "listed",
+      "location": "[Placeholder — information to be added]",
+      "tradition": "[Placeholder — information to be added]",
+      "affiliation": "[Placeholder — information to be added]",
+      "degrees": [
+        "[Placeholder — information to be added]"
+      ],
+      "delivery": [
+        "[Placeholder — information to be added]"
+      ],
+      "accreditation": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "admissions_url": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": []
+    },
+    {
+      "id": "erskine-theological-seminary",
+      "name": "Erskine Theological Seminary",
+      "placeholder": false,
+      "verification": "listed",
+      "location": "[Placeholder — information to be added]",
+      "tradition": "[Placeholder — information to be added]",
+      "affiliation": "[Placeholder — information to be added]",
+      "degrees": [
+        "[Placeholder — information to be added]"
+      ],
+      "delivery": [
+        "[Placeholder — information to be added]"
+      ],
+      "accreditation": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "admissions_url": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": []
+    },
+    {
+      "id": "mrts",
+      "name": "MRTS",
+      "placeholder": false,
+      "verification": "listed",
+      "listing_note": "Full name of this institution to be confirmed before research.",
+      "location": "[Placeholder — information to be added]",
+      "tradition": "[Placeholder — information to be added]",
+      "affiliation": "[Placeholder — information to be added]",
+      "degrees": [
+        "[Placeholder — information to be added]"
+      ],
+      "delivery": [
+        "[Placeholder — information to be added]"
+      ],
+      "accreditation": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "admissions_url": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "source": {
+        "title": "[Placeholder — information to be added]",
+        "author": "[Placeholder — information to be added]",
+        "organization": "[Placeholder — information to be added]",
+        "url": "[Placeholder — information to be added]",
+        "date": "[Placeholder — information to be added]",
+        "license": "[Placeholder — information to be added]"
+      },
+      "tags": []
     }
   ]
 }
