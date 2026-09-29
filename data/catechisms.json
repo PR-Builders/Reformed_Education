@@ -2566,20 +2566,701 @@
       "short": "WLC",
       "group": "Presbyterian / Reformed",
       "kind": "Catechism",
-      "placeholder": false,
-      "verification": "listed",
-      "status": "planned",
-      "description": "Planned. Text not yet added.",
+      "verification": "researched",
+      "status": "partial",
+      "description": "The Westminster Larger Catechism. Questions and answers are being added; Scripture proofs (King James Version) are still to come.",
       "tags": [],
-      "questions": [],
+      "questions": [
+        {
+          "n": 1,
+          "question": "What is the chief and highest end of man?",
+          "answer": "Man’s chief and highest end is to glorify God, and fully to enjoy him forever.",
+          "proofs": []
+        },
+        {
+          "n": 2,
+          "question": "How doth it appear that there is a God?",
+          "answer": "The very light of nature in man, and the works of God, declare plainly that there is a God; but his Word and Spirit only do sufficiently and effectually reveal him unto men for their salvation.",
+          "proofs": []
+        },
+        {
+          "n": 3,
+          "question": "What is the Word of God?",
+          "answer": "The Holy Scriptures of the Old and New Testament are the Word of God, the only rule of faith and obedience.",
+          "proofs": []
+        },
+        {
+          "n": 4,
+          "question": "How doth it appear that the Scriptures are the Word of God?",
+          "answer": "The Scriptures manifest themselves to be the Word of God, by their majesty and purity; by the consent of all the parts, and the scope of the whole, which is to give all glory to God; by their light and power to convince and convert sinners, to comfort and build up believers unto salvation: but the Spirit of God bearing witness by and with the Scriptures in the heart of man, is alone able fully to persuade it that they are the very Word of God.",
+          "proofs": []
+        },
+        {
+          "n": 5,
+          "question": "What do the Scriptures principally teach?",
+          "answer": "The Scriptures principally teach, what man is to believe concerning God, and what duty God requires of man.",
+          "proofs": []
+        },
+        {
+          "n": 6,
+          "question": "What do the Scriptures make known of God?",
+          "answer": "The Scriptures make known what God is, the persons in the Godhead, his decrees, and the execution of his decrees.",
+          "proofs": []
+        },
+        {
+          "n": 7,
+          "question": "What is God?",
+          "answer": "God is a Spirit, in and of himself infinite in being, glory, blessedness, and perfection; all-sufficient, eternal, unchangeable, incomprehensible, every where present, almighty, knowing all things, most wise, most holy, most just, most merciful and gracious, long-suffering, and abundant in goodness and truth.",
+          "proofs": []
+        },
+        {
+          "n": 8,
+          "question": "Are there more Gods than one?",
+          "answer": "There is but one only, the living and true God.",
+          "proofs": []
+        },
+        {
+          "n": 9,
+          "question": "How many persons are there in the Godhead?",
+          "answer": "There be three persons in the Godhead, the Father, the Son, and the Holy Ghost; and these three are one true, eternal God, the same in substance, equal in power and glory; although distinguished by their personal properties.",
+          "proofs": []
+        },
+        {
+          "n": 10,
+          "question": "What are the personal properties of the three persons in the Godhead?",
+          "answer": "It is proper to the Father to beget the Son, and to the Son to be begotten of the Father, and to the Holy Ghost to proceed from the Father and the Son from all eternity.",
+          "proofs": []
+        },
+        {
+          "n": 11,
+          "question": "How doth it appear that the Son and the Holy Ghost are God equal with the Father?",
+          "answer": "The Scriptures manifest that the Son and the Holy Ghost are God equal with the Father, ascribing unto them such names, attributes, works, and worship, as are proper to God only.",
+          "proofs": []
+        },
+        {
+          "n": 12,
+          "question": "What are the decrees of God?",
+          "answer": "God’s decrees are the wise, free, and holy acts of the counsel of his will, whereby, from all eternity, he hath, for his own glory, unchangeably foreordained whatsoever comes to pass in time, especially concerning angels and men.",
+          "proofs": []
+        },
+        {
+          "n": 13,
+          "question": "What hath God especially decreed concerning angels and men?",
+          "answer": "God, by an eternal and immutable decree, out of his mere love, for the praise of his glorious grace, to be manifested in due time, hath elected some angels to glory; and in Christ hath chosen some men to eternal life, and the means thereof: and also, according to his sovereign power, and the unsearchable counsel of his own will, (whereby he extendeth or withholdeth favor as he pleaseth,) hath passed by and foreordained the rest to dishonor and wrath, to be for their sin inflicted, to the praise of the glory of his justice.",
+          "proofs": []
+        },
+        {
+          "n": 14,
+          "question": "How doth God execute his decrees?",
+          "answer": "God executeth his decrees in the works of creation and providence, according to his infallible foreknowledge, and the free and immutable counsel of his own will.",
+          "proofs": []
+        },
+        {
+          "n": 15,
+          "question": "What is the work of creation?",
+          "answer": "The work of creation is that wherein God did in the beginning, by the word of his power, make of nothing the world, and all things therein, for himself, within the space of six days, and all very good.",
+          "proofs": []
+        },
+        {
+          "n": 16,
+          "question": "How did God create angels?",
+          "answer": "God created all the angels spirits, immortal, holy, excelling in knowledge, mighty in power, to execute his commandments, and to praise his name, yet subject to change.",
+          "proofs": []
+        },
+        {
+          "n": 17,
+          "question": "How did God create man?",
+          "answer": "After God had made all other creatures, he created man male and female; formed the body of the man of the dust of the ground, and the woman of the rib of the man, endued them with living, reasonable, and immortal souls; made them after his own image, in knowledge, righteousness, and holiness; having the law of God writ ten in their hearts, and power to fulfill it, and dominion over the creatures; yet subject to fall.",
+          "proofs": []
+        },
+        {
+          "n": 18,
+          "question": "What are God’s works of providence?",
+          "answer": "God’s works of providence are his most holy, wise, and powerful preserving and governing all his creatures; ordering them, and all their actions, to his own glory.",
+          "proofs": []
+        },
+        {
+          "n": 19,
+          "question": "What is God’s providence towards the angels?",
+          "answer": "God by his providence permitted some of the angels, willfully and irrecoverably, to fall into sin and damnation, limiting and ordering that, and all their sins, to his own glory; and established the rest in holiness and happiness; employing them all, at his pleasure, in the administrations of his power, mercy, and justice.",
+          "proofs": []
+        },
+        {
+          "n": 20,
+          "question": "What was the providence of God toward man in the estate in which he was created?",
+          "answer": "The providence of God toward man in the estate in which he was created, was the placing him in paradise, appointing him to dress it, giving him liberty to eat of the fruit of the earth; putting the creatures under his dominion, and ordaining marriage for his help; affording him communion with himself; instituting the Sabbath; entering into a covenant of life with him, upon condition of personal, perfect, and perpetual obedience, of which the tree of life was a pledge; and forbidding to eat of the tree of the knowledge of good and evil, upon the pain of death.",
+          "proofs": []
+        },
+        {
+          "n": 21,
+          "question": "Did man continue in that estate wherein God at first created him?",
+          "answer": "Our first parents being left to the freedom of their own will, through the temptation of Satan, transgressed the commandment of God in eating the forbidden fruit; and thereby fell from the estate of innocency wherein they were created.",
+          "proofs": []
+        },
+        {
+          "n": 22,
+          "question": "Did all mankind fall in that first transgression?",
+          "answer": "The covenant being made with Adam as a public person, not for himself only, but for his posterity, all mankind descending from him by ordinary generation, sinned in him, and fell with him in that first transgression.",
+          "proofs": []
+        },
+        {
+          "n": 23,
+          "question": "Into what estate did the fall bring mankind?",
+          "answer": "The fall brought mankind into an estate of sin and misery.",
+          "proofs": []
+        },
+        {
+          "n": 24,
+          "question": "What is sin?",
+          "answer": "Sin is any want of conformity unto, or transgression of, any law of God, given as a rule to the reasonable creature.",
+          "proofs": []
+        },
+        {
+          "n": 25,
+          "question": "Wherein consisteth the sinfulness of that estate whereinto man fell?",
+          "answer": "The sinfulness of that estate whereinto man fell, consisteth in the guilt of Adam’s first sin, the want of that righteousness wherein he was created, and the corruption of his nature, whereby he is utterly indisposed, disabled, and made opposite unto all that is spiritually good, and wholly inclined to all evil, and that continually; which is commonly called original sin, and from which do proceed all actual transgressions.",
+          "proofs": []
+        },
+        {
+          "n": 26,
+          "question": "How is original sin conveyed from our first parents unto their posterity?",
+          "answer": "Original sin is conveyed from our first parents unto their posterity by natural generation, so as all that proceed from them in that way are conceived and born in sin.",
+          "proofs": []
+        },
+        {
+          "n": 27,
+          "question": "What misery did the fall bring upon mankind?",
+          "answer": "The fall brought upon mankind the loss of communion with God, his displeasure and curse; so as we are by nature children of wrath, bond slaves to Satan, and justly liable to all punishments in this world, and that which is to come.",
+          "proofs": []
+        },
+        {
+          "n": 28,
+          "question": "What are the punishments of sin in this world?",
+          "answer": "The punishments of sin in this world are either inward, as blindness of mind, a reprobate sense, strong delusions, hardness of heart, horror of conscience, and vile affections; or outward, as the curse of God upon the creatures for our sakes, and all other evils that befall us in our bodies, names, estates, relations, and employments; together with death itself.",
+          "proofs": []
+        },
+        {
+          "n": 29,
+          "question": "What are the punishments of sin in the world to come?",
+          "answer": "The punishments of sin in the world to come, are everlasting separation from the comfortable presence of God, and most grievous torments in soul and body, without intermission, in hellfire forever.",
+          "proofs": []
+        },
+        {
+          "n": 30,
+          "question": "Doth God leave all mankind to perish in the estate of sin and misery?",
+          "answer": "God doth not leave all men to perish in the estate of sin and misery, into which they fell by the breach of the first covenant, commonly called the covenant of works; but of his mere love and mercy delivereth his elect out of it, and bringeth them into an estate of salvation by the second covenant, commonly called the covenant of grace.",
+          "proofs": []
+        },
+        {
+          "n": 31,
+          "question": "With whom was the covenant of grace made?",
+          "answer": "The covenant of grace was made with Christ as the second Adam, and in him with all the elect as his seed.",
+          "proofs": []
+        },
+        {
+          "n": 32,
+          "question": "How is the grace of God manifested in the second covenant?",
+          "answer": "The grace of God is manifested in the second covenant, in that he freely provideth and offereth to sinners a Mediator, and life and salvation by him; and requiring faith as the condition to interest them in him, promiseth and giveth his Holy Spirit to all his elect, to work in them that faith, with all other saving graces; and to enable them unto all holy obedience, as the evidence of the truth of their faith and thankfulness to God, and as the way which he hath appointed them to salvation.",
+          "proofs": []
+        },
+        {
+          "n": 33,
+          "question": "Was the covenant of grace always administered after one and the same manner?",
+          "answer": "The covenant of grace was not always administered after the same manner, but the administrations of it under the old testament were different from those under the new.",
+          "proofs": []
+        },
+        {
+          "n": 34,
+          "question": "How was the covenant of grace administered under the old testament?",
+          "answer": "The covenant of grace was administered under the old testament, by promises, prophecies, sacrifices, circumcision, the Passover, and other types and ordinances, which did all foresignify Christ then to come, and were for that time sufficient to build up the elect in faith in the promised Messiah, by whom they then had full remission of sin, and eternal salvation.",
+          "proofs": []
+        },
+        {
+          "n": 35,
+          "question": "How is the covenant of grace administered under the new testament?",
+          "answer": "Under the new testament, when Christ the substance was exhibited, the same covenant of grace was and still is to be administered in the preaching of the Word, and the administration of the sacraments of baptism and the Lord’s Supper; in which grace and salvation are held forth in more fullness, evidence, and efficacy, to all nations.",
+          "proofs": []
+        },
+        {
+          "n": 36,
+          "question": "Who is the Mediator of the covenant of grace?",
+          "answer": "The only Mediator of the covenant of grace is the Lord Jesus Christ, who, being the eternal Son of God, of one substance and equal with the Father, in the fullness of time became man, and so was and continues to be God and man, in two entire distinct natures, and one person, forever.",
+          "proofs": []
+        },
+        {
+          "n": 37,
+          "question": "How did Christ, being the Son of God, become man?",
+          "answer": "Christ the Son of God became man, by taking to himself a true body, and a reasonable soul, being conceived by the power of the Holy Ghost in the womb of the virgin Mary, of her substance, and born of her, yet without sin.",
+          "proofs": []
+        },
+        {
+          "n": 38,
+          "question": "Why was it requisite that the Mediator should be God?",
+          "answer": "It was requisite that the Mediator should be God, that he might sustain and keep the human nature from sinking under the infinite wrath of God, and the power of death; give worth and efficacy to his sufferings, obedience, and intercession; and to satisfy God’s justice, procure his favor, purchase a peculiar people, give his Spirit to them, conquer all their enemies, and bring them to everlasting salvation.",
+          "proofs": []
+        },
+        {
+          "n": 39,
+          "question": "Why was it requisite that the Mediator should be man?",
+          "answer": "It was requisite that the Mediator should be man, that he might advance our nature, perform obedience to the law, suffer and make intercession for us in our nature, have a fellow feeling of our infirmities; that we might receive the adoption of sons, and have comfort and access with boldness unto the throne of grace.",
+          "proofs": []
+        },
+        {
+          "n": 40,
+          "question": "Why was it requisite that the Mediator should be God and man in one person?",
+          "answer": "It was requisite that the Mediator, who was to reconcile God and man, should himself be both God and man, and this in one person, that the proper works of each nature might be accepted of God for us, and relied on by us, as the works of the whole person.",
+          "proofs": []
+        },
+        {
+          "n": 41,
+          "question": "Why was our Mediator called Jesus?",
+          "answer": "Our Mediator was called Jesus, because he saveth his people from their sins.",
+          "proofs": []
+        },
+        {
+          "n": 42,
+          "question": "Why was our Mediator called Christ?",
+          "answer": "Our Mediator was called Christ, because he was anointed with the Holy Ghost above measure; and so set apart, and fully furnished with all authority and ability, to execute the offices of prophet, priest, and king of his church, in the estate both of his humiliation and exaltation.",
+          "proofs": []
+        },
+        {
+          "n": 43,
+          "question": "How doth Christ execute the office of a prophet?",
+          "answer": "Christ executeth the office of a prophet, in his revealing to the church, in all ages, by his Spirit and Word, in divers ways of administration, the whole will of God, in all things concerning their edification and salvation.",
+          "proofs": []
+        },
+        {
+          "n": 44,
+          "question": "How doth Christ execute the office of a priest?",
+          "answer": "Christ executeth the office of a priest, in his once offering himself a sacrifice without spot to God, to be a reconciliation for the sins of his people; and in making continual intercession for them.",
+          "proofs": []
+        },
+        {
+          "n": 45,
+          "question": "How doth Christ execute the office of a king?",
+          "answer": "Christ executeth the office of a king, in calling out of the world a people to himself, and giving them officers, laws, and censures, by which he visibly governs them; in bestowing saving grace upon his elect, rewarding their obedience, and correcting them for their sins, preserving and supporting them under all their temptations and sufferings, restraining and overcoming all their enemies, and powerfully ordering all things for his own glory, and their good; and also in taking vengeance on the rest, who know not God, and obey not the gospel.",
+          "proofs": []
+        },
+        {
+          "n": 46,
+          "question": "What was the estate of Christ’s humiliation?",
+          "answer": "The estate of Christ’s humiliation was that low condition, wherein he for our sakes, emptying himself of his glory, took upon him the form of a servant, in his conception and birth, life, death, and after his death, until his resurrection.",
+          "proofs": []
+        },
+        {
+          "n": 47,
+          "question": "How did Christ humble himself in his conception and birth?",
+          "answer": "Christ humbled himself in his conception and birth, in that, being from all eternity the Son of God, in the bosom of the Father, he was pleased in the fullness of time to become the son of man, made of a woman of low estate, and to be born of her; with divers circumstances of more than ordinary abasement.",
+          "proofs": []
+        },
+        {
+          "n": 48,
+          "question": "How did Christ humble himself in his life?",
+          "answer": "Christ humbled himself in his life, by subjecting himself to the law, which he perfectly fulfilled; and by conflicting with the indignities of the world, temptations of Satan, and infirmities in his flesh, whether common to the nature of man, or particularly accompanying that his low condition.",
+          "proofs": []
+        },
+        {
+          "n": 49,
+          "question": "How did Christ humble himself in his death?",
+          "answer": "Christ humbled himself in his death, in that having been betrayed by Judas, forsaken by his disciples, scorned and rejected by the world, condemned by Pilate, and tormented by his persecutors; having also conflicted with the terrors of death, and the powers of darkness, felt and borne the weight of God’s wrath, he laid down his life an offering for sin, enduring the painful, shameful, and cursed death of the cross.",
+          "proofs": []
+        },
+        {
+          "n": 50,
+          "question": "Wherein consisted Christ’s humiliation after his death?",
+          "answer": "Christ’s humiliation after his death consisted in his being buried, and continuing in the state of the dead, and under the power of death till the third day; which hath been otherwise expressed in these words, He descended into hell.",
+          "proofs": []
+        },
+        {
+          "n": 51,
+          "question": "What was the estate of Christ’s exaltation?",
+          "answer": "The estate of Christ’s exaltation comprehendeth his resurrection, ascension, sitting at the right hand of the Father, and his coming again to judge the world.",
+          "proofs": []
+        },
+        {
+          "n": 52,
+          "question": "How was Christ exalted in his resurrection?",
+          "answer": "Christ was exalted in his resurrection, in that, not having seen corruption in death, (of which it was not possible for him to be held,) and having the very same body in which he suffered, with the essential properties thereof, (but without mortality, and other common infirmities belonging to this life,) really united to his soul, he rose again from the dead the third day by his own power; whereby he declared himself to be the Son of God, to have satisfied divine justice, to have vanquished death, and him that had the power of it, and to be Lord of quick and dead: all which he did as a public person, the head of his church, for their justification, quickening in grace, support against enemies, and to assure them of their resurrection from the dead at the last day.",
+          "proofs": []
+        },
+        {
+          "n": 53,
+          "question": "How was Christ exalted in his ascension?",
+          "answer": "Christ was exalted in his ascension, in that having after his resurrection often appeared unto and conversed with his apostles, speaking to them of the things pertaining to the kingdom of God, and giving them commission to preach the gospel to all nations, forty days after his resurrection, he, in our nature, and as our head, triumphing over enemies, visibly went up into the highest heavens, there to receive gifts for men, to raise up our affections thither, and to prepare a place for us, where himself is, and shall continue till his second coming at the end of the world.",
+          "proofs": []
+        },
+        {
+          "n": 54,
+          "question": "How is Christ exalted in his sitting at the right hand of God?",
+          "answer": "Christ is exalted in his sitting at the right hand of God, in that as God-man he is advanced to the highest favor with God the Father, with all fullness of joy, glory, and power over all things in heaven and earth; and doth gather and defend his church, and subdue their enemies; furnisheth his ministers and people with gifts and graces, and maketh intercession for them.",
+          "proofs": []
+        },
+        {
+          "n": 55,
+          "question": "How doth Christ make intercession?",
+          "answer": "Christ maketh intercession, by his appearing in our nature continually before the Father in heaven, in the merit of his obedience and sacrifice on earth, declaring his will to have it applied to all believers; answering all accusations against them, and procuring for them quiet of conscience, notwithstanding daily failings, access with boldness to the throne of grace, and acceptance of their persons and services.",
+          "proofs": []
+        },
+        {
+          "n": 56,
+          "question": "How is Christ to be exalted in his coming again to judge the world?",
+          "answer": "Christ is to be exalted in his coming again to judge the world, in that he, who was unjustly judged and condemned by wicked men, shall come again at the last day in great power, and in the full manifestation of his own glory, and of his Father’s, with all his holy angels, with a shout, with the voice of the archangel, and with the trumpet of God, to judge the world in righteousness.",
+          "proofs": []
+        },
+        {
+          "n": 57,
+          "question": "What benefits hath Christ procured by his mediation?",
+          "answer": "Christ, by his mediation, hath procured redemption, with all other benefits of the covenant of grace.",
+          "proofs": []
+        },
+        {
+          "n": 58,
+          "question": "How do we come to be made partakers of the benefits which Christ hath procured?",
+          "answer": "We are made partakers of the benefits which Christ hath procured, by the application of them unto us, which is the work especially of God the Holy Ghost.",
+          "proofs": []
+        },
+        {
+          "n": 59,
+          "question": "Who are made partakers of redemption through Christ?",
+          "answer": "Redemption is certainly applied, and effectually communicated, to all those for whom Christ hath purchased it; who are in time by the Holy Ghost enabled to believe in Christ according to the gospel.",
+          "proofs": []
+        },
+        {
+          "n": 60,
+          "question": "Can they who have never heard the gospel, and so know not Jesus Christ, nor believe in him, be saved by their living according to the light of nature?",
+          "answer": "They who, having never heard the gospel, know not Jesus Christ, and believe not in him, cannot be saved, be they never so diligent to frame their lives according to the light of nature, or the laws of that religion which they profess; neither is there salvation in any other, but in Christ alone, who is the Savior only of his body the church.",
+          "proofs": []
+        },
+        {
+          "n": 61,
+          "question": "Are all they saved who hear the gospel, and live in the church?",
+          "answer": "All that hear the gospel, and live in the visible church, are not saved; but they only who are true members of the church invisible.",
+          "proofs": []
+        },
+        {
+          "n": 62,
+          "question": "What is the visible church?",
+          "answer": "The visible church is a society made up of all such as in all ages and places of the world do profess the true religion, and of their children.",
+          "proofs": []
+        },
+        {
+          "n": 63,
+          "question": "What are the special privileges of the visible church?",
+          "answer": "The visible church hath the privilege of being under God’s special care and government; of being protected and preserved in all ages, notwithstanding the opposition of all enemies; and of enjoying the communion of saints, the ordinary means of salvation, and offers of grace by Christ to all the members of it in the ministry of the gospel, testifying, that whosoever believes in him shall be saved, and excluding none that will come unto him.",
+          "proofs": []
+        },
+        {
+          "n": 64,
+          "question": "What is the invisible church?",
+          "answer": "The invisible church is the whole number of the elect, that have been, are, or shall be gathered into one under Christ the head.",
+          "proofs": []
+        },
+        {
+          "n": 65,
+          "question": "What special benefits do the members of the invisible church enjoy by Christ?",
+          "answer": "The members of the invisible church by Christ enjoy union and communion with him in grace and glory.",
+          "proofs": []
+        },
+        {
+          "n": 66,
+          "question": "What is that union which the elect have with Christ?",
+          "answer": "The union which the elect have with Christ is the work of God’s grace, whereby they are spiritually and mystically, yet really and inseparably, joined to Christ as their head and husband; which is done in their effectual calling.",
+          "proofs": []
+        },
+        {
+          "n": 67,
+          "question": "What is effectual calling?",
+          "answer": "Effectual calling is the work of God’s almighty power and grace, whereby (out of his free and special love to his elect, and from nothing in them moving him thereunto) he doth, in his accepted time, invite and draw them to Jesus Christ, by his Word and Spirit; savingly enlightening their minds, renewing and powerfully determining their wills, so as they (although in themselves dead in sin) are hereby made willing and able freely to answer his call, and to accept and embrace the grace offered and conveyed therein.",
+          "proofs": []
+        },
+        {
+          "n": 68,
+          "question": "Are the elect only effectually called?",
+          "answer": "All the elect, and they only, are effectually called; although others may be, and often are, outwardly called by the ministry of the Word, and have some common operations of the Spirit; who, for their willful neglect and contempt of the grace offered to them, being justly left in their unbelief, do never truly come to Jesus Christ.",
+          "proofs": []
+        },
+        {
+          "n": 69,
+          "question": "What is the communion in grace which the members of the invisible church have with Christ?",
+          "answer": "The communion in grace which the members of the invisible church have with Christ, is their partaking of the virtue of his media tion, in their justification, adoption, sanctification, and whatever else, in this life, manifests their union with him.",
+          "proofs": []
+        },
+        {
+          "n": 70,
+          "question": "What is justification?",
+          "answer": "Justification is an act of God’s free grace unto sinners, in which he pardoneth all their sins, accepteth and accounteth their persons righteous in his sight; not for anything wrought in them, or done by them, but only for the perfect obedience and full satisfaction of Christ, by God imputed to them, and received by faith alone.",
+          "proofs": []
+        },
+        {
+          "n": 71,
+          "question": "How is justification an act of God’s free grace?",
+          "answer": "Although Christ, by his obedience and death, did make a proper, real, and full satisfaction to God’s justice in the behalf of them that are justified; yet inasmuch as God accepteth the satisfaction from a surety, which he might have demanded of them, and did provide this surety, his own only Son, imputing his righteousness to them, and requiring nothing of them for their justification but faith, which also is his gift, their justification is to them of free grace.",
+          "proofs": []
+        },
+        {
+          "n": 72,
+          "question": "What is justifying faith?",
+          "answer": "Justifying faith is a saving grace, wrought in the heart of a sinner by the Spirit and Word of God, whereby he, being convinced of his sin and misery, and of the disability in himself and all other creatures to recover him out of his lost condition, not only assenteth to the truth of the promise of the gospel, but receiveth and resteth upon Christ and his righteousness, therein held forth, for pardon of sin, and for the accepting and accounting of his person righteous in the sight of God for salvation.",
+          "proofs": []
+        },
+        {
+          "n": 73,
+          "question": "How doth faith justify a sinner in the sight of God?",
+          "answer": "Faith justifies a sinner in the sight of God, not because of those other graces which do always accompany it, or of good works that are the fruits of it, nor as if the grace of faith, or any act thereof, were imputed to him for his justification; but only as it is an instrument by which he receiveth and applieth Christ and his righteousness.",
+          "proofs": []
+        },
+        {
+          "n": 74,
+          "question": "What is adoption?",
+          "answer": "Adoption is an act of the free grace of God, in and for his only Son Jesus Christ, whereby all those that are justified are received into the number of his children, have his name put upon them, the Spirit of his Son given to them, are under his fatherly care and dispensations, admitted to all the liberties and privileges of the sons of God, made heirs of all the promises, and fellow heirs with Christ in glory.",
+          "proofs": []
+        },
+        {
+          "n": 75,
+          "question": "What is sanctification?",
+          "answer": "Sanctification is a work of God’s grace, whereby they whom God hath, before the foundation of the world, chosen to be holy, are in time, through the powerful operation of his Spirit applying the death and resurrection of Christ unto them, renewed in their whole man after the image of God; having the seeds of repentance unto life, and all other saving graces, put into their hearts, and those graces so stirred up, increased, and strengthened, as that they more and more die unto sin, and rise unto newness of life.",
+          "proofs": []
+        },
+        {
+          "n": 76,
+          "question": "What is repentance unto life?",
+          "answer": "Repentance unto life is a saving grace, wrought in the heart of a sinner by the Spirit and Word of God, whereby, out of the sight and sense, not only of the danger, but also of the filthiness and odiousness of his sins, and upon the apprehension of God’s mercy in Christ to such as are penitent, he so grieves for and hates his sins, as that he turns from them all to God, purposing and endeavoring constantly to walk with him in all the ways of new obedience.",
+          "proofs": []
+        },
+        {
+          "n": 77,
+          "question": "Wherein do justification and sanctification differ?",
+          "answer": "Although sanctification be inseparably joined with justification, yet they differ, in that God in justification imputeth the righteousness of Christ; in sanctification his Spirit infuseth grace, and enableth to the exercise thereof; in the former, sin is pardoned; in the other, it is subdued: the one doth equally free all believers from the revenging wrath of God, and that perfectly in this life, that they never fall into condemnation; the other is neither equal in all, nor in this life perfect in any, but growing up to perfection.",
+          "proofs": []
+        },
+        {
+          "n": 78,
+          "question": "Whence ariseth the imperfection of sanctification in believers?",
+          "answer": "The imperfection of sanctification in believers ariseth from the remnants of sin abiding in every part of them, and the perpetual lustings of the flesh against the spirit; whereby they are often foiled with temptations, and fall into many sins, are hindered in all their spiritual services, and their best works are imperfect and defiled in the sight of God.",
+          "proofs": []
+        },
+        {
+          "n": 79,
+          "question": "May not true believers, by reason of their imperfections, and the many temptations and sins they are overtaken with, fall away from the state of grace?",
+          "answer": "True believers, by reason of the unchangeable love of God, and his decree and covenant to give them perseverance, their inseparable union with Christ, his continual intercession for them, and the Spirit and seed of God abiding in them, can neither totally nor finally fall away from the state of grace, but are kept by the power of God through faith unto salvation.",
+          "proofs": []
+        },
+        {
+          "n": 80,
+          "question": "Can true believers be infallibly assured that they are in the estate of grace, and that they shall persevere therein unto salvation?",
+          "answer": "Such as truly believe in Christ, and endeavor to walk in all good conscience before him, may, without extraordinary revelation, by faith grounded upon the truth of God’s promises, and by the Spirit enabling them to discern in themselves those graces to which the promises of life are made, and bearing witness with their spirits that they are the children of God, be infallibly assured that they are in the estate of grace, and shall persevere therein unto salvation.",
+          "proofs": []
+        },
+        {
+          "n": 81,
+          "question": "Are all true believers at all times assured of their present being in the estate of grace, and that they shall be saved?",
+          "answer": "Assurance of grace and salvation not being of the essence of faith, true believers may wait long before they obtain it; and, after the enjoyment thereof, may have it weakened and intermitted, through manifold distempers, sins, temptations, and desertions; yet are they never left without such a presence and support of the Spirit of God as keeps them from sinking into utter despair.",
+          "proofs": []
+        },
+        {
+          "n": 82,
+          "question": "What is the communion in glory which the members of the invisible church have with Christ?",
+          "answer": "The communion in glory which the members of the invisible church have with Christ, is in this life, immediately after death, and at last perfected at the resurrection and day of judgment.",
+          "proofs": []
+        },
+        {
+          "n": 83,
+          "question": "What is the communion in glory with Christ which the members of the invisible church enjoy in this life?",
+          "answer": "The members of the invisible church have communicated to them in this life the firstfruits of glory with Christ, as they are members of him their head, and so in him are interested in that glory which he is fully possessed of; and, as an earnest thereof, enjoy the sense of God’s love, peace of conscience, joy in the Holy Ghost, and hope of glory; as, on the contrary, sense of God’s revenging wrath, horror of conscience, and a fearful expectation of judgment, are to the wicked the beginning of their torments which they shall endure after death.",
+          "proofs": []
+        },
+        {
+          "n": 84,
+          "question": "Shall all men die?",
+          "answer": "Death being threatened as the wages of sin, it is appointed unto all men once to die; for that all have sinned.",
+          "proofs": []
+        },
+        {
+          "n": 85,
+          "question": "Death being the wages of sin, why are not the righteous delivered from death, seeing all their sins are forgiven in Christ?",
+          "answer": "The righteous shall be delivered from death itself at the last day, and even in death are delivered from the sting and curse of it; so that, although they die, yet it is out of God’s love, to free them perfectly from sin and misery, and to make them capable of further communion with Christ in glory, which they then enter upon.",
+          "proofs": []
+        },
+        {
+          "n": 86,
+          "question": "What is the communion in glory with Christ, which the members of the invisible church enjoy immediately after death?",
+          "answer": "The communion in glory with Christ, which the members of the invisible church enjoy immediately after death, is, in that their souls are then made perfect in holiness, and received into the highest heavens, where they behold the face of God in light and glory, waiting for the full redemption of their bodies, which even in death continue united to Christ, and rest in their graves as in their beds, till at the last day they be again united to their souls. Whereas the souls of the wicked are at their death cast into hell, where they remain in torments and utter darkness, and their bodies kept in their graves, as in their prisons, till the resurrection and judgment of the great day.",
+          "proofs": []
+        },
+        {
+          "n": 87,
+          "question": "What are we to believe concerning the resurrection?",
+          "answer": "We are to believe, that at the last day there shall be a general resurrection of the dead, both of the just and unjust: when they that are then found alive shall in a moment be changed; and the selfsame bodies of the dead which were laid in the grave, being then again united to their souls forever, shall be raised up by the power of Christ. The bodies of the just, by the Spirit of Christ, and by virtue of his resurrection as their head, shall be raised in power, spiritual, incorruptible, and made like to his glorious body; and the bodies of the wicked shall be raised up in dishonor by him, as an offended judge.",
+          "proofs": []
+        },
+        {
+          "n": 88,
+          "question": "What shall immediately follow after the resurrection?",
+          "answer": "Immediately after the resurrection shall follow the general and final judgment of angels and men; the day and hour whereof no man knoweth, that all may watch and pray, and be ever ready for the coming of the Lord.",
+          "proofs": []
+        },
+        {
+          "n": 89,
+          "question": "What shall be done to the wicked at the day of judgment?",
+          "answer": "At the day of judgment, the wicked shall be set on Christ’s left hand, and, upon clear evidence, and full conviction of their own consciences, shall have the fearful but just sentence of condemnation pronounced against them; and thereupon shall be cast out from the favorable presence of God, and the glorious fellowship with Christ, his saints, and all his holy angels, into hell, to be punished with unspeakable torments, both of body and soul, with the devil and his angels forever.",
+          "proofs": []
+        },
+        {
+          "n": 90,
+          "question": "What shall be done to the righteous at the day of judgment?",
+          "answer": "At the day of judgment, the righteous, being caught up to Christ in the clouds, shall be set on his right hand, and there openly acknowledged and acquitted, shall join with him in the judging of reprobate angels and men, and shall be received into heaven, where they shall be fully and forever freed from all sin and misery; filled with inconceivable joys, made perfectly holy and happy both in body and soul, in the company of innumerable saints and holy angels, but especially in the immediate vision and fruition of God the Father, of our Lord Jesus Christ, and of the Holy Spirit, to all eternity. And this is the perfect and full communion, which the members of the invisible church shall enjoy with Christ in glory, at the resurrection and day of judgment.",
+          "proofs": []
+        },
+        {
+          "n": 91,
+          "question": "What is the duty which God requireth of man?",
+          "answer": "The duty which God requireth of man, is obedience to his revealed will.",
+          "proofs": []
+        },
+        {
+          "n": 92,
+          "question": "What did God at first reveal unto man as the rule of his obedience?",
+          "answer": "The rule of obedience revealed to Adam in the estate of innocence, and to all mankind in him, besides a special command not to eat of the fruit of the tree of the knowledge of good and evil, was the moral law.",
+          "proofs": []
+        },
+        {
+          "n": 93,
+          "question": "What is the moral law?",
+          "answer": "The moral law is the declaration of the will of God to mankind, directing and binding everyone to personal, perfect, and perpetual conformity and obedience thereunto, in the frame and disposition of the whole man, soul and body, and in performance of all those duties of holiness and righteousness which he oweth to God and man: promising life upon the fulfilling, and threatening death upon the breach of it.",
+          "proofs": []
+        },
+        {
+          "n": 94,
+          "question": "Is there any use of the moral law to man since the fall?",
+          "answer": "Although no man, since the fall, can attain to righteousness and life by the moral law; yet there is great use thereof, as well common to all men, as peculiar either to the unregenerate, or the regenerate.",
+          "proofs": []
+        },
+        {
+          "n": 95,
+          "question": "Of what use is the moral law to all men?",
+          "answer": "The moral law is of use to all men, to inform them of the holy nature and will of God, and of their duty, binding them to walk accordingly; to convince them of their disability to keep it, and of the sinful pollution of their nature, hearts, and lives; to humble them in the sense of their sin and misery, and thereby help them to a clearer sight of the need they have of Christ, and of the perfection of his obedience.",
+          "proofs": []
+        },
+        {
+          "n": 96,
+          "question": "What particular use is there of the moral law to unregenerate men?",
+          "answer": "The moral law is of use to unregenerate men, to awaken their consciences to flee from wrath to come, and to drive them to Christ; or, upon their continuance in the estate and way of sin, to leave them inexcusable, and under the curse thereof.",
+          "proofs": []
+        },
+        {
+          "n": 97,
+          "question": "What special use is there of the moral law to the regenerate?",
+          "answer": "Although they that are regenerate, and believe in Christ, be delivered from the moral law as a covenant of works, so as thereby they are neither justified nor condemned; yet, besides the general uses thereof common to them with all men, it is of special use, to show them how much they are bound to Christ for his fulfilling it, and enduring the curse thereof in their stead, and for their good; and thereby to provoke them to more thankfulness, and to express the same in their greater care to conform themselves thereunto as the rule of their obedience.",
+          "proofs": []
+        },
+        {
+          "n": 98,
+          "question": "Where is the moral law summarily comprehended?",
+          "answer": "The moral law is summarily comprehended in the Ten Commandments, which were delivered by the voice of God upon Mount Sinai, and written by him in two tables of stone; and are recorded in the twentieth chapter of Exodus: the four first commandments containing our duty to God, and the other six our duty to man.",
+          "proofs": []
+        },
+        {
+          "n": 100,
+          "question": "What special things are we to consider in the Ten Commandments?",
+          "answer": "We are to consider, in the Ten Commandments, the preface, the substance of the commandments themselves, and several reasons annexed to some of them, the more to enforce them.",
+          "proofs": []
+        },
+        {
+          "n": 101,
+          "question": "What is the preface to the Ten Commandments?",
+          "answer": "The preface to the Ten Commandments is contained in these words, I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage. Wherein God manifesteth his sovereignty, as being JEHOVAH, the eternal, immutable, and almighty God; having his being in and of himself, and giving being to all his words and works: and that he is a God in covenant, as with Israel of old, so with all his people; who, as he brought them out of their bondage in Egypt, so he delivereth us from our spiritual thraldom; and that therefore we are bound to take him for our God alone, and to keep all his commandments.",
+          "proofs": []
+        },
+        {
+          "n": 102,
+          "question": "What is the sum of the four commandments which contain our duty to God?",
+          "answer": "The sum of the four commandments containing our duty to God is, to love the Lord our God with all our heart, and with all our soul, and with all our strength, and with all our mind.",
+          "proofs": []
+        },
+        {
+          "n": 103,
+          "question": "Which is the first commandment?",
+          "answer": "The first commandment is, Thou shall have no other gods before me.",
+          "proofs": []
+        },
+        {
+          "n": 104,
+          "question": "What are the duties required in the first commandment?",
+          "answer": "The duties required in the first commandment are, the knowing and acknowledging of God to be the only true God, and our God; and to worship and glorify him accordingly, by thinking, meditating, remembering, highly esteeming, honoring, adoring, choosing, loving, desiring, fearing of him; believing him; trusting, hoping, delighting, rejoicing in him; being zealous for him; calling upon him, giving all praise and thanks, and yielding all obedience and submission to him with the whole man; being careful in all things to please him, and sorrowful when in anything he is offended; and walking humbly with him.",
+          "proofs": []
+        },
+        {
+          "n": 105,
+          "question": "What are the sins forbidden in the first commandment?",
+          "answer": "The sins forbidden in the first commandment are, atheism, in denying or not having a God; idolatry, in having or worshiping more gods than one, or any with or instead of the true God; the not having and avouching him for God, and our God; the omission or neglect of anything due to him, required in this commandment; ignorance, forgetfulness, misapprehensions, false opinions, unworthy and wicked thoughts of him; bold and curious searching into his secrets; all profaneness, hatred of God; self-love, self-seeking, and all other inordinate and immoderate setting of our mind, will, or affections upon other things, and taking them off from him in whole or in part; vain credulity, unbelief, heresy, misbelief, distrust, despair, incorrigibleness, and insensibleness under judgments, hardness of heart, pride, presumption, carnal security, tempting of God; using unlawful means, and trusting in lawful means; carnal delights and joys; corrupt, blind, and indiscreet zeal; lukewarmness, and deadness in the things of God; estranging ourselves, and apostatizing from God; praying, or giving any religious worship, to saints, angels, or any other creatures; all compacts and consulting with the devil, and hearkening to his suggestions; making men the lords of our faith and conscience; slighting and despising God and his commands; resisting and grieving of his Spirit, discontent and impatience at his dispensations, charging him foolishly for the evils he inflicts on us; and ascribing the praise of any good we either are, have, or can do, to fortune, idols, ourselves, or any other creature.",
+          "proofs": []
+        },
+        {
+          "n": 106,
+          "question": "What are we specially taught by these words before me in the first commandment?",
+          "answer": "These words before me or before my face, in the first commandment, teach us, that God, who seeth all things, taketh special notice of, and is much displeased with, the sin of having any other God: that so it may be an argument to dissuade from it, and to aggravate it as a most impudent provocation: as also to persuade us to do as in his sight, whatever we do in his service.",
+          "proofs": []
+        },
+        {
+          "n": 107,
+          "question": "Which is the second commandment?",
+          "answer": "The second commandment is, Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth: thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; and shewing mercy unto thousands of them that love me, and keep my commandments.",
+          "proofs": []
+        },
+        {
+          "n": 108,
+          "question": "What are the duties required in the second commandment?",
+          "answer": "The duties required in the second commandment are, the receiving, observing, and keeping pure and entire, all such religious worship and ordinances as God hath instituted in his Word; particularly prayer and thanksgiving in the name of Christ; the reading, preaching, and hearing of the Word; the administration and receiving of the sacraments; church government and discipline; the ministry and maintainance thereof; religious fasting; swearing by the name of God, and vowing unto him: as also the disapproving, detesting, opposing all false worship; and, according to each one’s place and calling, removing it, and all monuments of idolatry.",
+          "proofs": []
+        },
+        {
+          "n": 109,
+          "question": "What are the sins forbidden in the second commandment?",
+          "answer": "The sins forbidden in the second commandment are, all devising, counseling, commanding, using, and anywise approving, any religious worship not instituted by God himself; the making any representation of God, of all or of any of the three persons, either inwardly in our mind, or outwardly in any kind of image or likeness of any creature whatsoever; all worshiping of it, or God in it or by it; the making of any representation of feigned deities, and all worship of them, or service belonging to them; all superstitious devices, corrupting the worship of God, adding to it, or taking from it, whether invented and taken up of ourselves, or received by tradition from others, though under the title of antiquity, custom, devotion, good intent, or any other pretense whatsoever; simony; sacrilege; all neglect, contempt, hindering, and opposing the worship and ordinances which God hath appointed.",
+          "proofs": []
+        },
+        {
+          "n": 110,
+          "question": "What are the reasons annexed to the second commandment, the more to enforce it?",
+          "answer": "The reasons annexed to the second commandment, the more to enforce it, contained in these words, For I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; and shewing mercy unto thousands of them that love me, and keep my commandments; are, besides God’s sovereignty over us, and propriety in us, his fervent zeal for his own worship, and his revengeful indignation against all false worship, as being a spiritual whoredom; accounting the breakers of this commandment such as hate him, and threatening to punish them unto divers generations; and esteeming the observers of it such as love him and keep his commandments, and promising mercy to them unto many generations.",
+          "proofs": []
+        },
+        {
+          "n": 111,
+          "question": "Which is the third commandment?",
+          "answer": "The third commandment is, Thou shalt not take the name of the LORD thy God in vain; for the LORD will not hold him guiltless that taketh his name in vain.",
+          "proofs": []
+        },
+        {
+          "n": 112,
+          "question": "What is required in the third commandment?",
+          "answer": "The third commandment requires, that the name of God, his titles, attributes, ordinances, the Word, sacraments, prayer, oaths, vows, lots, his works, and whatsoever else there is whereby he makes himself known, be holily and reverently used in thought, meditation, word, and writing; by an holy profession, and answerable conversation, to the glory of God, and the good of ourselves, and others.",
+          "proofs": []
+        },
+        {
+          "n": 113,
+          "question": "What are the sins forbidden in the third commandment?",
+          "answer": "The sins forbidden in the third commandment are, the not using of God’s name as is required; and the abuse of it in an ignorant, vain, irreverent, profane, superstitious, or wicked men- tioning or otherwise using his titles, attributes, ordinances, or works, by blasphemy, perjury; all sinful cursings, oaths, vows, and lots; violating of our oaths and vows, if lawful, and fulfilling them, if of things unlawful; murmuring and quarreling at, curious prying into, and misapplying of God’s decrees and providences; misinterpreting, misapplying, or anyway perverting the Word, or any part of it, to profane jests, curious or unprofitable questions, vain janglings, or the maintaining of false doctrines; abusing it, the creatures, or anything contained under the name of God, to charms, or sinful lusts and practices; the maligning, scorning, reviling, or anywise opposing of God’s truth, grace, and ways; making profession of religion in hypocrisy, or for sinister ends; being ashamed of it, or a shame to it, by unconformable, unwise, unfruitful, and offensive walking, or backsliding from it.",
+          "proofs": []
+        },
+        {
+          "n": 114,
+          "question": "What reasons are annexed to the third commandment?",
+          "answer": "The reasons annexed to the third commandment, in these words, The LORD thy God, and, For the LORD will not hold him guiltless that taketh his name in vain, are, because he is the Lord and our God, therefore his name is not to be profaned, or anyway abused by us; especially because he will be so far from acquitting and sparing the transgressors of this commandment, as that he will not suffer them to escape his righteous judgment, albeit many such escape the censures and punishments of men.",
+          "proofs": []
+        }
+      ],
       "source": {
         "title": "Westminster Larger Catechism",
         "copyright_status": "public-domain",
         "copyright": "Public domain.",
         "license": "Public domain",
         "translation": "King James Version (Scripture proofs)",
-        "notes": "Public domain. Text to be added."
-      }
+        "notes": "Catechism text is in the public domain. Text supplied by the site owner."
+      },
+      "coverage_note": "Questions 1–98 and 100–114 are available. Question 99 and questions 115–196 have not yet been added, and Scripture proofs are still to come.",
+      "proofs_pending": true,
+      "placeholder": false
     },
     {
       "id": "wcf",

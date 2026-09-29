@@ -15,7 +15,7 @@ RE.pages.catechisms = function () {
       <h1 class="${RE.ui.isPH(q.question) ? "ph" : ""}">${esc(q.question)}</h1>
       <div class="prose"><p class="${RE.ui.isPH(q.answer) ? "ph" : ""}" style="font-size:1.2rem">${esc(q.answer)}</p></div>
       ${(q.proofs || []).length ? `<h3 style="margin-top:28px">Scripture proofs <span class="muted" style="font-family:var(--font-body);font-size:.8rem;font-weight:400">King James Version</span></h3>
-        <ul class="proofs">${q.proofs.map((r) => `<li><strong>${esc(r.ref)}</strong>${r.text ? " " + esc(r.text) : ""}</li>`).join("")}</ul>` : ""}
+        <ul class="proofs">${q.proofs.map((r) => `<li><strong>${esc(r.ref)}</strong>${r.text ? " " + esc(r.text) : ""}</li>`).join("")}</ul>` : cat.proofs_pending ? `<p class="muted" style="margin-top:24px">Scripture proofs (KJV) for this question have not yet been added.</p>` : ""}
       <p class="muted">${known.has(q.n) ? "You have marked this question as known." : ""}</p>
       <div class="tool-controls">
         ${cat.questions.some((x) => x.n === n - 1) ? `<a class="btn" href="${u(n - 1)}">← Question ${n - 1}</a>` : ""}

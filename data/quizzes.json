@@ -20,18 +20,16 @@
       "id": "wlc",
       "title": "Westminster Larger Catechism",
       "category": "Catechisms",
-      "status": "planned",
-      "description": "Planned. Questions not yet added.",
+      "status": "ready",
+      "description": "Multiple-choice questions generated from the text of the Westminster Larger Catechism (the questions currently available).",
       "questions": [],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]",
-        "notes": "Quiz questions are written for this site. Any quoted source material will be attributed here."
-      }
+        "title": "The Westminster Larger Catechism",
+        "copyright_status": "public-domain",
+        "copyright": "Public domain.",
+        "notes": "Questions are generated from the catechism text, which is in the public domain."
+      },
+      "from_catechism": "wlc"
     },
     {
       "id": "heidelberg",

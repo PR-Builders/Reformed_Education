@@ -29,6 +29,7 @@ RE.pages.catechisms = function () {
 
     root.innerHTML = `${RE.ui.breadcrumb([{ label: "Home", href: "index.html" }, { label: "Catechisms", href: "catechisms.html" }, { label: cat.short }])}
       <p class="label">${esc(cat.kind || "Catechism")} · ${esc(cat.group || "")}</p><h1>${esc(cat.name)}</h1>
+      ${cat.coverage_note ? `<div class="notice"><strong>Partly complete.</strong> ${esc(cat.coverage_note)}</div>` : ""}
       ${cat.placeholder ? RE.ui.placeholderNotice("Question and answer text below is placeholder content pending an approved edition.") : ""}
       ${qs.length ? `<div class="tabs" role="tablist" id="groups">${Object.keys(groups).map((g) => `<button class="tab" role="tab" data-group="${g}">${g}</button>`).join("")}
           <a class="tab" style="text-decoration:none" href="quiz.html?set=${esc(cat.id)}">Quiz →</a></div>
@@ -72,6 +73,7 @@ RE.pages.catechisms = function () {
             <span class="q-text ${phc(q.question)}">${esc(q.question)}${k.has(q.n) ? " ✓" : ""}</span></a></li>`).join("")}</ol>`;
       },
       proofs() {
+        if (!qs.some((q) => (q.proofs || []).length)) { panel.innerHTML = `<div class="notice">Scripture proofs have not yet been added for this document.</div>`; return; }
         panel.innerHTML = `<p class="muted">Scripture proofs for each answer (King James Version). Open a question to read the verses.</p>
           <ol class="qlist">${qs.map((q) => `<li><a href="${qUrl(q)}"><span class="q-num">${q.n}</span><span>
             <span class="q-text ${phc(q.question)}">${esc(q.question)}</span><br>
