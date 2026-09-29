@@ -20,7 +20,7 @@
   ];
 
   RE.config = {
-    version: "202609292350",   // stamped by tools/bump_version.py; appended to data requests to avoid stale caches
+    version: "202609292352",   // stamped by tools/bump_version.py; appended to data requests to avoid stale caches
     siteName: "Reformed Education",
     tagline: "Reformed education and resources, in one place.",
     latinTagline: "Quaere et Disce",
@@ -121,9 +121,18 @@
       },
       authors: {
         file: "authors.json", label: "Authors", singular: "Author", page: "authors.html",
-        intro: "Reformed theologians and writers. Each profile will eventually gather an author's books, courses, lectures and articles.",
-        cardMeta: ["dates", "tradition"], filters: [],
-        fields: [{ key: "dates", label: "Lived" }, { key: "tradition", label: "Tradition" }, { key: "works", label: "Principal Works", type: "list" }, { key: "website", label: "Website", type: "url" }, { key: "description", label: "Description", type: "text" }],
+        intro: "Reformed theologians and writers. Filter by topic, ease of reading and original language. Each profile will eventually gather an author's books, courses, lectures and articles.",
+        cardMeta: ["dates", "tradition"], filters: ["topics", "reading_level", "original_language"],
+        fields: [
+          { key: "dates", label: "Lived" },
+          { key: "tradition", label: "Tradition" },
+          { key: "topics", label: "Topics", type: "list" },
+          { key: "reading_level", label: "Ease of reading" },
+          { key: "original_language", label: "Original language", type: "list" },
+          { key: "works", label: "Principal Works", type: "list" },
+          { key: "website", label: "Website", type: "url" },
+          { key: "description", label: "Description", type: "text" },
+        ],
       },
       podcasts: {
         file: "podcasts.json", label: "Podcasts & Audio", singular: "Podcast", page: "podcasts.html",

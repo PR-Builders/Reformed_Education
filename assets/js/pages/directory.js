@@ -19,6 +19,7 @@ RE.pages._directory = function () {
       return { key, label, values };
     }))).filter((f) => f.values.length);
 
+    const waiting = cfg.filters.filter((k) => !facets.some((f) => f.key === k)).map((k) => ({ key: k, label: (cfg.fields.find((f) => f.key === k) || { label: k }).label }));
     root.innerHTML = `
       <div class="page-head"><div class="container">
         ${RE.ui.breadcrumb([{ label: "Home", href: "index.html" }, { label: cfg.label }])}
@@ -32,6 +33,7 @@ RE.pages._directory = function () {
           ${facets.map((f) => `<div class="field"><label for="f-${f.key}">${esc(f.label)}</label>
             <select class="input" id="f-${f.key}" data-facet="${f.key}"><option value="">All</option>${f.values.map((v) => `<option>${esc(v)}</option>`).join("")}</select></div>`).join("")}
           <div class="count" id="count" aria-live="polite"></div>
+          ${waiting.length ? `<p class="muted" style="flex:1 1 100%;margin:0;font-size:.85rem">Filters by ${waiting.map((f) => esc(f.label.toLowerCase())).join(", ")} will appear as entries are tagged.</p>` : ""}
         </div>
         <div class="grid grid-cards" id="cards"></div>
       </div>`;

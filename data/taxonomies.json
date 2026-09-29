@@ -82,5 +82,34 @@
       "Book",
       "Worship resource"
     ]
+  },
+  "authors": {
+    "topics": [
+      "Systematic Theology",
+      "Biblical Theology",
+      "Church History",
+      "Reformation History",
+      "Apologetics",
+      "Covenant Theology",
+      "Presbyterianism",
+      "Worship",
+      "Ethics",
+      "Pastoral Theology",
+      "Preaching",
+      "Christian Living",
+      "Confessions and Catechisms"
+    ],
+    "reading_level": [
+      "Easy",
+      "Moderate",
+      "Challenging"
+    ],
+    "original_language": [
+      "English",
+      "Latin",
+      "French",
+      "Dutch",
+      "German"
+    ]
   }
 }

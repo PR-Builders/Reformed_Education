@@ -64,6 +64,7 @@ Before each deploy run `python3 tools/bump_version.py`. GitHub Pages lets browse
 Entries were seeded from reformededucation.org's preliminary research as **names only**. Each carries `"verification": "listed"` (shown as a *Details pending* badge); every other field is a placeholder until researched from the institution's own website. Move an entry to `researched` and then `verified` (which requires a cited source URL) as details are confirmed.
 
 - **Vocabularies:** Filter values (seminary tradition/delivery/degrees, school emphasis, subjects, officer role) live in `data/taxonomies.json`. Filters appear only when at least one entry uses a value.
+- **Author filters:** authors carry `topics` (list), `reading_level` (Easy / Moderate / Challenging) and `original_language` (list), each limited to the vocabularies in `taxonomies.json`. To add a filter, add the field to the collection's `fields` and `filters` in `config.js` and its allowed values to `taxonomies.json`.
 - **Related entries:** an entry may list `"related": [{ "type": "publishers", "id": "…" }]`, e.g. an author linking to books, courses and lectures.
 - **Categories:** seminaries, colleges, schools, courses, catechisms, library (publishers, authors, podcasts, lectures, resources), family, officers, quizzes.
 

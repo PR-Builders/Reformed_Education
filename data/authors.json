@@ -1,5 +1,5 @@
 {
-  "_note": "Names supplied by reformededucation.org from its preliminary research. Entries are name-only (`verification: listed`); every other field is a placeholder until researched from the institution's own site. Nothing here is verified.",
+  "_note": "Names supplied by reformededucation.org from its preliminary research. Entries are name-only (`verification: listed`); every other field is a placeholder until researched from the institution's own site. Nothing here is verified. Topics, ease of reading and original language use the vocabularies in taxonomies.json and stay placeholders until each author is assessed.",
   "entries": [
     {
       "id": "john-calvin",
@@ -22,7 +22,14 @@
         "license": "[Placeholder — information to be added]"
       },
       "tags": [],
-      "related": []
+      "related": [],
+      "topics": [
+        "[Placeholder — information to be added]"
+      ],
+      "reading_level": "[Placeholder — information to be added]",
+      "original_language": [
+        "[Placeholder — information to be added]"
+      ]
     },
     {
       "id": "john-knox",
@@ -45,7 +52,14 @@
         "license": "[Placeholder — information to be added]"
       },
       "tags": [],
-      "related": []
+      "related": [],
+      "topics": [
+        "[Placeholder — information to be added]"
+      ],
+      "reading_level": "[Placeholder — information to be added]",
+      "original_language": [
+        "[Placeholder — information to be added]"
+      ]
     },
     {
       "id": "theodore-beza",
@@ -68,7 +82,14 @@
         "license": "[Placeholder — information to be added]"
       },
       "tags": [],
-      "related": []
+      "related": [],
+      "topics": [
+        "[Placeholder — information to be added]"
+      ],
+      "reading_level": "[Placeholder — information to be added]",
+      "original_language": [
+        "[Placeholder — information to be added]"
+      ]
     },
     {
       "id": "john-owen",
@@ -91,7 +112,14 @@
         "license": "[Placeholder — information to be added]"
       },
       "tags": [],
-      "related": []
+      "related": [],
+      "topics": [
+        "[Placeholder — information to be added]"
+      ],
+      "reading_level": "[Placeholder — information to be added]",
+      "original_language": [
+        "[Placeholder — information to be added]"
+      ]
     },
     {
       "id": "thomas-watson",
@@ -114,7 +142,14 @@
         "license": "[Placeholder — information to be added]"
       },
       "tags": [],
-      "related": []
+      "related": [],
+      "topics": [
+        "[Placeholder — information to be added]"
+      ],
+      "reading_level": "[Placeholder — information to be added]",
+      "original_language": [
+        "[Placeholder — information to be added]"
+      ]
     },
     {
       "id": "jonathan-edwards",
@@ -137,7 +172,14 @@
         "license": "[Placeholder — information to be added]"
       },
       "tags": [],
-      "related": []
+      "related": [],
+      "topics": [
+        "[Placeholder — information to be added]"
+      ],
+      "reading_level": "[Placeholder — information to be added]",
+      "original_language": [
+        "[Placeholder — information to be added]"
+      ]
     },
     {
       "id": "charles-hodge",
@@ -160,7 +202,14 @@
         "license": "[Placeholder — information to be added]"
       },
       "tags": [],
-      "related": []
+      "related": [],
+      "topics": [
+        "[Placeholder — information to be added]"
+      ],
+      "reading_level": "[Placeholder — information to be added]",
+      "original_language": [
+        "[Placeholder — information to be added]"
+      ]
     },
     {
       "id": "b-b-warfield",
@@ -183,7 +232,14 @@
         "license": "[Placeholder — information to be added]"
       },
       "tags": [],
-      "related": []
+      "related": [],
+      "topics": [
+        "[Placeholder — information to be added]"
+      ],
+      "reading_level": "[Placeholder — information to be added]",
+      "original_language": [
+        "[Placeholder — information to be added]"
+      ]
     },
     {
       "id": "j-gresham-machen",
@@ -206,7 +262,14 @@
         "license": "[Placeholder — information to be added]"
       },
       "tags": [],
-      "related": []
+      "related": [],
+      "topics": [
+        "[Placeholder — information to be added]"
+      ],
+      "reading_level": "[Placeholder — information to be added]",
+      "original_language": [
+        "[Placeholder — information to be added]"
+      ]
     },
     {
       "id": "herman-bavinck",
@@ -229,7 +292,14 @@
         "license": "[Placeholder — information to be added]"
       },
       "tags": [],
-      "related": []
+      "related": [],
+      "topics": [
+        "[Placeholder — information to be added]"
+      ],
+      "reading_level": "[Placeholder — information to be added]",
+      "original_language": [
+        "[Placeholder — information to be added]"
+      ]
     },
     {
       "id": "louis-berkhof",
@@ -252,7 +322,14 @@
         "license": "[Placeholder — information to be added]"
       },
       "tags": [],
-      "related": []
+      "related": [],
+      "topics": [
+        "[Placeholder — information to be added]"
+      ],
+      "reading_level": "[Placeholder — information to be added]",
+      "original_language": [
+        "[Placeholder — information to be added]"
+      ]
     },
     {
       "id": "geerhardus-vos",
@@ -275,7 +352,14 @@
         "license": "[Placeholder — information to be added]"
       },
       "tags": [],
-      "related": []
+      "related": [],
+      "topics": [
+        "[Placeholder — information to be added]"
+      ],
+      "reading_level": "[Placeholder — information to be added]",
+      "original_language": [
+        "[Placeholder — information to be added]"
+      ]
     },
     {
       "id": "john-murray",
@@ -298,7 +382,14 @@
         "license": "[Placeholder — information to be added]"
       },
       "tags": [],
-      "related": []
+      "related": [],
+      "topics": [
+        "[Placeholder — information to be added]"
+      ],
+      "reading_level": "[Placeholder — information to be added]",
+      "original_language": [
+        "[Placeholder — information to be added]"
+      ]
     },
     {
       "id": "r-c-sproul",
@@ -321,7 +412,14 @@
         "license": "[Placeholder — information to be added]"
       },
       "tags": [],
-      "related": []
+      "related": [],
+      "topics": [
+        "[Placeholder — information to be added]"
+      ],
+      "reading_level": "[Placeholder — information to be added]",
+      "original_language": [
+        "[Placeholder — information to be added]"
+      ]
     },
     {
       "id": "sinclair-ferguson",
@@ -344,7 +442,14 @@
         "license": "[Placeholder — information to be added]"
       },
       "tags": [],
-      "related": []
+      "related": [],
+      "topics": [
+        "[Placeholder — information to be added]"
+      ],
+      "reading_level": "[Placeholder — information to be added]",
+      "original_language": [
+        "[Placeholder — information to be added]"
+      ]
     },
     {
       "id": "joel-beeke",
@@ -367,7 +472,14 @@
         "license": "[Placeholder — information to be added]"
       },
       "tags": [],
-      "related": []
+      "related": [],
+      "topics": [
+        "[Placeholder — information to be added]"
+      ],
+      "reading_level": "[Placeholder — information to be added]",
+      "original_language": [
+        "[Placeholder — information to be added]"
+      ]
     },
     {
       "id": "michael-horton",
@@ -390,7 +502,14 @@
         "license": "[Placeholder — information to be added]"
       },
       "tags": [],
-      "related": []
+      "related": [],
+      "topics": [
+        "[Placeholder — information to be added]"
+      ],
+      "reading_level": "[Placeholder — information to be added]",
+      "original_language": [
+        "[Placeholder — information to be added]"
+      ]
     },
     {
       "id": "o-palmer-robertson",
@@ -413,7 +532,14 @@
         "license": "[Placeholder — information to be added]"
       },
       "tags": [],
-      "related": []
+      "related": [],
+      "topics": [
+        "[Placeholder — information to be added]"
+      ],
+      "reading_level": "[Placeholder — information to be added]",
+      "original_language": [
+        "[Placeholder — information to be added]"
+      ]
     },
     {
       "id": "ligon-duncan",
@@ -436,7 +562,14 @@
         "license": "[Placeholder — information to be added]"
       },
       "tags": [],
-      "related": []
+      "related": [],
+      "topics": [
+        "[Placeholder — information to be added]"
+      ],
+      "reading_level": "[Placeholder — information to be added]",
+      "original_language": [
+        "[Placeholder — information to be added]"
+      ]
     },
     {
       "id": "j-v-fesko",
@@ -459,7 +592,14 @@
         "license": "[Placeholder — information to be added]"
       },
       "tags": [],
-      "related": []
+      "related": [],
+      "topics": [
+        "[Placeholder — information to be added]"
+      ],
+      "reading_level": "[Placeholder — information to be added]",
+      "original_language": [
+        "[Placeholder — information to be added]"
+      ]
     }
   ]
 }
