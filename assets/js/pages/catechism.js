@@ -13,7 +13,8 @@ RE.pages.catechisms = function () {
     const cat = await RE.data.catechism(param("id") || "wsc");
     if (!cat) { root.innerHTML = `<div class="notice error">Catechism not found. <a href="catechisms.html">All catechisms</a></div>`; return; }
     document.title = `${cat.name} — Reformed Education`;
-    const qs = cat.questions;
+    const qs = cat.questions || [];
+    if (!qs.length && cat.count) { root.innerHTML = `<div class="notice error"><strong>This page is out of date in your browser.</strong> Please reload it (Cmd/Ctrl + Shift + R) to fetch the latest files.</div>`; return; }
     const knownKey = `known:${cat.id}`;
     const known = () => new Set(RE.store.get(knownKey, []));
     const saveKnown = (s) => RE.store.set(knownKey, [...s]);

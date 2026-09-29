@@ -4,7 +4,8 @@ RE.pages.catechisms = function () {
   RE.ui.run(root, async () => {
     const cat = await RE.data.catechism(param("id") || "wsc");
     const n = parseInt(param("q"), 10);
-    const q = cat && cat.questions.find((x) => x.n === n);
+    const all = (cat && cat.questions) || [];
+    const q = all.find((x) => x.n === n);
     if (!q) { root.innerHTML = `<div class="notice error">Question not found. <a href="catechisms.html">All catechisms</a></div>`; return; }
     const u = (m) => `question.html?id=${encodeURIComponent(cat.id)}&q=${m}`;
     const known = new Set(RE.store.get(`known:${cat.id}`, []));
@@ -19,8 +20,8 @@ RE.pages.catechisms = function () {
         <ul class="proofs">${q.proofs.map((r) => `<li><strong>${esc(r.ref)}</strong>${r.text ? " " + esc(r.text) : ""}</li>`).join("")}</ul>` : ""}
       <p class="muted">${known.has(q.n) ? "You have marked this question as known." : ""}</p>
       <div class="tool-controls">
-        ${cat.questions.some((x) => x.n === n - 1) ? `<a class="btn" href="${u(n - 1)}">← Question ${n - 1}</a>` : ""}
-        ${cat.questions.some((x) => x.n === n + 1) ? `<a class="btn" href="${u(n + 1)}">Question ${n + 1} →</a>` : ""}
+        ${all.some((x) => x.n === n - 1) ? `<a class="btn" href="${u(n - 1)}">← Question ${n - 1}</a>` : ""}
+        ${all.some((x) => x.n === n + 1) ? `<a class="btn" href="${u(n + 1)}">Question ${n + 1} →</a>` : ""}
         <a class="btn btn-primary" href="catechism.html?id=${esc(cat.id)}&amp;mode=memorize">Practice memorization</a></div>
       <div style="margin-top:40px;max-width:640px">${RE.ui.citation(cat.source, { heading: "Edition & Source" })}</div>`;
   });

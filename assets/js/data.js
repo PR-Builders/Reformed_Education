@@ -6,7 +6,7 @@
 
   async function fetchJSON(file) {
     let res;
-    try { res = await fetch(RE.config.dataPath + file); }
+    try { res = await fetch(RE.config.dataPath + file + "?v=" + encodeURIComponent(RE.config.version)); }
     catch (e) {
       const err = new Error("Could not load " + file);
       err.fileProtocol = location.protocol === "file:";

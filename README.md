@@ -46,6 +46,9 @@ python3 -m http.server 8000
 
 ## Deploy on GitHub Pages
 
+Before each deploy run `python3 tools/bump_version.py`. GitHub Pages lets browsers cache files for 10 minutes, and the version stamp on every script, stylesheet and data request stops a browser mixing old and new files (which shows up as odd errors right after an update).
+
+
 1. Push the repository to GitHub.
 2. **Settings → Pages → Build and deployment**: Source = *Deploy from a branch*, Branch = `main`, folder `/ (root)`.
 3. The site appears at `https://<user>.github.io/<repo>/`. All links are relative, so a project subpath works.
