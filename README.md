@@ -5,7 +5,7 @@ Latin motto: *Quaere et Disce* (“Seek and learn”)
 
 A directory and resource hub for Reformed Christian education: seminaries, colleges, Christian schools, online courses, catechisms, books, lectures, podcasts, quizzes and more.
 
-**Status: initial frontend foundation.** All directory entries, catechism text and quiz questions are **placeholders** (`[Placeholder — information to be added]`). Nothing has been invented. Real content is added only from verified or approved sources.
+**Status: early foundation.** Directory entries are name-only listings awaiting research (`[Placeholder — information to be added]`). The Westminster Shorter Catechism is complete (107 questions with KJV Scripture proofs, public domain); other catechisms are planned. Nothing has been invented; real content is added only from verified or approved sources.
 
 ## Architecture
 
@@ -66,7 +66,7 @@ Entries were seeded from the owner's preliminary research as **names only**. Eac
 
 ## Interactive tools
 
-The catechism page (`catechism.html?id=wsc`) offers Study (Q&A, Scripture proofs, topics, search), Practice (flashcards, fill in the blank, multiple choice, random, memorize) and Games (10 / 25 / full challenge with optional timer, and streak). Data comes from the catechism's `questions` array (`question`, `answer`, `topic`, `proofs`). Multiple choice draws distractors from the other answers, so each new catechism gets every mode automatically. Progress, scores and best streaks are stored in `localStorage` only.
+The catechism page (`catechism.html?id=wsc`) offers Study (Q&A, Scripture proofs, topics, search), Practice (flashcards, fill in the blank, multiple choice, random, memorize) and Games (10 / 25 / full challenge with optional timer, and streak). Data comes from the catechism's `questions` array (`question`, `answer`, optional `topic`, and `proofs` as `{ ref, text }` KJV citations). The catechism's quiz set is generated from the same text (`from_catechism` in `quizzes.json`). Multiple choice draws distractors from the other answers, so each new catechism gets every mode automatically. Progress, scores and best streaks are stored in `localStorage` only.
 
 ## Sources & attribution
 
@@ -86,7 +86,7 @@ Every entry, catechism and quiz set has a `source` record:
 - Unknown values stay `"[Placeholder — information to be added]"`. Never guess.
 - If `copyright` or `notes` are omitted, site defaults apply (`citationDefaults` in `config.js`): *"Copyright retained by original publisher."* / *"Resource indexed for educational and directory purposes."*
 - Components in `ui.js`: `RE.ui.citation()` (full block with a "Visit the original source" button and a formatted "Cite as" line), `RE.ui.citeLine()` (one-line credit on cards), `RE.ui.quote()` (attributed quotation, capped at 300 characters).
-- **Catechisms/confessions** must record the `edition` and `translation` used (e.g. a named publisher's or denomination's edition). Only use text that is public domain or licensed, and set `copyright_status` to say which.
+- **Catechisms/confessions** must record the `edition` and `translation` used (e.g. a named publisher's or denomination's edition). The catechisms are public domain, so their source record notes that and needs no publisher. Scripture proofs and quotations use the King James Version. Any non-public-domain text still needs permission and a named edition.
 - Add brief quotations to an entry as `"quotes": [{ "text": "…", "source": { "author": "…", "title": "…", "url": "…" } }]`.
 - Run `python3 tools/validate_data.py` before committing data. It fails on a missing `source`, non-http(s) URLs, public-domain claims with no named source, over-long quotes, or catechism text with no edition.
 

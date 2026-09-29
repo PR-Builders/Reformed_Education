@@ -5,55 +5,16 @@
       "id": "wsc",
       "title": "Westminster Shorter Catechism",
       "category": "Catechisms",
-      "status": "placeholder",
-      "description": "Placeholder sample questions demonstrate the quiz format. Real questions will be added once source material is approved.",
-      "questions": [
-        {
-          "id": "wsc-1",
-          "prompt": "[Placeholder — question 1]",
-          "choices": [
-            "[Placeholder — option A]",
-            "[Placeholder — option B]",
-            "[Placeholder — option C]",
-            "[Placeholder — option D]"
-          ],
-          "answer": 1,
-          "placeholder": true
-        },
-        {
-          "id": "wsc-2",
-          "prompt": "[Placeholder — question 2]",
-          "choices": [
-            "[Placeholder — option A]",
-            "[Placeholder — option B]",
-            "[Placeholder — option C]",
-            "[Placeholder — option D]"
-          ],
-          "answer": 2,
-          "placeholder": true
-        },
-        {
-          "id": "wsc-3",
-          "prompt": "[Placeholder — question 3]",
-          "choices": [
-            "[Placeholder — option A]",
-            "[Placeholder — option B]",
-            "[Placeholder — option C]",
-            "[Placeholder — option D]"
-          ],
-          "answer": 0,
-          "placeholder": true
-        }
-      ],
+      "status": "ready",
+      "description": "Multiple-choice questions generated from the text of the Westminster Shorter Catechism. Each question asks for the correct answer among answers to other questions.",
+      "questions": [],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]",
-        "notes": "Quiz questions are written for this site. Any quoted source material will be attributed here."
-      }
+        "title": "The Westminster Shorter Catechism",
+        "copyright_status": "public-domain",
+        "copyright": "Public domain.",
+        "notes": "Questions are generated from the catechism text, which is in the public domain."
+      },
+      "from_catechism": "wsc"
     },
     {
       "id": "wlc",

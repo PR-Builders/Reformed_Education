@@ -86,7 +86,7 @@
         ["Copyright", s.copyright != null ? s.copyright : D.copyright],
         ["License", s.license],
         ["Attribution", s.notes != null ? s.notes : D.notes],
-      ].filter((r) => r[1] !== undefined || ["Source", "Author", "Organization", "Original URL", "Published", "License"].includes(r[0]));
+      ].filter((r) => r[1] !== undefined);
       const text = ui.citationText(s);
       return `<section class="citation" aria-label="Source and attribution">
         <h4 class="citation-title">${esc(opts.heading || "Source & Attribution")}${status ? ` ${ui.tag(status, s.copyright_status === "public-domain" ? "" : "tag-planned")}` : ""}</h4>

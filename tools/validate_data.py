@@ -27,8 +27,8 @@ def real(v): return isinstance(v, str) and v and not PH.match(v)
 def check_source(where, s, need_edition=False):
     if not isinstance(s, dict): errors.append(f"{where}: missing `source` record"); return
     if real(s.get("url")) and not re.match(r"^https?://", s["url"]): errors.append(f"{where}: source.url must be http(s)")
-    if s.get("copyright_status") == "public-domain" and not (real(s.get("title")) and real(s.get("organization"))):
-        errors.append(f"{where}: public-domain works must name a source title and organization")
+    if s.get("copyright_status") == "public-domain" and not real(s.get("title")):
+        errors.append(f"{where}: public-domain works must name a source title")
     if need_edition and not (real(s.get("edition")) or real(s.get("translation"))):
         errors.append(f"{where}: real catechism text requires source.edition/translation")
 

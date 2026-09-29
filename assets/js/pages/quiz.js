@@ -13,7 +13,7 @@ RE.pages.quizzes = function () {
     const intro = () => {
       const hist = RE.store.scoresFor(set.id).slice(-5).reverse();
       root.innerHTML = `${crumbs}<p class="label">${esc(set.category)}</p><h1>${esc(set.title)}</h1>
-        ${set.status !== "planned" ? RE.ui.placeholderNotice("These questions and answers are placeholders. Do not treat them as real content.") : ""}
+        ${set.status === "placeholder" ? RE.ui.placeholderNotice("These questions and answers are placeholders. Do not treat them as real content.") : ""}
         <p class="prose">${esc(set.description)}</p>
         ${set.questions.length ? `<label class="radio" style="display:flex;gap:8px;align-items:center;margin:20px 0"><input type="checkbox" id="timed"> Timed (${SECONDS} seconds per question)</label>
           <button class="btn btn-primary" id="start">Begin quiz</button>` : `<div class="notice">Planned. Questions have not yet been added.</div>`}

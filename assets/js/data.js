@@ -46,7 +46,22 @@
       const doc = await load("taxonomies");
       return (doc[type] && doc[type][field]) || null;
     },
-    quizzes: async () => (await load("quizzes")).sets || [],
+    /* Quiz sets. A set with `from_catechism` gets multiple-choice questions generated from that catechism's text. */
+    async quizzes() {
+      const sets = (await load("quizzes")).sets || [];
+      return Promise.all(sets.map(async (s) => {
+        if (!s.from_catechism) return s;
+        const cat = await RE.data.catechism(s.from_catechism);
+        const qs = (cat && cat.questions) || [];
+        const questions = qs.map((q) => {
+          const others = qs.filter((x) => x.n !== q.n).map((x) => x.answer);
+          const wrong = others.sort(() => Math.random() - 0.5).slice(0, 3);
+          const choices = [q.answer, ...wrong].sort(() => Math.random() - 0.5);
+          return { id: `${cat.id}-${q.n}`, prompt: `${q.n}. ${q.question}`, choices, answer: choices.indexOf(q.answer) };
+        });
+        return Object.assign({}, s, { questions });
+      }));
+    },
     async quiz(id) { return (await RE.data.quizzes()).find((s) => s.id === id) || null; },
     /* Catechism helpers */
     catechism: (id) => RE.data.get("catechisms", id),

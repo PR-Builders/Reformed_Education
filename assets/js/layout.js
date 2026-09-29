@@ -29,7 +29,7 @@
     <div class="footer-grid">
       <div><h4>Reformed Education</h4><p>${esc(c.tagline)}</p>
         <p class="motto" lang="la">${esc(c.latinTagline)} <span>· ${esc(c.latinTranslation)}</span></p>
-        <p class="muted">A directory and resource hub for Reformed Christian education. Early foundation — most entries are placeholders.</p></div>
+        <p class="muted">A directory and resource hub for Reformed Christian education. Early foundation — directory details are being added.</p></div>
       <div><h4>Explore</h4><ul>${c.categories.map((x) => `<li><a href="${x.href}">${esc(x.label)}</a></li>`).join("")}</ul></div>
       <div><h4>Site</h4><ul><li><a href="education.html">Education</a></li><li><a href="search.html">Search</a></li><li><a href="sources.html">Sources &amp; Copyright</a></li><li><a href="about.html">About</a></li></ul></div>
     </div>

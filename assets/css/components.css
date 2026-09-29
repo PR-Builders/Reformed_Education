@@ -188,6 +188,10 @@ table.table { width: 100%; border-collapse: collapse; font-size: .9rem; }
 .quote footer { font-family: var(--font-body); font-size: .8rem; color: var(--color-muted); }
 .band-navy .cite-line { color: rgba(243,242,242,.7); }
 
+ul.proofs { list-style: none; padding: 0; margin: 0; max-width: var(--measure); font-size: .95rem; }
+ul.proofs li { padding: 10px 0; border-top: 1px solid var(--color-divider); }
+ul.proofs strong { font-family: var(--font-heading); font-size: 1.05rem; color: var(--color-gold-text); }
+
 /* ── Footer ─────────────────────────────────────────────── */
 .site-footer { border-top: 1px solid var(--color-divider); padding-block: var(--space-8); font-size: .88rem; background: var(--color-surface); }
 .footer-grid { display: grid; grid-template-columns: 1.4fr 1fr 1fr; gap: var(--space-8); }

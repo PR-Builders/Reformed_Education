@@ -72,12 +72,13 @@ RE.pages.catechisms = function () {
             <span class="q-text ${phc(q.question)}">${esc(q.question)}${k.has(q.n) ? " ✓" : ""}</span></a></li>`).join("")}</ol>`;
       },
       proofs() {
-        panel.innerHTML = `<p class="muted">Scripture proofs for each answer. Proof texts are cited from the edition named below; they will be added with the approved text.</p>
+        panel.innerHTML = `<p class="muted">Scripture proofs for each answer (King James Version). Open a question to read the verses.</p>
           <ol class="qlist">${qs.map((q) => `<li><a href="${qUrl(q)}"><span class="q-num">${q.n}</span><span>
             <span class="q-text ${phc(q.question)}">${esc(q.question)}</span><br>
-            <span class="muted">${(q.proofs || []).map((p) => `<span class="${phc(p)}">${esc(p)}</span>`).join("; ") || "—"}</span></span></a></li>`).join("")}</ol>`;
+            <span class="muted">${(q.proofs || []).map((p) => esc(p.ref)).join("; ") || "No proof texts in this edition."}</span></span></a></li>`).join("")}</ol>`;
       },
       topics() {
+        if (!qs.some((q) => q.topic)) { panel.innerHTML = `<div class="notice">Topics have not yet been assigned to these questions.</div>`; return; }
         const by = {};
         qs.forEach((q) => (by[q.topic || "Uncategorized"] = by[q.topic || "Uncategorized"] || []).push(q));
         panel.innerHTML = Object.keys(by).map((t) => `<h3 class="${phc(t)}">${esc(t)}</h3><ol class="qlist">${by[t].map((q) =>

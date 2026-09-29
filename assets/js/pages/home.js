@@ -13,8 +13,8 @@ RE.pages.home = function () {
       <a class="card" href="quiz.html?set=${encodeURIComponent(s.id)}">
         <div class="card-kicker">${esc(s.category)}</div>
         <h3 class="card-title">${esc(s.title)}</h3>
-        <p class="card-body">${s.questions.length ? `${s.questions.length} sample questions` : "Planned"}</p>
-        <div class="card-tags">${tag(s.status === "planned" ? "Planned" : "Placeholder questions", s.status === "planned" ? "tag-planned" : "tag-placeholder")}</div>
+        <p class="card-body">${s.questions.length ? `${s.questions.length} ${s.status === "ready" ? "questions" : "sample questions"}` : "Planned"}</p>
+        <div class="card-tags">${tag(s.status === "planned" ? "Planned" : s.status === "ready" ? "Ready" : "Placeholder questions", s.status === "planned" ? "tag-planned" : s.status === "ready" ? "" : "tag-placeholder")}</div>
       </a>`).join("");
   });
 };
