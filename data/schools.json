@@ -1,0 +1,22 @@
+{
+  "_note": "All entries are placeholders demonstrating the data shape. Replace with verified information.",
+  "entries": [
+    {
+      "id": "placeholder-school-1",
+      "name": "[Placeholder — School Name 1]",
+      "placeholder": true,
+      "location": "[Placeholder — information to be added]",
+      "grades": "[Placeholder — information to be added]",
+      "tradition": "[Placeholder — information to be added]",
+      "affiliation": "[Placeholder — information to be added]",
+      "accreditation": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "admissions_url": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "tags": [
+        "placeholder"
+      ]
+    }
+  ]
+}

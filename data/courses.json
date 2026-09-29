@@ -1,0 +1,37 @@
+{
+  "_note": "All entries are placeholders demonstrating the data shape. Replace with verified information.",
+  "entries": [
+    {
+      "id": "placeholder-course-1",
+      "name": "[Placeholder — Course Title 1]",
+      "placeholder": true,
+      "provider": "[Placeholder — information to be added]",
+      "instructor": "[Placeholder — information to be added]",
+      "format": "Online",
+      "level": "[Placeholder — information to be added]",
+      "subject": "[Placeholder — information to be added]",
+      "cost": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "tags": [
+        "placeholder"
+      ]
+    },
+    {
+      "id": "placeholder-course-2",
+      "name": "[Placeholder — Course Title 2]",
+      "placeholder": true,
+      "provider": "[Placeholder — information to be added]",
+      "instructor": "[Placeholder — information to be added]",
+      "format": "Self-paced",
+      "level": "[Placeholder — information to be added]",
+      "subject": "[Placeholder — information to be added]",
+      "cost": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "tags": [
+        "placeholder"
+      ]
+    }
+  ]
+}

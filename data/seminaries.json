@@ -1,0 +1,47 @@
+{
+  "_note": "All entries are placeholders demonstrating the data shape. Replace with verified information.",
+  "entries": [
+    {
+      "id": "placeholder-seminary-1",
+      "name": "[Placeholder — Seminary Name 1]",
+      "placeholder": true,
+      "location": "[Placeholder — information to be added]",
+      "tradition": "[Placeholder — information to be added]",
+      "affiliation": "[Placeholder — information to be added]",
+      "degree_programs": [
+        "[Placeholder — information to be added]"
+      ],
+      "online_programs": "[Placeholder — information to be added]",
+      "residential_programs": "[Placeholder — information to be added]",
+      "accreditation": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "admissions_url": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "tags": [
+        "placeholder"
+      ]
+    },
+    {
+      "id": "placeholder-seminary-2",
+      "name": "[Placeholder — Seminary Name 2]",
+      "placeholder": true,
+      "location": "[Placeholder — information to be added]",
+      "tradition": "[Placeholder — information to be added]",
+      "affiliation": "[Placeholder — information to be added]",
+      "degree_programs": [
+        "[Placeholder — information to be added]"
+      ],
+      "online_programs": "[Placeholder — information to be added]",
+      "residential_programs": "[Placeholder — information to be added]",
+      "accreditation": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "admissions_url": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "tags": [
+        "placeholder"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "_note": "Question and answer text is deliberately NOT included. Placeholder only, pending approved source text.",
+  "entries": [
+    {
+      "id": "wsc",
+      "name": "Westminster Shorter Catechism",
+      "short": "WSC",
+      "placeholder": true,
+      "status": "framework",
+      "description": "Framework for the Westminster Shorter Catechism study tools. Question text is placeholder content pending approved source text.",
+      "tags": [
+        "placeholder"
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "question": "[Placeholder — question 1 text to be added]",
+          "answer": "[Placeholder — answer 1 text to be added]",
+          "placeholder": true
+        },
+        {
+          "n": 2,
+          "question": "[Placeholder — question 2 text to be added]",
+          "answer": "[Placeholder — answer 2 text to be added]",
+          "placeholder": true
+        },
+        {
+          "n": 3,
+          "question": "[Placeholder — question 3 text to be added]",
+          "answer": "[Placeholder — answer 3 text to be added]",
+          "placeholder": true
+        },
+        {
+          "n": 4,
+          "question": "[Placeholder — question 4 text to be added]",
+          "answer": "[Placeholder — answer 4 text to be added]",
+          "placeholder": true
+        },
+        {
+          "n": 5,
+          "question": "[Placeholder — question 5 text to be added]",
+          "answer": "[Placeholder — answer 5 text to be added]",
+          "placeholder": true
+        }
+      ]
+    },
+    {
+      "id": "wlc",
+      "name": "Westminster Larger Catechism",
+      "short": "WLC",
+      "placeholder": true,
+      "status": "planned",
+      "description": "Planned. Content not yet added.",
+      "tags": [
+        "planned"
+      ],
+      "questions": []
+    },
+    {
+      "id": "heidelberg",
+      "name": "Heidelberg Catechism",
+      "short": "HC",
+      "placeholder": true,
+      "status": "planned",
+      "description": "Planned. Content not yet added.",
+      "tags": [
+        "planned"
+      ],
+      "questions": []
+    }
+  ]
+}

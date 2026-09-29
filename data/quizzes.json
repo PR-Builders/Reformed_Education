@@ -1,0 +1,151 @@
+{
+  "_note": "Quiz questions are placeholders. Do not treat option order or answers as real content.",
+  "sets": [
+    {
+      "id": "wsc",
+      "title": "Westminster Shorter Catechism",
+      "category": "Catechisms",
+      "status": "placeholder",
+      "description": "Placeholder sample questions demonstrate the quiz format. Real questions will be added once source material is approved.",
+      "questions": [
+        {
+          "id": "wsc-1",
+          "prompt": "[Placeholder — question 1]",
+          "choices": [
+            "[Placeholder — option A]",
+            "[Placeholder — option B]",
+            "[Placeholder — option C]",
+            "[Placeholder — option D]"
+          ],
+          "answer": 1,
+          "placeholder": true
+        },
+        {
+          "id": "wsc-2",
+          "prompt": "[Placeholder — question 2]",
+          "choices": [
+            "[Placeholder — option A]",
+            "[Placeholder — option B]",
+            "[Placeholder — option C]",
+            "[Placeholder — option D]"
+          ],
+          "answer": 2,
+          "placeholder": true
+        },
+        {
+          "id": "wsc-3",
+          "prompt": "[Placeholder — question 3]",
+          "choices": [
+            "[Placeholder — option A]",
+            "[Placeholder — option B]",
+            "[Placeholder — option C]",
+            "[Placeholder — option D]"
+          ],
+          "answer": 0,
+          "placeholder": true
+        }
+      ]
+    },
+    {
+      "id": "wlc",
+      "title": "Westminster Larger Catechism",
+      "category": "Catechisms",
+      "status": "planned",
+      "description": "Planned. Questions not yet added.",
+      "questions": []
+    },
+    {
+      "id": "heidelberg",
+      "title": "Heidelberg Catechism",
+      "category": "Catechisms",
+      "status": "planned",
+      "description": "Planned. Questions not yet added.",
+      "questions": []
+    },
+    {
+      "id": "belgic",
+      "title": "Belgic Confession",
+      "category": "Confessions",
+      "status": "planned",
+      "description": "Planned. Questions not yet added.",
+      "questions": []
+    },
+    {
+      "id": "dort",
+      "title": "Canons of Dort",
+      "category": "Confessions",
+      "status": "planned",
+      "description": "Planned. Questions not yet added.",
+      "questions": []
+    },
+    {
+      "id": "lbcf1689",
+      "title": "1689 London Baptist Confession",
+      "category": "Confessions",
+      "status": "planned",
+      "description": "Planned. Questions not yet added.",
+      "questions": []
+    },
+    {
+      "id": "bible",
+      "title": "Bible Trivia",
+      "category": "Trivia",
+      "status": "placeholder",
+      "description": "Placeholder sample questions demonstrate the quiz format. Real questions will be added once source material is approved.",
+      "questions": [
+        {
+          "id": "bible-1",
+          "prompt": "[Placeholder — question 1]",
+          "choices": [
+            "[Placeholder — option A]",
+            "[Placeholder — option B]",
+            "[Placeholder — option C]",
+            "[Placeholder — option D]"
+          ],
+          "answer": 1,
+          "placeholder": true
+        },
+        {
+          "id": "bible-2",
+          "prompt": "[Placeholder — question 2]",
+          "choices": [
+            "[Placeholder — option A]",
+            "[Placeholder — option B]",
+            "[Placeholder — option C]",
+            "[Placeholder — option D]"
+          ],
+          "answer": 2,
+          "placeholder": true
+        },
+        {
+          "id": "bible-3",
+          "prompt": "[Placeholder — question 3]",
+          "choices": [
+            "[Placeholder — option A]",
+            "[Placeholder — option B]",
+            "[Placeholder — option C]",
+            "[Placeholder — option D]"
+          ],
+          "answer": 0,
+          "placeholder": true
+        }
+      ]
+    },
+    {
+      "id": "theology",
+      "title": "Reformed Theology Trivia",
+      "category": "Trivia",
+      "status": "planned",
+      "description": "Planned. Questions not yet added.",
+      "questions": []
+    },
+    {
+      "id": "history",
+      "title": "Church History Trivia",
+      "category": "Trivia",
+      "status": "planned",
+      "description": "Planned. Questions not yet added.",
+      "questions": []
+    }
+  ]
+}

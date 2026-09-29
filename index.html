@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Reformed Education — Reformed education and resources, in one place</title>
+  <meta name="description" content="A directory and resource hub for Reformed Christian education.">
+  <link rel="icon" href="assets/img/seal.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Lora:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/tokens.css">
+  <link rel="stylesheet" href="assets/css/base.css">
+  <link rel="stylesheet" href="assets/css/components.css">
+</head>
+<body data-page="home">
+<main id="main">
+  <section class="hero"><div class="container">
+    <img class="hero-seal" src="assets/img/seal.svg" alt="">
+    <h1>Reformed Education</h1>
+    <p class="tagline">Reformed education and resources, in one place.</p>
+    <form class="search-form hero-search" role="search" action="search.html" method="get">
+      <label class="sr-only" for="hero-q">Search Reformed education</label>
+      <input class="input" id="hero-q" type="search" name="q" placeholder="Search Reformed education..." autocomplete="off">
+      <button class="btn btn-primary" type="submit">Search</button>
+    </form>
+    <p class="hero-hints">Search seminaries, colleges, schools, courses, catechisms and resources.</p>
+  </div></section>
+
+  <section class="section"><div class="container">
+    <div class="section-head"><p class="label">The directory</p><h2>Begin with a category</h2></div>
+    <div class="grid grid-cards" id="home-categories"></div>
+  </div></section>
+
+  <section class="section band-vellum"><div class="container">
+    <div class="section-head"><p class="label">Discovery</p><h2>Explore Reformed Education</h2>
+      <p class="muted">Start with the question you are asking.</p></div>
+    <div class="pathways" id="home-pathways"></div>
+  </div></section>
+
+  <section class="section"><div class="container">
+    <div class="section-head"><p class="label">From the directory</p><h2>Sample entries</h2>
+      <p class="muted">These cards demonstrate the directory design. They are placeholders, not real records.</p></div>
+    <div class="grid grid-cards" id="home-entries"></div>
+  </div></section>
+
+  <section class="section"><div class="container split">
+    <div><p class="label">Westminster Shorter Catechism</p><h2>Study the Catechisms</h2>
+      <p class="prose">Browse every question, drill with flashcards, practice recall, and track your progress in this browser. The framework is built; the catechism text will be added from an approved source.</p>
+      <div class="btn-row"><a class="btn btn-primary" href="catechism.html?id=wsc">Open the Shorter Catechism</a><a class="btn" href="catechisms.html">All catechisms</a></div></div>
+    <ul class="tool-list">
+      <li><a href="catechism.html?id=wsc">Browse all questions <small>List</small></a></li>
+      <li><a href="catechism.html?id=wsc&amp;mode=flashcards">Flashcards <small>Study</small></a></li>
+      <li><a href="catechism.html?id=wsc&amp;mode=memorize">Memorization practice <small>Recall</small></a></li>
+      <li><a href="catechism.html?id=wsc&amp;mode=random">Random question <small>Drill</small></a></li>
+    </ul>
+  </div></section>
+
+  <section class="section band-navy"><div class="container">
+    <div class="section-head"><p class="label">Quizzes</p><h2>Test Your Knowledge</h2>
+      <p style="color:rgba(243,242,242,.8)">Multiple-choice quizzes with optional timer and scores saved in your browser.</p></div>
+    <div class="grid grid-cards" id="home-quizzes"></div>
+    <p style="margin-top:28px"><a href="quizzes.html">See all quizzes →</a></p>
+  </div></section>
+</main>
+  <script src="assets/js/config.js"></script>
+  <script src="assets/js/store.js"></script>
+  <script src="assets/js/data.js"></script>
+  <script src="assets/js/search.js"></script>
+  <script src="assets/js/ui.js"></script>
+  <script src="assets/js/pages/home.js"></script>
+  <script src="assets/js/layout.js"></script>
+</body>
+</html>

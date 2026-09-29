@@ -1,0 +1,61 @@
+{
+  "_note": "All entries are placeholders demonstrating the data shape. Replace with verified information.",
+  "entries": [
+    {
+      "id": "placeholder-resource-1",
+      "name": "[Placeholder — Book Title]",
+      "placeholder": true,
+      "kind": "Book",
+      "creator": "[Placeholder — information to be added]",
+      "subject": "[Placeholder — information to be added]",
+      "audience": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "tags": [
+        "placeholder"
+      ]
+    },
+    {
+      "id": "placeholder-resource-2",
+      "name": "[Placeholder — Podcast Title]",
+      "placeholder": true,
+      "kind": "Podcast",
+      "creator": "[Placeholder — information to be added]",
+      "subject": "[Placeholder — information to be added]",
+      "audience": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "tags": [
+        "placeholder"
+      ]
+    },
+    {
+      "id": "placeholder-resource-3",
+      "name": "[Placeholder — Lecture Series Title]",
+      "placeholder": true,
+      "kind": "Lecture Series",
+      "creator": "[Placeholder — information to be added]",
+      "subject": "[Placeholder — information to be added]",
+      "audience": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "tags": [
+        "placeholder"
+      ]
+    },
+    {
+      "id": "placeholder-resource-4",
+      "name": "[Placeholder — Game Title]",
+      "placeholder": true,
+      "kind": "Game",
+      "creator": "[Placeholder — information to be added]",
+      "subject": "[Placeholder — information to be added]",
+      "audience": "[Placeholder — information to be added]",
+      "website": "[Placeholder — information to be added]",
+      "description": "[Placeholder — information to be added]",
+      "tags": [
+        "placeholder"
+      ]
+    }
+  ]
+}
