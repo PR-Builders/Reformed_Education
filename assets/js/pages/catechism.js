@@ -29,7 +29,7 @@ RE.pages.catechisms = function () {
 
     root.innerHTML = `${RE.ui.breadcrumb([{ label: "Home", href: "index.html" }, { label: "Catechisms", href: "catechisms.html" }, { label: cat.short }])}
       <p class="label">${esc(cat.kind || "Catechism")} · ${esc(cat.group || "")}</p><h1>${esc(cat.name)}</h1>
-      ${cat.coverage_note ? `<div class="notice"><strong>Partly complete.</strong> ${esc(cat.coverage_note)}</div>` : ""}
+      ${cat.coverage_note ? `<div class="notice"><strong>Note.</strong> ${esc(cat.coverage_note)}</div>` : ""}
       ${cat.placeholder ? RE.ui.placeholderNotice("Question and answer text below is placeholder content pending an approved edition.") : ""}
       ${qs.length ? `<div class="tabs" role="tablist" id="groups">${Object.keys(groups).map((g) => `<button class="tab" role="tab" data-group="${g}">${g}</button>`).join("")}
           <a class="tab" style="text-decoration:none" href="quiz.html?set=${esc(cat.id)}">Quiz →</a></div>
@@ -134,7 +134,7 @@ RE.pages.catechisms = function () {
           }).join("");
           panel.innerHTML = `<p class="muted">Fill in the missing words.</p>
             <h3><span class="${phc(q.question)}">${q.n}. ${esc(q.question)}</span></h3>
-            <p style="font-size:1.15rem;line-height:2.2">${html}</p><div id="fb"></div>
+            <p style="font-size:1.15rem;line-height:2.2;white-space:pre-line">${html}</p><div id="fb"></div>
             <div class="tool-controls"><button class="btn btn-primary" id="check">Check</button>
               <button class="btn" id="fprev" ${i === 0 ? "disabled" : ""}>← Previous</button>
               <button class="btn" id="fnext" ${i === qs.length - 1 ? "disabled" : ""}>Next →</button></div>`;

@@ -5,7 +5,7 @@ Latin motto: *Quaere et Disce* (“Seek and learn”)
 
 A directory and resource hub for Reformed Christian education: seminaries, colleges, Christian schools, online courses, catechisms, books, lectures, podcasts, quizzes and more.
 
-**Status: early foundation.** Directory entries are name-only listings awaiting research (`[Placeholder — information to be added]`). The Westminster Shorter Catechism is complete (107 questions with KJV Scripture proofs, public domain). The Larger Catechism is partly added (113 of 196 questions, proofs pending); other documents are planned. Nothing has been invented; real content is added only from verified or approved sources.
+**Status: early foundation.** Directory entries are name-only listings awaiting research (`[Placeholder — information to be added]`). The Westminster Shorter Catechism is complete (107 questions with KJV Scripture proofs, public domain). The Larger Catechism is added (196 questions with KJV proofs; needs a proofread); other documents are planned. Nothing has been invented; real content is added only from verified or approved sources.
 
 ## Architecture
 
