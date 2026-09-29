@@ -25,7 +25,8 @@ RE.pages.catechisms = function () {
       Games: [["challenge", "Challenge"], ["streak", "Streak"]],
     };
     const groupOf = (m) => Object.keys(groups).find((g) => groups[g].some((x) => x[0] === m));
-    let mode = groupOf(param("mode")) ? param("mode") : "browse";
+    const big = qs.length > 300 && qs.some((q) => q.topic);      // e.g. Fisher's: open by topic, not one long list
+    let mode = groupOf(param("mode")) ? param("mode") : big ? "topics" : "browse";
 
     root.innerHTML = `${RE.ui.breadcrumb([{ label: "Home", href: "index.html" }, { label: "Catechisms", href: "catechisms.html" }, { label: cat.short }])}
       <p class="label">${esc(cat.kind || "Catechism")} · ${esc(cat.group || "")}</p><h1>${esc(cat.name)}</h1>
@@ -67,10 +68,17 @@ RE.pages.catechisms = function () {
     const views = {
       /* ── Study ── */
       browse() {
-        const k = known();
-        panel.innerHTML = `<p class="muted">${k.size} of ${qs.length} marked as known.</p>
-          <ol class="qlist">${qs.map((q) => `<li><a href="${qUrl(q)}"><span class="q-num">${q.n}</span>
-            <span class="q-text ${phc(q.question)}">${esc(q.question)}${k.has(q.n) ? " ✓" : ""}</span></a></li>`).join("")}</ol>`;
+        const k = known(), PAGE = 200;
+        let shown = 0;
+        panel.innerHTML = `<p class="muted">${k.size} of ${qs.length} marked as known.</p><ol class="qlist" id="ql"></ol><div id="more"></div>`;
+        const more = () => {
+          const chunk = qs.slice(shown, shown + PAGE); shown += chunk.length;
+          $("#ql").insertAdjacentHTML("beforeend", chunk.map((q) => `<li><a href="${qUrl(q)}"><span class="q-num">${q.n}</span>
+            <span class="q-text ${phc(q.question)}">${esc(q.question)}${k.has(q.n) ? " ✓" : ""}</span></a></li>`).join(""));
+          $("#more").innerHTML = shown < qs.length ? `<button class="btn" id="showmore" style="margin-top:16px">Show more (${qs.length - shown} left)</button>` : "";
+          if ($("#showmore")) $("#showmore").onclick = more;
+        };
+        more();
       },
       proofs() {
         if (!qs.some((q) => (q.proofs || []).length)) { panel.innerHTML = `<div class="notice">Scripture proofs have not yet been added for this document.</div>`; return; }
@@ -81,10 +89,16 @@ RE.pages.catechisms = function () {
       },
       topics() {
         if (!qs.some((q) => q.topic)) { panel.innerHTML = `<div class="notice">Topics have not yet been assigned to these questions.</div>`; return; }
-        const by = {};
-        qs.forEach((q) => (by[q.topic || "Uncategorized"] = by[q.topic || "Uncategorized"] || []).push(q));
-        panel.innerHTML = Object.keys(by).map((t) => `<h3 class="${phc(t)}">${esc(t)}</h3><ol class="qlist">${by[t].map((q) =>
-          `<li><a href="${qUrl(q)}"><span class="q-num">${q.n}</span><span class="q-text ${phc(q.question)}">${esc(q.question)}</span></a></li>`).join("")}</ol>`).join("");
+        const by = new Map();
+        qs.forEach((q) => { const k = q.topic || "Uncategorized"; if (!by.has(k)) by.set(k, []); by.get(k).push(q); });
+        const rows = (list) => `<ol class="qlist">${list.map((q) => `<li><a href="${qUrl(q)}"><span class="q-num">${q.n}</span><span class="q-text ${phc(q.question)}">${esc(q.question)}</span></a></li>`).join("")}</ol>`;
+        panel.innerHTML = `<p class="muted">${by.size} topics. Open a topic to see its questions.</p>` + [...by].map(([tp, list], i) =>
+          `<details class="topic" data-i="${i}"><summary><span class="${phc(tp)}">${esc(tp)}</span> <span class="muted">(${list.length})</span></summary><div class="topic-body"></div></details>`).join("");
+        const lists = [...by.values()];
+        $$("details.topic", panel).forEach((d) => d.addEventListener("toggle", () => {
+          const body = $(".topic-body", d);
+          if (d.open && !body.innerHTML) body.innerHTML = rows(lists[+d.dataset.i]);
+        }));
       },
       search() {
         panel.innerHTML = `<div class="field"><label for="cs">Search this ${esc((cat.kind || "catechism").toLowerCase())}</label><input class="input" id="cs" type="search" placeholder="Search questions, answers and topics…"></div><ol class="qlist" id="cr" style="margin-top:16px"></ol>`;

@@ -14,7 +14,7 @@ RE.pages.quizzes = function () {
         const best = mine.length ? Math.max(...mine.map((x) => Math.round((x.score / x.total) * 100))) : null;
         return `<a class="card" href="quiz.html?set=${encodeURIComponent(s.id)}"><div class="card-kicker">${esc(s.category)}</div>
           <h3 class="card-title">${esc(s.title)}</h3>
-          <p class="card-body">${s.questions.length ? `${s.questions.length} ${s.status === "ready" ? "questions" : "sample questions"}` : "Questions not yet added."}</p>
+          <p class="card-body">${s.count ? `${s.count} ${s.status === "ready" ? "questions" : "sample questions"}` : "Questions not yet added."}</p>
           <div class="card-tags">${tag(s.status === "planned" ? "Planned" : s.status === "ready" ? "Ready" : "Placeholder questions", s.status === "planned" ? "tag-planned" : s.status === "ready" ? "" : "tag-placeholder")}${best !== null ? tag(`Best: ${best}%`) : ""}</div></a>`;
       }).join("")}</div>`).join("")}
       ${scores.length ? `<hr class="rule"><div class="btn-row"><button class="btn" id="clear">Clear saved scores</button></div>` : ""}`;

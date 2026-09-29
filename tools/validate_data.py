@@ -38,11 +38,21 @@ def check_quotes(where, e):
         s = q.get("source", {})
         if not (real(s.get("author")) or real(s.get("title"))): errors.append(f"{where}: quote {i} needs author or source title")
 
+def catechism_questions(e):
+    if e.get("file"):
+        return json.load(open(DATA / e["file"])).get("questions", [])
+    return e.get("questions", [])
+
 for f in sorted(DATA.glob("*.json")):
     d = json.load(open(f))
     for e in d.get("entries", []):
         w = f"{f.name}:{e.get('id')}"
-        check_source(w, e.get("source"), need_edition=(f.name == "catechisms.json" and any(not q.get("placeholder") for q in e.get("questions", []))))
+        check_source(w, e.get("source"), need_edition=(f.name == "catechisms.json" and any(not q.get("placeholder") for q in catechism_questions(e))))
+        if f.name == "catechisms.json":
+            qs_ = catechism_questions(e)
+            if e.get("count", len(qs_)) != len(qs_): errors.append(f"{w}: count {e.get('count')} does not match {len(qs_)} questions in its file")
+            for q_ in qs_:
+                if not q_.get("question") or not q_.get("answer"): errors.append(f"{w}: question {q_.get('n')} is missing its question or answer text")
         check_quotes(w, e)
         check_entry(w, f.stem, e)
         if e.get("website") and real(e["website"]) and not re.match(r"^https?://", e["website"]): errors.append(f"{w}: website must be http(s)")

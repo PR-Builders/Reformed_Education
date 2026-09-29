@@ -16,6 +16,9 @@
     return res.json();
   }
 
+  const fileCache = {};
+  const loadFile = (file) => (fileCache[file] = fileCache[file] || fetchJSON(file));
+
   /* Returns the raw JSON document for a collection (cached). */
   function load(type) {
     if (!cache[type]) {
@@ -46,24 +49,37 @@
       const doc = await load("taxonomies");
       return (doc[type] && doc[type][field]) || null;
     },
-    /* Quiz sets. A set with `from_catechism` gets multiple-choice questions generated from that catechism's text. */
+    /* Quiz sets for the index/home pages. `count` is the number of questions; a set with `from_catechism`
+       gets its questions generated from that catechism's text only when the quiz itself is opened. */
     async quizzes() {
       const sets = (await load("quizzes")).sets || [];
-      return Promise.all(sets.map(async (s) => {
-        if (!s.from_catechism) return s;
-        const cat = await RE.data.catechism(s.from_catechism);
-        const qs = (cat && cat.questions) || [];
-        const questions = qs.map((q) => {
-          const others = qs.filter((x) => x.n !== q.n).map((x) => x.answer);
-          const wrong = others.sort(() => Math.random() - 0.5).slice(0, 3);
-          const choices = [q.answer, ...wrong].sort(() => Math.random() - 0.5);
-          return { id: `${cat.id}-${q.n}`, prompt: `${q.n}. ${q.question}`, choices, answer: choices.indexOf(q.answer) };
-        });
-        return Object.assign({}, s, { questions });
-      }));
+      const cats = await RE.data.list("catechisms");
+      return sets.map((s) => {
+        const c = s.from_catechism && cats.find((x) => x.id === s.from_catechism);
+        return Object.assign({}, s, { count: s.from_catechism ? (c ? c.count : 0) : (s.questions || []).length });
+      });
     },
-    async quiz(id) { return (await RE.data.quizzes()).find((s) => s.id === id) || null; },
+    async quiz(id) {
+      const s = (await RE.data.quizzes()).find((x) => x.id === id);
+      if (!s || !s.from_catechism) return s || null;
+      const cat = await RE.data.catechism(s.from_catechism);
+      const qs = (cat && cat.questions) || [];
+      const shuffled = (a) => a.slice().sort(() => Math.random() - 0.5);
+      const questions = qs.map((q) => {
+        const wrong = shuffled(qs.filter((x) => x.n !== q.n).map((x) => x.answer)).slice(0, 3);
+        const choices = shuffled([q.answer, ...wrong]);
+        return { id: `${cat.id}-${q.n}`, prompt: `${q.n}. ${q.question}`, choices, answer: choices.indexOf(q.answer) };
+      });
+      return Object.assign({}, s, { questions });
+    },
     /* Catechism helpers */
-    catechism: (id) => RE.data.get("catechisms", id),
+    /* One catechism with its questions (loaded from data/catechisms/<id>.json on demand). */
+    async catechism(id) {
+      const e = await RE.data.get("catechisms", id);
+      if (!e) return null;
+      if (!e.file) return Object.assign({ questions: [] }, e);
+      const doc = await loadFile(e.file);
+      return Object.assign({}, e, { questions: doc.questions || [] });
+    },
   };
 })();

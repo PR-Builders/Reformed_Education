@@ -11,6 +11,7 @@ RE.pages.catechisms = function () {
     document.title = `${cat.short} Q${q.n} — Reformed Education`;
     root.innerHTML = `${RE.ui.breadcrumb([{ label: "Home", href: "index.html" }, { label: "Catechisms", href: "catechisms.html" }, { label: cat.short, href: `catechism.html?id=${cat.id}` }, { label: `Question ${q.n}` }])}
       <p class="label">${esc(cat.name)} · Question ${q.n}</p>
+      ${q.topic ? `<p class="muted" style="margin-top:-8px">Explaining ${esc(q.topic)}</p>` : ""}
       ${q.placeholder ? RE.ui.placeholderNotice("Question and answer text is placeholder content.") : ""}
       <h1 class="${RE.ui.isPH(q.question) ? "ph" : ""}">${esc(q.question)}</h1>
       <div class="prose"><p class="${RE.ui.isPH(q.answer) ? "ph" : ""}" style="font-size:1.2rem;white-space:pre-line">${esc(q.answer)}</p></div>

@@ -189,6 +189,10 @@ table.table { width: 100%; border-collapse: collapse; font-size: .9rem; }
 .band-navy .cite-line { color: rgba(243,242,242,.7); }
 
 .flashcard .text, .choice { white-space: pre-line; }
+details.topic { border-top: 1px solid var(--color-divider); }
+details.topic summary { cursor: pointer; padding: 12px 0; font-family: var(--font-heading); font-weight: 600; font-size: 1.15rem; }
+details.topic summary:hover { color: var(--color-gold-text); }
+details.topic[open] summary { color: var(--color-gold-text); }
 ul.proofs { list-style: none; padding: 0; margin: 0; max-width: var(--measure); font-size: .95rem; }
 ul.proofs li { padding: 10px 0; border-top: 1px solid var(--color-divider); }
 ul.proofs strong { font-family: var(--font-heading); font-size: 1.05rem; color: var(--color-gold-text); }

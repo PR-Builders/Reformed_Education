@@ -5,7 +5,7 @@ Latin motto: *Quaere et Disce* (“Seek and learn”)
 
 A directory and resource hub for Reformed Christian education: seminaries, colleges, Christian schools, online courses, catechisms, books, lectures, podcasts, quizzes and more.
 
-**Status: early foundation.** Directory entries are name-only listings awaiting research (`[Placeholder — information to be added]`). The Westminster Shorter Catechism is complete (107 questions with KJV Scripture proofs, public domain). The Larger Catechism is added (196 questions with KJV proofs; needs a proofread); other documents are planned. Nothing has been invented; real content is added only from verified or approved sources.
+**Status: early foundation.** Directory entries are name-only listings awaiting research (`[Placeholder — information to be added]`). The Westminster Shorter Catechism is complete (107 questions with KJV Scripture proofs, public domain). The Larger Catechism (196 questions with KJV proofs, needs a proofread) and Fisher's Catechism (about 3,800 questions, needs a proofread) are added; other documents are planned. Nothing has been invented; real content is added only from verified or approved sources.
 
 ## Architecture
 
@@ -63,6 +63,10 @@ Entries were seeded from the owner's preliminary research as **names only**. Eac
 - **Vocabularies:** Filter values (seminary tradition/delivery/degrees, school emphasis, subjects, officer role) live in `data/taxonomies.json`. Filters appear only when at least one entry uses a value.
 - **Related entries:** an entry may list `"related": [{ "type": "publishers", "id": "…" }]`, e.g. an author linking to books, courses and lectures.
 - **Categories:** seminaries, colleges, schools, courses, catechisms, library (publishers, authors, podcasts, lectures, resources), family, officers, quizzes.
+
+## Catechism data layout
+
+`data/catechisms.json` holds metadata only (name, group, source, `count`, `file`). Each catechism's questions live in `data/catechisms/<id>.json`, loaded on demand by `RE.data.catechism(id)`, so the home and directory pages stay small. The Westminster Shorter and Larger Catechisms and Fisher's Catechism (about 3,800 explanatory questions, grouped by `topic` under each Shorter Catechism question) are included. To add another, drop its file in `data/catechisms/`, add its entry to `catechisms.json` and run `python3 tools/validate_data.py`.
 
 ## Interactive tools
 

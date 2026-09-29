@@ -39,17 +39,17 @@
       if (!indexPromise) indexPromise = (async () => {
         const all = await RE.data.all();
         const docs = [];
-        Object.keys(all).forEach((type) => {
+        for (const type of Object.keys(all)) {
           const cfg = RE.config.collections[type];
-          all[type].forEach((e) => {
+          for (const e of all[type]) {
             docs.push({
               type, kind: cfg.singular, id: e.id, title: e.name, text: textOf(e),
               tags: e.tags || [], url: RE.config.urlFor(type, e), placeholder: !!e.placeholder,
               blurb: e.description,
             });
-            if (adapters[type]) docs.push(...adapters[type](e));
-          });
-        });
+            if (adapters[type]) docs.push(...adapters[type](type === "catechisms" ? await RE.data.catechism(e.id) : e));
+          }
+        }
         return docs.map((d) => Object.assign(d, {
           _t: norm(d.title || ""), _b: norm(d.text), _g: norm(d.tags.join(" ")),
           _k: norm(`${d.kind} ${RE.config.collections[d.type].label}`),
