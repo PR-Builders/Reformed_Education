@@ -17,7 +17,7 @@ RE.pages.entry = function () {
         <p class="label">${esc(cfg.singular)}</p><h1>${esc(e.name)}</h1></div></div>
       <div class="container page-body"><div class="detail-grid">
         <div>${e.placeholder ? RE.ui.placeholderNotice() : e.verification === "listed" ? RE.ui.listedNotice(e) : ""}
-          ${RE.ui.postureBox(e)}
+          ${RE.ui.postureBox(e, type)}
           ${desc ? `<h2>About</h2><p class="prose">${RE.ui.value(e.description)}</p>` : ""}
           <h2>Details</h2>${RE.ui.detailFacts(type, e, ["doctrinal_posture", "doctrinal_basis", "points_to_weigh"])}
           ${(e.quotes || []).map(RE.ui.quote).join("")}

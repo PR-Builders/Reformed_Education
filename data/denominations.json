@@ -33,7 +33,10 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the denomination's own pages where they could be read, and from the other sources listed. Sizes are as reported by the source and year named; confirm current figures with the denomination. Classification and points to weigh are reformededucation.org's judgments."
       },
-      "tags": []
+      "tags": [],
+      "distinctives": [
+        "Holds the Westminster Standards."
+      ]
     },
     {
       "id": "opc",
@@ -67,7 +70,10 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the denomination's own pages where they could be read, and from the other sources listed. Sizes are as reported by the source and year named; confirm current figures with the denomination. Classification and points to weigh are reformededucation.org's judgments."
       },
-      "tags": []
+      "tags": [],
+      "distinctives": [
+        "Holds the Westminster Standards."
+      ]
     },
     {
       "id": "rpcna",
@@ -101,7 +107,12 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the denomination's own pages where they could be read, and from the other sources listed. Sizes are as reported by the source and year named; confirm current figures with the denomination. Classification and points to weigh are reformededucation.org's judgments."
       },
-      "tags": []
+      "tags": [],
+      "distinctives": [
+        "Exclusive psalmody: only the psalms are sung in worship, without instruments.",
+        "Affirms Jesus as king over all nations.",
+        "Keeps the original Westminster text and states its objections in an official Testimony."
+      ]
     },
     {
       "id": "arp",
@@ -169,7 +180,12 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the denomination's own pages where they could be read, and from the other sources listed. Sizes are as reported by the source and year named; confirm current figures with the denomination. Classification and points to weigh are reformededucation.org's judgments."
       },
-      "tags": []
+      "tags": [],
+      "distinctives": [
+        "Ordination of women is allowed but not required.",
+        "Charismatic gifts are treated as a matter of liberty.",
+        "Essentials are kept brief; other matters are left to liberty."
+      ]
     },
     {
       "id": "urcna",
@@ -270,7 +286,11 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the denomination's own pages where they could be read, and from the other sources listed. Sizes are as reported by the source and year named; confirm current figures with the denomination. Classification and points to weigh are reformededucation.org's judgments."
       },
-      "tags": []
+      "tags": [],
+      "distinctives": [
+        "Women may serve as ministers, elders and deacons where a church and classis allow it.",
+        "Affirms the three ecumenical creeds and the Three Forms of Unity."
+      ]
     },
     {
       "id": "rcus",
@@ -335,7 +355,11 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the denomination's own pages where they could be read, and from the other sources listed. Sizes are as reported by the source and year named; confirm current figures with the denomination. Classification and points to weigh are reformededucation.org's judgments."
       },
-      "tags": []
+      "tags": [],
+      "distinctives": [
+        "Rejects common grace and the well-meant offer of the gospel.",
+        "Believes the 1924 ‘Three Points of Common Grace’ are contrary to the confessions."
+      ]
     },
     {
       "id": "rca",
@@ -370,7 +394,11 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the denomination's own pages where they could be read, and from the other sources listed. Sizes are as reported by the source and year named; confirm current figures with the denomination. Classification and points to weigh are reformededucation.org's judgments."
       },
-      "tags": []
+      "tags": [],
+      "distinctives": [
+        "Adds the Confession of Belhar to the three Reformed forms.",
+        "Ordains women as elders, deacons and ministers."
+      ]
     },
     {
       "id": "cba",
@@ -421,7 +449,8 @@
       "description": "Largest mainline Presbyterian denomination in the United States, formed by the 1983 reunion.",
       "doctrinal_basis": "Its confessional standard is the Book of Confessions, not the Westminster Standards alone.",
       "points_to_weigh": [
-        "Since 2011 it permits ordination of openly gay and lesbian officers and since 2015 defines marriage as between two persons. Listed so readers can recognize Presbyterian-named schools and churches that are not aligned with the PCA or OPC."
+        "Since 2011 it permits ordination of openly gay and lesbian officers and since 2015 defines marriage as between two persons. Listed so readers can recognize Presbyterian-named schools and churches that are not aligned with the PCA or OPC.",
+        "Position of reformededucation.org: it regards these changes, including the ordination of women as pastors and of openly gay and lesbian officers, as contrary to Scripture, and lists the PC(USA) so readers can tell it apart from the conservative Presbyterian bodies. Descriptions of the denomination’s practices above are from its own public record."
       ],
       "research_sources": [
         "https://pcusa.org/historical-society/history-online/history/history-church",
@@ -431,6 +460,229 @@
         "title": "Presbyterian Church (U.S.A.): denomination pages and public-record summary",
         "organization": "Presbyterian Church (U.S.A.)",
         "url": "https://pcusa.org/historical-society/history-online/history/history-church",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the denomination's own pages where they could be read, and from the other sources listed. Sizes are as reported by the source and year named; confirm current figures with the denomination. Classification and points to weigh are reformededucation.org's judgments."
+      },
+      "tags": [],
+      "distinctives": [
+        "Permits the ordination of openly gay and lesbian officers (since 2011) and defines marriage as between two persons (since 2015).",
+        "Ordains women as ministers and elders (dates not confirmed here).",
+        "Its standard is the Book of Confessions, not the Westminster Standards alone."
+      ]
+    },
+    {
+      "id": "bpc",
+      "name": "Bible Presbyterian Church",
+      "placeholder": false,
+      "verification": "researched",
+      "abbreviation": "BPC",
+      "tradition": "Presbyterian",
+      "doctrinal_posture": "Conservative evangelical",
+      "founded": "1937–1938: Carl McIntire and others left the OPC in 1937; first General Synod in Collingswood, New Jersey, 1938",
+      "standards": "Westminster Standards",
+      "polity": "Presbyterian",
+      "size": "Around 3,500 members (reported by Wikipedia)",
+      "distinctives": [
+        "Premillennial view of the end times, where the OPC considered dispensational premillennialism a serious error.",
+        "Total abstinence from alcohol (and, in its tradition, tobacco).",
+        "Ecclesiastical separatism: a more rigorous separation from churches it judges unfaithful.",
+        "Support for the Scofield Reference Bible and for political involvement."
+      ],
+      "website": "https://en.wikipedia.org/wiki/Bible_Presbyterian_Church",
+      "description": "Small fundamentalist Presbyterian denomination formed by the split from the OPC, together with Faith Theological Seminary.",
+      "doctrinal_basis": "Holds the Westminster Standards, with fundamentalist distinctives added.",
+      "points_to_weigh": [
+        "It split from the OPC in part over these issues, so its teaching differs from the OPC and PCA on the end times and on alcohol.",
+        "Only secondary sources (mainly Wikipedia) were read for this entry; confirm on the denomination’s own site."
+      ],
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Bible_Presbyterian_Church",
+        "https://www.opc.org/today.html?history_id=20"
+      ],
+      "source": {
+        "title": "Bible Presbyterian Church: denomination pages and public-record summary",
+        "organization": "Bible Presbyterian Church",
+        "url": "https://en.wikipedia.org/wiki/Bible_Presbyterian_Church",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the denomination's own pages where they could be read, and from the other sources listed. Sizes are as reported by the source and year named; confirm current figures with the denomination. Classification and points to weigh are reformededucation.org's judgments."
+      },
+      "tags": []
+    },
+    {
+      "id": "rpcga",
+      "name": "Reformed Presbyterian Church General Assembly",
+      "placeholder": false,
+      "verification": "researched",
+      "abbreviation": "RPCGA",
+      "tradition": "Presbyterian",
+      "founded": "April 1965, by the merger of the Reformed Presbyterian Church of North America, General Synod, with the Evangelical Presbyterian Church (1956)",
+      "standards": "Presbyterian standards not confirmed for this entry",
+      "polity": "Presbyterian",
+      "size": "Not stated",
+      "distinctives": [],
+      "website": "https://en.wikipedia.org/wiki/List_of_Presbyterian_and_Reformed_denominations_in_North_America",
+      "description": "Small Presbyterian denomination formed by a 1965 merger of two smaller bodies.",
+      "doctrinal_basis": "Not confirmed; see the denomination’s own site.",
+      "points_to_weigh": [
+        "Very little was confirmed about this body; its beliefs are not summarized here.",
+        "Only secondary sources (mainly Wikipedia) were read for this entry; confirm on the denomination’s own site."
+      ],
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/List_of_Presbyterian_and_Reformed_denominations_in_North_America"
+      ],
+      "source": {
+        "title": "Reformed Presbyterian Church General Assembly: denomination pages and public-record summary",
+        "organization": "Reformed Presbyterian Church General Assembly",
+        "url": "https://en.wikipedia.org/wiki/List_of_Presbyterian_and_Reformed_denominations_in_North_America",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the denomination's own pages where they could be read, and from the other sources listed. Sizes are as reported by the source and year named; confirm current figures with the denomination. Classification and points to weigh are reformededucation.org's judgments."
+      },
+      "tags": []
+    },
+    {
+      "id": "hrc",
+      "name": "Heritage Reformed Congregations",
+      "placeholder": false,
+      "verification": "researched",
+      "abbreviation": "HRC",
+      "tradition": "Continental Reformed",
+      "doctrinal_posture": "Confessional Reformed",
+      "founded": "1993, when about 780 of the 1,000 members of the Grand Rapids church could not accept the deposition of their pastor, elders and deacons; named Heritage Netherlands Reformed Congregation until 2003",
+      "standards": "The Three Forms of Unity",
+      "polity": "Reformed: consistory, classis and synod",
+      "size": "About 2,000 members when formed in 1993 (reported by Wikipedia)",
+      "distinctives": [
+        "Combines the English Puritan tradition with the Dutch Further Reformation (its seminary was founded to combine the two).",
+        "Emphasis on experiential, heart-felt religion in preaching and teaching."
+      ],
+      "website": "https://heritagereformed.com/about-the-hrc/doctrinal-standards-and-worship/",
+      "description": "Denomination that split from the Netherlands Reformed Congregations, joined by Joel Beeke’s Grand Rapids church; its Puritan Reformed Theological Seminary was founded in 1995.",
+      "doctrinal_basis": "Its office-bearers and members subscribe to the Three Forms of Unity.",
+      "points_to_weigh": [
+        "Its practice and emphasis on ‘experiential’ religion differ from many other Reformed bodies.",
+        "Joel Beeke, whose books and seminary are listed elsewhere on this site, is a pastor in this denomination."
+      ],
+      "research_sources": [
+        "https://heritagereformed.com/about-the-hrc/doctrinal-standards-and-worship/",
+        "https://en.wikipedia.org/wiki/Heritage_Reformed_Congregations"
+      ],
+      "source": {
+        "title": "Heritage Reformed Congregations: denomination pages and public-record summary",
+        "organization": "Heritage Reformed Congregations",
+        "url": "https://heritagereformed.com/about-the-hrc/doctrinal-standards-and-worship/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the denomination's own pages where they could be read, and from the other sources listed. Sizes are as reported by the source and year named; confirm current figures with the denomination. Classification and points to weigh are reformededucation.org's judgments."
+      },
+      "tags": []
+    },
+    {
+      "id": "rcna",
+      "name": "Reformed Congregations in North America",
+      "placeholder": false,
+      "verification": "researched",
+      "abbreviation": "RCNA",
+      "tradition": "Continental Reformed",
+      "doctrinal_posture": "Confessional Reformed",
+      "founded": "1967, with roots in the Reformed Congregations founded under G. H. Kersten in 1907",
+      "standards": "The Three Forms of Unity",
+      "polity": "Reformed: consistory, classis and synod",
+      "size": "Not stated",
+      "distinctives": [
+        "Theology draws especially on the period of the Further Reformation.",
+        "Emphasis on experiential religion, speaking of a person as saved only when the fruits of regeneration are evident (a feature of this family of churches)."
+      ],
+      "website": "https://en.wikipedia.org/wiki/Reformed_Congregations_in_North_America",
+      "description": "North American branch of the Dutch ‘Reformed Congregations’ (Gereformeerde Gemeenten), focused on the Puritan and Dutch Further Reformation period.",
+      "doctrinal_basis": "Subscribes to the Heidelberg Catechism, the Belgic Confession and the Canons of Dort.",
+      "points_to_weigh": [
+        "Only secondary sources (mainly Wikipedia) were read for this entry; confirm on the denomination’s own site."
+      ],
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Reformed_Congregations_in_North_America",
+        "https://en.wikipedia.org/wiki/Reformed_Congregations"
+      ],
+      "source": {
+        "title": "Reformed Congregations in North America: denomination pages and public-record summary",
+        "organization": "Reformed Congregations in North America",
+        "url": "https://en.wikipedia.org/wiki/Reformed_Congregations_in_North_America",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the denomination's own pages where they could be read, and from the other sources listed. Sizes are as reported by the source and year named; confirm current figures with the denomination. Classification and points to weigh are reformededucation.org's judgments."
+      },
+      "tags": []
+    },
+    {
+      "id": "nrc",
+      "name": "Netherlands Reformed Congregations",
+      "placeholder": false,
+      "verification": "researched",
+      "abbreviation": "NRC",
+      "tradition": "Continental Reformed",
+      "doctrinal_posture": "Confessional Reformed",
+      "founded": "1907, from the Reformed Congregations in the Netherlands",
+      "standards": "The Belgic Confession, the Heidelberg Catechism and the Canons of Dort",
+      "polity": "Reformed: consistory, classis and synod",
+      "size": "Congregations in Canada, the United States and Bolivia",
+      "distinctives": [
+        "Holds that personal, experiential regeneration is the correct view and speaks of a person as saved only once the fruits of regeneration and conversion are evident: inward misery, deliverance and the outward fruits of love to God and others."
+      ],
+      "website": "https://en.wikipedia.org/wiki/Netherlands_Reformed_Congregations",
+      "description": "Conservative Reformed denomination; North American services are now mostly in English, some in Dutch. The Reformed Congregations in North America (1967) and the Heritage Reformed Congregations (1993) both separated from it.",
+      "doctrinal_basis": "Aims to stay true to inerrant Scripture and to the Three Forms of Unity.",
+      "points_to_weigh": [
+        "This experiential emphasis is one reason it has separated from the bodies that grew out of it.",
+        "Only secondary sources (mainly Wikipedia) were read for this entry; confirm on the denomination’s own site."
+      ],
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Netherlands_Reformed_Congregations"
+      ],
+      "source": {
+        "title": "Netherlands Reformed Congregations: denomination pages and public-record summary",
+        "organization": "Netherlands Reformed Congregations",
+        "url": "https://en.wikipedia.org/wiki/Netherlands_Reformed_Congregations",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the denomination's own pages where they could be read, and from the other sources listed. Sizes are as reported by the source and year named; confirm current figures with the denomination. Classification and points to weigh are reformededucation.org's judgments."
+      },
+      "tags": []
+    },
+    {
+      "id": "frcna",
+      "name": "Free Reformed Churches of North America",
+      "placeholder": false,
+      "verification": "researched",
+      "abbreviation": "FRCNA",
+      "tradition": "Continental Reformed",
+      "doctrinal_posture": "Confessional Reformed",
+      "founded": "Tracks its roots to the 1834 Secession in the Netherlands and later Dutch immigration; North American founding date not confirmed here",
+      "standards": "The Three Forms of Unity",
+      "polity": "Reformed federation of churches",
+      "size": "Not stated",
+      "distinctives": [],
+      "website": "https://www.frcna.org/history",
+      "description": "North American counterpart of the Christelijke Gereformeerde Kerken of the Netherlands.",
+      "doctrinal_basis": "Part of the Dutch Reformed tradition that adopted the Three Forms of Unity.",
+      "points_to_weigh": [
+        "Only secondary sources (mainly Wikipedia) were read for this entry; confirm on the denomination’s own site."
+      ],
+      "research_sources": [
+        "https://www.frcna.org/history",
+        "https://en.wikipedia.org/wiki/Free_Reformed_Churches_of_North_America"
+      ],
+      "source": {
+        "title": "Free Reformed Churches of North America: denomination pages and public-record summary",
+        "organization": "Free Reformed Churches of North America",
+        "url": "https://www.frcna.org/history",
         "date": "Accessed 2026-09-30",
         "license": "Facts only; no text reproduced",
         "copyright_status": "retained",

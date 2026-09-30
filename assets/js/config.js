@@ -20,7 +20,7 @@
   ];
 
   RE.config = {
-    version: "202609301523",   // stamped by tools/bump_version.py; appended to data requests to avoid stale caches
+    version: "202609301526",   // stamped by tools/bump_version.py; appended to data requests to avoid stale caches
     siteName: "Reformed Education",
     tagline: "Reformed education and resources, in one place.",
     latinTagline: "Quaere et Disce",
@@ -210,6 +210,7 @@
         postureNotes: {
           "Confessional Reformed": "Holds a Reformed confession (the Westminster Standards, the Three Forms of Unity or the 1689 Baptist Confession) as its standard.",
           "Reformed heritage": "Reformed or Presbyterian in heritage and confession, but its standards, practices or permitted range of views are broader; read each entry's points to weigh.",
+          "Conservative evangelical": "Presbyterian or Reformed in confession but with added distinctives, such as fundamentalist separatism or a particular view of the end times, that set it apart from the confessional bodies above. Read its entry.",
           "Mainline (PC(USA))": "Historically Presbyterian but with changes to its standards and practice that separate it from the confessional bodies above. Read its entry.",
         },
         fields: [
@@ -220,6 +221,7 @@
           { key: "standards", label: "Confessional standards" },
           { key: "polity", label: "Polity" },
           { key: "size", label: "Size (as reported)" },
+          { key: "distinctives", label: "What it believes and practices", type: "list" },
           { key: "women_in_office", label: "Women in church office" },
           { key: "doctrinal_basis", label: "Doctrinal basis" },
           { key: "points_to_weigh", label: "Points to weigh", type: "list" },
