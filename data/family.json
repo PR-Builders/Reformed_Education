@@ -247,6 +247,78 @@
         "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
+    },
+    {
+      "id": "covenant-home-curriculum",
+      "name": "Covenant Home Curriculum",
+      "placeholder": false,
+      "verification": "listed",
+      "kind": "Curriculum",
+      "provider": "Covenant Home Curriculum",
+      "audience": "Homeschool families",
+      "website": "https://covenanthome.com",
+      "description": "Pre-school through 12th grade eclectic, classical curriculum with a Reformed Christian worldview. (Self-description as quoted or summarized from a third-party directory; not independently verified.)",
+      "research_sources": [
+        "https://reformed.org/christian-education/"
+      ],
+      "source": {
+        "title": "Reformed.org: Christian education resources (directory listing)",
+        "organization": "Reformed.org",
+        "url": "https://reformed.org/christian-education/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Listed on reformed.org's directory; we have not yet checked the provider's own doctrinal statement."
+      },
+      "tags": []
+    },
+    {
+      "id": "puritans-home-school-curriculum",
+      "name": "The Puritans' Home School Curriculum",
+      "placeholder": false,
+      "verification": "listed",
+      "kind": "Curriculum",
+      "provider": "The Puritans' Home School Curriculum",
+      "audience": "Homeschool families",
+      "website": "https://puritans.net/curriculum/",
+      "description": "Curriculum aligned with historic Reformed faith and the Westminster Standards. (Self-description as quoted or summarized from a third-party directory; not independently verified.)",
+      "research_sources": [
+        "https://reformed.org/christian-education/"
+      ],
+      "source": {
+        "title": "Reformed.org: Christian education resources (directory listing)",
+        "organization": "Reformed.org",
+        "url": "https://reformed.org/christian-education/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Listed on reformed.org's directory; we have not yet checked the provider's own doctrinal statement."
+      },
+      "tags": []
+    },
+    {
+      "id": "enlightium-academy",
+      "name": "Enlightium Christian Academy Online",
+      "placeholder": false,
+      "verification": "listed",
+      "kind": "Curriculum",
+      "provider": "Enlightium Christian Academy Online",
+      "audience": "Homeschool families",
+      "website": "https://enlightiumacademy.com",
+      "description": "Reformed Christian homeschool online programs. (Self-description as quoted or summarized from a third-party directory; not independently verified.)",
+      "research_sources": [
+        "https://reformed.org/christian-education/"
+      ],
+      "source": {
+        "title": "Reformed.org: Christian education resources (directory listing)",
+        "organization": "Reformed.org",
+        "url": "https://reformed.org/christian-education/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Listed on reformed.org's directory; we have not yet checked the provider's own doctrinal statement."
+      },
+      "tags": []
     }
   ]
 }
