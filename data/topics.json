@@ -652,19 +652,19 @@
           "name": "Church Government and Offices",
           "start_here": [
             {
-              "type": "officers",
-              "id": "elder-pca-officer-training",
-              "why": "A kit of recommended resources for men considered for ruling elder."
+              "type": "articles",
+              "id": "presbyterian-vs-reformed-polity",
+              "why": "Side-by-side comparison of Presbyterian and continental Reformed church government."
             },
             {
-              "type": "officers",
-              "id": "elder-opc-elder-training",
-              "why": "The OPC’s Ruling Elder Podcast."
+              "type": "articles",
+              "id": "presbyterian-church-of-courts",
+              "why": "How a Presbyterian church is governed: courts, the call and ordination."
             },
             {
-              "type": "officers",
-              "id": "pastor-seminary-education",
-              "why": "The OPC’s ministerial training, internship and conferences."
+              "type": "articles",
+              "id": "reformed-church-government",
+              "why": "How a continental Reformed church is governed: consistory, classis and synod."
             }
           ]
         }

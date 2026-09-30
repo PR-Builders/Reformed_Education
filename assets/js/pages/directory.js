@@ -84,4 +84,4 @@ RE.pages._directory = function () {
   });
 };
 
-Object.keys(RE.config.collections).filter((k) => !RE.config.collections[k].detailPage).forEach((k) => (RE.pages[k] = RE.pages._directory));
+Object.keys(RE.config.collections).filter((k) => k !== "catechisms").forEach((k) => (RE.pages[k] = RE.pages._directory));

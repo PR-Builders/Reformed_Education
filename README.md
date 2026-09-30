@@ -135,3 +135,7 @@ Every directory page has a **List / Cards** toggle (remembered per page in the b
 A topic can list up to three **Start here** picks with `start_here` in `data/topics.json` (`type`, `id`, and a one-line `why`). A pick is shown only if that entry is actually in the topic, and the lists below it are collapsed unless the topic has eight resources or fewer.
 
 `education.html` and `library.html` are redirect stubs to `browse.html` so old links keep working.
+
+## Articles
+
+Original articles live in `data/articles.json` (`sections` with `paragraphs`, `points` or a `table`), are listed at `articles.html` and read at `article.html?id=...`. They are searchable and can be tagged into topics with `topic_ids` like any other entry.

@@ -20,7 +20,7 @@
   ];
 
   RE.config = {
-    version: "202609301659",   // stamped by tools/bump_version.py; appended to data requests to avoid stale caches
+    version: "202609301707",   // stamped by tools/bump_version.py; appended to data requests to avoid stale caches
     siteName: "Reformed Education",
     tagline: "Reformed education and resources, in one place.",
     latinTagline: "Quaere et Disce",
@@ -47,6 +47,7 @@
           { label: "Publishers", href: "publishers.html", key: "publishers", blurb: "Start with the publisher, then find the books." },
           { label: "Podcasts & audio", href: "podcasts.html", key: "podcasts", blurb: "Audio programs on theology, counseling, technology and more." },
           { label: "Lectures & video", href: "lectures.html", key: "lectures", blurb: "Lecture series and video teaching from seminaries and ministries." },
+          { label: "Articles", href: "articles.html", key: "articles", blurb: "Short articles written for this site, such as Presbyterian and Reformed church government." },
           { label: "Resources", href: "resources.html", key: "resources", blurb: "Books, articles, organizations and other resources." },
         ] },
       ] },
@@ -229,6 +230,16 @@
           { key: "research_sources", label: "Sources consulted", type: "list" },
           { key: "website", label: "Website", type: "url" },
           { key: "description", label: "Description", type: "text" },
+        ],
+      },
+      articles: {
+        file: "articles.json", label: "Articles", singular: "Article", page: "articles.html", detailPage: "article.html",
+        intro: "Short articles written for this site, explaining Reformed and Presbyterian practice and pointing to the sources.",
+        cardMeta: ["author", "date"], filters: [], defaultView: "list",
+        fields: [
+          { key: "author", label: "Author" }, { key: "date", label: "Written" },
+          { key: "research_sources", label: "Sources", type: "list" },
+          { key: "description", label: "Summary", type: "text" },
         ],
       },
       churches: {
