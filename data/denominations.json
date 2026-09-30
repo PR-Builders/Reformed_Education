@@ -1,0 +1,442 @@
+{
+  "_note": "Researched 2026-09-30 by reformededucation.org. A first list of North American Presbyterian and Reformed bodies; more will be added.",
+  "entries": [
+    {
+      "id": "pca",
+      "name": "Presbyterian Church in America",
+      "placeholder": false,
+      "verification": "researched",
+      "abbreviation": "PCA",
+      "tradition": "Presbyterian",
+      "doctrinal_posture": "Confessional Reformed",
+      "founded": "1973",
+      "standards": "The Westminster Confession of Faith with the Larger and Shorter Catechisms",
+      "polity": "Presbyterian: sessions, presbyteries and an annual General Assembly",
+      "size": "Not stated on the page reviewed",
+      "website": "https://pcanet.org/about-the-pca/",
+      "description": "Presbyterian denomination whose motto is ‘Faithful to the Scriptures, True to the Reformed Faith, and Obedient to the Great Commission’.",
+      "doctrinal_basis": "Affirms the Westminster Standards as a summary of biblical doctrine.",
+      "points_to_weigh": [
+        "Its 2000 (PCA) and 2004 (OPC) study reports on creation allowed a range of views on the days of Genesis 1 within the church.",
+        "Its stance on women in office was not stated on the page reviewed."
+      ],
+      "research_sources": [
+        "https://pcanet.org/about-the-pca/",
+        "https://www.pcahistory.org/pca/studies/creation/report.pdf"
+      ],
+      "source": {
+        "title": "Presbyterian Church in America: denomination pages and public-record summary",
+        "organization": "Presbyterian Church in America",
+        "url": "https://pcanet.org/about-the-pca/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the denomination's own pages where they could be read, and from the other sources listed. Sizes are as reported by the source and year named; confirm current figures with the denomination. Classification and points to weigh are reformededucation.org's judgments."
+      },
+      "tags": []
+    },
+    {
+      "id": "opc",
+      "name": "Orthodox Presbyterian Church",
+      "placeholder": false,
+      "verification": "researched",
+      "abbreviation": "OPC",
+      "tradition": "Presbyterian",
+      "doctrinal_posture": "Confessional Reformed",
+      "founded": "1936, with J. Gresham Machen as the principal figure",
+      "standards": "The Westminster Confession of Faith with the Larger and Shorter Catechisms",
+      "polity": "Presbyterian: sessions, presbyteries (sixteen) and an annual General Assembly",
+      "size": "Number of members not stated on the page reviewed; headquarters in Willow Grove, Pennsylvania",
+      "website": "https://www.opc.org/about.html",
+      "description": "Presbyterian denomination formed in the 1930s, whose Committee on Christian Education produces several resources listed on this site.",
+      "doctrinal_basis": "Holds the Westminster Standards as doctrinal statements of the Reformed faith.",
+      "points_to_weigh": [
+        "Its 2000 (PCA) and 2004 (OPC) study reports on creation allowed a range of views on the days of Genesis 1 within the church.",
+        "Its stance on women in office was not stated on the page reviewed."
+      ],
+      "research_sources": [
+        "https://www.opc.org/about.html",
+        "https://opc.org/GA/creation.html"
+      ],
+      "source": {
+        "title": "Orthodox Presbyterian Church: denomination pages and public-record summary",
+        "organization": "Orthodox Presbyterian Church",
+        "url": "https://www.opc.org/about.html",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the denomination's own pages where they could be read, and from the other sources listed. Sizes are as reported by the source and year named; confirm current figures with the denomination. Classification and points to weigh are reformededucation.org's judgments."
+      },
+      "tags": []
+    },
+    {
+      "id": "rpcna",
+      "name": "Reformed Presbyterian Church of North America",
+      "placeholder": false,
+      "verification": "researched",
+      "abbreviation": "RPCNA",
+      "tradition": "Presbyterian",
+      "doctrinal_posture": "Confessional Reformed",
+      "founded": "Descends from the Scottish Covenanters",
+      "standards": "The Westminster Confession of Faith and the Larger and Shorter Catechisms, with an official Testimony printed alongside stating objections",
+      "polity": "Presbyterian",
+      "size": "About 100 congregations and 7,000 members as of 2021 (reported by Wikipedia)",
+      "website": "https://www.reformedpresbyterian.org/convictions/",
+      "description": "Presbyterian denomination known for exclusive psalmody, singing only psalms and without instruments, and for affirming Jesus as king over all nations.",
+      "doctrinal_basis": "Keeps the original Westminster text rather than revised versions, stating its objections in its Testimony.",
+      "points_to_weigh": [
+        "The denomination’s own site returned a hosting suspension notice when I checked, so these facts come from secondary sources; confirm on its current site.",
+        "Its worship differs from most Presbyterian churches (exclusive psalmody, no instruments)."
+      ],
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Reformed_Presbyterian_Church_of_North_America",
+        "https://reformed.org/worship/exclusive-psalmody/"
+      ],
+      "source": {
+        "title": "Reformed Presbyterian Church of North America: denomination pages and public-record summary",
+        "organization": "Reformed Presbyterian Church of North America",
+        "url": "https://www.reformedpresbyterian.org/convictions/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the denomination's own pages where they could be read, and from the other sources listed. Sizes are as reported by the source and year named; confirm current figures with the denomination. Classification and points to weigh are reformededucation.org's judgments."
+      },
+      "tags": []
+    },
+    {
+      "id": "arp",
+      "name": "Associate Reformed Presbyterian Church",
+      "placeholder": false,
+      "verification": "researched",
+      "abbreviation": "ARP",
+      "tradition": "Presbyterian",
+      "doctrinal_posture": "Confessional Reformed",
+      "founded": "1782, by the merger of the Associate and Reformed Presbyteries",
+      "standards": "The Westminster Standards (as stated by a member congregation; confirm on the denomination’s site)",
+      "polity": "Presbyterian",
+      "size": "Not stated",
+      "website": "https://arpchurch.org/about-us/",
+      "description": "One of the oldest conservative denominations in the United States, with its denominational center in Greenville, South Carolina and ties to Erskine Theological Seminary.",
+      "doctrinal_basis": "Holds the Westminster Standards.",
+      "points_to_weigh": [
+        "The denomination’s own pages returned an error when I checked, so its standards are confirmed only through a member church’s statement."
+      ],
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Associate_Reformed_Presbyterian_Church",
+        "http://www.greenvillearp.com/whatwebelieve"
+      ],
+      "source": {
+        "title": "Associate Reformed Presbyterian Church: denomination pages and public-record summary",
+        "organization": "Associate Reformed Presbyterian Church",
+        "url": "https://arpchurch.org/about-us/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the denomination's own pages where they could be read, and from the other sources listed. Sizes are as reported by the source and year named; confirm current figures with the denomination. Classification and points to weigh are reformededucation.org's judgments."
+      },
+      "tags": []
+    },
+    {
+      "id": "epc",
+      "name": "Evangelical Presbyterian Church",
+      "placeholder": false,
+      "verification": "researched",
+      "abbreviation": "EPC",
+      "tradition": "Presbyterian",
+      "doctrinal_posture": "Reformed heritage",
+      "founded": "1981",
+      "standards": "The Westminster Confession of Faith with the Larger and Shorter Catechisms, the ‘Essentials of Our Faith’ and the Book of Order",
+      "polity": "Presbyterian",
+      "size": "More than 600 churches and about 121,000 members (its own site)",
+      "website": "https://epconnect.org/about/",
+      "description": "Presbyterian denomination whose motto is ‘In Essentials, Unity; in Non-Essentials, Liberty; in All Things, Charity’.",
+      "doctrinal_basis": "Constitution: the Westminster Standards plus its own brief Essentials.",
+      "points_to_weigh": [
+        "It treats the ordination of women as a non-essential: ordination is allowed but neither required of officers nor of churches, and presbyteries may have male-only teaching elders.",
+        "On non-essentials it deliberately allows liberty, so churches within it can differ."
+      ],
+      "research_sources": [
+        "https://epconnect.org/about/",
+        "https://en.wikipedia.org/wiki/Evangelical_Presbyterian_Church_(United_States)"
+      ],
+      "women_in_office": "Permitted; not required of officers or churches",
+      "source": {
+        "title": "Evangelical Presbyterian Church: denomination pages and public-record summary",
+        "organization": "Evangelical Presbyterian Church",
+        "url": "https://epconnect.org/about/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the denomination's own pages where they could be read, and from the other sources listed. Sizes are as reported by the source and year named; confirm current figures with the denomination. Classification and points to weigh are reformededucation.org's judgments."
+      },
+      "tags": []
+    },
+    {
+      "id": "urcna",
+      "name": "United Reformed Churches in North America",
+      "placeholder": false,
+      "verification": "researched",
+      "abbreviation": "URCNA",
+      "tradition": "Continental Reformed",
+      "doctrinal_posture": "Confessional Reformed",
+      "founded": "1996 (first synod at Lynwood, Illinois)",
+      "standards": "The Three Forms of Unity: the Belgic Confession, the Heidelberg Catechism and the Canons of Dort",
+      "polity": "Reformed: consistories, classes and synod",
+      "size": "130 congregations and 25,288 members as of 2021 (reported by Wikipedia)",
+      "website": "https://www.urcna.org/beliefs",
+      "description": "Confessional Reformed federation formed largely by churches that left the Christian Reformed Church.",
+      "doctrinal_basis": "Subscribes to the Three Forms of Unity.",
+      "points_to_weigh": [
+        "Many congregations joined after leaving the CRC over issues including women in office, creation-and-evolution cases and biblical inerrancy."
+      ],
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/United_Reformed_Churches_in_North_America",
+        "https://www.urcna.org/about"
+      ],
+      "source": {
+        "title": "United Reformed Churches in North America: denomination pages and public-record summary",
+        "organization": "United Reformed Churches in North America",
+        "url": "https://www.urcna.org/beliefs",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the denomination's own pages where they could be read, and from the other sources listed. Sizes are as reported by the source and year named; confirm current figures with the denomination. Classification and points to weigh are reformededucation.org's judgments."
+      },
+      "tags": []
+    },
+    {
+      "id": "canrc",
+      "name": "Canadian and American Reformed Churches",
+      "placeholder": false,
+      "verification": "researched",
+      "abbreviation": "CanRC",
+      "tradition": "Continental Reformed",
+      "doctrinal_posture": "Confessional Reformed",
+      "founded": "1950 (first congregation, Lethbridge, Alberta)",
+      "standards": "The Three Forms of Unity",
+      "polity": "Reformed: consistories, classes, regional synods and general synod",
+      "size": "71 churches, most in Canada (reported by Wikipedia)",
+      "website": "https://canrc.org/history",
+      "description": "Federation of Reformed churches with roots in the Reformed Churches of the Netherlands.",
+      "doctrinal_basis": "Adheres strictly to the Three Forms of Unity.",
+      "points_to_weigh": [
+        "The federation says it refused to bind itself by theological formulations beyond the Three Forms."
+      ],
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Canadian_and_American_Reformed_Churches",
+        "https://canrc.org/history"
+      ],
+      "source": {
+        "title": "Canadian and American Reformed Churches: denomination pages and public-record summary",
+        "organization": "Canadian and American Reformed Churches",
+        "url": "https://canrc.org/history",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the denomination's own pages where they could be read, and from the other sources listed. Sizes are as reported by the source and year named; confirm current figures with the denomination. Classification and points to weigh are reformededucation.org's judgments."
+      },
+      "tags": []
+    },
+    {
+      "id": "crcna",
+      "name": "Christian Reformed Church in North America",
+      "placeholder": false,
+      "verification": "researched",
+      "abbreviation": "CRCNA",
+      "tradition": "Continental Reformed",
+      "doctrinal_posture": "Reformed heritage",
+      "founded": "Roots in Dutch Reformed immigration; founding date not stated on the pages reviewed",
+      "standards": "Three ecumenical creeds (Apostles’, Nicene and Athanasian) and the Three Forms of Unity",
+      "polity": "Reformed: consistories, classes and synod",
+      "size": "Not stated",
+      "website": "https://www.crcna.org/welcome/beliefs",
+      "description": "Traditionally Reformed denomination whose churches are concentrated where Dutch settlement was heavy, including western Michigan, Chicagoland, Ontario and Alberta.",
+      "doctrinal_basis": "Affirms the three creeds and the Three Forms of Unity.",
+      "points_to_weigh": [
+        "Since Synod 1995 the CRC has allowed churches to have women serve as ministers, elders and deacons, recognizing two views within the denomination and leaving the decision to congregations and classes.",
+        "The URCNA and other bodies in this list were formed partly by churches leaving the CRC."
+      ],
+      "research_sources": [
+        "https://www.crcna.org/welcome/beliefs",
+        "https://www.crcna.org/welcome/beliefs/position-statements/women-ecclesiastical-office"
+      ],
+      "women_in_office": "Permitted in all offices; each church and classis decides",
+      "source": {
+        "title": "Christian Reformed Church in North America: denomination pages and public-record summary",
+        "organization": "Christian Reformed Church in North America",
+        "url": "https://www.crcna.org/welcome/beliefs",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the denomination's own pages where they could be read, and from the other sources listed. Sizes are as reported by the source and year named; confirm current figures with the denomination. Classification and points to weigh are reformededucation.org's judgments."
+      },
+      "tags": []
+    },
+    {
+      "id": "rcus",
+      "name": "Reformed Church in the United States",
+      "placeholder": false,
+      "verification": "researched",
+      "abbreviation": "RCUS",
+      "tradition": "Continental Reformed",
+      "doctrinal_posture": "Confessional Reformed",
+      "founded": "1725",
+      "standards": "The Three Forms of Unity",
+      "polity": "Reformed: consistories, classes and synod",
+      "size": "47 congregations and 3,340 members (reported by Wikipedia)",
+      "website": "https://rcus.org/about/",
+      "description": "Conservative Continental Reformed denomination that became an independent, continuing church after refusing to join a 1934 merger.",
+      "doctrinal_basis": "Subscribes to the Three Forms of Unity.",
+      "points_to_weigh": [],
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Reformed_Church_in_the_United_States",
+        "https://rcus.org/history/"
+      ],
+      "source": {
+        "title": "Reformed Church in the United States: denomination pages and public-record summary",
+        "organization": "Reformed Church in the United States",
+        "url": "https://rcus.org/about/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the denomination's own pages where they could be read, and from the other sources listed. Sizes are as reported by the source and year named; confirm current figures with the denomination. Classification and points to weigh are reformededucation.org's judgments."
+      },
+      "tags": []
+    },
+    {
+      "id": "prca",
+      "name": "Protestant Reformed Churches in America",
+      "placeholder": false,
+      "verification": "researched",
+      "abbreviation": "PRCA",
+      "tradition": "Continental Reformed",
+      "doctrinal_posture": "Confessional Reformed",
+      "founded": "1924",
+      "standards": "The Three Forms of Unity",
+      "polity": "Reformed: consistories, classes and synod",
+      "size": "33 churches and more than 8,000 members (reported by Wikipedia)",
+      "website": "https://en.wikipedia.org/wiki/Protestant_Reformed_Churches_in_America",
+      "description": "Denomination that began in 1924 when Herman Hoeksema, George Ophoff and Henry Danhof were removed from the Christian Reformed Church over the ‘Three Points of Common Grace’, which they rejected as contrary to the confessions.",
+      "doctrinal_basis": "Subscribes to the Three Forms of Unity.",
+      "points_to_weigh": [
+        "It rejects common grace and the well-meant offer of the gospel, positions other Reformed bodies dispute.",
+        "Its publishing arm is the Reformed Free Publishing Association (see Publishers)."
+      ],
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Protestant_Reformed_Churches_in_America",
+        "https://en.wikipedia.org/wiki/Split_of_1924"
+      ],
+      "source": {
+        "title": "Protestant Reformed Churches in America: denomination pages and public-record summary",
+        "organization": "Protestant Reformed Churches in America",
+        "url": "https://en.wikipedia.org/wiki/Protestant_Reformed_Churches_in_America",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the denomination's own pages where they could be read, and from the other sources listed. Sizes are as reported by the source and year named; confirm current figures with the denomination. Classification and points to weigh are reformededucation.org's judgments."
+      },
+      "tags": []
+    },
+    {
+      "id": "rca",
+      "name": "Reformed Church in America",
+      "placeholder": false,
+      "verification": "researched",
+      "abbreviation": "RCA",
+      "tradition": "Continental Reformed",
+      "doctrinal_posture": "Reformed heritage",
+      "founded": "1628 (the first congregation, in New Amsterdam); named the Reformed Church in America in 1867",
+      "standards": "The Heidelberg Catechism, the Belgic Confession, the Canons of Dort and the Confession of Belhar",
+      "polity": "Reformed: consistories, classes and synod",
+      "size": "Not stated",
+      "website": "https://www.rca.org/about/",
+      "description": "The oldest continuing Protestant denomination in North America, with roots in the Dutch Reformed Church.",
+      "doctrinal_basis": "Its four Standards of Unity are the three Reformed forms and the Confession of Belhar.",
+      "points_to_weigh": [
+        "It approved the ordination of women as elders and deacons in 1972 and as ministers in 1979.",
+        "Its positions on marriage and sexuality were not researched here; check its current statements."
+      ],
+      "research_sources": [
+        "https://www.rca.org/about/",
+        "https://www.rca.org/about/history/"
+      ],
+      "women_in_office": "Permitted in all offices (elders and deacons 1972; ministers 1979)",
+      "source": {
+        "title": "Reformed Church in America: denomination pages and public-record summary",
+        "organization": "Reformed Church in America",
+        "url": "https://www.rca.org/about/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the denomination's own pages where they could be read, and from the other sources listed. Sizes are as reported by the source and year named; confirm current figures with the denomination. Classification and points to weigh are reformededucation.org's judgments."
+      },
+      "tags": []
+    },
+    {
+      "id": "cba",
+      "name": "Confessional Baptist Association",
+      "placeholder": false,
+      "verification": "researched",
+      "abbreviation": "CBA",
+      "tradition": "Reformed Baptist",
+      "doctrinal_posture": "Confessional Reformed",
+      "founded": "Formed 1997 as the Association of Reformed Baptist Churches of America (24 churches, Mesa, Arizona); renamed in March 2022",
+      "standards": "The Second London Baptist Confession (1689)",
+      "polity": "Baptist: independent congregations in an association",
+      "size": "Not stated",
+      "website": "https://cba1689.com/",
+      "description": "Association of confessional Reformed Baptist churches that cooperate in church planting, missions and ministerial training.",
+      "doctrinal_basis": "Member churches subscribe to the 1689 Confession.",
+      "points_to_weigh": [
+        "Baptist, not paedobaptist: on baptism and church government it differs from the Presbyterian and Continental Reformed bodies."
+      ],
+      "research_sources": [
+        "https://cba1689.com/",
+        "https://en.wikipedia.org/wiki/Confessional_Baptist_Association"
+      ],
+      "source": {
+        "title": "Confessional Baptist Association: denomination pages and public-record summary",
+        "organization": "Confessional Baptist Association",
+        "url": "https://cba1689.com/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the denomination's own pages where they could be read, and from the other sources listed. Sizes are as reported by the source and year named; confirm current figures with the denomination. Classification and points to weigh are reformededucation.org's judgments."
+      },
+      "tags": []
+    },
+    {
+      "id": "pcusa",
+      "name": "Presbyterian Church (U.S.A.)",
+      "placeholder": false,
+      "verification": "researched",
+      "abbreviation": "PC(USA)",
+      "tradition": "Presbyterian",
+      "doctrinal_posture": "Mainline (PC(USA))",
+      "founded": "1983 reunion of the United Presbyterian Church in the U.S.A. and the Presbyterian Church in the U.S.",
+      "standards": "The Book of Confessions",
+      "polity": "Presbyterian: sessions, presbyteries, synods and a General Assembly",
+      "size": "3.2 million members at the 1983 reunion; membership has since fallen (reported by the Presbyterian Outlook)",
+      "website": "https://pcusa.org/historical-society/history-online/history/history-church",
+      "description": "Largest mainline Presbyterian denomination in the United States, formed by the 1983 reunion.",
+      "doctrinal_basis": "Its confessional standard is the Book of Confessions, not the Westminster Standards alone.",
+      "points_to_weigh": [
+        "Since 2011 it permits ordination of openly gay and lesbian officers and since 2015 defines marriage as between two persons. Listed so readers can recognize Presbyterian-named schools and churches that are not aligned with the PCA or OPC."
+      ],
+      "research_sources": [
+        "https://pcusa.org/historical-society/history-online/history/history-church",
+        "https://pres-outlook.org/2009/07/pcusa-records-steepest-membership-loss-since-reunion-in-1983/"
+      ],
+      "source": {
+        "title": "Presbyterian Church (U.S.A.): denomination pages and public-record summary",
+        "organization": "Presbyterian Church (U.S.A.)",
+        "url": "https://pcusa.org/historical-society/history-online/history/history-church",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the denomination's own pages where they could be read, and from the other sources listed. Sizes are as reported by the source and year named; confirm current figures with the denomination. Classification and points to weigh are reformededucation.org's judgments."
+      },
+      "tags": []
+    }
+  ]
+}

@@ -34,12 +34,14 @@
       "Covenantal",
       "Presbyterian",
       "Classical Christian",
-      "Broad evangelical"
+      "Broad evangelical",
+      "Christian worldview"
     ],
     "org_type": [
       "School",
       "Association / Network",
-      "Curriculum"
+      "Curriculum",
+      "Teacher training"
     ],
     "doctrinal_posture": [
       "Confessional Reformed",
@@ -186,6 +188,20 @@
     ]
   },
   "publishers": {
+    "doctrinal_posture": [
+      "Confessional Reformed",
+      "Reformed heritage",
+      "Conservative evangelical",
+      "Broadly evangelical",
+      "Mainline (PC(USA))"
+    ]
+  },
+  "denominations": {
+    "tradition": [
+      "Presbyterian",
+      "Continental Reformed",
+      "Reformed Baptist"
+    ],
     "doctrinal_posture": [
       "Confessional Reformed",
       "Reformed heritage",

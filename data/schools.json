@@ -278,6 +278,46 @@
         "education",
         "education/classical-education"
       ]
+    },
+    {
+      "id": "colson-educators",
+      "name": "Colson Educators",
+      "placeholder": false,
+      "verification": "researched",
+      "org_type": "Teacher training",
+      "emphasis": [
+        "Christian worldview"
+      ],
+      "location": "Online, with on-site training; run by the Colson Center in Colorado Springs, Colorado",
+      "grades": "K-12 educators (teachers, administrators and homeschool educators)",
+      "founded": "[Placeholder — information to be added]",
+      "affiliation": "Interdenominational; the Colson Center names no denomination",
+      "doctrinal_basis": "The Colson Center for Christian Worldview publishes a Statement of Faith on its site; it was not read for this directory.",
+      "points_to_weigh": [
+        "Not a Reformed organization: it trains teachers in a general Christian worldview for schools of many traditions, so it is not confessionally Reformed and does not teach Reformed doctrine as such.",
+        "Founded by Chuck Colson; read the Colson Center’s Statement of Faith before relying on it for a Reformed school."
+      ],
+      "accreditation": "Free digital courses earn continuing education units through ACSI",
+      "tuition": "Free digital courses; other costs not stated on the page reviewed",
+      "website": "https://www.colsoneducators.org/",
+      "description": "Professional development for Christian educators from a Christian worldview: free digital courses, on-site training and an academic affiliate program. It says more than 35,000 teachers have earned continuing education units through ACSI.",
+      "research_sources": [
+        "https://www.colsoneducators.org/about",
+        "https://colsoncenter.org/about"
+      ],
+      "source": {
+        "title": "Colson Educators: website and public-record summary",
+        "organization": "Colson Center for Christian Worldview",
+        "url": "https://www.colsoneducators.org/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
+      },
+      "tags": [],
+      "topic_ids": [
+        "education"
+      ]
     }
   ]
 }

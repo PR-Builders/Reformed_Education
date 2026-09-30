@@ -26,7 +26,7 @@ RE.pages._directory = function () {
         <p class="label">Directory</p><h1>${esc(cfg.label)}</h1>
         <p class="prose">${esc(cfg.intro)}</p></div></div>
       <div class="container page-body">
-        ${cfg.groupBy ? `<div class="notice">${esc(RE.config.classificationNotice)}</div>` : ""}
+        ${cfg.groupBy ? `<div class="notice">${esc(cfg.classificationNotice || RE.config.classificationNotice)}</div>` : ""}
         ${entries.some((e) => e.placeholder) ? RE.ui.placeholderNotice("Entries below are design samples only. Verified listings will be added.") : ""}
         <div class="toolbar">
           <div class="field" style="flex:0 0 auto"><label>View</label>
@@ -50,7 +50,7 @@ RE.pages._directory = function () {
     const grouped = (list) => {
       const by = new Map(vocab.map((v) => [v, []]));
       list.forEach((e) => { const k = by.has(e[cfg.groupBy]) ? e[cfg.groupBy] : "Not yet classified"; if (!by.has(k)) by.set(k, []); by.get(k).push(e); });
-      return [...by].filter(([, l]) => l.length).map(([k, l]) => headed(k, (RE.config.postureNotes || {})[k], l)).join("");
+      return [...by].filter(([, l]) => l.length).map(([k, l]) => headed(k, (cfg.postureNotes || RE.config.postureNotes || {})[k], l)).join("");
     };
     /* collapseBy: entries from the same producer (e.g. all of Ligonier's podcasts) fold into one expandable group. */
     const collapsed = (list, open) => {

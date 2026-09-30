@@ -20,7 +20,7 @@
   ];
 
   RE.config = {
-    version: "202609301518",   // stamped by tools/bump_version.py; appended to data requests to avoid stale caches
+    version: "202609301523",   // stamped by tools/bump_version.py; appended to data requests to avoid stale caches
     siteName: "Reformed Education",
     tagline: "Reformed education and resources, in one place.",
     latinTagline: "Quaere et Disce",
@@ -36,6 +36,9 @@
           { label: "Colleges", href: "colleges.html", key: "colleges", blurb: "Undergraduate education, from confessional Reformed to broadly evangelical." },
           { label: "Christian schools", href: "schools.html", key: "schools", blurb: "Schools and school networks, distinguished by confessional emphasis." },
           { label: "Online courses", href: "courses.html", key: "courses", blurb: "Study Reformed theology and church history from anywhere." },
+        ] },
+        { title: "Churches", items: [
+          { label: "Denominations", href: "denominations.html", key: "denominations", blurb: "Presbyterian and Reformed church bodies, with their standards and distinctives." },
           { label: "Church officer training", href: "officers.html", key: "officers", blurb: "Training for elders, deacons and pastors." },
         ] },
         { title: "Read and listen", items: [
@@ -198,6 +201,32 @@
         intro: "Training and resources for elders, deacons and pastors.",
         cardMeta: ["office"], filters: ["office"],
         fields: [{ key: "office", label: "Office", type: "list" }, { key: "provider", label: "Provider / Denomination" }, { key: "website", label: "Website", type: "url" }, { key: "doctrinal_basis", label: "Doctrinal basis" }, { key: "points_to_weigh", label: "Points to weigh", type: "list" }, { key: "research_sources", label: "Sources consulted", type: "list" }, { key: "description", label: "Description", type: "text" }],
+      },
+      denominations: {
+        file: "denominations.json", label: "Denominations", singular: "Denomination", page: "denominations.html",
+        intro: "Presbyterian and Reformed church bodies in North America, with their confessional standards, origins and distinctives. Grouped by how each holds its confession.",
+        cardMeta: ["abbreviation", "tradition"], filters: ["tradition"], groupBy: "doctrinal_posture", defaultView: "list",
+        classificationNotice: "Groupings are reformededucation.org's own classification, made from each denomination's published standards and the sources listed on its page. They describe, and do not endorse. Denominations change; confirm current statements and figures with the denomination.",
+        postureNotes: {
+          "Confessional Reformed": "Holds a Reformed confession (the Westminster Standards, the Three Forms of Unity or the 1689 Baptist Confession) as its standard.",
+          "Reformed heritage": "Reformed or Presbyterian in heritage and confession, but its standards, practices or permitted range of views are broader; read each entry's points to weigh.",
+          "Mainline (PC(USA))": "Historically Presbyterian but with changes to its standards and practice that separate it from the confessional bodies above. Read its entry.",
+        },
+        fields: [
+          { key: "doctrinal_posture", label: "Theological posture" },
+          { key: "abbreviation", label: "Abbreviation" },
+          { key: "tradition", label: "Tradition" },
+          { key: "founded", label: "Founded" },
+          { key: "standards", label: "Confessional standards" },
+          { key: "polity", label: "Polity" },
+          { key: "size", label: "Size (as reported)" },
+          { key: "women_in_office", label: "Women in church office" },
+          { key: "doctrinal_basis", label: "Doctrinal basis" },
+          { key: "points_to_weigh", label: "Points to weigh", type: "list" },
+          { key: "research_sources", label: "Sources consulted", type: "list" },
+          { key: "website", label: "Website", type: "url" },
+          { key: "description", label: "Description", type: "text" },
+        ],
       },
       catechisms: {
         file: "catechisms.json", label: "Catechisms", singular: "Catechism", page: "catechisms.html",
