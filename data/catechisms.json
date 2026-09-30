@@ -231,23 +231,29 @@
       "group": "Reformed Baptist",
       "kind": "Confession",
       "placeholder": false,
-      "verification": "listed",
-      "status": "planned",
-      "description": "Planned. Text not yet added.",
+      "verification": "researched",
+      "status": "ready",
+      "description": "The Second London Baptist Confession of Faith (1677, adopted 1689): 32 chapters, with Scripture references for each section.",
       "tags": [],
       "source": {
-        "title": "Second London Baptist Confession of Faith",
+        "title": "The Second London Baptist Confession of Faith",
         "copyright_status": "public-domain",
         "copyright": "Public domain.",
         "license": "Public domain",
-        "translation": "King James Version (Scripture proofs)",
-        "notes": "Public domain. Text to be added. Until the text is added here, a reading copy is linked from reformed.org's historic-documents index (not verified against this site).",
-        "url": "http://www.apuritansmind.com/creeds-and-confessions/1689-baptist-confession/"
+        "translation": "English text, spelling modernized (original English)",
+        "notes": "Public domain: published before 1931. Text taken from Wikisource, which marks it as a text without a scanned source, and compared with a second transcription on reformedreader.org: the two agree apart from that site's footnote numbers, and both give the same section counts. Not yet proofread against a scanned original.",
+        "url": "https://en.wikisource.org/wiki/1689_Baptist_Confession_of_Faith",
+        "date": "1677; adopted 1689"
       },
-      "count": 0,
+      "count": 32,
       "research_sources": [
-        "https://reformed.org/historic-confessions/"
-      ]
+        "https://reformed.org/historic-confessions/",
+        "https://www.reformedreader.org/ccc/1689lbc/english/1689econtents.htm"
+      ],
+      "structure": "chapters",
+      "unit": "chapter",
+      "file": "catechisms/lbcf1689.json",
+      "coverage_note": "Spelling is modernized in the text used here. The 1677 preface, the closing statement and the list of signatories are not included. Scripture references are shown as a group after each section, as the source gives them."
     },
     {
       "id": "baptist-catechism",
@@ -256,19 +262,27 @@
       "group": "Reformed Baptist",
       "kind": "Catechism",
       "placeholder": false,
-      "verification": "listed",
-      "status": "planned",
-      "description": "Planned. Text not yet added.",
+      "verification": "researched",
+      "status": "ready",
+      "description": "The Baptist Catechism (commonly called Keach’s Catechism), in the text of the 1695 fifth edition: 114 questions and answers with Scripture references.",
       "tags": [],
       "source": {
-        "title": "Baptist Catechism of 1693",
+        "title": "The Baptist Catechism (Keach’s Catechism)",
         "copyright_status": "public-domain",
         "copyright": "Public domain.",
         "license": "Public domain",
-        "translation": "King James Version (Scripture proofs)",
-        "notes": "Public domain. Text to be added."
+        "translation": "Original English, spelling lightly modernized",
+        "notes": "Public domain: published before 1931. Text taken from baptistcatechism.org, which uses the oldest known copy (the 1695 fifth edition). The other online text I found (reformedreader.org) is the Spurgeon-era version, a different wording, so it could not be used to check this one. Not yet proofread against a scanned original.",
+        "date": "1693; text of the 1695 fifth edition",
+        "url": "https://baptistcatechism.org/"
       },
-      "count": 0
+      "count": 114,
+      "file": "catechisms/baptist-catechism.json",
+      "coverage_note": "Scripture references are shown as citations; the text of each passage is not yet included. This is the original 1693–1695 catechism. Charles Spurgeon’s later edition, which follows the Westminster Shorter Catechism more closely, is a different text.",
+      "research_sources": [
+        "https://baptistcatechism.org/",
+        "https://www.reformedreader.org/ccc/keachcat.htm"
+      ]
     },
     {
       "id": "apostles",
@@ -277,23 +291,27 @@
       "group": "Ecumenical",
       "kind": "Creed",
       "placeholder": false,
-      "verification": "listed",
-      "status": "planned",
-      "description": "Planned. Text not yet added.",
+      "verification": "researched",
+      "status": "ready",
+      "description": "The Apostles' Creed in its received form.",
       "tags": [],
       "source": {
-        "title": "Apostles' Creed",
+        "title": "The Apostles' Creed (received form)",
         "copyright_status": "public-domain",
         "copyright": "Public domain.",
         "license": "Public domain",
-        "translation": "King James Version (Scripture proofs)",
-        "notes": "Public domain. Text to be added. Until the text is added here, a reading copy is linked from reformed.org's historic-documents index (not verified against this site).",
-        "url": "http://www.apuritansmind.com/creeds-and-confessions/the-apostles-creed/"
+        "translation": "English, from Philip Schaff, The Creeds of Christendom, vol. 2 (1877; later editions)",
+        "notes": "Public domain. English of the received form of the Apostles' Creed as given in Philip Schaff, The Creeds of Christendom, vol. 2. Schaff's bracketed alternative readings and footnote numbers are removed. Not yet compared with a second edition.",
+        "url": "https://ccel.org/ccel/schaff/creeds2/creeds2.i.html"
       },
-      "count": 0,
+      "count": 1,
       "research_sources": [
         "https://reformed.org/historic-confessions/"
-      ]
+      ],
+      "structure": "chapters",
+      "unit": "creed",
+      "file": "catechisms/apostles.json",
+      "coverage_note": "Read online. The creeds are given in English only."
     },
     {
       "id": "nicene",
@@ -302,23 +320,27 @@
       "group": "Ecumenical",
       "kind": "Creed",
       "placeholder": false,
-      "verification": "listed",
-      "status": "planned",
-      "description": "Planned. Text not yet added.",
+      "verification": "researched",
+      "status": "ready",
+      "description": "The Nicene Creed in the form used by Western and Reformed churches (the Niceno-Constantinopolitan Creed).",
       "tags": [],
       "source": {
-        "title": "Nicene Creed",
+        "title": "The Nicene Creed (received Western text as printed by Schaff)",
         "copyright_status": "public-domain",
         "copyright": "Public domain.",
         "license": "Public domain",
-        "translation": "King James Version (Scripture proofs)",
-        "notes": "Public domain. Text to be added. Until the text is added here, a reading copy is linked from reformed.org's historic-documents index (not verified against this site).",
-        "url": "http://www.apuritansmind.com/creeds-and-confessions/nicene-creed/"
+        "translation": "English, from Philip Schaff, The Creeds of Christendom, vol. 2 (1877; later editions)",
+        "notes": "Public domain. English of the received Western text, in Philip Schaff, The Creeds of Christendom, vol. 2. It includes 'God of God' and the Filioque ('and the Son'), as Reformed churches have used it; Eastern churches omit the Filioque. Schaff's bracketed alternatives are removed. Not yet compared with a second edition.",
+        "url": "https://ccel.org/ccel/schaff/creeds2/creeds2.i.html"
       },
-      "count": 0,
+      "count": 1,
       "research_sources": [
         "https://reformed.org/historic-confessions/"
-      ]
+      ],
+      "structure": "chapters",
+      "unit": "creed",
+      "file": "catechisms/nicene.json",
+      "coverage_note": "Read online. The creeds are given in English only."
     },
     {
       "id": "athanasian",
@@ -327,23 +349,27 @@
       "group": "Ecumenical",
       "kind": "Creed",
       "placeholder": false,
-      "verification": "listed",
-      "status": "planned",
-      "description": "Planned. Text not yet added.",
+      "verification": "researched",
+      "status": "ready",
+      "description": "The Athanasian Creed (Quicunque vult), in the 1548 English version.",
       "tags": [],
       "source": {
-        "title": "Athanasian Creed",
+        "title": "The Athanasian Creed",
         "copyright_status": "public-domain",
         "copyright": "Public domain.",
         "license": "Public domain",
-        "translation": "King James Version (Scripture proofs)",
-        "notes": "Public domain. Text to be added. Until the text is added here, a reading copy is linked from reformed.org's historic-documents index (not verified against this site).",
-        "url": "http://www.apuritansmind.com/creeds-and-confessions/the-athanasian-creed-circa-500-a-d/"
+        "translation": "English, from Philip Schaff, The Creeds of Christendom, vol. 2 (1877; later editions)",
+        "notes": "Public domain. English of the sixteenth-century (1548) Book of Common Prayer version, as given in Schaff, The Creeds of Christendom, vol. 2, in 44 numbered verses. Schaff's bracketed emendations are removed. The BCP numbers 40 verses; Schaff's 44 are used. Not yet compared with a second edition.",
+        "url": "https://ccel.org/ccel/schaff/creeds2/creeds2.i.html"
       },
-      "count": 0,
+      "count": 1,
       "research_sources": [
         "https://reformed.org/historic-confessions/"
-      ]
+      ],
+      "structure": "chapters",
+      "unit": "creed",
+      "file": "catechisms/athanasian.json",
+      "coverage_note": "Read online. The creeds are given in English only."
     },
     {
       "id": "chalcedon",
@@ -352,23 +378,27 @@
       "group": "Ecumenical",
       "kind": "Creed",
       "placeholder": false,
-      "verification": "listed",
-      "status": "planned",
-      "description": "Planned. Text not yet added.",
+      "verification": "researched",
+      "status": "ready",
+      "description": "The Chalcedonian definition of the two natures of Christ, from the Council of Chalcedon in 451.",
       "tags": [],
       "source": {
-        "title": "Definition of Chalcedon",
+        "title": "The Definition of Chalcedon (451)",
         "copyright_status": "public-domain",
         "copyright": "Public domain.",
         "license": "Public domain",
-        "translation": "King James Version (Scripture proofs)",
-        "notes": "Public domain. Text to be added. Until the text is added here, a reading copy is linked from reformed.org's historic-documents index (not verified against this site).",
-        "url": "http://www.apuritansmind.com/creeds-and-confessions/the-chalcedonian-creed-circa-451-a-d/"
+        "translation": "English, from Philip Schaff, The Creeds of Christendom, vol. 2 (1877; later editions)",
+        "notes": "Public domain. English translation in Schaff, The Creeds of Christendom, vol. 2. The Greek words Schaff inserts in the middle of the sentence are removed and his bracketed alternatives left out, except for the words 'have declared'. Not yet compared with a second edition.",
+        "url": "https://ccel.org/ccel/schaff/creeds2/creeds2.i.html"
       },
-      "count": 0,
+      "count": 1,
       "research_sources": [
         "https://reformed.org/historic-confessions/"
-      ]
+      ],
+      "structure": "chapters",
+      "unit": "creed",
+      "file": "catechisms/chalcedon.json",
+      "coverage_note": "Read online. The creeds are given in English only."
     }
   ]
 }

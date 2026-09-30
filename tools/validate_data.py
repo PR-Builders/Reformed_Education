@@ -54,7 +54,7 @@ for f in sorted(DATA.glob("*.json")):
                 if e.get("count") != len(chs): errors.append(f"{w}: count {e.get('count')} does not match {len(chs)} chapters")
                 for c in chs:
                     for sec in c["sections"]:
-                        keys = {p["key"] for p in sec["proofs"]}
+                        keys = {p["key"] for p in sec["proofs"] if p.get("key")}
                         marks = set(re.findall(r"\{([a-z]{1,2})\}", sec["text"]))
                         if keys != marks: errors.append(f"{w}: {c['numeral']}.{sec['n']} footnote markers {sorted(marks)} != proofs {sorted(keys)}")
                 continue

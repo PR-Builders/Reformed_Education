@@ -301,6 +301,21 @@
         "notes": "Questions are generated from the catechism text, which is in the public domain."
       },
       "from_catechism": "heidelberg"
+    },
+    {
+      "id": "baptist-catechism",
+      "title": "Baptist Catechism (1693)",
+      "category": "Catechisms",
+      "status": "ready",
+      "description": "Multiple-choice questions generated from the text of the Baptist Catechism.",
+      "questions": [],
+      "source": {
+        "title": "The Baptist Catechism",
+        "copyright_status": "public-domain",
+        "license": "Public domain",
+        "notes": "Questions are generated from the catechism text, which is in the public domain."
+      },
+      "from_catechism": "baptist-catechism"
     }
   ]
 }
