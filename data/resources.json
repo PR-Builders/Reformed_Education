@@ -1315,6 +1315,304 @@
         "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
       },
       "tags": []
+    },
+    {
+      "id": "caps",
+      "name": "Christian Association for Psychological Studies (CAPS)",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Organization",
+      "creator": "Founded 1956",
+      "subject": [
+        "Mental Health",
+        "Biblical Counseling"
+      ],
+      "doctrinal_basis": "The page reviewed states no creed; members are described as united in commitment to Christ and to professional excellence.",
+      "points_to_weigh": [
+        "Interdenominational, not confessionally Reformed.",
+        "Christians disagree about how far counseling should draw on clinical psychology. Biblical counselors (for example CCEF and ACBC) and Christian clinicians (for example CAPS and AACC members) take different positions; see ‘Psychology and Christianity: Five Views’.",
+        "Neither this list nor any book replaces a licensed clinician or doctor. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://caps.net/about/",
+      "description": "Association of Christian psychologists, counselors, therapists, social workers, researchers and students (more than 1,200 members in the U.S., Canada and 25+ other countries), publishing the Journal of Psychology and Christianity and holding an annual conference.",
+      "topic_ids": [
+        "biblical-counseling/clinical-and-professional-care",
+        "biblical-counseling/foundations"
+      ],
+      "research_sources": [
+        "https://caps.net/about/"
+      ],
+      "source": {
+        "title": "Christian Association for Psychological Studies (CAPS): publisher or organization page",
+        "organization": "CAPS",
+        "url": "https://caps.net/about/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's or publisher's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "aacc",
+      "name": "American Association of Christian Counselors (AACC)",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Organization",
+      "creator": "AACC",
+      "subject": [
+        "Mental Health",
+        "Biblical Counseling"
+      ],
+      "doctrinal_basis": "Publishes a Statement of Faith and a Code of Ethics; the statement was not read for this directory.",
+      "points_to_weigh": [
+        "Not confessionally Reformed; it aims to combine ‘biblical truth’ with ‘psychosocial insights’.",
+        "Christians disagree about how far counseling should draw on clinical psychology. Biblical counselors (for example CCEF and ACBC) and Christian clinicians (for example CAPS and AACC members) take different positions; see ‘Psychology and Christianity: Five Views’.",
+        "Neither this list nor any book replaces a licensed clinician or doctor. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://aacc.net/",
+      "description": "Describes itself as the world’s largest Christian mental health organization, serving licensed professionals, pastors and lay counselors with training, webinars, continuing education, credentialing and a Code of Ethics.",
+      "topic_ids": [
+        "biblical-counseling/clinical-and-professional-care",
+        "biblical-counseling/foundations"
+      ],
+      "research_sources": [
+        "https://aacc.net/"
+      ],
+      "source": {
+        "title": "American Association of Christian Counselors (AACC): publisher or organization page",
+        "organization": "AACC",
+        "url": "https://aacc.net/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's or publisher's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "psychology-and-christianity-five-views",
+      "name": "Psychology and Christianity: Five Views",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Book",
+      "creator": "Edited by Eric L. Johnson",
+      "publisher": "IVP Academic, 2010 (revised edition)",
+      "subject": [
+        "Biblical Counseling",
+        "Mental Health"
+      ],
+      "doctrinal_basis": "Multi-author; each view is argued by its own proponent.",
+      "points_to_weigh": [
+        "The book is mainly about how to view psychology as a discipline, not step-by-step counseling.",
+        "The publisher’s page could not be read; details are from retailer and review pages.",
+        "Christians disagree about how far counseling should draw on clinical psychology. Biblical counselors (for example CCEF and ACBC) and Christian clinicians (for example CAPS and AACC members) take different positions; see ‘Psychology and Christianity: Five Views’."
+      ],
+      "website": "https://www.ivpress.com/psychology-christianity",
+      "description": "Compares five approaches to how Christians should relate to psychology: biblical counseling (David Powlison), levels of explanation (David Myers), integration (Stanton Jones), Christian psychology (Robert Roberts and P. J. Watson) and a transformative view (John Coe and Todd Hall).",
+      "topic_ids": [
+        "biblical-counseling/clinical-and-professional-care",
+        "biblical-counseling/foundations"
+      ],
+      "research_sources": [
+        "https://www.ivpress.com/psychology-christianity",
+        "https://www.thegospelcoalition.org/reviews/psychology-christianity/"
+      ],
+      "source": {
+        "title": "Psychology and Christianity: Five Views: publisher or organization page",
+        "organization": "IVP Academic",
+        "url": "https://www.ivpress.com/psychology-christianity",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's or publisher's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "langberg-suffering-and-the-heart-of-god",
+      "name": "Suffering and the Heart of God: How Trauma Destroys and Christ Restores",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Book",
+      "creator": "Diane Langberg",
+      "publisher": "New Growth Press, 2015",
+      "subject": [
+        "Biblical Counseling",
+        "Mental Health"
+      ],
+      "doctrinal_basis": "Written by a clinical psychologist and Christian trauma specialist.",
+      "points_to_weigh": [
+        "Whether it counts as a ‘biblical counseling’ resource is debated by biblical counselors.",
+        "Neither this list nor any book replaces a licensed clinician or doctor. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://newgrowthpress.com/christian-books/biblical-counseling-books/suffering-and-the-heart-of-god-how-trauma-destroys-and-christ-restores/",
+      "description": "Book (2015) drawing on more than forty years of counseling trauma and abuse survivors: what trauma destroys Christ can restore, slowly, through talking, tears and time, with patience from family, friends and counselors.",
+      "topic_ids": [
+        "biblical-counseling/abuse-and-trauma",
+        "biblical-counseling/clinical-and-professional-care"
+      ],
+      "research_sources": [
+        "https://newgrowthpress.com/christian-books/biblical-counseling-books/suffering-and-the-heart-of-god-how-trauma-destroys-and-christ-restores/",
+        "https://rpmministries.org/2025/02/langberg-bc-resource/"
+      ],
+      "source": {
+        "title": "Suffering and the Heart of God: How Trauma Destroys and Christ Restores: publisher or organization page",
+        "organization": "New Growth Press",
+        "url": "https://newgrowthpress.com/christian-books/biblical-counseling-books/suffering-and-the-heart-of-god-how-trauma-destroys-and-christ-restores/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's or publisher's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "global-trauma-recovery-institute",
+      "name": "Global Trauma Recovery Institute (GTRI)",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Organization",
+      "creator": "Diane Langberg and Philip Monroe",
+      "subject": [
+        "Mental Health",
+        "Biblical Counseling"
+      ],
+      "doctrinal_basis": "A ministry-minded initiative of a Christian seminary; no formal statement was found on the page reviewed.",
+      "points_to_weigh": [
+        "Aimed at professionals and ministry leaders rather than individuals seeking help.",
+        "Neither this list nor any book replaces a licensed clinician or doctor. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://globaltraumarecovery.org/",
+      "description": "Initiative housed at Biblical Theological Seminary offering training, clinical supervision and case consultation in trauma recovery for mental health clinicians, ministry leaders and professionals, at home and abroad.",
+      "topic_ids": [
+        "biblical-counseling/abuse-and-trauma",
+        "biblical-counseling/clinical-and-professional-care"
+      ],
+      "research_sources": [
+        "https://globaltraumarecovery.org/"
+      ],
+      "source": {
+        "title": "Global Trauma Recovery Institute (GTRI): publisher or organization page",
+        "organization": "Global Trauma Recovery Institute",
+        "url": "https://globaltraumarecovery.org/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's or publisher's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "mental-health-grace-alliance",
+      "name": "Mental Health Grace Alliance",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Organization",
+      "creator": "Mental Health Grace Alliance",
+      "subject": [
+        "Mental Health",
+        "Biblical Counseling"
+      ],
+      "doctrinal_basis": "Christ-centered; no confession is named on the page reviewed.",
+      "points_to_weigh": [
+        "States that its groups complement professional treatment and are not meant to replace it.",
+        "Not confessionally Reformed.",
+        "Neither this list nor any book replaces a licensed clinician or doctor. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://mentalhealthgracealliance.org/",
+      "description": "Christian mental-health recovery ministry (since 2011) offering peer- and lay-led support groups and free training for group leaders, in English, Spanish and Chinese; it reports serving over 30,000 participants in 58+ countries.",
+      "topic_ids": [
+        "biblical-counseling/clinical-and-professional-care",
+        "biblical-counseling/depression",
+        "biblical-counseling/anxiety-and-fear",
+        "biblical-counseling/helping-others"
+      ],
+      "research_sources": [
+        "https://mentalhealthgracealliance.org/"
+      ],
+      "source": {
+        "title": "Mental Health Grace Alliance: publisher or organization page",
+        "organization": "Mental Health Grace Alliance",
+        "url": "https://mentalhealthgracealliance.org/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's or publisher's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "iocdf-scrupulosity",
+      "name": "International OCD Foundation: What Is OCD and Scrupulosity?",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Article",
+      "creator": "International OCD Foundation",
+      "subject": [
+        "Mental Health"
+      ],
+      "doctrinal_basis": "A secular nonprofit; not a Christian or Reformed source.",
+      "points_to_weigh": [
+        "This is clinical information, not a Christian counseling approach; it says clergy can help clarify a faith’s stance when the patient wants them involved.",
+        "Some biblical counselors and Christian clinicians differ over how much clinical therapy to combine with pastoral care.",
+        "Neither this list nor any book replaces a licensed clinician or doctor. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://iocdf.org/faith-ocd/what-is-ocd-scrupulosity/",
+      "description": "Secular, evidence-based explanation of scrupulosity (religious or moral OCD), which the page says affects people of all faiths, and of its main treatment: cognitive behavior therapy with exposure and response prevention (ERP), with medication in some cases.",
+      "topic_ids": [
+        "biblical-counseling/ocd-and-scrupulosity",
+        "biblical-counseling/clinical-and-professional-care"
+      ],
+      "research_sources": [
+        "https://iocdf.org/faith-ocd/what-is-ocd-scrupulosity/"
+      ],
+      "source": {
+        "title": "International OCD Foundation: What Is OCD and Scrupulosity?: publisher or organization page",
+        "organization": "International OCD Foundation",
+        "url": "https://iocdf.org/faith-ocd/what-is-ocd-scrupulosity/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's or publisher's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "iocdf-clergy-packet",
+      "name": "Scrupulosity and OCD Information Packet for Faith Leaders",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Article",
+      "creator": "International OCD Foundation",
+      "subject": [
+        "Mental Health"
+      ],
+      "doctrinal_basis": "A secular nonprofit’s material for faith leaders; not written from a Reformed or biblical-counseling standpoint.",
+      "points_to_weigh": [
+        "It tells helpers about reassurance-seeking, which matters to anyone who helps someone with scrupulosity; the packet is not a substitute for professional advice.",
+        "Neither this list nor any book replaces a licensed clinician or doctor. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://iocdf.org/wp-content/uploads/2022/04/Clergy-Packet.pdf",
+      "description": "20-page packet for clergy compiled from IOCDF, ADAA and AnxietyCanada material: what OCD and scrupulosity are, ERP, how accommodating and giving reassurance can feed OCD, and questions for clergy.",
+      "topic_ids": [
+        "biblical-counseling/ocd-and-scrupulosity",
+        "biblical-counseling/clinical-and-professional-care",
+        "biblical-counseling/helping-others"
+      ],
+      "research_sources": [
+        "https://iocdf.org/wp-content/uploads/2022/04/Clergy-Packet.pdf"
+      ],
+      "source": {
+        "title": "Scrupulosity and OCD Information Packet for Faith Leaders: publisher or organization page",
+        "organization": "International OCD Foundation",
+        "url": "https://iocdf.org/wp-content/uploads/2022/04/Clergy-Packet.pdf",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's or publisher's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
     }
   ]
 }

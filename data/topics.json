@@ -189,6 +189,27 @@
           ]
         },
         {
+          "id": "clinical-and-professional-care",
+          "name": "Clinical and Professional Care",
+          "start_here": [
+            {
+              "type": "resources",
+              "id": "psychology-and-christianity-five-views",
+              "why": "Maps the Christian views on psychology, including biblical counseling."
+            },
+            {
+              "type": "resources",
+              "id": "caps",
+              "why": "Association of Christian clinicians and researchers."
+            },
+            {
+              "type": "resources",
+              "id": "mental-health-grace-alliance",
+              "why": "Christian peer support that complements professional treatment."
+            }
+          ]
+        },
+        {
           "id": "helping-others",
           "name": "Helping Someone in Need",
           "start_here": [
@@ -256,14 +277,14 @@
               "why": "‘OCD with Mike Emlet’, Parts 1 and 2, from CCEF."
             },
             {
-              "type": "podcasts",
-              "id": "acbc-truth-in-love",
-              "why": "Episode 443, ‘Scrupulosity’, from ACBC."
+              "type": "resources",
+              "id": "iocdf-scrupulosity",
+              "why": "Secular clinical explanation and treatment (ERP)."
             },
             {
-              "type": "podcasts",
-              "id": "christian-faith-and-ocd",
-              "why": "A licensed counselor’s clinical approach (ICBT); not a Reformed ministry."
+              "type": "resources",
+              "id": "iocdf-clergy-packet",
+              "why": "20-page packet for faith leaders, including how reassurance feeds OCD."
             }
           ]
         },
@@ -352,6 +373,11 @@
               "type": "resources",
               "id": "strickland-is-it-abuse",
               "why": "A guide to identifying domestic abuse and helping victims, with a safety action plan."
+            },
+            {
+              "type": "resources",
+              "id": "langberg-suffering-and-the-heart-of-god",
+              "why": "A trauma specialist on how Christ restores what trauma destroys."
             },
             {
               "type": "resources",
