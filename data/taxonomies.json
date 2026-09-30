@@ -4,7 +4,9 @@
     "tradition": [
       "Presbyterian",
       "Continental Reformed",
-      "Reformed Baptist"
+      "Reformed Baptist",
+      "Baptist",
+      "Non-denominational evangelical"
     ],
     "delivery": [
       "Residential",
@@ -16,6 +18,13 @@
       "Th.M.",
       "D.Min.",
       "Ph.D."
+    ],
+    "doctrinal_posture": [
+      "Confessional Reformed",
+      "Reformed heritage",
+      "Conservative evangelical",
+      "Broadly evangelical",
+      "Mainline (PC(USA))"
     ]
   },
   "schools": {
@@ -31,6 +40,13 @@
       "School",
       "Association / Network",
       "Curriculum"
+    ],
+    "doctrinal_posture": [
+      "Confessional Reformed",
+      "Reformed heritage",
+      "Conservative evangelical",
+      "Broadly evangelical",
+      "Mainline (PC(USA))"
     ]
   },
   "podcasts": {
@@ -110,6 +126,44 @@
       "French",
       "Dutch",
       "German"
+    ]
+  },
+  "colleges": {
+    "tradition": [
+      "Presbyterian",
+      "Continental Reformed",
+      "Baptist",
+      "Non-denominational evangelical"
+    ],
+    "doctrinal_posture": [
+      "Confessional Reformed",
+      "Reformed heritage",
+      "Conservative evangelical",
+      "Broadly evangelical",
+      "Mainline (PC(USA))"
+    ],
+    "delivery": [
+      "Residential",
+      "Online"
+    ]
+  },
+  "courses": {
+    "format": [
+      "Online — credit",
+      "Online — non-credit",
+      "Residential, audit available"
+    ],
+    "level": [
+      "Graduate",
+      "Undergraduate",
+      "Lay / general"
+    ],
+    "doctrinal_posture": [
+      "Confessional Reformed",
+      "Reformed heritage",
+      "Conservative evangelical",
+      "Broadly evangelical",
+      "Mainline (PC(USA))"
     ]
   }
 }

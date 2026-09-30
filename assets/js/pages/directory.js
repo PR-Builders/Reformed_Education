@@ -26,6 +26,7 @@ RE.pages._directory = function () {
         <p class="label">Directory</p><h1>${esc(cfg.label)}</h1>
         <p class="prose">${esc(cfg.intro)}</p></div></div>
       <div class="container page-body">
+        ${cfg.groupBy ? `<div class="notice">${esc(RE.config.classificationNotice)}</div>` : ""}
         ${entries.some((e) => e.placeholder) ? RE.ui.placeholderNotice("Entries below are design samples only. Verified listings will be added.") : ""}
         <div class="toolbar">
           <div class="field"><label for="filter-q">Filter ${esc(cfg.label.toLowerCase())}</label>
@@ -38,11 +39,21 @@ RE.pages._directory = function () {
         <div class="grid grid-cards" id="cards"></div>
       </div>`;
 
+    const vocab = cfg.groupBy ? (await RE.data.taxonomy(type, cfg.groupBy)) || [] : [];
+    const cardsFor = (list) => list.map((e) => directoryCard(type, e)).join("");
+    const grouped = (list) => {
+      const by = new Map(vocab.map((v) => [v, []]));
+      list.forEach((e) => { const k = by.has(e[cfg.groupBy]) ? e[cfg.groupBy] : "Not yet classified"; if (!by.has(k)) by.set(k, []); by.get(k).push(e); });
+      return [...by].filter(([, l]) => l.length).map(([k, l]) => `<section class="group"><h2>${esc(k)} <span class="muted" style="font-size:1rem;font-family:var(--font-body);font-weight:400">(${l.length})</span></h2>
+        ${(RE.config.postureNotes || {})[k] ? `<p class="muted group-note">${esc(RE.config.postureNotes[k])}</p>` : ""}
+        <div class="grid grid-cards">${cardsFor(l)}</div></section>`).join("");
+    };
     const draw = () => {
       const q = $("#filter-q").value.trim();
       const chosen = facets.map((f) => [f.key, $(`#f-${f.key}`).value]).filter((p) => p[1]);
       const shown = entries.filter((e) => (!q || RE.search.matches(e, q)) && chosen.every(([k, v]) => [].concat(e[k]).includes(v)));
-      $("#cards").innerHTML = shown.length ? shown.map((e) => directoryCard(type, e)).join("") : `<p class="muted">No entries match.</p>`;
+      $("#cards").className = cfg.groupBy ? "" : "grid grid-cards";
+      $("#cards").innerHTML = !shown.length ? `<p class="muted">No entries match.</p>` : cfg.groupBy ? grouped(shown) : cardsFor(shown);
       $("#count").textContent = `${shown.length} of ${entries.length} entries`;
     };
     root.addEventListener("input", draw);

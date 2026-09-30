@@ -1,300 +1,859 @@
 {
-  "_note": "Names supplied by reformededucation.org from its preliminary research. Entries are name-only (`verification: listed`); every other field is a placeholder until researched from the institution's own site. Nothing here is verified.",
+  "_note": "Researched 2026-09-30 by reformededucation.org from institutions' own pages and the cited sources. 'MRTS' from the original list could not be identified and was removed. Classification is reformededucation.org's judgment; it describes and does not endorse.",
   "entries": [
     {
       "id": "reformed-theological-seminary",
       "name": "Reformed Theological Seminary",
       "placeholder": false,
-      "verification": "listed",
-      "aliases": [
-        "RTS"
+      "verification": "researched",
+      "doctrinal_posture": "Confessional Reformed",
+      "location": "Jackson, MS; Orlando, FL; Charlotte, NC; Atlanta, GA; Washington, D.C.; Global (online)",
+      "founded": "1966",
+      "tradition": "Presbyterian",
+      "affiliation": "Nondenominational; serves primarily the PCA, also the EPC, ARP, Reformed Baptist and independent churches",
+      "doctrinal_basis": "Each trustee, senior administrator and voting faculty member subscribes to a Statement of Belief and Covenant affirming biblical inerrancy and the Westminster Standards (RTS, “Reaching Our Standards”).",
+      "points_to_weigh": [
+        "Nondenominational: its campuses draw students from several denominations, not only the PCA or OPC.",
+        "2010: professor Bruce Waltke resigned after remarks on evolution made to the BioLogos Foundation (Wikipedia)."
       ],
-      "listing_note": "Description paraphrased from the institution's site as reported in reformededucation.org's preliminary research; re-verify before marking verified.",
-      "location": "[Placeholder — information to be added]",
-      "tradition": "[Placeholder — information to be added]",
-      "affiliation": "[Placeholder — information to be added]",
       "degrees": [
-        "[Placeholder — information to be added]"
+        "M.Div.",
+        "M.A.",
+        "D.Min."
       ],
       "delivery": [
-        "[Placeholder — information to be added]"
+        "Residential",
+        "Online"
       ],
-      "accreditation": "[Placeholder — information to be added]",
-      "tuition": "[Placeholder — information to be added]",
+      "accreditation": "ATS; SACSCOC",
+      "description": "Reformed seminary founded by conservatives from the Presbyterian Church in the United States, with residential campuses and a Global online campus.",
       "website": "https://rts.edu/",
-      "admissions_url": "[Placeholder — information to be added]",
-      "description": "Describes its theological education as rooted in the Reformed tradition and the Westminster Standards (per the seminary's own website).",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Reformed_Theological_Seminary",
+        "https://rts.edu/resources/reaching-our-standards-2/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
+        "title": "Reformed Theological Seminary: institution website and encyclopedia summary",
         "organization": "Reformed Theological Seminary",
         "url": "https://rts.edu/",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
       },
-      "tags": []
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
     },
     {
       "id": "westminster-theological-seminary",
       "name": "Westminster Theological Seminary",
       "placeholder": false,
-      "verification": "listed",
-      "location": "[Placeholder — information to be added]",
-      "tradition": "[Placeholder — information to be added]",
-      "affiliation": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "doctrinal_posture": "Confessional Reformed",
+      "location": "Glenside, PA",
+      "founded": "1929",
+      "tradition": "Presbyterian",
+      "affiliation": "Reformed; independent",
+      "doctrinal_basis": "All trustees and faculty must affirm the Westminster Confession of Faith and the Larger and Shorter Catechisms (Wikipedia).",
+      "points_to_weigh": [
+        "Founded in 1929 by Princeton Seminary faculty, including J. Gresham Machen, who opposed that seminary's modernist reorganization.",
+        "Documented faculty disputes over theological direction: Norman Shepherd (1981, justification), Peter Enns (2008, Old Testament interpretation), and Douglas Green (2014)."
+      ],
       "degrees": [
-        "[Placeholder — information to be added]"
+        "M.Div.",
+        "M.A.",
+        "Th.M.",
+        "D.Min.",
+        "Ph.D."
       ],
       "delivery": [
-        "[Placeholder — information to be added]"
+        "Residential",
+        "Online"
       ],
-      "accreditation": "[Placeholder — information to be added]",
-      "tuition": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "admissions_url": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "accreditation": "MSCHE; ATS",
+      "description": "Reformed seminary founded in response to the 1929 reorganization of Princeton Seminary; offers online master's and doctoral programs taught by the same faculty.",
+      "website": "https://www.wts.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Westminster_Theological_Seminary",
+        "https://www.wts.edu/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Westminster Theological Seminary: institution website and encyclopedia summary",
+        "organization": "Westminster Theological Seminary",
+        "url": "https://www.wts.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
       },
-      "tags": []
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
     },
     {
       "id": "westminster-seminary-california",
       "name": "Westminster Seminary California",
       "placeholder": false,
-      "verification": "listed",
-      "location": "[Placeholder — information to be added]",
-      "tradition": "[Placeholder — information to be added]",
-      "affiliation": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "doctrinal_posture": "Confessional Reformed",
+      "location": "Escondido, CA",
+      "founded": "1979",
+      "tradition": "Presbyterian",
+      "affiliation": "Multi-denominational Reformed and Presbyterian; close ties to the PCA, OPC and URCNA",
+      "doctrinal_basis": "All faculty and trustees sign the Westminster Standards and the Three Forms of Unity before installation (WSC, Doctrinal Standards).",
+      "points_to_weigh": [
+        "Known for teaching the Reformed “two kingdoms” doctrine, sometimes called “Escondido theology” (Wikipedia)."
+      ],
       "degrees": [
-        "[Placeholder — information to be added]"
+        "M.Div.",
+        "M.A."
       ],
       "delivery": [
-        "[Placeholder — information to be added]"
+        "Residential"
       ],
-      "accreditation": "[Placeholder — information to be added]",
-      "tuition": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "admissions_url": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "accreditation": "ATS; WASC",
+      "description": "Confessional Reformed seminary that emphasizes in-person education, with audit opportunities.",
+      "website": "https://www.wscal.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Westminster_Seminary_California",
+        "https://www.wscal.edu/doctrinal-standards/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Westminster Seminary California: institution website and encyclopedia summary",
+        "organization": "Westminster Seminary California",
+        "url": "https://www.wscal.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
       },
-      "tags": []
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
     },
     {
       "id": "greenville-presbyterian-theological-seminary",
       "name": "Greenville Presbyterian Theological Seminary",
       "placeholder": false,
-      "verification": "listed",
-      "location": "[Placeholder — information to be added]",
-      "tradition": "[Placeholder — information to be added]",
-      "affiliation": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "doctrinal_posture": "Confessional Reformed",
+      "location": "Greenville, SC",
+      "founded": "1986",
+      "tradition": "Presbyterian",
+      "affiliation": "Not denominational; confessional Presbyterian",
+      "doctrinal_basis": "The board and faculty subscribe annually to the Westminster Confession of Faith and the Larger and Shorter Catechisms as adopted by the PCA and the OPC (South Carolina Encyclopedia).",
+      "points_to_weigh": [
+        "Accredited by the Association of Reformed Theological Seminaries; as reported, it seeks ecclesiastical rather than ATS or regional accreditation, so confirm credit-transfer implications with the seminary."
+      ],
       "degrees": [
-        "[Placeholder — information to be added]"
+        "M.Div.",
+        "M.A.",
+        "Th.M."
       ],
       "delivery": [
         "[Placeholder — information to be added]"
       ],
-      "accreditation": "[Placeholder — information to be added]",
-      "tuition": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "admissions_url": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "accreditation": "Association of Reformed Theological Seminaries",
+      "description": "Confessional Presbyterian seminary with strict adherence to the Westminster Standards.",
+      "website": "https://www.gpts.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Greenville_Presbyterian_Theological_Seminary",
+        "https://www.scencyclopedia.org/sce/entries/greenville-presbyterian-theological-seminary/",
+        "https://www.gpts.edu/about-us"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Greenville Presbyterian Theological Seminary: institution website and encyclopedia summary",
+        "organization": "Greenville Presbyterian Theological Seminary",
+        "url": "https://www.gpts.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
       },
-      "tags": []
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
     },
     {
       "id": "puritan-reformed-theological-seminary",
       "name": "Puritan Reformed Theological Seminary",
       "placeholder": false,
-      "verification": "listed",
-      "location": "[Placeholder — information to be added]",
-      "tradition": "[Placeholder — information to be added]",
-      "affiliation": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "doctrinal_posture": "Confessional Reformed",
+      "location": "Grand Rapids, MI",
+      "founded": "1995",
+      "tradition": "Continental Reformed",
+      "affiliation": "Heritage Reformed Congregations; also Free Reformed Churches of North America",
+      "doctrinal_basis": "Faculty subscribe to the Three Forms of Unity and the Westminster Standards (Wikipedia).",
+      "points_to_weigh": [
+        "Emphasizes Puritan and Dutch experiential Reformed theology; Joel Beeke is Chancellor."
+      ],
       "degrees": [
-        "[Placeholder — information to be added]"
+        "M.Div.",
+        "M.A.",
+        "Th.M.",
+        "D.Min.",
+        "Ph.D."
       ],
       "delivery": [
-        "[Placeholder — information to be added]"
+        "Residential"
       ],
-      "accreditation": "[Placeholder — information to be added]",
-      "tuition": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "admissions_url": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "accreditation": "ATS (2014)",
+      "description": "Seminary in the Puritan and Continental Reformed tradition, with Th.M. extension campuses abroad.",
+      "website": "https://prts.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Puritan_Reformed_Theological_Seminary",
+        "https://prts.edu/about/our-mission-beliefs/confessional-distinctives/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Puritan Reformed Theological Seminary: institution website and encyclopedia summary",
+        "organization": "Puritan Reformed Theological Seminary",
+        "url": "https://prts.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
       },
-      "tags": []
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
     },
     {
       "id": "covenant-theological-seminary",
       "name": "Covenant Theological Seminary",
       "placeholder": false,
-      "verification": "listed",
-      "location": "[Placeholder — information to be added]",
-      "tradition": "[Placeholder — information to be added]",
-      "affiliation": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "doctrinal_posture": "Confessional Reformed",
+      "location": "Creve Coeur (St. Louis), MO",
+      "founded": "1956",
+      "tradition": "Presbyterian",
+      "affiliation": "Presbyterian Church in America (PCA)",
+      "doctrinal_basis": "Faculty must subscribe to the Westminster Standards (Wikipedia).",
+      "points_to_weigh": [
+        "2018: the Revoice conference met at Memorial Presbyterian Church in St. Louis. The seminary's president said Covenant was not an official sponsor, but a seminary vice president spoke there. In March 2019 the president announced that no faculty would take part in the 2019 conference (Christian Post; byFaith)."
+      ],
       "degrees": [
-        "[Placeholder — information to be added]"
+        "M.Div.",
+        "M.A.",
+        "Th.M.",
+        "D.Min."
       ],
       "delivery": [
-        "[Placeholder — information to be added]"
+        "Residential",
+        "Online"
       ],
-      "accreditation": "[Placeholder — information to be added]",
-      "tuition": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "admissions_url": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "accreditation": "HLC; ATS",
+      "description": "PCA seminary; its M.A. in Biblical and Theological Studies can be completed fully online.",
+      "website": "https://www.covenantseminary.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Covenant_Theological_Seminary",
+        "https://www.christianpost.com/news/covenant-seminary-distances-itself-from-revoice-conference.html",
+        "https://byfaithonline.com/covenant-theological-seminary-response-to-revoice/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Covenant Theological Seminary: institution website and encyclopedia summary",
+        "organization": "Covenant Theological Seminary",
+        "url": "https://www.covenantseminary.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
       },
-      "tags": []
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
     },
     {
       "id": "reformed-presbyterian-theological-seminary",
       "name": "Reformed Presbyterian Theological Seminary",
       "placeholder": false,
-      "verification": "listed",
-      "location": "[Placeholder — information to be added]",
-      "tradition": "[Placeholder — information to be added]",
-      "affiliation": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "doctrinal_posture": "Confessional Reformed",
+      "location": "Pittsburgh, PA",
+      "founded": "1810",
+      "tradition": "Presbyterian",
+      "affiliation": "Reformed Presbyterian Church of North America (RPCNA)",
+      "doctrinal_basis": "A ministry of the RPCNA, which holds the Westminster Standards; classes are taught from a pastoral perspective (Wikipedia; seminary site).",
+      "points_to_weigh": [
+        "Denominational seminary; confirm faculty subscription requirements with the seminary."
+      ],
       "degrees": [
         "[Placeholder — information to be added]"
       ],
       "delivery": [
         "[Placeholder — information to be added]"
       ],
-      "accreditation": "[Placeholder — information to be added]",
-      "tuition": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "admissions_url": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "accreditation": "ATS",
+      "description": "The RPCNA's seminary, one of the oldest in the United States.",
+      "website": "https://www.rpts.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Reformed_Presbyterian_Theological_Seminary"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Reformed Presbyterian Theological Seminary: institution website and encyclopedia summary",
+        "organization": "Reformed Presbyterian Theological Seminary",
+        "url": "https://www.rpts.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
       },
-      "tags": []
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
     },
     {
-      "id": "calvin-theological-seminary",
-      "name": "Calvin Theological Seminary",
+      "id": "mid-america-reformed-seminary",
+      "name": "Mid-America Reformed Seminary",
       "placeholder": false,
-      "verification": "listed",
-      "location": "[Placeholder — information to be added]",
-      "tradition": "[Placeholder — information to be added]",
-      "affiliation": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "doctrinal_posture": "Confessional Reformed",
+      "location": "Dyer, IN",
+      "founded": "1981",
+      "tradition": "Continental Reformed",
+      "affiliation": "United Reformed Churches in North America; also serves the OPC, PCA, CRC and RCUS",
+      "doctrinal_basis": "Adheres to the ecumenical creeds and the Reformed confessions (Belgic Confession, Heidelberg Catechism, Canons of Dort, Westminster Confession); faculty and trustees are committed to the inerrancy of Scripture (Wikipedia).",
+      "points_to_weigh": [
+        "Small institution (about 30 students and 6 faculty as reported); operates independently rather than under denominational governance."
+      ],
       "degrees": [
-        "[Placeholder — information to be added]"
+        "M.Div."
       ],
       "delivery": [
         "[Placeholder — information to be added]"
       ],
-      "accreditation": "[Placeholder — information to be added]",
-      "tuition": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "admissions_url": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "accreditation": "ATS; TRACS",
+      "description": "Continental Reformed seminary serving the URCNA and other confessional churches.",
+      "website": "https://midamerica.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Mid-America_Reformed_Seminary"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Mid-America Reformed Seminary: institution website and encyclopedia summary",
+        "organization": "Mid-America Reformed Seminary",
+        "url": "https://midamerica.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
       },
-      "tags": []
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
     },
     {
       "id": "erskine-theological-seminary",
       "name": "Erskine Theological Seminary",
       "placeholder": false,
-      "verification": "listed",
-      "location": "[Placeholder — information to be added]",
-      "tradition": "[Placeholder — information to be added]",
-      "affiliation": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "doctrinal_posture": "Confessional Reformed",
+      "location": "Due West, Columbia and Greenville, SC",
+      "founded": "1837",
+      "tradition": "Presbyterian",
+      "affiliation": "Associate Reformed Presbyterian Church (ARP)",
+      "doctrinal_basis": "Conservative Presbyterian; teaches the inerrancy of Scripture in the original autographs as the ARP's official position (Wikipedia).",
+      "points_to_weigh": [
+        "2011: five faculty members publicly opposed tolerance of neo-orthodoxy at the seminary; the relationship between the ARP and Erskine has been contested since (Wikipedia; Aquila Report)."
+      ],
       "degrees": [
-        "[Placeholder — information to be added]"
+        "M.Div.",
+        "M.A.",
+        "Th.M.",
+        "D.Min."
       ],
       "delivery": [
-        "[Placeholder — information to be added]"
+        "Residential",
+        "Online"
       ],
-      "accreditation": "[Placeholder — information to be added]",
-      "tuition": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "admissions_url": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "accreditation": "ATS; SACSCOC",
+      "description": "ARP seminary with residential, blended and fully online options.",
+      "website": "https://seminary.erskine.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Erskine_Theological_Seminary",
+        "https://theaquilareport.com/understanding-the-associate-reformed-presbyterian-church-a-its-relation-to-erskine-college-and-seminary/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Erskine Theological Seminary: institution website and encyclopedia summary",
+        "organization": "Erskine Theological Seminary",
+        "url": "https://seminary.erskine.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
       },
-      "tags": []
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
     },
     {
-      "id": "mrts",
-      "name": "MRTS",
+      "id": "calvin-theological-seminary",
+      "name": "Calvin Theological Seminary",
       "placeholder": false,
-      "verification": "listed",
-      "listing_note": "Full name of this institution to be confirmed before research.",
-      "location": "[Placeholder — information to be added]",
-      "tradition": "[Placeholder — information to be added]",
-      "affiliation": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "doctrinal_posture": "Reformed heritage",
+      "location": "Grand Rapids, MI",
+      "founded": "1876",
+      "tradition": "Continental Reformed",
+      "affiliation": "Christian Reformed Church in North America (CRCNA)",
+      "doctrinal_basis": "Seminary of the CRCNA, whose confessions are the Three Forms of Unity.",
+      "points_to_weigh": [
+        "In 2022 the CRC's Synod affirmed that the position that homosexual sex is sin has confessional status (Christian Reformed Church).",
+        "The seminary's faculty subscription process was not confirmed in the sources reviewed."
+      ],
+      "degrees": [
+        "M.Div.",
+        "M.A.",
+        "Th.M.",
+        "Ph.D."
+      ],
+      "delivery": [
+        "[Placeholder — information to be added]"
+      ],
+      "accreditation": "[Placeholder — information to be added]",
+      "description": "CRCNA seminary closely connected to Calvin University, with separate governance.",
+      "website": "https://www.calvinseminary.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Calvin_Theological_Seminary",
+        "https://www.crcna.org/news-and-events/news/calvin-university-clarifies-employee-guidelines-sexuality"
+      ],
+      "source": {
+        "title": "Calvin Theological Seminary: institution website and encyclopedia summary",
+        "organization": "Calvin Theological Seminary",
+        "url": "https://www.calvinseminary.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
+      },
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
+    },
+    {
+      "id": "the-master-s-seminary",
+      "name": "The Master's Seminary",
+      "placeholder": false,
+      "verification": "researched",
+      "doctrinal_posture": "Conservative evangelical",
+      "location": "Sun Valley, CA",
+      "founded": "1986",
+      "tradition": "Non-denominational evangelical",
+      "affiliation": "Grace Community Church and The Master's University (John MacArthur)",
+      "doctrinal_basis": "Doctrinal statement affirms biblical inerrancy, Reformed soteriology and dispensational premillennialism (Wikipedia); faculty affirm it in writing.",
+      "points_to_weigh": [
+        "Dispensational premillennial rather than covenantal, so it differs from the Westminster Standards on eschatology and church government.",
+        "2018–2020: WSCUC placed The Master's University and Seminary on probation over governance concerns; the sanction was lifted in November 2020 (Wikipedia)."
+      ],
+      "degrees": [
+        "M.Div.",
+        "Th.M.",
+        "D.Min.",
+        "Ph.D."
+      ],
+      "delivery": [
+        "[Placeholder — information to be added]"
+      ],
+      "accreditation": "WSCUC",
+      "description": "Conservative evangelical seminary associated with John MacArthur, known for expository preaching.",
+      "website": "https://tms.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/The_Master%27s_Seminary",
+        "https://tms.edu/doctrinal-statement/"
+      ],
+      "source": {
+        "title": "The Master's Seminary: institution website and encyclopedia summary",
+        "organization": "The Master's Seminary",
+        "url": "https://tms.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
+      },
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
+    },
+    {
+      "id": "southern-baptist-theological-seminary",
+      "name": "Southern Baptist Theological Seminary",
+      "placeholder": false,
+      "verification": "researched",
+      "doctrinal_posture": "Conservative evangelical",
+      "location": "Louisville, KY",
+      "founded": "1859",
+      "tradition": "Baptist",
+      "affiliation": "Southern Baptist Convention",
+      "doctrinal_basis": "Faculty adhere to the Abstract of Principles (1858) and the Baptist Faith and Message, and affirm that the Bible is without any error (Wikipedia).",
+      "points_to_weigh": [
+        "Baptist (credobaptist, congregational) rather than Presbyterian: differs from the Westminster Standards on baptism and church government."
+      ],
+      "degrees": [
+        "M.Div.",
+        "D.Min.",
+        "Ph.D."
+      ],
+      "delivery": [
+        "[Placeholder — information to be added]"
+      ],
+      "accreditation": "ATS; SACSCOC",
+      "description": "Flagship Southern Baptist seminary with a Calvinistic Abstract of Principles.",
+      "website": "https://www.sbts.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Southern_Baptist_Theological_Seminary"
+      ],
+      "source": {
+        "title": "Southern Baptist Theological Seminary: institution website and encyclopedia summary",
+        "organization": "Southern Baptist Theological Seminary",
+        "url": "https://www.sbts.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
+      },
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
+    },
+    {
+      "id": "southeastern-baptist-theological-seminary",
+      "name": "Southeastern Baptist Theological Seminary",
+      "placeholder": false,
+      "verification": "researched",
+      "doctrinal_posture": "Conservative evangelical",
+      "location": "Wake Forest, NC",
+      "founded": "1950",
+      "tradition": "Baptist",
+      "affiliation": "Southern Baptist Convention",
+      "doctrinal_basis": "Southern Baptist seminary; confirm its confessional statements with the seminary.",
+      "points_to_weigh": [
+        "Baptist (credobaptist, congregational) rather than Presbyterian."
+      ],
+      "degrees": [
+        "M.Div.",
+        "D.Min.",
+        "Ph.D."
+      ],
+      "delivery": [
+        "[Placeholder — information to be added]"
+      ],
+      "accreditation": "ATS; SACSCOC",
+      "description": "Southern Baptist seminary with an undergraduate program, Judson College at Southeastern.",
+      "website": "https://www.sebts.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Southeastern_Baptist_Theological_Seminary"
+      ],
+      "source": {
+        "title": "Southeastern Baptist Theological Seminary: institution website and encyclopedia summary",
+        "organization": "Southeastern Baptist Theological Seminary",
+        "url": "https://www.sebts.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
+      },
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
+    },
+    {
+      "id": "dallas-theological-seminary",
+      "name": "Dallas Theological Seminary",
+      "placeholder": false,
+      "verification": "researched",
+      "doctrinal_posture": "Conservative evangelical",
+      "location": "Dallas, TX; Houston, TX; Washington, D.C.",
+      "founded": "1924",
+      "tradition": "Non-denominational evangelical",
+      "affiliation": "Non-denominational; historically dispensational",
+      "doctrinal_basis": "Emphasizes premillennialism, dispensationalism and biblical inerrancy (Wikipedia).",
+      "points_to_weigh": [
+        "Dispensational rather than covenantal, so it differs from the Westminster Standards on the relation of Israel and the church and on eschatology."
+      ],
+      "degrees": [
+        "M.A.",
+        "Th.M.",
+        "D.Min."
+      ],
+      "delivery": [
+        "Residential",
+        "Online"
+      ],
+      "accreditation": "ATS; SACSCOC",
+      "description": "Large non-denominational evangelical seminary known for dispensationalism.",
+      "website": "https://www.dts.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Dallas_Theological_Seminary"
+      ],
+      "source": {
+        "title": "Dallas Theological Seminary: institution website and encyclopedia summary",
+        "organization": "Dallas Theological Seminary",
+        "url": "https://www.dts.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
+      },
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
+    },
+    {
+      "id": "trinity-evangelical-divinity-school",
+      "name": "Trinity Evangelical Divinity School",
+      "placeholder": false,
+      "verification": "researched",
+      "doctrinal_posture": "Broadly evangelical",
+      "location": "Deerfield, IL",
+      "founded": "1897",
+      "tradition": "Non-denominational evangelical",
+      "affiliation": "Evangelical Free Church of America",
+      "doctrinal_basis": "Emphasizes full biblical inerrancy (Wikipedia).",
+      "points_to_weigh": [
+        "April 2025: announced a merger with Trinity Western University (Canada), ending operations at its Chicagoland campus by 2026 (Wikipedia). Confirm current status."
+      ],
+      "degrees": [
+        "M.Div.",
+        "M.A.",
+        "Th.M.",
+        "D.Min.",
+        "Ph.D."
+      ],
+      "delivery": [
+        "[Placeholder — information to be added]"
+      ],
+      "accreditation": "ATS",
+      "description": "Evangelical Free Church seminary shaped by Kenneth Kantzer and Carl F. H. Henry.",
+      "website": "https://tiu.edu/divinity/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Trinity_Evangelical_Divinity_School"
+      ],
+      "source": {
+        "title": "Trinity Evangelical Divinity School: institution website and encyclopedia summary",
+        "organization": "Trinity Evangelical Divinity School",
+        "url": "https://tiu.edu/divinity/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
+      },
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
+    },
+    {
+      "id": "gordon-conwell-theological-seminary",
+      "name": "Gordon-Conwell Theological Seminary",
+      "placeholder": false,
+      "verification": "researched",
+      "doctrinal_posture": "Broadly evangelical",
+      "location": "South Hamilton, MA; Boston, MA; Charlotte, NC; Jacksonville, FL",
+      "founded": "1969",
+      "tradition": "Non-denominational evangelical",
+      "affiliation": "Nondenominational; students from 90+ denominations",
+      "doctrinal_basis": "Statement of faith emphasizing biblical inerrancy (Wikipedia).",
+      "points_to_weigh": [
+        "Intentionally interdenominational: students and faculty come from many traditions, so views on baptism, church government and gender roles vary."
+      ],
+      "degrees": [
+        "M.Div.",
+        "Th.M.",
+        "D.Min.",
+        "Ph.D."
+      ],
+      "delivery": [
+        "Residential"
+      ],
+      "accreditation": "ATS; NECHE",
+      "description": "Interdenominational evangelical seminary founded with support from Billy Graham.",
+      "website": "https://www.gordonconwell.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Gordon%E2%80%93Conwell_Theological_Seminary"
+      ],
+      "source": {
+        "title": "Gordon-Conwell Theological Seminary: institution website and encyclopedia summary",
+        "organization": "Gordon-Conwell Theological Seminary",
+        "url": "https://www.gordonconwell.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
+      },
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
+    },
+    {
+      "id": "fuller-theological-seminary",
+      "name": "Fuller Theological Seminary",
+      "placeholder": false,
+      "verification": "researched",
+      "doctrinal_posture": "Broadly evangelical",
+      "location": "Pasadena, CA; Phoenix, AZ; Houston, TX",
+      "founded": "1947",
+      "tradition": "Non-denominational evangelical",
+      "affiliation": "Non-denominational; egalitarian",
+      "doctrinal_basis": "Faculty and students hold varying views on biblical inerrancy, from “unlimited” to “limited” inerrancy (Wikipedia).",
+      "points_to_weigh": [
+        "Egalitarian: women are accepted as students and ministry leaders.",
+        "Since 2025 it removes faculty and students found in same-sex marriages or relationships and requires abstinence outside marriage (Wikipedia).",
+        "Broader range of views than a confessional Reformed seminary; check specific programs."
+      ],
+      "degrees": [
+        "M.Div.",
+        "M.A.",
+        "D.Min.",
+        "Ph.D."
+      ],
+      "delivery": [
+        "Residential",
+        "Online"
+      ],
+      "accreditation": "ATS; WSCUC",
+      "description": "Large, broadly evangelical seminary with several fully online master's programs.",
+      "website": "https://www.fuller.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Fuller_Theological_Seminary"
+      ],
+      "source": {
+        "title": "Fuller Theological Seminary: institution website and encyclopedia summary",
+        "organization": "Fuller Theological Seminary",
+        "url": "https://www.fuller.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
+      },
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
+    },
+    {
+      "id": "princeton-theological-seminary",
+      "name": "Princeton Theological Seminary",
+      "placeholder": false,
+      "verification": "researched",
+      "doctrinal_posture": "Mainline (PC(USA))",
+      "location": "Princeton, NJ",
+      "founded": "1812",
+      "tradition": "Presbyterian",
+      "affiliation": "Presbyterian Church (U.S.A.)",
+      "doctrinal_basis": "A PC(USA) seminary; it operates under the PC(USA)'s Book of Confessions rather than the Westminster Standards alone.",
+      "points_to_weigh": [
+        "Affiliated with the Presbyterian Church (U.S.A.), not the PCA or OPC. The PC(USA) has permitted ordination of openly gay and lesbian officers since 2011 and defined marriage as between two persons since 2015 (Wikipedia: PC(USA)).",
+        "Reorganized along modernist lines in 1929, which led J. Gresham Machen and colleagues to found Westminster Theological Seminary (Wikipedia)."
+      ],
+      "degrees": [
+        "M.Div.",
+        "M.A.",
+        "Th.M.",
+        "Ph.D."
+      ],
+      "delivery": [
+        "[Placeholder — information to be added]"
+      ],
+      "accreditation": "ATS; regional accreditor",
+      "description": "PC(USA) seminary. Listed so readers can recognize it as distinct from PCA- and OPC-aligned seminaries.",
+      "website": "https://www.ptsem.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Princeton_Theological_Seminary",
+        "https://en.wikipedia.org/wiki/Presbyterian_Church_(USA)"
+      ],
+      "source": {
+        "title": "Princeton Theological Seminary: institution website and encyclopedia summary",
+        "organization": "Princeton Theological Seminary",
+        "url": "https://www.ptsem.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
+      },
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
+    },
+    {
+      "id": "union-presbyterian-seminary",
+      "name": "Union Presbyterian Seminary",
+      "placeholder": false,
+      "verification": "researched",
+      "doctrinal_posture": "Mainline (PC(USA))",
+      "location": "Richmond, VA; Charlotte, NC",
+      "founded": "1812",
+      "tradition": "Presbyterian",
+      "affiliation": "Presbyterian Church (U.S.A.)",
+      "doctrinal_basis": "A PC(USA) seminary; it operates under the PC(USA)'s Book of Confessions rather than the Westminster Standards alone.",
+      "points_to_weigh": [
+        "Affiliated with the Presbyterian Church (U.S.A.), not the PCA or OPC. The PC(USA) has permitted ordination of openly gay and lesbian officers since 2011 and defined marriage as between two persons since 2015 (Wikipedia: PC(USA))."
+      ],
+      "degrees": [
+        "M.Div.",
+        "M.A.",
+        "Th.M.",
+        "D.Min."
+      ],
+      "delivery": [
+        "[Placeholder — information to be added]"
+      ],
+      "accreditation": "ATS; regional accreditor",
+      "description": "PC(USA) seminary. Listed so readers can recognize it as distinct from PCA- and OPC-aligned seminaries.",
+      "website": "https://www.upsem.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Union_Presbyterian_Seminary",
+        "https://en.wikipedia.org/wiki/Presbyterian_Church_(USA)"
+      ],
+      "source": {
+        "title": "Union Presbyterian Seminary: institution website and encyclopedia summary",
+        "organization": "Union Presbyterian Seminary",
+        "url": "https://www.upsem.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
+      },
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
+    },
+    {
+      "id": "columbia-theological-seminary",
+      "name": "Columbia Theological Seminary",
+      "placeholder": false,
+      "verification": "researched",
+      "doctrinal_posture": "Mainline (PC(USA))",
+      "location": "Decatur, GA",
+      "founded": "1828",
+      "tradition": "Presbyterian",
+      "affiliation": "Presbyterian Church (U.S.A.)",
+      "doctrinal_basis": "A PC(USA) seminary; it operates under the PC(USA)'s Book of Confessions rather than the Westminster Standards alone.",
+      "points_to_weigh": [
+        "Affiliated with the Presbyterian Church (U.S.A.), not the PCA or OPC. The PC(USA) has permitted ordination of openly gay and lesbian officers since 2011 and defined marriage as between two persons since 2015 (Wikipedia: PC(USA))."
+      ],
       "degrees": [
         "[Placeholder — information to be added]"
       ],
       "delivery": [
         "[Placeholder — information to be added]"
       ],
-      "accreditation": "[Placeholder — information to be added]",
-      "tuition": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "admissions_url": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "accreditation": "ATS; regional accreditor",
+      "description": "PC(USA) seminary. Listed so readers can recognize it as distinct from PCA- and OPC-aligned seminaries.",
+      "website": "https://www.ctsnet.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Columbia_Theological_Seminary",
+        "https://en.wikipedia.org/wiki/Presbyterian_Church_(USA)"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Columbia Theological Seminary: institution website and encyclopedia summary",
+        "organization": "Columbia Theological Seminary",
+        "url": "https://www.ctsnet.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
       },
-      "tags": []
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
     }
   ]
 }

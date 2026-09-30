@@ -1,27 +1,31 @@
 {
-  "_note": "Names supplied by reformededucation.org from its preliminary research. Entries are name-only (`verification: listed`); every other field is a placeholder until researched from the institution's own site. Nothing here is verified.",
+  "_note": "Researched 2026-09-30 by reformededucation.org. Costs and course lists change; confirm on each provider's site.",
   "entries": [
     {
       "id": "reformed-forum",
       "name": "Reformed Forum",
       "placeholder": false,
-      "verification": "listed",
-      "listing_note": "Also lists an educational-resource library; to be researched.",
-      "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "cost": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "provider": "Reformed Forum",
+      "format": "Online — non-credit",
+      "level": "Lay / general",
+      "subject": "Reformed theology, apologetics, Westminster Standards",
+      "cost": "Podcasts are free; Reformed Academy courses are paid",
+      "doctrinal_basis": "Committed to the Westminster Standards and the Three Forms of Unity as summaries of the doctrine of Scripture (Reformed Forum).",
+      "points_to_weigh": [],
+      "website": "https://reformedforum.org/",
+      "description": "Reformed theological resource organization with free podcasts and paid Reformed Academy courses.",
+      "research_sources": [
+        "https://reformedforum.org/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Reformed Forum: website and public-record summary",
+        "organization": "Reformed Forum",
+        "url": "https://reformedforum.org/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     },
@@ -29,22 +33,28 @@
       "id": "ligonier-ministries",
       "name": "Ligonier Ministries",
       "placeholder": false,
-      "verification": "listed",
-      "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "cost": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "provider": "Ligonier Ministries",
+      "format": "Online — non-credit",
+      "level": "Lay / general",
+      "subject": "Bible study, theology, church history",
+      "cost": "A free account gives access to teaching series; pricing for other content was not stated on the page reviewed",
+      "doctrinal_basis": "Reformed; founded by R. C. Sproul.",
+      "points_to_weigh": [],
+      "website": "https://learn.ligonier.org/",
+      "description": "Teaching series, conference messages, devotionals and podcasts on Scripture, theology and church history.",
+      "research_sources": [
+        "https://learn.ligonier.org/",
+        "https://www.ligonier.org/what-we-believe"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Ligonier Ministries: website and public-record summary",
+        "organization": "Ligonier Ministries",
+        "url": "https://learn.ligonier.org/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     },
@@ -52,22 +62,28 @@
       "id": "rts-online",
       "name": "RTS Online",
       "placeholder": false,
-      "verification": "listed",
-      "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "provider": "Reformed Theological Seminary",
+      "format": "Online — credit",
+      "level": "Graduate",
+      "subject": "Reformed theology, biblical studies, ministry",
       "cost": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "doctrinal_basis": "Subscribes to the Westminster Standards (see RTS).",
+      "points_to_weigh": [],
+      "website": "https://rts.edu/",
+      "description": "Accredited seminary study through RTS's Global campus, reported to be the first online seminary to offer accredited degrees.",
+      "research_sources": [
+        "https://rts.edu/",
+        "https://en.wikipedia.org/wiki/Reformed_Theological_Seminary"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "RTS Online: website and public-record summary",
+        "organization": "RTS Online",
+        "url": "https://rts.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     },
@@ -75,22 +91,29 @@
       "id": "westminster-seminary-online-programs",
       "name": "Westminster Seminary online programs",
       "placeholder": false,
-      "verification": "listed",
-      "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "provider": "Westminster Theological Seminary",
+      "format": "Online — credit",
+      "level": "Graduate",
+      "subject": "Reformed theology, biblical studies, counseling, ministry",
       "cost": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "doctrinal_basis": "Faculty affirm the Westminster Standards.",
+      "points_to_weigh": [
+        "Online programs are credit-bearing master's, doctoral and certificate programs taught by the same faculty as on campus (WTS)."
+      ],
+      "website": "https://www.wts.edu/",
+      "description": "Online M.Div., M.A., Th.M., D.Min. programs and certificates.",
+      "research_sources": [
+        "https://www.wts.edu/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Westminster Seminary online programs: website and public-record summary",
+        "organization": "Westminster Seminary online programs",
+        "url": "https://www.wts.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     },
@@ -98,22 +121,29 @@
       "id": "westminster-seminary-california-online-courses",
       "name": "Westminster Seminary California online courses",
       "placeholder": false,
-      "verification": "listed",
-      "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "provider": "Westminster Seminary California",
+      "format": "Residential, audit available",
+      "level": "Graduate",
+      "subject": "Reformed theology",
       "cost": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "doctrinal_basis": "Faculty subscribe to the Westminster Standards and the Three Forms of Unity.",
+      "points_to_weigh": [
+        "Emphasizes in-person education; online courses were not confirmed. Audit opportunities exist (WSC)."
+      ],
+      "website": "https://www.wscal.edu/",
+      "description": "In-person seminary that offers audit opportunities.",
+      "research_sources": [
+        "https://www.wscal.edu/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Westminster Seminary California online courses: website and public-record summary",
+        "organization": "Westminster Seminary California online courses",
+        "url": "https://www.wscal.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     },
@@ -121,91 +151,29 @@
       "id": "puritan-reformed-seminary",
       "name": "Puritan Reformed Seminary",
       "placeholder": false,
-      "verification": "listed",
-      "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "provider": "Puritan Reformed Theological Seminary",
       "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
+      "level": "Graduate",
+      "subject": "Puritan and Reformed theology",
       "cost": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "doctrinal_basis": "Faculty subscribe to the Three Forms of Unity and the Westminster Standards.",
+      "points_to_weigh": [
+        "No information on online courses was found on its homepage."
+      ],
+      "website": "https://prts.edu/",
+      "description": "Seminary in the Puritan and Continental Reformed tradition.",
+      "research_sources": [
+        "https://prts.edu/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
-      },
-      "tags": []
-    },
-    {
-      "id": "the-davenant-institute",
-      "name": "The Davenant Institute",
-      "placeholder": false,
-      "verification": "listed",
-      "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "cost": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
-      "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
-      },
-      "tags": []
-    },
-    {
-      "id": "theopolis-institute",
-      "name": "Theopolis Institute",
-      "placeholder": false,
-      "verification": "listed",
-      "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "cost": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
-      "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
-      },
-      "tags": []
-    },
-    {
-      "id": "reformed-presbyterian-seminary-resources",
-      "name": "Reformed Presbyterian Seminary resources",
-      "placeholder": false,
-      "verification": "listed",
-      "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "cost": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
-      "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Puritan Reformed Seminary: website and public-record summary",
+        "organization": "Puritan Reformed Seminary",
+        "url": "https://prts.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     },
@@ -213,22 +181,122 @@
       "id": "covenant-seminary-online-resources",
       "name": "Covenant Seminary online resources",
       "placeholder": false,
-      "verification": "listed",
-      "provider": "[Placeholder — information to be added]",
-      "instructor": "[Placeholder — information to be added]",
-      "format": "[Placeholder — information to be added]",
-      "level": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "provider": "Covenant Theological Seminary",
+      "format": "Online — credit",
+      "level": "Graduate",
+      "subject": "Biblical and theological studies",
       "cost": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "doctrinal_basis": "PCA seminary; faculty subscribe to the Westminster Standards.",
+      "points_to_weigh": [
+        "Its M.A. (Biblical and Theological Studies) can be completed fully online; the site also lists free courses."
+      ],
+      "website": "https://www.covenantseminary.edu/",
+      "description": "Online M.A. in Biblical and Theological Studies and free course resources.",
+      "research_sources": [
+        "https://www.covenantseminary.edu/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Covenant Seminary online resources: website and public-record summary",
+        "organization": "Covenant Seminary online resources",
+        "url": "https://www.covenantseminary.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
+      },
+      "tags": []
+    },
+    {
+      "id": "reformed-presbyterian-seminary-resources",
+      "name": "Reformed Presbyterian Seminary resources",
+      "placeholder": false,
+      "verification": "researched",
+      "provider": "Reformed Presbyterian Theological Seminary",
+      "format": "[Placeholder — information to be added]",
+      "level": "Graduate",
+      "subject": "Reformed Presbyterian theology and ministry",
+      "cost": "[Placeholder — information to be added]",
+      "doctrinal_basis": "Seminary of the RPCNA.",
+      "points_to_weigh": [
+        "No information on online courses was found on its homepage."
+      ],
+      "website": "https://www.rpts.edu/",
+      "description": "Seminary of the Reformed Presbyterian Church of North America.",
+      "research_sources": [
+        "https://www.rpts.edu/"
+      ],
+      "source": {
+        "title": "Reformed Presbyterian Seminary resources: website and public-record summary",
+        "organization": "Reformed Presbyterian Seminary resources",
+        "url": "https://www.rpts.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
+      },
+      "tags": []
+    },
+    {
+      "id": "the-davenant-institute",
+      "name": "The Davenant Institute",
+      "placeholder": false,
+      "verification": "researched",
+      "provider": "The Davenant Institute",
+      "format": "Online — credit",
+      "level": "Graduate",
+      "subject": "Theology, history and ethics in the classical Protestant tradition",
+      "cost": "[Placeholder — information to be added]",
+      "doctrinal_basis": "Describes its work as classical Protestant Christianity in the Reformed tradition.",
+      "points_to_weigh": [
+        "Davenant Hall offers graduate-level online courses for pastors, teachers and laypeople (Davenant Institute)."
+      ],
+      "website": "https://davenantinstitute.org/",
+      "description": "Nonprofit offering online graduate-level courses, a journal and a press.",
+      "research_sources": [
+        "https://davenantinstitute.org/"
+      ],
+      "source": {
+        "title": "The Davenant Institute: website and public-record summary",
+        "organization": "The Davenant Institute",
+        "url": "https://davenantinstitute.org/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
+      },
+      "tags": []
+    },
+    {
+      "id": "theopolis-institute",
+      "name": "Theopolis Institute",
+      "placeholder": false,
+      "verification": "researched",
+      "provider": "Theopolis Institute",
+      "format": "Online — non-credit",
+      "level": "Lay / general",
+      "subject": "Bible, liturgy and culture",
+      "cost": "[Placeholder — information to be added]",
+      "doctrinal_basis": "Reformed and liturgical; emphasizes “ecclesiocentrism.”",
+      "points_to_weigh": [
+        "Led by Peter Leithart, whose views are associated with the Federal Vision. His PCA presbytery acquitted him of heresy charges in 2011, and he later joined the CREC (Wikipedia).",
+        "Federal Vision teaching was formally criticized by the OPC (2006 report), the PCA (2007 study committee) and other Reformed bodies (Wikipedia). Readers seeking PCA- or OPC-aligned teaching should weigh this."
+      ],
+      "website": "https://theopolisinstitute.com/",
+      "description": "Institute offering intensive and online courses, essays and podcasts.",
+      "research_sources": [
+        "https://theopolisinstitute.com/",
+        "https://en.wikipedia.org/wiki/Peter_Leithart",
+        "https://en.wikipedia.org/wiki/Federal_Vision"
+      ],
+      "source": {
+        "title": "Theopolis Institute: website and public-record summary",
+        "organization": "Theopolis Institute",
+        "url": "https://theopolisinstitute.com/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     }

@@ -38,14 +38,14 @@
         ${meta ? `<div class="card-meta">${esc(meta)}</div>` : ""}
         <p class="card-body">${ui.value(e.description)}</p>
         ${ui.citeLine(e.source)}
-        <div class="card-tags">${e.placeholder ? ui.tag("Placeholder entry", "tag-placeholder") : e.verification === "listed" ? ui.tag("Details pending", "tag-placeholder") : ""}${tags.map((t) => ui.tag(t)).join("")}</div>
+        <div class="card-tags">${e.doctrinal_posture && !isPH(e.doctrinal_posture) ? ui.tag(e.doctrinal_posture, /Mainline/.test(e.doctrinal_posture) ? "tag-caution" : "tag-posture") : ""}${e.placeholder ? ui.tag("Placeholder entry", "tag-placeholder") : e.verification === "listed" ? ui.tag("Details pending", "tag-placeholder") : ""}${tags.map((t) => ui.tag(t)).join("")}</div>
       </article>`;
     },
 
     /* Detail body for a directory entry: a definition list driven by the collection's field config. */
-    detailFacts(type, e) {
+    detailFacts(type, e, skip) {
       const cfg = RE.config.collections[type];
-      return `<dl class="facts">${cfg.fields.filter((f) => f.type !== "text").map((f) =>
+      return `<dl class="facts">${cfg.fields.filter((f) => f.type !== "text" && !(skip || []).includes(f.key)).map((f) =>
         `<div class="row"><dt>${esc(f.label)}</dt><dd>${ui.value(e[f.key], f.type)}</dd></div>`).join("")}</dl>`;
     },
 
@@ -117,6 +117,20 @@
 
     breadcrumb(items) {
       return `<nav class="breadcrumb" aria-label="Breadcrumb">${items.map((i) => i.href ? `<a href="${esc(i.href)}">${esc(i.label)}</a>` : esc(i.label)).join(" &nbsp;/&nbsp; ")}</nav>`;
+    },
+
+    /* Callout for researched entries: theological posture, doctrinal basis and points to weigh. */
+    postureBox(e) {
+      const hasPts = (e.points_to_weigh || []).some((x) => !isPH(x));
+      if ((!e.doctrinal_posture || isPH(e.doctrinal_posture)) && !hasPts && !e.doctrinal_basis) return "";
+      const caution = /Mainline/.test(e.doctrinal_posture || "");
+      return `<section class="posture-box${caution ? " caution" : ""}" aria-label="Theological posture">
+        ${e.doctrinal_posture && !isPH(e.doctrinal_posture) ? `<p class="label">Theological posture</p><h3>${esc(e.doctrinal_posture)}</h3>
+          <p class="muted" style="font-size:.88rem">${esc((RE.config.postureNotes || {})[e.doctrinal_posture] || "")}</p>` : ""}
+        ${e.doctrinal_basis && !isPH(e.doctrinal_basis) ? `<p><strong>Doctrinal basis.</strong> ${esc(e.doctrinal_basis)}</p>` : ""}
+        ${hasPts ? `<p style="margin-bottom:4px"><strong>Points to weigh</strong></p><ul>${e.points_to_weigh.filter((x) => !isPH(x)).map((x) => `<li>${esc(x)}</li>`).join("")}</ul>` : ""}
+        <p class="muted" style="font-size:.78rem;margin:0">Classification and points to weigh are reformededucation.org's judgments from the sources listed below. They describe and do not endorse; confirm current details with the institution.</p>
+      </section>`;
     },
 
     /* Notice for name-only entries awaiting research. */

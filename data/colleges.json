@@ -1,231 +1,1122 @@
 {
-  "_note": "Names supplied by reformededucation.org from its preliminary research. Entries are name-only (`verification: listed`); every other field is a placeholder until researched from the institution's own site. Nothing here is verified.",
+  "_note": "Researched 2026-09-30 by reformededucation.org. Trinity Christian College (Palos Heights, IL) is omitted because it announced closure at the end of the 2025–26 academic year. Classification describes and does not endorse.",
   "entries": [
     {
       "id": "covenant-college",
       "name": "Covenant College",
       "placeholder": false,
-      "verification": "listed",
-      "listing_note": "Description paraphrased from the institution's site as reported in reformededucation.org's preliminary research; re-verify.",
-      "location": "[Placeholder — information to be added]",
-      "tradition": "[Placeholder — information to be added]",
-      "affiliation": "[Placeholder — information to be added]",
-      "degree_programs": [
-        "[Placeholder — information to be added]"
+      "verification": "researched",
+      "doctrinal_posture": "Confessional Reformed",
+      "location": "Lookout Mountain, GA",
+      "founded": "1955",
+      "tradition": "Presbyterian",
+      "affiliation": "Presbyterian Church in America (official college of the PCA)",
+      "doctrinal_basis": "Faculty annually subscribe to the inerrancy of Scripture, the Westminster Standards and the college's Statement of Community Beliefs (byFaith). Its board of trustees is elected by the PCA General Assembly.",
+      "points_to_weigh": [
+        "Official college of the PCA, with denominational oversight of its board.",
+        "A recent core-curriculum update drew criticism from some conservative Reformed commentators, who questioned the direction of the college and how its faculty engage secular scholarship (Aquila Report).",
+        "In 2023 the confessional Reformed writer R. Scott Clark recommended Covenant College to parents, citing its student-handbook policy on sex and gender (Heidelblog).",
+        "Assessments differ; families wanting the stricter end of PCA and OPC practice should read the Community Statement of Beliefs and faculty statements directly."
       ],
-      "online_programs": "[Placeholder — information to be added]",
-      "residential_programs": "[Placeholder — information to be added]",
-      "accreditation": "[Placeholder — information to be added]",
-      "tuition": "[Placeholder — information to be added]",
-      "website": "https://www.covenant.edu/about/",
-      "admissions_url": "[Placeholder — information to be added]",
-      "description": "Describes itself as a Christian liberal arts college in the Reformed tradition (per the college's own website).",
+      "degree_programs": [
+        "B.A.",
+        "M.Ed.",
+        "M.A.T."
+      ],
+      "delivery": [
+        "Residential"
+      ],
+      "accreditation": "SACSCOC",
+      "description": "Liberal arts college of the Presbyterian Church in America.",
+      "website": "https://www.covenant.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Covenant_College",
+        "https://byfaithonline.com/a-sending-agency-covenant-college-majors-in-faith-and-intellectual-formation/",
+        "https://covenant.edu/about/pca.html",
+        "https://heidelblog.net/2023/08/parents-choose-your-christian-college-carefully/",
+        "https://theaquilareport.com/did-covenant-college-put-woke-away/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
+        "title": "Covenant College: institution website and encyclopedia summary",
         "organization": "Covenant College",
-        "url": "https://www.covenant.edu/about/",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "url": "https://www.covenant.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
       },
-      "tags": []
-    },
-    {
-      "id": "geneva-college",
-      "name": "Geneva College",
-      "placeholder": false,
-      "verification": "listed",
-      "location": "[Placeholder — information to be added]",
-      "tradition": "[Placeholder — information to be added]",
-      "affiliation": "[Placeholder — information to be added]",
-      "degree_programs": [
-        "[Placeholder — information to be added]"
-      ],
-      "online_programs": "[Placeholder — information to be added]",
-      "residential_programs": "[Placeholder — information to be added]",
-      "accreditation": "[Placeholder — information to be added]",
-      "tuition": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
+      "tags": [],
       "admissions_url": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
-      "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
-      },
-      "tags": []
-    },
-    {
-      "id": "kuyper-college",
-      "name": "Kuyper College",
-      "placeholder": false,
-      "verification": "listed",
-      "listing_note": "Description as reported in reformededucation.org's preliminary research; source URL and wording to be verified.",
-      "location": "[Placeholder — information to be added]",
-      "tradition": "[Placeholder — information to be added]",
-      "affiliation": "[Placeholder — information to be added]",
-      "degree_programs": [
-        "[Placeholder — information to be added]"
-      ],
-      "online_programs": "[Placeholder — information to be added]",
-      "residential_programs": "[Placeholder — information to be added]",
-      "accreditation": "[Placeholder — information to be added]",
-      "tuition": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "admissions_url": "[Placeholder — information to be added]",
-      "description": "Describes its academics as integrating a Reformed worldview (per the college's own website).",
-      "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
-      },
-      "tags": []
-    },
-    {
-      "id": "dordt-university",
-      "name": "Dordt University",
-      "placeholder": false,
-      "verification": "listed",
-      "location": "[Placeholder — information to be added]",
-      "tradition": "[Placeholder — information to be added]",
-      "affiliation": "[Placeholder — information to be added]",
-      "degree_programs": [
-        "[Placeholder — information to be added]"
-      ],
-      "online_programs": "[Placeholder — information to be added]",
-      "residential_programs": "[Placeholder — information to be added]",
-      "accreditation": "[Placeholder — information to be added]",
-      "tuition": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "admissions_url": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
-      "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
-      },
-      "tags": []
-    },
-    {
-      "id": "calvin-university",
-      "name": "Calvin University",
-      "placeholder": false,
-      "verification": "listed",
-      "location": "[Placeholder — information to be added]",
-      "tradition": "[Placeholder — information to be added]",
-      "affiliation": "[Placeholder — information to be added]",
-      "degree_programs": [
-        "[Placeholder — information to be added]"
-      ],
-      "online_programs": "[Placeholder — information to be added]",
-      "residential_programs": "[Placeholder — information to be added]",
-      "accreditation": "[Placeholder — information to be added]",
-      "tuition": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "admissions_url": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
-      "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
-      },
-      "tags": []
+      "tuition": "[Placeholder — information to be added]"
     },
     {
       "id": "reformation-bible-college",
       "name": "Reformation Bible College",
       "placeholder": false,
-      "verification": "listed",
-      "location": "[Placeholder — information to be added]",
-      "tradition": "[Placeholder — information to be added]",
-      "affiliation": "[Placeholder — information to be added]",
-      "degree_programs": [
-        "[Placeholder — information to be added]"
+      "verification": "researched",
+      "doctrinal_posture": "Confessional Reformed",
+      "location": "Sanford, FL",
+      "founded": "2011",
+      "tradition": "Presbyterian",
+      "affiliation": "Ligonier Ministries",
+      "doctrinal_basis": "All faculty are committed to the Westminster Confession of Faith; students are expected to attend a church that affirms the Westminster Standards, the Three Forms of Unity or the 1689 Baptist Confession (RBC).",
+      "points_to_weigh": [
+        "Not yet accredited: holds applicant status with the Association for Biblical Higher Education, a pre-membership status (ABHE).",
+        "Leadership transition: President Stephen Nichols concluded his tenure on May 31, 2026 (RBC)."
       ],
-      "online_programs": "[Placeholder — information to be added]",
-      "residential_programs": "[Placeholder — information to be added]",
-      "accreditation": "[Placeholder — information to be added]",
-      "tuition": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "admissions_url": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "degree_programs": [
+        "B.A. in Theology"
+      ],
+      "delivery": [
+        "Residential"
+      ],
+      "accreditation": "ABHE applicant status (not accredited)",
+      "description": "Reformed Bible college founded by R. C. Sproul, operated by Ligonier Ministries.",
+      "website": "https://reformationbiblecollege.org/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Ligonier_Ministries",
+        "https://reformationbiblecollege.org/blog/season-transition-reformation-bible-college",
+        "https://www.abhe.org/accreditation/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Reformation Bible College: institution website and encyclopedia summary",
+        "organization": "Reformation Bible College",
+        "url": "https://reformationbiblecollege.org/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
       },
-      "tags": []
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
     },
     {
-      "id": "montreat-college",
-      "name": "Montreat College",
+      "id": "geneva-college",
+      "name": "Geneva College",
       "placeholder": false,
-      "verification": "listed",
-      "location": "[Placeholder — information to be added]",
-      "tradition": "[Placeholder — information to be added]",
-      "affiliation": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "doctrinal_posture": "Reformed heritage",
+      "location": "Beaver Falls, PA",
+      "founded": "1848",
+      "tradition": "Presbyterian",
+      "affiliation": "Reformed Presbyterian Church of North America (RPCNA)",
+      "doctrinal_basis": "Doctrinal basis follows the RPCNA: inerrant Scripture, the Trinity, Christ as King over all of life; the RPCNA holds the Westminster Confession (Geneva catalog). Faculty subscription to the Confession was not confirmed.",
+      "points_to_weigh": [
+        "Student handbook prohibits “homosexual behavior” (Wikipedia).",
+        "Received a Title IX religious exemption in 2014 (Wikipedia)."
+      ],
+      "degree_programs": [
+        "B.A.",
+        "B.S.",
+        "MBA",
+        "M.Ed. and other master's programs"
+      ],
+      "delivery": [
+        "Residential"
+      ],
+      "accreditation": "MSCHE",
+      "description": "College of the RPCNA, the only undergraduate institution affiliated with that denomination.",
+      "website": "https://www.geneva.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Geneva_College",
+        "https://reformedpresbyterian.org/agencies/geneva-college"
+      ],
+      "source": {
+        "title": "Geneva College: institution website and encyclopedia summary",
+        "organization": "Geneva College",
+        "url": "https://www.geneva.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
+      },
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
+    },
+    {
+      "id": "kuyper-college",
+      "name": "Kuyper College",
+      "placeholder": false,
+      "verification": "researched",
+      "doctrinal_posture": "Reformed heritage",
+      "location": "Grand Rapids, MI",
+      "founded": "1939",
+      "tradition": "Continental Reformed",
+      "affiliation": "Reformed Protestant (Calvinist)",
+      "doctrinal_basis": "Applies its faith according to the Heidelberg Catechism, Canons of Dort, Belgic Confession and Westminster Confession and Catechisms (Kuyper College).",
+      "points_to_weigh": [
+        "Professor Branson Parler wrote the Great Lakes Catechism on Marriage and Sexuality, which the Reformed Church in America's General Synod commended (Kuyper College)."
+      ],
       "degree_programs": [
         "[Placeholder — information to be added]"
       ],
-      "online_programs": "[Placeholder — information to be added]",
-      "residential_programs": "[Placeholder — information to be added]",
-      "accreditation": "[Placeholder — information to be added]",
-      "tuition": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "admissions_url": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "delivery": [
+        "[Placeholder — information to be added]"
+      ],
+      "accreditation": "ABHE; HLC",
+      "description": "Small Reformed Bible-centered college (formerly Reformed Bible College).",
+      "website": "https://www.kuyper.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Kuyper_College",
+        "https://www.kuyper.edu/about/what-we-believe/",
+        "https://www.kuyper.edu/great-lakes-catechism-on-marriage-and-sexuality/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Kuyper College: institution website and encyclopedia summary",
+        "organization": "Kuyper College",
+        "url": "https://www.kuyper.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
       },
-      "tags": []
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
+    },
+    {
+      "id": "dordt-university",
+      "name": "Dordt University",
+      "placeholder": false,
+      "verification": "researched",
+      "doctrinal_posture": "Reformed heritage",
+      "location": "Sioux Center, IA",
+      "founded": "1955",
+      "tradition": "Continental Reformed",
+      "affiliation": "Christian Reformed Church in North America",
+      "doctrinal_basis": "Committed to a Reformed Christian perspective set out in The Educational Task of Dordt University; faculty submit a personal statement engaging it (Dordt).",
+      "points_to_weigh": [
+        "Expects students, faculty and staff to live in accord with its statement that sexual intimacy belongs only in marriage between a man and a woman (Dordt)."
+      ],
+      "degree_programs": [
+        "A.A.",
+        "B.A.",
+        "B.S.",
+        "B.S.W.",
+        "B.S.N.",
+        "M.Ed."
+      ],
+      "delivery": [
+        "Residential"
+      ],
+      "accreditation": "HLC",
+      "description": "Reformed liberal arts university named for the Synod of Dort.",
+      "website": "https://www.dordt.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Dordt_University",
+        "https://www.dordt.edu/about-dordt/mission-vision-history",
+        "https://www.dordt.edu/news/june-2021-board-of-trustees-update"
+      ],
+      "source": {
+        "title": "Dordt University: institution website and encyclopedia summary",
+        "organization": "Dordt University",
+        "url": "https://www.dordt.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
+      },
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
+    },
+    {
+      "id": "calvin-university",
+      "name": "Calvin University",
+      "placeholder": false,
+      "verification": "researched",
+      "doctrinal_posture": "Reformed heritage",
+      "location": "Grand Rapids, MI",
+      "founded": "1876",
+      "tradition": "Continental Reformed",
+      "affiliation": "Christian Reformed Church in North America",
+      "doctrinal_basis": "Faculty and trustees sign the Covenant for Faculty Members, affirming the Belgic Confession, Heidelberg Catechism and Canons of Dort (Calvin Chimes).",
+      "points_to_weigh": [
+        "A number of faculty have filed gravamina (formal disagreements) over the CRC's confessional position on sexuality; in 2024 the CRC's Synod told Calvin's board to align its processes with the denomination's (Religion News Service; Calvin Chimes).",
+        "In 2009 the board restricted faculty advocacy on homosexuality, and the faculty senate voted to ask for its withdrawal (Wikipedia).",
+        "In 2023 R. Scott Clark warned parents about Calvin, citing sanctioned LGBTQ student groups (Heidelblog).",
+        "Calvin's current policy states that sexual relations belong in marriage between a man and a woman (Wikipedia)."
+      ],
+      "degree_programs": [
+        "100+ majors and minors",
+        "Graduate programs"
+      ],
+      "delivery": [
+        "Residential"
+      ],
+      "accreditation": "HLC",
+      "description": "Large university of the Christian Reformed Church.",
+      "website": "https://www.calvin.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Calvin_University",
+        "https://religionnews.com/2024/06/27/questions-of-academic-freedom-remain-for-calvin-university-faculty-after-christian-reformed-synod/",
+        "https://calvinchimes.org/2025/03/31/calvin-releases-plan-to-handle-faculty-disagreement-on-questions-of-sexuality-other-confessional-issues/",
+        "https://heidelblog.net/2023/08/parents-choose-your-christian-college-carefully/"
+      ],
+      "source": {
+        "title": "Calvin University: institution website and encyclopedia summary",
+        "organization": "Calvin University",
+        "url": "https://www.calvin.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
+      },
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
     },
     {
       "id": "belhaven-university",
       "name": "Belhaven University",
       "placeholder": false,
-      "verification": "listed",
-      "location": "[Placeholder — information to be added]",
-      "tradition": "[Placeholder — information to be added]",
-      "affiliation": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "doctrinal_posture": "Reformed heritage",
+      "location": "Jackson, MS",
+      "founded": "1883",
+      "tradition": "Presbyterian",
+      "affiliation": "Independent since 1972; covenant with the PC(USA) Synod of Living Waters; partnerships with the PCA and EPC",
+      "doctrinal_basis": "Statement of faith affirms the inerrant, authoritative Word of God, the Trinity, and the deity, atoning death and bodily resurrection of Christ (Belhaven).",
+      "points_to_weigh": [
+        "Independent, with ties to the PC(USA), PCA and EPC rather than one denomination."
+      ],
+      "degree_programs": [
+        "Bachelor's",
+        "Master's",
+        "Doctoral"
+      ],
+      "delivery": [
+        "Residential",
+        "Online"
+      ],
+      "accreditation": "SACSCOC",
+      "description": "Evangelical university with historic Presbyterian roots.",
+      "website": "https://www.belhaven.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Belhaven_University",
+        "https://www.belhaven.edu/about/mission/",
+        "https://byfaithonline.com/the-belhaven-experience-scholarships-flexibility-and-faithful-teaching/"
+      ],
+      "source": {
+        "title": "Belhaven University: institution website and encyclopedia summary",
+        "organization": "Belhaven University",
+        "url": "https://www.belhaven.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
+      },
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
+    },
+    {
+      "id": "montreat-college",
+      "name": "Montreat College",
+      "placeholder": false,
+      "verification": "researched",
+      "doctrinal_posture": "Reformed heritage",
+      "location": "Montreat, NC",
+      "founded": "1916",
+      "tradition": "Presbyterian",
+      "affiliation": "Independent; grounded in the Reformed tradition",
+      "doctrinal_basis": "Trustees and employees affirm a faith statement drawn from the college's Reformed tradition (Montreat).",
+      "points_to_weigh": [
+        "Dropped its Presbyterian affiliation and became independent.",
+        "Requires teachers to sign a pledge opposing same-sex marriage and abortion (Presbyterian Lay Committee)."
+      ],
+      "degree_programs": [
+        "Associate",
+        "Bachelor's",
+        "MBA and other master's"
+      ],
+      "delivery": [
+        "Residential",
+        "Online"
+      ],
+      "accreditation": "SACSCOC",
+      "description": "Independent Christian college originally founded as a Presbyterian college.",
+      "website": "https://www.montreat.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Montreat_College",
+        "https://www.montreat.edu/about/mission/",
+        "https://layman.org/montreat-c/"
+      ],
+      "source": {
+        "title": "Montreat College: institution website and encyclopedia summary",
+        "organization": "Montreat College",
+        "url": "https://www.montreat.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
+      },
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
+    },
+    {
+      "id": "erskine-college",
+      "name": "Erskine College",
+      "placeholder": false,
+      "verification": "researched",
+      "doctrinal_posture": "Reformed heritage",
+      "location": "Due West, SC",
+      "founded": "1839",
+      "tradition": "Presbyterian",
+      "affiliation": "Associate Reformed Presbyterian Church (ARP)",
+      "doctrinal_basis": "Founded by the ARP; the ARP Synod asked that Erskine's presidents subscribe to its Standards (ARP Synod, 2013).",
+      "points_to_weigh": [
+        "The ARP–Erskine relationship has been tense in recent years (Aquila Report; Wikipedia).",
+        "SACSCOC accreditation was reaffirmed with all sanctions removed in January 2025 (Wikipedia)."
+      ],
+      "degree_programs": [
+        "B.A.",
+        "B.S."
+      ],
+      "delivery": [
+        "Residential"
+      ],
+      "accreditation": "SACSCOC",
+      "description": "ARP college in Due West, South Carolina.",
+      "website": "https://www.erskine.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Erskine_College",
+        "https://www.erskine.edu/2013/06/14/arp-general-synod-affirms-relationship-with-erskine/",
+        "https://theaquilareport.com/understanding-the-associate-reformed-presbyterian-church-a-its-relation-to-erskine-college-and-seminary/"
+      ],
+      "source": {
+        "title": "Erskine College: institution website and encyclopedia summary",
+        "organization": "Erskine College",
+        "url": "https://www.erskine.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
+      },
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
+    },
+    {
+      "id": "redeemer-university",
+      "name": "Redeemer University",
+      "placeholder": false,
+      "verification": "researched",
+      "doctrinal_posture": "Reformed heritage",
+      "location": "Hamilton (Ancaster), Ontario, Canada",
+      "founded": "1982",
+      "tradition": "Continental Reformed",
+      "affiliation": "Reformed tradition",
+      "doctrinal_basis": "Christian university in the Reformed tradition; member of the Council for Christian Colleges and Universities (Wikipedia). Confessional requirements were not confirmed.",
+      "points_to_weigh": [
+        "Canadian institution; degrees are granted under Ontario legislation rather than a U.S. accreditor."
+      ],
+      "degree_programs": [
+        "B.A.",
+        "B.Sc.",
+        "B.B.A.",
+        "B.Ed."
+      ],
+      "delivery": [
+        "Residential"
+      ],
+      "accreditation": "Ontario degree-granting legislation",
+      "description": "Reformed Christian university in Ontario.",
+      "website": "https://www.redeemer.ca/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Redeemer_University"
+      ],
+      "source": {
+        "title": "Redeemer University: institution website and encyclopedia summary",
+        "organization": "Redeemer University",
+        "url": "https://www.redeemer.ca/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
+      },
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
+    },
+    {
+      "id": "new-saint-andrews-college",
+      "name": "New Saint Andrews College",
+      "placeholder": false,
+      "verification": "researched",
+      "doctrinal_posture": "Reformed heritage",
+      "location": "Moscow, ID",
+      "founded": "1994",
+      "tradition": "Presbyterian",
+      "affiliation": "Christ Church, Moscow and the Communion of Reformed Evangelical Churches (CREC)",
+      "doctrinal_basis": "Classical Christian liberal arts college affiliated with Christ Church and the CREC (Wikipedia).",
+      "points_to_weigh": [
+        "Founded by Douglas Wilson, a leading proponent of the Federal Vision, and affiliated with the CREC, which includes Federal Vision adherents (Wikipedia: CREC).",
+        "Federal Vision teaching was formally criticized by the OPC (2006 report), the PCA (2007 study committee), the URCNA (2010) and other Reformed bodies (Wikipedia: Federal Vision).",
+        "A denomination outside the PCA and OPC; the CREC practices paedocommunion (Wikipedia)."
+      ],
+      "degree_programs": [
+        "A.A.",
+        "B.A. in Liberal Arts and Culture",
+        "M.A.",
+        "M.St."
+      ],
+      "delivery": [
+        "Residential"
+      ],
+      "accreditation": "TRACS; NWCCU",
+      "description": "Classical Christian college using primary texts, small recitations and oral examinations.",
+      "website": "https://nsa.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/New_Saint_Andrews_College",
+        "https://en.wikipedia.org/wiki/Communion_of_Reformed_Evangelical_Churches",
+        "https://en.wikipedia.org/wiki/Federal_Vision"
+      ],
+      "source": {
+        "title": "New Saint Andrews College: institution website and encyclopedia summary",
+        "organization": "New Saint Andrews College",
+        "url": "https://nsa.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
+      },
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
+    },
+    {
+      "id": "grove-city-college",
+      "name": "Grove City College",
+      "placeholder": false,
+      "verification": "researched",
+      "doctrinal_posture": "Conservative evangelical",
+      "location": "Grove City, PA",
+      "founded": "1876",
+      "tradition": "Presbyterian",
+      "affiliation": "Non-denominational; Presbyterian heritage",
+      "doctrinal_basis": "Describes itself as a conservative Christian liberal arts college; its board has not adopted a confessional statement all must subscribe, and it rejects Critical Race Theory as antithetical to its mission (Board statement).",
+      "points_to_weigh": [
+        "No confessional subscription; students attend 16 chapel services per semester.",
+        "In 2023 R. Scott Clark recommended it to parents, noting its ranking on Princeton Review's list of LGBTQ-unfriendly colleges (Heidelblog)."
+      ],
+      "degree_programs": [
+        "55 majors"
+      ],
+      "delivery": [
+        "Residential"
+      ],
+      "accreditation": "MSCHE",
+      "description": "Conservative Christian liberal arts college with historic Presbyterian ties.",
+      "website": "https://www.gcc.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Grove_City_College",
+        "https://www.gcc.edu/Home/Our-Story/Faith-Freedom/Statement-of-Faith",
+        "https://heidelblog.net/2023/08/parents-choose-your-christian-college-carefully/"
+      ],
+      "source": {
+        "title": "Grove City College: institution website and encyclopedia summary",
+        "organization": "Grove City College",
+        "url": "https://www.gcc.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
+      },
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
+    },
+    {
+      "id": "bob-jones-university",
+      "name": "Bob Jones University",
+      "placeholder": false,
+      "verification": "researched",
+      "doctrinal_posture": "Conservative evangelical",
+      "location": "Greenville, SC",
+      "founded": "1927",
+      "tradition": "Non-denominational evangelical",
+      "affiliation": "Independent; historic Fundamentalism",
+      "doctrinal_basis": "The BJU Creed affirms biblical inspiration, creation of man by the direct act of God, the virgin birth, the vicarious atonement, the bodily resurrection and the new birth by the Holy Spirit; the university also publishes position statements on specific issues (BJU).",
+      "points_to_weigh": [
+        "Not Reformed: it identifies with historic Fundamentalism, including separation from perceived apostasy.",
+        "Accredited by both the regional accreditor SACSCOC and by TRACS (BJU).",
+        "A 2014 independent GRACE report on BJU's handling of abuse reports found the university had discouraged reporting; the president apologized (Wikipedia)."
+      ],
+      "degree_programs": [
+        "60+ undergraduate majors",
+        "Graduate programs",
+        "Seminary"
+      ],
+      "delivery": [
+        "Residential"
+      ],
+      "accreditation": "SACSCOC; TRACS",
+      "description": "Large Fundamentalist university in Greenville, South Carolina.",
+      "website": "https://www.bju.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Bob_Jones_University",
+        "https://www.bju.edu/about/creed-mission.php",
+        "https://www.bju.edu/academics/accreditation.php",
+        "https://today.bju.edu/news/sacscoc-grants-bob-jones-university-regional-accreditation/"
+      ],
+      "source": {
+        "title": "Bob Jones University: institution website and encyclopedia summary",
+        "organization": "Bob Jones University",
+        "url": "https://www.bju.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
+      },
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
+    },
+    {
+      "id": "the-master-s-university",
+      "name": "The Master's University",
+      "placeholder": false,
+      "verification": "researched",
+      "doctrinal_posture": "Conservative evangelical",
+      "location": "Santa Clarita, CA",
+      "founded": "1927",
+      "tradition": "Non-denominational evangelical",
+      "affiliation": "Grace Community Church; John MacArthur",
+      "doctrinal_basis": "Doctrinal statement, affirmed in writing by every faculty member, coach, administrator, board member and staff member, teaches creation in six literal 24-hour days (The Master's University).",
+      "points_to_weigh": [
+        "Dispensational premillennial rather than covenantal (via its seminary), so it differs from the Westminster Standards.",
+        "2018–2020: WSCUC placed the university on probation over governance concerns; the sanction was lifted in November 2020 (Wikipedia)."
+      ],
+      "degree_programs": [
+        "Bachelor's",
+        "Master's",
+        "D.Min.",
+        "Ph.D."
+      ],
+      "delivery": [
+        "Residential",
+        "Online"
+      ],
+      "accreditation": "WSCUC",
+      "description": "Conservative evangelical university associated with John MacArthur.",
+      "website": "https://www.masters.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/The_Master%27s_University",
+        "https://www.masters.edu/about/doctrinal-statement/"
+      ],
+      "source": {
+        "title": "The Master's University: institution website and encyclopedia summary",
+        "organization": "The Master's University",
+        "url": "https://www.masters.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
+      },
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
+    },
+    {
+      "id": "cedarville-university",
+      "name": "Cedarville University",
+      "placeholder": false,
+      "verification": "researched",
+      "doctrinal_posture": "Conservative evangelical",
+      "location": "Cedarville, OH",
+      "founded": "1887",
+      "tradition": "Baptist",
+      "affiliation": "State Convention of Baptists in Ohio (Southern Baptist Convention) since 2003",
+      "doctrinal_basis": "Employees sign the doctrinal statement annually; it teaches a young-earth, six-day creation and a historic Adam, and codified a complementarian view of gender roles in 2014 (Cedarville; Christianity Today).",
+      "points_to_weigh": [
+        "Baptist (credobaptist) rather than Presbyterian."
+      ],
+      "degree_programs": [
+        "150+ programs",
+        "Graduate programs"
+      ],
+      "delivery": [
+        "Residential"
+      ],
+      "accreditation": "HLC",
+      "description": "Baptist university in Ohio.",
+      "website": "https://www.cedarville.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Cedarville_University",
+        "https://www.cedarville.edu/why-cedarville/doctrinal-statement",
+        "https://christianitytoday.com/news/2014/march/christian-college-solidifies-complementarian-cedarville.html"
+      ],
+      "source": {
+        "title": "Cedarville University: institution website and encyclopedia summary",
+        "organization": "Cedarville University",
+        "url": "https://www.cedarville.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
+      },
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
+    },
+    {
+      "id": "bryan-college",
+      "name": "Bryan College",
+      "placeholder": false,
+      "verification": "researched",
+      "doctrinal_posture": "Conservative evangelical",
+      "location": "Dayton, TN",
+      "founded": "1930",
+      "tradition": "Non-denominational evangelical",
+      "affiliation": "Non-denominational",
+      "doctrinal_basis": "Its statement of belief was clarified in 2014 to say that Adam and Eve are historical persons created by God in a special formative act (Wikipedia).",
+      "points_to_weigh": [
+        "2014: faculty voted no confidence in the president and two tenured professors were terminated over the clarification (Wikipedia)."
+      ],
+      "degree_programs": [
+        "Associate",
+        "Bachelor's",
+        "Master's",
+        "D.B.A."
+      ],
+      "delivery": [
+        "Residential"
+      ],
+      "accreditation": "SACSCOC",
+      "description": "Non-denominational evangelical college founded in memory of William Jennings Bryan.",
+      "website": "https://www.bryan.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Bryan_College"
+      ],
+      "source": {
+        "title": "Bryan College: institution website and encyclopedia summary",
+        "organization": "Bryan College",
+        "url": "https://www.bryan.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
+      },
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
+    },
+    {
+      "id": "patrick-henry-college",
+      "name": "Patrick Henry College",
+      "placeholder": false,
+      "verification": "researched",
+      "doctrinal_posture": "Conservative evangelical",
+      "location": "Purcellville, VA",
+      "founded": "2000",
+      "tradition": "Non-denominational evangelical",
+      "affiliation": "Non-denominational conservative Protestant",
+      "doctrinal_basis": "Students sign a Statement of Faith; faculty sign a Statement of Biblical Worldview requiring creation instruction in six 24-hour days (Wikipedia).",
+      "points_to_weigh": [
+        "Not Reformed or Presbyterian; statements affirm evangelical Protestant doctrine."
+      ],
+      "degree_programs": [
+        "B.A. (government, classical liberal arts, history, literature, and others)"
+      ],
+      "delivery": [
+        "Residential"
+      ],
+      "accreditation": "TRACS; SACSCOC (since 2022)",
+      "description": "Small conservative Christian college known for government and classical liberal arts.",
+      "website": "https://www.phc.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Patrick_Henry_College"
+      ],
+      "source": {
+        "title": "Patrick Henry College: institution website and encyclopedia summary",
+        "organization": "Patrick Henry College",
+        "url": "https://www.phc.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
+      },
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
+    },
+    {
+      "id": "union-university",
+      "name": "Union University",
+      "placeholder": false,
+      "verification": "researched",
+      "doctrinal_posture": "Conservative evangelical",
+      "location": "Jackson, TN",
+      "founded": "1823",
+      "tradition": "Baptist",
+      "affiliation": "Tennessee Baptist Convention (Southern Baptist)",
+      "doctrinal_basis": "Southern Baptist university; its code of conduct prohibits homosexual behavior and premarital relations (Wikipedia).",
+      "points_to_weigh": [
+        "Baptist (credobaptist) rather than Presbyterian."
+      ],
+      "degree_programs": [
+        "Undergraduate and graduate programs"
+      ],
+      "delivery": [
+        "Residential"
+      ],
+      "accreditation": "SACSCOC",
+      "description": "Southern Baptist university in Jackson, Tennessee.",
+      "website": "https://www.uu.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Union_University"
+      ],
+      "source": {
+        "title": "Union University: institution website and encyclopedia summary",
+        "organization": "Union University",
+        "url": "https://www.uu.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
+      },
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
+    },
+    {
+      "id": "pensacola-christian-college",
+      "name": "Pensacola Christian College",
+      "placeholder": false,
+      "verification": "researched",
+      "doctrinal_posture": "Conservative evangelical",
+      "location": "Pensacola, FL",
+      "founded": "1974",
+      "tradition": "Baptist",
+      "affiliation": "Independent Baptist",
+      "doctrinal_basis": "Teaches young-earth creationism, uses the King James Version, and maintains strict behavioral codes on dress, gender interaction and entertainment (Wikipedia).",
+      "points_to_weigh": [
+        "Fundamentalist Independent Baptist rather than Reformed.",
+        "Its strict conduct code goes beyond most conservative colleges."
+      ],
+      "degree_programs": [
+        "Associate through doctoral"
+      ],
+      "delivery": [
+        "Residential"
+      ],
+      "accreditation": "TRACS",
+      "description": "Independent Baptist college with a strict conduct code.",
+      "website": "https://www.pcci.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Pensacola_Christian_College"
+      ],
+      "source": {
+        "title": "Pensacola Christian College: institution website and encyclopedia summary",
+        "organization": "Pensacola Christian College",
+        "url": "https://www.pcci.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
+      },
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
+    },
+    {
+      "id": "maranatha-baptist-university",
+      "name": "Maranatha Baptist University",
+      "placeholder": false,
+      "verification": "researched",
+      "doctrinal_posture": "Conservative evangelical",
+      "location": "Watertown, WI",
+      "founded": "1968",
+      "tradition": "Baptist",
+      "affiliation": "Baptist; informal ties to Foundations Baptist Fellowship International",
+      "doctrinal_basis": "Requires students to follow a code of personal conduct based on New Testament principles (Wikipedia).",
+      "points_to_weigh": [
+        "Fundamentalist Baptist rather than Reformed."
+      ],
+      "degree_programs": [
+        "Associate",
+        "Bachelor's",
+        "Master's",
+        "Doctoral"
+      ],
+      "delivery": [
+        "Residential"
+      ],
+      "accreditation": "HLC",
+      "description": "Baptist university in Wisconsin.",
+      "website": "https://www.mbu.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Maranatha_Baptist_University"
+      ],
+      "source": {
+        "title": "Maranatha Baptist University: institution website and encyclopedia summary",
+        "organization": "Maranatha Baptist University",
+        "url": "https://www.mbu.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
+      },
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
+    },
+    {
+      "id": "moody-bible-institute",
+      "name": "Moody Bible Institute",
+      "placeholder": false,
+      "verification": "researched",
+      "doctrinal_posture": "Conservative evangelical",
+      "location": "Chicago, IL",
+      "founded": "1886",
+      "tradition": "Non-denominational evangelical",
+      "affiliation": "Non-denominational; historically dispensational and non-charismatic",
+      "doctrinal_basis": "Doctrinal statement is historically dispensational, cessationist and non-charismatic (Wikipedia).",
+      "points_to_weigh": [
+        "Dispensational rather than covenantal."
+      ],
+      "degree_programs": [
+        "B.A.",
+        "B.S.",
+        "M.Div.",
+        "M.A."
+      ],
+      "delivery": [
+        "Residential"
+      ],
+      "accreditation": "HLC; ABHE",
+      "description": "Bible institute and college in Chicago.",
+      "website": "https://www.moodybible.org/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Moody_Bible_Institute"
+      ],
+      "source": {
+        "title": "Moody Bible Institute: institution website and encyclopedia summary",
+        "organization": "Moody Bible Institute",
+        "url": "https://www.moodybible.org/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
+      },
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
+    },
+    {
+      "id": "biola-university",
+      "name": "Biola University",
+      "placeholder": false,
+      "verification": "researched",
+      "doctrinal_posture": "Broadly evangelical",
+      "location": "La Mirada, CA",
+      "founded": "1908",
+      "tradition": "Non-denominational evangelical",
+      "affiliation": "Non-denominational",
+      "doctrinal_basis": "Faculty affirm annually the Articles of Faith (13 statements including inerrancy) and the Statement of Biblical Principles, which says marriage is between one man and one woman (Biola).",
+      "points_to_weigh": [
+        "Large, broad evangelical university; students take 30 units of Bible."
+      ],
+      "degree_programs": [
+        "47 undergraduate majors",
+        "Master's",
+        "Doctoral"
+      ],
+      "delivery": [
+        "Residential",
+        "Online"
+      ],
+      "accreditation": "WSCUC",
+      "description": "Large non-denominational evangelical university.",
+      "website": "https://www.biola.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Biola_University",
+        "https://www.biola.edu/about/theological-positions",
+        "https://www.biola.edu/blogs/biola-news/2025/biola-commitment-mission-fidelity"
+      ],
+      "source": {
+        "title": "Biola University: institution website and encyclopedia summary",
+        "organization": "Biola University",
+        "url": "https://www.biola.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
+      },
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
+    },
+    {
+      "id": "wheaton-college",
+      "name": "Wheaton College",
+      "placeholder": false,
+      "verification": "researched",
+      "doctrinal_posture": "Broadly evangelical",
+      "location": "Wheaton, IL",
+      "founded": "1860",
+      "tradition": "Non-denominational evangelical",
+      "affiliation": "Non-denominational",
+      "doctrinal_basis": "All trustees, faculty and staff reaffirm the Statement of Faith annually, including biblical inerrancy and the direct creation of Adam and Eve; the Community Covenant says marriage is between a man and a woman (Wheaton).",
+      "points_to_weigh": [
+        "In 2023 R. Scott Clark warned parents about unofficial pro-LGBTQ alumni networks and a Sexual and Gender Identity Institute at Wheaton, though its official covenant is traditional (Heidelblog)."
+      ],
+      "degree_programs": [
+        "40+ majors",
+        "Master's",
+        "Doctoral"
+      ],
+      "delivery": [
+        "Residential"
+      ],
+      "accreditation": "HLC",
+      "description": "Flagship evangelical liberal arts college.",
+      "website": "https://www.wheaton.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Wheaton_College_(Illinois)",
+        "https://www.wheaton.edu/about-wheaton/statement-of-faith-and-educational-purpose",
+        "https://heidelblog.net/2023/08/parents-choose-your-christian-college-carefully/"
+      ],
+      "source": {
+        "title": "Wheaton College: institution website and encyclopedia summary",
+        "organization": "Wheaton College",
+        "url": "https://www.wheaton.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
+      },
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
+    },
+    {
+      "id": "presbyterian-college",
+      "name": "Presbyterian College",
+      "placeholder": false,
+      "verification": "researched",
+      "doctrinal_posture": "Mainline (PC(USA))",
+      "location": "Clinton, SC",
+      "founded": "1880",
+      "tradition": "Presbyterian",
+      "affiliation": "Presbyterian Church (U.S.A.)",
+      "doctrinal_basis": "Historically Presbyterian; it does not require a Reformed confession of its faculty in the sources reviewed.",
+      "points_to_weigh": [
+        "Affiliated with the Presbyterian Church (U.S.A.), not the PCA or OPC. The PC(USA) has permitted ordination of openly gay and lesbian officers since 2011 and defined marriage as between two persons since 2015 (Wikipedia: PC(USA))."
+      ],
       "degree_programs": [
         "[Placeholder — information to be added]"
       ],
-      "online_programs": "[Placeholder — information to be added]",
-      "residential_programs": "[Placeholder — information to be added]",
+      "delivery": [
+        "Residential"
+      ],
       "accreditation": "[Placeholder — information to be added]",
-      "tuition": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "admissions_url": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "description": "Presbyterian-named college. Listed so readers can recognize it as PC(USA)-affiliated, not PCA- or OPC-aligned.",
+      "website": "https://www.presby.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Presbyterian_College",
+        "https://en.wikipedia.org/wiki/Presbyterian_Church_(USA)",
+        "https://www.presbyteriancolleges.org/about/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Presbyterian College: institution website and encyclopedia summary",
+        "organization": "Presbyterian College",
+        "url": "https://www.presby.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
       },
-      "tags": []
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
+    },
+    {
+      "id": "davidson-college",
+      "name": "Davidson College",
+      "placeholder": false,
+      "verification": "researched",
+      "doctrinal_posture": "Mainline (PC(USA))",
+      "location": "Davidson, NC",
+      "founded": "1837",
+      "tradition": "Presbyterian",
+      "affiliation": "Presbyterian Church (U.S.A.) (covenant relationship)",
+      "doctrinal_basis": "Historically Presbyterian; it does not require a Reformed confession of its faculty in the sources reviewed.",
+      "points_to_weigh": [
+        "Affiliated with the Presbyterian Church (U.S.A.), not the PCA or OPC. The PC(USA) has permitted ordination of openly gay and lesbian officers since 2011 and defined marriage as between two persons since 2015 (Wikipedia: PC(USA)).",
+        "In 2005 its board voted to allow up to 20% of trustees to be non-Christian (Wikipedia)."
+      ],
+      "degree_programs": [
+        "[Placeholder — information to be added]"
+      ],
+      "delivery": [
+        "Residential"
+      ],
+      "accreditation": "[Placeholder — information to be added]",
+      "description": "Presbyterian-named college. Listed so readers can recognize it as PC(USA)-affiliated, not PCA- or OPC-aligned.",
+      "website": "https://www.davidson.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Davidson_College",
+        "https://en.wikipedia.org/wiki/Presbyterian_Church_(USA)",
+        "https://www.presbyteriancolleges.org/about/"
+      ],
+      "source": {
+        "title": "Davidson College: institution website and encyclopedia summary",
+        "organization": "Davidson College",
+        "url": "https://www.davidson.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
+      },
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
+    },
+    {
+      "id": "whitworth-university",
+      "name": "Whitworth University",
+      "placeholder": false,
+      "verification": "researched",
+      "doctrinal_posture": "Mainline (PC(USA))",
+      "location": "Spokane, WA",
+      "founded": "1890",
+      "tradition": "Presbyterian",
+      "affiliation": "Presbyterian Church (U.S.A.)",
+      "doctrinal_basis": "Historically Presbyterian; it does not require a Reformed confession of its faculty in the sources reviewed.",
+      "points_to_weigh": [
+        "Affiliated with the Presbyterian Church (U.S.A.), not the PCA or OPC. The PC(USA) has permitted ordination of openly gay and lesbian officers since 2011 and defined marriage as between two persons since 2015 (Wikipedia: PC(USA))."
+      ],
+      "degree_programs": [
+        "[Placeholder — information to be added]"
+      ],
+      "delivery": [
+        "Residential"
+      ],
+      "accreditation": "[Placeholder — information to be added]",
+      "description": "Presbyterian-named college. Listed so readers can recognize it as PC(USA)-affiliated, not PCA- or OPC-aligned.",
+      "website": "https://www.whitworth.edu/",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Whitworth_University",
+        "https://en.wikipedia.org/wiki/Presbyterian_Church_(USA)",
+        "https://www.presbyteriancolleges.org/about/"
+      ],
+      "source": {
+        "title": "Whitworth University: institution website and encyclopedia summary",
+        "organization": "Whitworth University",
+        "url": "https://www.whitworth.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the institution's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments from those sources; confirm current details with the institution."
+      },
+      "tags": [],
+      "admissions_url": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]"
     }
   ]
 }

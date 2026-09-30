@@ -17,8 +17,9 @@ RE.pages.entry = function () {
         <p class="label">${esc(cfg.singular)}</p><h1>${esc(e.name)}</h1></div></div>
       <div class="container page-body"><div class="detail-grid">
         <div>${e.placeholder ? RE.ui.placeholderNotice() : e.verification === "listed" ? RE.ui.listedNotice(e) : ""}
+          ${RE.ui.postureBox(e)}
           ${desc ? `<h2>About</h2><p class="prose">${RE.ui.value(e.description)}</p>` : ""}
-          <h2>Details</h2>${RE.ui.detailFacts(type, e)}
+          <h2>Details</h2>${RE.ui.detailFacts(type, e, ["doctrinal_posture", "doctrinal_basis", "points_to_weigh"])}
           ${(e.quotes || []).map(RE.ui.quote).join("")}
           ${related.length ? `<h2 style="margin-top:32px">Related</h2><ul>${related.map((r) => `<li><a href="${esc(RE.config.urlFor(r.type, r.entry))}">${esc(r.entry.name)}</a> <span class="muted">(${esc(RE.config.collections[r.type].singular)})</span></li>`).join("")}</ul>` : ""}</div>
         <aside>${RE.ui.citation(e.source)}<div class="aside-box" style="margin-top:20px"><h4>Tags</h4><div class="card-tags">${(e.tags || []).map((t) => RE.ui.tag(t, t === "placeholder" ? "tag-placeholder" : "")).join("") || "—"}</div>

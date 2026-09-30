@@ -1,167 +1,258 @@
 {
-  "_note": "Names supplied by reformededucation.org from its preliminary research. Entries are name-only (`verification: listed`); every other field is a placeholder until researched from the institution's own site. Nothing here is verified.",
+  "_note": "Researched 2026-09-30 by reformededucation.org. 'Association for Covenant Christian Schools' and 'Reformed Christian Education Foundation' from the original list could not be identified as real organizations and were removed. Great Commission Publications is listed under Resources.",
   "entries": [
     {
-      "id": "association-for-covenant-christian-schools",
-      "name": "Association for Covenant Christian Schools",
+      "id": "association-of-classical-christian-schools",
+      "name": "Association of Classical Christian Schools",
       "placeholder": false,
-      "verification": "listed",
+      "verification": "researched",
       "org_type": "Association / Network",
-      "emphasis": "[Placeholder — information to be added]",
-      "location": "[Placeholder — information to be added]",
-      "grades": "[Placeholder — information to be added]",
-      "tradition": "[Placeholder — information to be added]",
-      "affiliation": "[Placeholder — information to be added]",
-      "accreditation": "[Placeholder — information to be added]",
+      "emphasis": [
+        "Classical Christian"
+      ],
+      "location": "United States (member schools nationwide)",
+      "grades": "K-12 (member schools)",
+      "founded": "1993",
+      "affiliation": "Non-denominational network of classical Christian schools",
+      "doctrinal_basis": "Membership involves a statement of faith (see the ACCS site); member schools differ in denomination and theology, so check each school's own statement.",
+      "points_to_weigh": [
+        "Founded by Douglas Wilson; schools range from Reformed to broadly evangelical, so it is not a guarantee of Reformed teaching.",
+        "Certifies college affiliates including New Saint Andrews College, New College Franklin and Bethlehem College & Seminary (Wikipedia)."
+      ],
+      "accreditation": "Accreditation services for member schools",
       "tuition": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "admissions_url": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "website": "https://classicalchristian.org/",
+      "description": "Network that promotes, accredits and supports classical Christian schools.",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Association_of_Classical_Christian_Schools",
+        "https://classicalchristian.org/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Association of Classical Christian Schools: website and public-record summary",
+        "organization": "Association of Classical Christian Schools",
+        "url": "https://classicalchristian.org/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": [],
-      "listing_note": "A Christian school is not necessarily a Reformed school. Emphasis to be determined from the school's own published statements."
+      "tags": []
+    },
+    {
+      "id": "society-for-classical-learning",
+      "name": "Society for Classical Learning",
+      "placeholder": false,
+      "verification": "researched",
+      "org_type": "Association / Network",
+      "emphasis": [
+        "Classical Christian"
+      ],
+      "location": "United States and abroad",
+      "grades": "K-12 (member schools)",
+      "founded": "[Placeholder — information to be added]",
+      "affiliation": "Grounded in the historic Christian faith as expressed in the Nicene and Apostles' Creeds",
+      "doctrinal_basis": "Grounded in the Nicene and Apostles' Creeds; not a Reformed confession, so member schools vary widely in tradition.",
+      "points_to_weigh": [
+        "Broad evangelical and ecumenical membership; not specifically Reformed or Presbyterian."
+      ],
+      "accreditation": "Accreditation and membership",
+      "tuition": "[Placeholder — information to be added]",
+      "website": "https://societyforclassicallearning.org/",
+      "description": "Association of classical Christian schools with an accreditation process.",
+      "research_sources": [
+        "https://societyforclassicallearning.org/about/"
+      ],
+      "source": {
+        "title": "Society for Classical Learning: website and public-record summary",
+        "organization": "Society for Classical Learning",
+        "url": "https://societyforclassicallearning.org/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
+      },
+      "tags": []
     },
     {
       "id": "association-of-christian-schools-international",
       "name": "Association of Christian Schools International",
       "placeholder": false,
-      "verification": "listed",
+      "verification": "researched",
       "org_type": "Association / Network",
-      "emphasis": "[Placeholder — information to be added]",
-      "location": "[Placeholder — information to be added]",
-      "grades": "[Placeholder — information to be added]",
-      "tradition": "[Placeholder — information to be added]",
-      "affiliation": "[Placeholder — information to be added]",
-      "accreditation": "[Placeholder — information to be added]",
+      "emphasis": [
+        "Broad evangelical"
+      ],
+      "location": "Colorado Springs, CO; schools worldwide",
+      "grades": "Early education through 12",
+      "founded": "1978",
+      "affiliation": "Evangelical Christian schools of many denominations",
+      "doctrinal_basis": "Serves evangelical Christian schools across denominations; membership does not imply a Reformed or confessional emphasis.",
+      "points_to_weigh": [
+        "Very large and broad: member schools vary widely in theology and practice."
+      ],
+      "accreditation": "Accreditation for early-education, primary and secondary schools",
       "tuition": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "admissions_url": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "website": "https://www.acsi.org/",
+      "description": "International association of evangelical Christian schools that offers accreditation, teacher certification and curriculum.",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Association_of_Christian_Schools_International"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Association of Christian Schools International: website and public-record summary",
+        "organization": "Association of Christian Schools International",
+        "url": "https://www.acsi.org/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": [],
-      "listing_note": "A Christian school is not necessarily a Reformed school. Emphasis to be determined from the school's own published statements."
+      "tags": []
     },
     {
-      "id": "association-of-covenantal-reformed-education",
-      "name": "Association of Covenantal Reformed Education",
+      "id": "christian-schools-international",
+      "name": "Christian Schools International",
       "placeholder": false,
-      "verification": "listed",
+      "verification": "researched",
       "org_type": "Association / Network",
-      "emphasis": "[Placeholder — information to be added]",
-      "location": "[Placeholder — information to be added]",
-      "grades": "[Placeholder — information to be added]",
-      "tradition": "[Placeholder — information to be added]",
-      "affiliation": "[Placeholder — information to be added]",
-      "accreditation": "[Placeholder — information to be added]",
+      "emphasis": [
+        "[Placeholder — information to be added]"
+      ],
+      "location": "Grand Rapids, MI",
+      "grades": "K-12 (member schools)",
+      "founded": "1920",
+      "affiliation": "Member schools in the United States, Canada and elsewhere",
+      "doctrinal_basis": "[Placeholder — information to be added]",
+      "points_to_weigh": [
+        "Its Reformed heritage is not stated on its homepage; confirm each member school's confession."
+      ],
+      "accreditation": "Accreditation service for member schools",
       "tuition": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "admissions_url": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "website": "https://www.csionline.org/",
+      "description": "Association of nearly 500 Christian schools, based in Grand Rapids.",
+      "research_sources": [
+        "https://en.wikipedia.org/wiki/Christian_Schools_International",
+        "https://www.csionline.org/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Christian Schools International: website and public-record summary",
+        "organization": "Christian Schools International",
+        "url": "https://www.csionline.org/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": [],
-      "listing_note": "A Christian school is not necessarily a Reformed school. Emphasis to be determined from the school's own published statements."
+      "tags": []
     },
     {
-      "id": "reformed-christian-education-foundation",
-      "name": "Reformed Christian Education Foundation",
+      "id": "association-for-covenantal-reformed-education",
+      "name": "Association for Covenantal Reformed Education",
       "placeholder": false,
-      "verification": "listed",
-      "org_type": "[Placeholder — information to be added]",
-      "emphasis": "[Placeholder — information to be added]",
-      "location": "[Placeholder — information to be added]",
-      "grades": "[Placeholder — information to be added]",
-      "tradition": "[Placeholder — information to be added]",
-      "affiliation": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "org_type": "Association / Network",
+      "emphasis": [
+        "Covenantal",
+        "Reformed worldview"
+      ],
+      "location": "Jenison, MI",
+      "grades": "Homeschool families",
+      "founded": "[Placeholder — information to be added]",
+      "affiliation": "Reformed Christian",
+      "doctrinal_basis": "[Placeholder — information to be added]",
+      "points_to_weigh": [
+        "Focuses on educating and supporting parents who homeschool in the Reformed tradition (nonprofit records).",
+        "No official website was found; the link shown is its public nonprofit record."
+      ],
       "accreditation": "[Placeholder — information to be added]",
       "tuition": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "admissions_url": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "website": "https://projects.propublica.org/nonprofits/organizations/871687356",
+      "description": "Nonprofit that supports Reformed homeschooling families.",
+      "research_sources": [
+        "https://www.charitynavigator.org/ein/871687356",
+        "https://projects.propublica.org/nonprofits/organizations/871687356"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Association for Covenantal Reformed Education: website and public-record summary",
+        "organization": "Association for Covenantal Reformed Education",
+        "url": "https://projects.propublica.org/nonprofits/organizations/871687356",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": [],
-      "listing_note": "A Christian school is not necessarily a Reformed school. Emphasis to be determined from the school's own published statements."
+      "tags": []
     },
     {
       "id": "geneva-classical-academy",
       "name": "Geneva Classical Academy",
       "placeholder": false,
-      "verification": "listed",
+      "verification": "researched",
       "org_type": "School",
-      "emphasis": "[Placeholder — information to be added]",
-      "location": "[Placeholder — information to be added]",
-      "grades": "[Placeholder — information to be added]",
-      "tradition": "[Placeholder — information to be added]",
-      "affiliation": "[Placeholder — information to be added]",
-      "accreditation": "[Placeholder — information to be added]",
+      "emphasis": [
+        "Classical Christian",
+        "Reformed worldview"
+      ],
+      "location": "Lakeland, FL",
+      "grades": "K4-12",
+      "founded": "[Placeholder — information to be added]",
+      "affiliation": "Reformed, classical and Christ-centered (school description)",
+      "doctrinal_basis": "Describes itself as distinctively Christian and Reformed; no formal statement of faith appeared on its homepage.",
+      "points_to_weigh": [
+        "A formal confessional statement (for example, the Westminster Standards) was not found on its homepage; ask the school.",
+        "Lists ACCS accreditation affiliates."
+      ],
+      "accreditation": "ACCS accreditation affiliate",
       "tuition": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "admissions_url": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "website": "https://genevaclassicalacademy.com/",
+      "description": "Classical Christian college-preparatory school in Lakeland, Florida.",
+      "research_sources": [
+        "https://genevaclassicalacademy.com/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Geneva Classical Academy: website and public-record summary",
+        "organization": "Geneva Classical Academy",
+        "url": "https://genevaclassicalacademy.com/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": [],
-      "listing_note": "A Christian school is not necessarily a Reformed school. Emphasis to be determined from the school's own published statements."
+      "tags": []
     },
     {
       "id": "logos-classical-academy",
       "name": "Logos Classical Academy",
       "placeholder": false,
-      "verification": "listed",
+      "verification": "researched",
       "org_type": "School",
-      "emphasis": "[Placeholder — information to be added]",
-      "location": "[Placeholder — information to be added]",
-      "grades": "[Placeholder — information to be added]",
-      "tradition": "[Placeholder — information to be added]",
-      "affiliation": "[Placeholder — information to be added]",
-      "accreditation": "[Placeholder — information to be added]",
+      "emphasis": [
+        "Classical Christian"
+      ],
+      "location": "Augusta, GA",
+      "grades": "K-10",
+      "founded": "[Placeholder — information to be added]",
+      "affiliation": "Classical Christian; member of the Society for Classical Learning",
+      "doctrinal_basis": "Describes a Christ-centered classical education; no Reformed or confessional statement was found.",
+      "points_to_weigh": [
+        "Its theological tradition is not stated on the pages reviewed; ask the school."
+      ],
+      "accreditation": "Society for Classical Learning member",
       "tuition": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "admissions_url": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "website": "https://logosclassicalacademy.org/",
+      "description": "Classical Christian academy in Augusta, Georgia.",
+      "research_sources": [
+        "https://societyforclassicallearning.org/company/logos-classical-academy/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Logos Classical Academy: website and public-record summary",
+        "organization": "Logos Classical Academy",
+        "url": "https://logosclassicalacademy.org/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": [],
-      "listing_note": "A Christian school is not necessarily a Reformed school. Emphasis to be determined from the school's own published statements."
+      "tags": []
     }
   ]
 }
