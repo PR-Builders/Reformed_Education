@@ -1,23 +1,29 @@
 {
-  "_note": "Names supplied by reformededucation.org from its preliminary research. Entries are name-only (`verification: listed`); every other field is a placeholder until researched from the institution's own site. Nothing here is verified.",
+  "_note": "Researched 2026-09-30 by reformededucation.org. Entries marked listed are names only and not yet researched. Confirm details on each organization's site.",
   "entries": [
     {
       "id": "great-commission-publications",
       "name": "Great Commission Publications",
       "placeholder": false,
-      "verification": "listed",
-      "provider": "[Placeholder — information to be added]",
-      "audience": "[Placeholder — information to be added]",
-      "kind": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "kind": "Curriculum",
+      "provider": "OPC and PCA",
+      "audience": "Sunday school",
+      "doctrinal_basis": "Owned by the OPC and PCA.",
+      "points_to_weigh": [],
+      "website": "https://www.gcp.org/",
+      "description": "OPC/PCA curriculum publisher.",
+      "research_sources": [
+        "https://www.gcp.org/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Great Commission Publications: website and public-record summary",
+        "organization": "Great Commission Publications",
+        "url": "https://www.gcp.org/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     },
@@ -85,21 +91,27 @@
     },
     {
       "id": "opc-children-s-resources",
-      "name": "OPC children's resources",
+      "name": "OPC First Catechism and youth resources",
       "placeholder": false,
-      "verification": "listed",
-      "provider": "[Placeholder — information to be added]",
-      "audience": "[Placeholder — information to be added]",
-      "kind": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "kind": "Book",
+      "provider": "OPC Committee on Christian Education",
+      "audience": "Children and youth",
+      "doctrinal_basis": "Orthodox Presbyterian.",
+      "points_to_weigh": [],
+      "website": "https://opc.org/cce/FirstCatechism.html",
+      "description": "First Catechism for children, So What? youth Bible studies, camps and the Shiloh Institute.",
+      "research_sources": [
+        "https://www.opc.org/committee_ce.html"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "OPC First Catechism and youth resources: website and public-record summary",
+        "organization": "OPC First Catechism and youth resources",
+        "url": "https://opc.org/cce/FirstCatechism.html",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     },
@@ -206,6 +218,35 @@
       },
       "tags": [],
       "listing_note": "A category of resources rather than a single organization; entries to be researched and added individually."
+    },
+    {
+      "id": "new-city-catechism",
+      "name": "New City Catechism",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Book",
+      "provider": "The Gospel Coalition",
+      "audience": "Children and adults",
+      "doctrinal_basis": "Broadly Reformed evangelical.",
+      "points_to_weigh": [
+        "A modern digest, not a confession; it does not replace the Westminster or Heidelberg catechisms."
+      ],
+      "website": "https://newcitycatechism.com/",
+      "description": "52 questions adapted from Reformation catechisms, with a kids edition for ages 4-11 and an app.",
+      "research_sources": [
+        "https://www.thegospelcoalition.org/new-city-catechism/",
+        "https://www.crossway.org/books/the-new-city-catechism-for-kids-tpb/"
+      ],
+      "source": {
+        "title": "New City Catechism: website and public-record summary",
+        "organization": "New City Catechism",
+        "url": "https://newcitycatechism.com/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
+      },
+      "tags": []
     }
   ]
 }

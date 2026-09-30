@@ -1,87 +1,114 @@
 {
-  "_note": "Names supplied by reformededucation.org from its preliminary research. Entries are name-only (`verification: listed`); every other field is a placeholder until researched from the institution's own site. Nothing here is verified.",
+  "_note": "Researched 2026-09-30 by reformededucation.org. Entries marked listed are names only and not yet researched. Confirm details on each organization's site.",
   "entries": [
     {
       "id": "reformed-forum",
-      "name": "Reformed Forum",
+      "name": "Reformed Forum (Christ the Center)",
       "placeholder": false,
-      "verification": "listed",
-      "provider": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "provider": "Reformed Forum",
       "subject": [
-        "[Placeholder — information to be added]"
+        "Systematic Theology",
+        "Apologetics"
       ],
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "doctrinal_basis": "Westminster Standards and Three Forms.",
+      "points_to_weigh": [],
+      "website": "https://reformedforum.org/",
+      "description": "Christ the Center: 700+ free episodes; paid Reformed Academy.",
+      "research_sources": [
+        "https://reformedforum.org/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Reformed Forum (Christ the Center): website and public-record summary",
+        "organization": "Reformed Forum (Christ the Center)",
+        "url": "https://reformedforum.org/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     },
     {
       "id": "rts",
-      "name": "RTS",
+      "name": "Reformed Theological Seminary",
       "placeholder": false,
-      "verification": "listed",
-      "provider": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "provider": "RTS",
       "subject": [
-        "[Placeholder — information to be added]"
+        "Systematic Theology",
+        "Biblical Theology"
       ],
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "doctrinal_basis": "Confessional Reformed.",
+      "points_to_weigh": [],
+      "website": "https://rts.edu/resource_types/lectures",
+      "description": "30+ free Global Education courses via app and iTunes U.",
+      "research_sources": [
+        "https://rts.edu/resource_types/lectures"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Reformed Theological Seminary: website and public-record summary",
+        "organization": "Reformed Theological Seminary",
+        "url": "https://rts.edu/resource_types/lectures",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     },
     {
       "id": "westminster-seminary",
-      "name": "Westminster Seminary",
+      "name": "Westminster Media",
       "placeholder": false,
-      "verification": "listed",
-      "provider": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "provider": "Westminster Theological Seminary",
       "subject": [
-        "[Placeholder — information to be added]"
+        "Systematic Theology",
+        "Apologetics"
       ],
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "doctrinal_basis": "Confessional Reformed.",
+      "points_to_weigh": [],
+      "website": "https://wm.wts.edu/",
+      "description": "Podcasts, videos and a media archive from Westminster Theological Seminary.",
+      "research_sources": [
+        "https://wm.wts.edu/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Westminster Media: website and public-record summary",
+        "organization": "Westminster Media",
+        "url": "https://wm.wts.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     },
     {
       "id": "westminster-seminary-california",
-      "name": "Westminster Seminary California",
+      "name": "Westminster Seminary California Resources",
       "placeholder": false,
-      "verification": "listed",
-      "provider": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "provider": "Westminster Seminary California",
       "subject": [
-        "[Placeholder — information to be added]"
+        "Systematic Theology"
       ],
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "doctrinal_basis": "Confessional Reformed.",
+      "points_to_weigh": [],
+      "website": "https://wscal.edu/resources",
+      "description": "Audio, video and den Dulk lectures.",
+      "research_sources": [
+        "https://wscal.edu/resources"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Westminster Seminary California Resources: website and public-record summary",
+        "organization": "Westminster Seminary California Resources",
+        "url": "https://wscal.edu/resources",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     },
@@ -108,85 +135,113 @@
     },
     {
       "id": "puritan-reformed-seminary",
-      "name": "Puritan Reformed Seminary",
+      "name": "Puritan Reformed Seminary Videos",
       "placeholder": false,
-      "verification": "listed",
-      "provider": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "provider": "Puritan Reformed Theological Seminary",
       "subject": [
-        "[Placeholder — information to be added]"
+        "Systematic Theology",
+        "Church History"
       ],
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "doctrinal_basis": "Confessional Reformed.",
+      "points_to_weigh": [],
+      "website": "https://prts.edu/videos",
+      "description": "Videos also on the PuritanSeminary YouTube channel.",
+      "research_sources": [
+        "https://prts.edu/videos"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Puritan Reformed Seminary Videos: website and public-record summary",
+        "organization": "Puritan Reformed Seminary Videos",
+        "url": "https://prts.edu/videos",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     },
     {
       "id": "covenant-seminary",
-      "name": "Covenant Seminary",
+      "name": "Covenant Seminary Resources",
       "placeholder": false,
-      "verification": "listed",
-      "provider": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "provider": "Covenant Theological Seminary",
       "subject": [
-        "[Placeholder — information to be added]"
+        "Biblical Theology",
+        "Pastoral Theology"
       ],
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "doctrinal_basis": "PCA seminary.",
+      "points_to_weigh": [],
+      "website": "https://resources.covenantseminary.edu/",
+      "description": "Hundreds of free courses (Worldwide Classroom).",
+      "research_sources": [
+        "https://resources.covenantseminary.edu/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Covenant Seminary Resources: website and public-record summary",
+        "organization": "Covenant Seminary Resources",
+        "url": "https://resources.covenantseminary.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     },
     {
       "id": "greenville-presbyterian-theological-seminary",
-      "name": "Greenville Presbyterian Theological Seminary",
+      "name": "Greenville Presbyterian Theological Seminary Media",
       "placeholder": false,
-      "verification": "listed",
-      "provider": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "provider": "Greenville Presbyterian Theological Seminary",
       "subject": [
-        "[Placeholder — information to be added]"
+        "Systematic Theology"
       ],
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "doctrinal_basis": "Confessional Reformed.",
+      "points_to_weigh": [],
+      "website": "https://www.gpts.edu/",
+      "description": "Audio and video on SermonAudio, YouTube (GPTSMedia) and Apple Podcasts.",
+      "research_sources": [
+        "https://www.gpts.edu/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Greenville Presbyterian Theological Seminary Media: website and public-record summary",
+        "organization": "Greenville Presbyterian Theological Seminary Media",
+        "url": "https://www.gpts.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     },
     {
       "id": "the-davenant-institute",
-      "name": "The Davenant Institute",
+      "name": "Davenant Institute",
       "placeholder": false,
-      "verification": "listed",
-      "provider": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "provider": "Davenant Institute",
       "subject": [
-        "[Placeholder — information to be added]"
+        "Church History"
       ],
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "doctrinal_basis": "Retrieval of Reformation and Anglican tradition.",
+      "points_to_weigh": [
+        "Includes Anglican thought; check individual lectures."
+      ],
+      "website": "https://davenantinstitute.org/video-lectures",
+      "description": "20-hour video modules; YouTube @DavenantInstitute.",
+      "research_sources": [
+        "https://davenantinstitute.org/video-lectures"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Davenant Institute: website and public-record summary",
+        "organization": "Davenant Institute",
+        "url": "https://davenantinstitute.org/video-lectures",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     },

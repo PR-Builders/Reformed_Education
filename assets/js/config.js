@@ -20,7 +20,7 @@
   ];
 
   RE.config = {
-    version: "202609300019",   // stamped by tools/bump_version.py; appended to data requests to avoid stale caches
+    version: "202609300023",   // stamped by tools/bump_version.py; appended to data requests to avoid stale caches
     siteName: "Reformed Education",
     tagline: "Reformed education and resources, in one place.",
     latinTagline: "Quaere et Disce",
@@ -136,15 +136,15 @@
           { key: "creator", label: "Author / Creator" },
           { key: "subject", label: "Subject" },
           { key: "audience", label: "Audience" },
-          { key: "website", label: "Website", type: "url" },
+          { key: "doctrinal_basis", label: "Doctrinal basis" }, { key: "points_to_weigh", label: "Points to weigh", type: "list" }, { key: "research_sources", label: "Sources consulted", type: "list" }, { key: "website", label: "Website", type: "url" },
           { key: "description", label: "Description", type: "text" },
         ],
       },
       publishers: {
         file: "publishers.json", label: "Publishers", singular: "Publisher", page: "publishers.html",
         intro: "Publishers of Reformed books, curricula and study materials. Start with the publisher, then find the books.",
-        cardMeta: ["location"], filters: [],
-        fields: [{ key: "location", label: "Location" }, { key: "tradition", label: "Tradition" }, { key: "website", label: "Website", type: "url" }, { key: "description", label: "Description", type: "text" }],
+        cardMeta: ["location", "doctrinal_posture"], filters: ["doctrinal_posture"],
+        fields: [{ key: "doctrinal_posture", label: "Theological posture" }, { key: "location", label: "Location" }, { key: "tradition", label: "Tradition" }, { key: "website", label: "Website", type: "url" }, { key: "doctrinal_basis", label: "Doctrinal basis" }, { key: "points_to_weigh", label: "Points to weigh", type: "list" }, { key: "research_sources", label: "Sources consulted", type: "list" }, { key: "description", label: "Description", type: "text" }],
       },
       authors: {
         file: "authors.json", label: "Authors", singular: "Author", page: "authors.html",
@@ -166,26 +166,26 @@
       podcasts: {
         file: "podcasts.json", label: "Podcasts & Audio", singular: "Podcast", page: "podcasts.html",
         intro: "Podcasts and audio programs on Reformed theology, church life and history.",
-        cardMeta: ["creator"], filters: ["subject"],
-        fields: [{ key: "creator", label: "Host / Producer" }, { key: "organization", label: "Organization" }, { key: "subject", label: "Subjects", type: "list" }, { key: "website", label: "Website", type: "url" }, { key: "description", label: "Description", type: "text" }],
+        cardMeta: ["creator", "doctrinal_posture"], filters: ["subject", "doctrinal_posture"],
+        fields: [{ key: "doctrinal_posture", label: "Theological posture" }, { key: "creator", label: "Host / Producer" }, { key: "organization", label: "Organization" }, { key: "subject", label: "Subjects", type: "list" }, { key: "website", label: "Website", type: "url" }, { key: "doctrinal_basis", label: "Doctrinal basis" }, { key: "points_to_weigh", label: "Points to weigh", type: "list" }, { key: "research_sources", label: "Sources consulted", type: "list" }, { key: "description", label: "Description", type: "text" }],
       },
       lectures: {
         file: "lectures.json", label: "Lectures & Video", singular: "Lecture Provider", page: "lectures.html",
         intro: "Lecture series and video teaching from seminaries and ministries.",
         cardMeta: ["provider"], filters: ["subject"],
-        fields: [{ key: "provider", label: "Provider" }, { key: "subject", label: "Subjects", type: "list" }, { key: "website", label: "Website", type: "url" }, { key: "description", label: "Description", type: "text" }],
+        fields: [{ key: "provider", label: "Provider" }, { key: "subject", label: "Subjects", type: "list" }, { key: "website", label: "Website", type: "url" }, { key: "doctrinal_basis", label: "Doctrinal basis" }, { key: "points_to_weigh", label: "Points to weigh", type: "list" }, { key: "research_sources", label: "Sources consulted", type: "list" }, { key: "description", label: "Description", type: "text" }],
       },
       family: {
         file: "family.json", label: "Family & Children's Education", singular: "Family Resource", page: "family.html",
         intro: "Catechisms, curricula, family worship and other resources for parents and children.",
         cardMeta: ["kind", "provider"], filters: ["kind"],
-        fields: [{ key: "kind", label: "Type" }, { key: "provider", label: "Provider" }, { key: "audience", label: "Audience" }, { key: "website", label: "Website", type: "url" }, { key: "description", label: "Description", type: "text" }],
+        fields: [{ key: "kind", label: "Type" }, { key: "provider", label: "Provider" }, { key: "audience", label: "Audience" }, { key: "website", label: "Website", type: "url" }, { key: "doctrinal_basis", label: "Doctrinal basis" }, { key: "points_to_weigh", label: "Points to weigh", type: "list" }, { key: "research_sources", label: "Sources consulted", type: "list" }, { key: "description", label: "Description", type: "text" }],
       },
       officers: {
         file: "officers.json", label: "Church Officer Education", singular: "Officer Training", page: "officers.html",
         intro: "Training and resources for elders, deacons and pastors.",
         cardMeta: ["office"], filters: ["office"],
-        fields: [{ key: "office", label: "Office", type: "list" }, { key: "provider", label: "Provider / Denomination" }, { key: "website", label: "Website", type: "url" }, { key: "description", label: "Description", type: "text" }],
+        fields: [{ key: "office", label: "Office", type: "list" }, { key: "provider", label: "Provider / Denomination" }, { key: "website", label: "Website", type: "url" }, { key: "doctrinal_basis", label: "Doctrinal basis" }, { key: "points_to_weigh", label: "Points to weigh", type: "list" }, { key: "research_sources", label: "Sources consulted", type: "list" }, { key: "description", label: "Description", type: "text" }],
       },
       catechisms: {
         file: "catechisms.json", label: "Catechisms", singular: "Catechism", page: "catechisms.html",

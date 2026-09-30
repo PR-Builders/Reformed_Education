@@ -60,6 +60,13 @@
       "Worship",
       "Ethics",
       "Pastoral Theology"
+    ],
+    "doctrinal_posture": [
+      "Confessional Reformed",
+      "Reformed heritage",
+      "Conservative evangelical",
+      "Broadly evangelical",
+      "Mainline (PC(USA))"
     ]
   },
   "lectures": {
@@ -158,6 +165,15 @@
       "Undergraduate",
       "Lay / general"
     ],
+    "doctrinal_posture": [
+      "Confessional Reformed",
+      "Reformed heritage",
+      "Conservative evangelical",
+      "Broadly evangelical",
+      "Mainline (PC(USA))"
+    ]
+  },
+  "publishers": {
     "doctrinal_posture": [
       "Confessional Reformed",
       "Reformed heritage",

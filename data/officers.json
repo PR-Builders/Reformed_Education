@@ -1,5 +1,5 @@
 {
-  "_note": "Names supplied by reformededucation.org from its preliminary research. Entries are name-only (`verification: listed`); every other field is a placeholder until researched from the institution's own site. Nothing here is verified.",
+  "_note": "Researched 2026-09-30 by reformededucation.org. Entries marked listed are names only and not yet researched. Confirm details on each organization's site.",
   "entries": [
     {
       "id": "elder-westminster-standards",
@@ -24,44 +24,56 @@
     },
     {
       "id": "elder-opc-elder-training",
-      "name": "OPC elder training",
+      "name": "OPC Ruling Elder Podcast and training",
       "placeholder": false,
-      "verification": "listed",
+      "verification": "researched",
       "office": [
         "Elder"
       ],
-      "provider": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "provider": "OPC Committee on Christian Education",
+      "doctrinal_basis": "Orthodox Presbyterian.",
+      "points_to_weigh": [],
+      "website": "https://repod.opc.org/",
+      "description": "Monthly podcast for elders from the OPC Committee on Christian Education.",
+      "research_sources": [
+        "https://www.opc.org/committee_ce.html"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "OPC Ruling Elder Podcast and training: website and public-record summary",
+        "organization": "OPC Ruling Elder Podcast and training",
+        "url": "https://repod.opc.org/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": [],
-      "listing_note": "Preliminary research by reformededucation.org notes OPC-published training material structured around the Shorter Catechism for elders and deacons; to be verified."
+      "tags": []
     },
     {
       "id": "elder-pca-officer-training",
-      "name": "PCA officer training",
+      "name": "PCA Officer Training Kit for Elders",
       "placeholder": false,
-      "verification": "listed",
+      "verification": "researched",
       "office": [
         "Elder"
       ],
-      "provider": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "provider": "PCA Committee on Discipleship Ministries",
+      "doctrinal_basis": "Presbyterian Church in America.",
+      "points_to_weigh": [],
+      "website": "https://pcacdm.org/",
+      "description": "Selection of recommended resources for those considered for ruling elder, offered through the PCA Bookstore.",
+      "research_sources": [
+        "https://pcacdm.org/",
+        "https://www.pcabookstore.com/p-7198-officer-training-kit-for-elder.aspx"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "PCA Officer Training Kit for Elders: website and public-record summary",
+        "organization": "PCA Officer Training Kit for Elders",
+        "url": "https://pcacdm.org/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     },
@@ -172,22 +184,28 @@
     },
     {
       "id": "deacon-diaconal-ministry",
-      "name": "Diaconal ministry",
+      "name": "Reformed Deacon Podcast",
       "placeholder": false,
-      "verification": "listed",
+      "verification": "researched",
       "office": [
         "Deacon"
       ],
-      "provider": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "provider": "OPC Committee on Christian Education",
+      "doctrinal_basis": "Orthodox Presbyterian.",
+      "points_to_weigh": [],
+      "website": "https://www.thereformeddeacon.org/",
+      "description": "OPC-linked podcast for deacons.",
+      "research_sources": [
+        "https://www.opc.org/committee_ce.html"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Reformed Deacon Podcast: website and public-record summary",
+        "organization": "Reformed Deacon Podcast",
+        "url": "https://www.thereformeddeacon.org/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     },
@@ -256,22 +274,28 @@
     },
     {
       "id": "pastor-seminary-education",
-      "name": "Seminary education",
+      "name": "OPC Ministerial Training (MTIOPC and internship)",
       "placeholder": false,
-      "verification": "listed",
+      "verification": "researched",
       "office": [
         "Pastor"
       ],
-      "provider": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "provider": "Orthodox Presbyterian Church",
+      "doctrinal_basis": "Orthodox Presbyterian.",
+      "points_to_weigh": [],
+      "website": "https://opc.org/cce/MTI.html",
+      "description": "Ministerial Training Institute, internship, Candidates and Credentials Conference and Timothy Conference.",
+      "research_sources": [
+        "https://www.opc.org/committee_ce.html"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "OPC Ministerial Training (MTIOPC and internship): website and public-record summary",
+        "organization": "OPC Ministerial Training (MTIOPC and internship)",
+        "url": "https://opc.org/cce/MTI.html",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     },

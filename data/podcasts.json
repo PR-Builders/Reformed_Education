@@ -1,5 +1,5 @@
 {
-  "_note": "Names supplied by reformededucation.org from its preliminary research. Entries are name-only (`verification: listed`); every other field is a placeholder until researched from the institution's own site. Nothing here is verified.",
+  "_note": "Researched 2026-09-30 by reformededucation.org. Entries marked listed are names only and not yet researched. Confirm details on each organization's site.",
   "entries": [
     {
       "id": "reformed-forum",
@@ -27,21 +27,28 @@
       "id": "mortification-of-spin",
       "name": "Mortification of Spin",
       "placeholder": false,
-      "verification": "listed",
-      "creator": "[Placeholder — information to be added]",
-      "organization": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "creator": "Todd Pruitt and Carl Trueman",
+      "organization": "Alliance of Confessing Evangelicals",
       "subject": [
-        "[Placeholder — information to be added]"
+        "Church History",
+        "Ethics"
       ],
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "doctrinal_basis": "Confessing evangelical (Alliance of Confessing Evangelicals).",
+      "points_to_weigh": [],
+      "website": "https://www.alliancenet.org/broadcasts/mos",
+      "description": "Podcast of the Alliance of Confessing Evangelicals, hosted by Todd Pruitt and Carl Trueman.",
+      "research_sources": [
+        "https://www.alliancenet.org/broadcasts/mos"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Mortification of Spin: website and public-record summary",
+        "organization": "Mortification of Spin",
+        "url": "https://www.alliancenet.org/broadcasts/mos",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     },
@@ -49,21 +56,28 @@
       "id": "the-heidelcast",
       "name": "The Heidelcast",
       "placeholder": false,
-      "verification": "listed",
-      "creator": "[Placeholder — information to be added]",
-      "organization": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "creator": "R. Scott Clark",
+      "organization": "Heidelberg Reformation Association",
       "subject": [
-        "[Placeholder — information to be added]"
+        "Systematic Theology",
+        "Church History"
       ],
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "doctrinal_basis": "Confessional Reformed.",
+      "points_to_weigh": [],
+      "website": "https://heidelblog.net/heidelcast",
+      "description": "Podcast of R. Scott Clark's Heidelberg Reformation Association; 800+ episodes since 2009.",
+      "research_sources": [
+        "https://heidelblog.net/heidelcast"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "The Heidelcast: website and public-record summary",
+        "organization": "The Heidelcast",
+        "url": "https://heidelblog.net/heidelcast",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     },
@@ -71,21 +85,30 @@
       "id": "the-white-horse-inn",
       "name": "The White Horse Inn",
       "placeholder": false,
-      "verification": "listed",
-      "creator": "[Placeholder — information to be added]",
-      "organization": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "creator": "Michael Horton and others",
+      "organization": "Sola Media / Modern Reformation",
       "subject": [
-        "[Placeholder — information to be added]"
+        "Systematic Theology",
+        "Apologetics"
       ],
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "doctrinal_basis": "Reformation-centered; multi-denominational.",
+      "points_to_weigh": [
+        "Guests and hosts come from several denominations."
+      ],
+      "website": "https://www.whitehorseinn.org/",
+      "description": "Radio and podcast program begun in 1990; hosts include Michael Horton.",
+      "research_sources": [
+        "https://www.whitehorseinn.org/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "The White Horse Inn: website and public-record summary",
+        "organization": "The White Horse Inn",
+        "url": "https://www.whitehorseinn.org/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     },
@@ -93,21 +116,27 @@
       "id": "theology-simply-profound",
       "name": "Theology Simply Profound",
       "placeholder": false,
-      "verification": "listed",
-      "creator": "[Placeholder — information to be added]",
-      "organization": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "creator": "Westminster OPC",
+      "organization": "Reformed Forum",
       "subject": [
-        "[Placeholder — information to be added]"
+        "Systematic Theology"
       ],
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "doctrinal_basis": "Orthodox Presbyterian.",
+      "points_to_weigh": [],
+      "website": "https://reformedforum.org/programs/tsp",
+      "description": "Podcast of Westminster OPC affiliated with Reformed Forum.",
+      "research_sources": [
+        "https://reformedforum.org/programs/tsp"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Theology Simply Profound: website and public-record summary",
+        "organization": "Theology Simply Profound",
+        "url": "https://reformedforum.org/programs/tsp",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     },
@@ -137,22 +166,28 @@
       "id": "ruling-elder-podcast",
       "name": "Ruling Elder Podcast",
       "placeholder": false,
-      "verification": "listed",
-      "listing_note": "Preliminary research by reformededucation.org connects this to the OPC Committee on Christian Education, with episodes on the Westminster Standards; to be verified.",
-      "creator": "[Placeholder — information to be added]",
-      "organization": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "creator": "OPC Committee on Christian Education",
+      "organization": "Orthodox Presbyterian Church",
       "subject": [
-        "[Placeholder — information to be added]"
+        "Presbyterianism",
+        "Pastoral Theology"
       ],
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "doctrinal_basis": "Orthodox Presbyterian.",
+      "points_to_weigh": [],
+      "website": "https://repod.opc.org/",
+      "description": "Monthly (15th) podcast of the OPC Committee on Christian Education, including a Shorter Catechism episode.",
+      "research_sources": [
+        "https://repod.opc.org/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Ruling Elder Podcast: website and public-record summary",
+        "organization": "Ruling Elder Podcast",
+        "url": "https://repod.opc.org/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     },
@@ -160,21 +195,29 @@
       "id": "reformed-faith-family",
       "name": "Reformed Faith & Family",
       "placeholder": false,
-      "verification": "listed",
-      "creator": "[Placeholder — information to be added]",
-      "organization": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "creator": "Caleb and Lindsey Stomberg",
+      "organization": "Reformed Faith & Family",
       "subject": [
-        "[Placeholder — information to be added]"
+        "Pastoral Theology"
       ],
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "doctrinal_basis": "1689 Reformed Baptist.",
+      "points_to_weigh": [
+        "Baptist perspective."
+      ],
+      "website": "https://reformedfaithandfamily.com/",
+      "description": "Podcast hosted by Caleb and Lindsey Stomberg.",
+      "research_sources": [
+        "https://reformedfaithandfamily.com/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Reformed Faith & Family: website and public-record summary",
+        "organization": "Reformed Faith & Family",
+        "url": "https://reformedfaithandfamily.com/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     },
@@ -182,43 +225,58 @@
       "id": "presbycast",
       "name": "Presbycast",
       "placeholder": false,
-      "verification": "listed",
-      "creator": "[Placeholder — information to be added]",
-      "organization": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "creator": "Presbycast hosts",
+      "organization": "Presbycast",
       "subject": [
-        "[Placeholder — information to be added]"
+        "Presbyterianism"
       ],
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "doctrinal_basis": "PCA-oriented.",
+      "points_to_weigh": [],
+      "website": "https://presbycast.libsyn.com/",
+      "description": "PCA-oriented, humorous podcast.",
+      "research_sources": [
+        "https://presbycast.libsyn.com/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Presbycast: website and public-record summary",
+        "organization": "Presbycast",
+        "url": "https://presbycast.libsyn.com/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     },
     {
       "id": "the-gospel-coalition-s-reformed-resources",
-      "name": "The Gospel Coalition's Reformed resources",
+      "name": "The Gospel Coalition",
       "placeholder": false,
-      "verification": "listed",
-      "creator": "[Placeholder — information to be added]",
-      "organization": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "creator": "D. A. Carson and Tim Keller",
+      "organization": "The Gospel Coalition",
       "subject": [
-        "[Placeholder — information to be added]"
+        "Biblical Theology"
       ],
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "doctrinal_posture": "Broadly evangelical",
+      "doctrinal_basis": "Broadly Reformed evangelical.",
+      "points_to_weigh": [
+        "Wider than the confessional churches; includes Baptists, Anglicans and non-denominational leaders."
+      ],
+      "website": "https://www.thegospelcoalition.org/",
+      "description": "Broadly Reformed evangelical network begun by D. A. Carson and Tim Keller (2004/2007).",
+      "research_sources": [
+        "https://www.thegospelcoalition.org/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "The Gospel Coalition: website and public-record summary",
+        "organization": "The Gospel Coalition",
+        "url": "https://www.thegospelcoalition.org/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     }

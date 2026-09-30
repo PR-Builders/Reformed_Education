@@ -1,5 +1,5 @@
 {
-  "_note": "Names supplied by reformededucation.org from its preliminary research. Entries are name-only (`verification: listed`); every other field is a placeholder until researched from the institution's own site. Nothing here is verified.",
+  "_note": "Researched 2026-09-30 by reformededucation.org. Entries marked listed are names only and not yet researched. Confirm details on each organization's site.",
   "entries": [
     {
       "id": "reformed-forum",
@@ -47,20 +47,26 @@
       "id": "monergism",
       "name": "Monergism",
       "placeholder": false,
-      "verification": "listed",
+      "verification": "researched",
       "kind": "Organization",
-      "creator": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "audience": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "creator": "John Hendryx",
+      "doctrinal_basis": "Reformed / Calvinist.",
+      "points_to_weigh": [
+        "A link directory: quality and denominational stance vary by item."
+      ],
+      "website": "https://www.monergism.com/",
+      "description": "Reformed resource website with a large topical collection of links to articles, books, audio and video.",
+      "research_sources": [
+        "https://www.monergism.com/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Monergism: website and public-record summary",
+        "organization": "Monergism",
+        "url": "https://www.monergism.com/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     },
@@ -68,20 +74,24 @@
       "id": "great-commission-publications",
       "name": "Great Commission Publications",
       "placeholder": false,
-      "verification": "listed",
+      "verification": "researched",
       "kind": "Organization",
-      "creator": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "audience": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "creator": "OPC and PCA",
+      "doctrinal_basis": "Owned by two conservative Presbyterian bodies.",
+      "points_to_weigh": [],
+      "website": "https://www.gcp.org/",
+      "description": "Joint publishing ministry of the OPC and PCA (incorporated 1975), producing Sunday school curriculum and the Trinity Hymnal.",
+      "research_sources": [
+        "https://www.gcp.org/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Great Commission Publications: website and public-record summary",
+        "organization": "Great Commission Publications",
+        "url": "https://www.gcp.org/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     },
@@ -89,21 +99,24 @@
       "id": "opc-committee-on-christian-education",
       "name": "OPC Committee on Christian Education",
       "placeholder": false,
-      "verification": "listed",
-      "listing_note": "Preliminary research by reformededucation.org notes the OPC store offers catechisms and educational material. Index and link to it; do not copy it. Candidate source: store.opc.org.",
+      "verification": "researched",
       "kind": "Organization",
-      "creator": "[Placeholder — information to be added]",
-      "subject": "[Placeholder — information to be added]",
-      "audience": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "creator": "Orthodox Presbyterian Church",
+      "doctrinal_basis": "Serves the OPC, which holds the Westminster Standards.",
+      "points_to_weigh": [],
+      "website": "https://www.opc.org/committee_ce.html",
+      "description": "OPC committee producing New Horizons, Ordained Servant, ministerial training and children's and family materials.",
+      "research_sources": [
+        "https://www.opc.org/committee_ce.html"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "OPC Committee on Christian Education: website and public-record summary",
+        "organization": "OPC Committee on Christian Education",
+        "url": "https://www.opc.org/committee_ce.html",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     }

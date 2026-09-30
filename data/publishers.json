@@ -1,41 +1,57 @@
 {
-  "_note": "Names supplied by reformededucation.org from its preliminary research. Entries are name-only (`verification: listed`); every other field is a placeholder until researched from the institution's own site. Nothing here is verified.",
+  "_note": "Researched 2026-09-30 by reformededucation.org. Entries marked listed are names only and not yet researched. Confirm details on each organization's site.",
   "entries": [
     {
       "id": "banner-of-truth",
       "name": "Banner of Truth",
       "placeholder": false,
-      "verification": "listed",
-      "location": "[Placeholder — information to be added]",
-      "tradition": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "location": "Edinburgh, Scotland and Carlisle, Pennsylvania",
+      "tradition": "Calvinist / Puritan",
+      "doctrinal_posture": "Conservative evangelical",
+      "doctrinal_basis": "Calvinistic evangelical; reprints Puritan and Reformed authors.",
+      "points_to_weigh": [
+        "Not tied to one denomination; authors span Presbyterian, Baptist and Anglican Puritans."
+      ],
+      "website": "https://banneroftruth.org/",
+      "description": "Publisher founded in 1957, known for reprints of Puritan and Reformed classics and new works in the same tradition.",
+      "research_sources": [
+        "https://banneroftruth.org/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Banner of Truth: website and public-record summary",
+        "organization": "Banner of Truth",
+        "url": "https://banneroftruth.org/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     },
     {
       "id": "presbyterian-reformed-publishing",
-      "name": "Presbyterian & Reformed Publishing",
+      "name": "P&R Publishing",
       "placeholder": false,
-      "verification": "listed",
-      "location": "[Placeholder — information to be added]",
-      "tradition": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "location": "Phillipsburg, New Jersey",
+      "tradition": "Presbyterian",
+      "doctrinal_posture": "Confessional Reformed",
+      "doctrinal_basis": "Publishes according to the Westminster Confession of Faith.",
+      "points_to_weigh": [],
+      "website": "https://www.prpbooks.com/",
+      "description": "Publisher founded in 1930 that states it publishes in accordance with the Westminster Confession; long associated with Westminster Theological Seminary.",
+      "research_sources": [
+        "https://www.prpbooks.com/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "P&R Publishing: website and public-record summary",
+        "organization": "P&R Publishing",
+        "url": "https://www.prpbooks.com/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     },
@@ -43,37 +59,53 @@
       "id": "reformation-heritage-books",
       "name": "Reformation Heritage Books",
       "placeholder": false,
-      "verification": "listed",
-      "location": "[Placeholder — information to be added]",
-      "tradition": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "location": "Grand Rapids, Michigan",
+      "tradition": "Reformed (Dutch Reformed and Puritan)",
+      "doctrinal_posture": "Confessional Reformed",
+      "doctrinal_basis": "Reformed and Puritan, in the orbit of Puritan Reformed Theological Seminary.",
+      "points_to_weigh": [],
+      "website": "https://heritagebooks.org/",
+      "description": "Publisher founded in 1994 by Joel Beeke; reprints Puritan and Reformed works and publishes new titles, each reviewed by Beeke.",
+      "research_sources": [
+        "https://heritagebooks.org/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Reformation Heritage Books: website and public-record summary",
+        "organization": "Reformation Heritage Books",
+        "url": "https://heritagebooks.org/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     },
     {
       "id": "christian-focus",
-      "name": "Christian Focus",
+      "name": "Christian Focus Publications",
       "placeholder": false,
-      "verification": "listed",
-      "location": "[Placeholder — information to be added]",
-      "tradition": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "location": "Fearn, Scotland",
+      "tradition": "Reformed evangelical",
+      "doctrinal_posture": "Conservative evangelical",
+      "doctrinal_basis": "Evangelical, Reformed-leaning; children's list is widely used in Reformed families.",
+      "points_to_weigh": [
+        "Doctrinal statement is broadly evangelical rather than confessional; check individual titles."
+      ],
+      "website": "https://www.christianfocus.com/",
+      "description": "Publisher begun in the early 1970s; imprints include Christian Focus, CF4K (children), Christian Heritage and Mentor (academic).",
+      "research_sources": [
+        "https://www.christianfocus.com/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Christian Focus Publications: website and public-record summary",
+        "organization": "Christian Focus Publications",
+        "url": "https://www.christianfocus.com/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     },
@@ -81,18 +113,27 @@
       "id": "reformation-trust",
       "name": "Reformation Trust",
       "placeholder": false,
-      "verification": "listed",
-      "location": "[Placeholder — information to be added]",
-      "tradition": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "location": "Orlando, Florida",
+      "tradition": "Reformed",
+      "doctrinal_posture": "Reformed heritage",
+      "doctrinal_basis": "Ligonier affirms the Westminster Standards, Three Forms of Unity and 1689 Baptist Confession as consistent with its teaching.",
+      "points_to_weigh": [
+        "Ligonier is multi-denominational; authors include paedobaptists and credobaptists."
+      ],
+      "website": "https://www.ligonier.org/",
+      "description": "Publishing arm of Ligonier Ministries, publishing R. C. Sproul and others.",
+      "research_sources": [
+        "https://www.ligonier.org/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Reformation Trust: website and public-record summary",
+        "organization": "Reformation Trust",
+        "url": "https://www.ligonier.org/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     },
@@ -100,18 +141,25 @@
       "id": "westminster-seminary-press",
       "name": "Westminster Seminary Press",
       "placeholder": false,
-      "verification": "listed",
-      "location": "[Placeholder — information to be added]",
-      "tradition": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "location": "Glenside, Pennsylvania",
+      "tradition": "Presbyterian",
+      "doctrinal_posture": "Confessional Reformed",
+      "doctrinal_basis": "Publishes under Westminster Theological Seminary, which is confessionally Reformed.",
+      "points_to_weigh": [],
+      "website": "https://www.wts.edu/",
+      "description": "Publishing arm of Westminster Theological Seminary, established 2011.",
+      "research_sources": [
+        "https://www.wts.edu/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Westminster Seminary Press: website and public-record summary",
+        "organization": "Westminster Seminary Press",
+        "url": "https://www.wts.edu/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     },
@@ -119,18 +167,27 @@
       "id": "reformed-free-publishing-association",
       "name": "Reformed Free Publishing Association",
       "placeholder": false,
-      "verification": "listed",
-      "location": "[Placeholder — information to be added]",
-      "tradition": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "location": "Jenison, Michigan",
+      "tradition": "Protestant Reformed",
+      "doctrinal_posture": "Confessional Reformed",
+      "doctrinal_basis": "Publishes for the Protestant Reformed Churches.",
+      "points_to_weigh": [
+        "The Protestant Reformed Churches reject common grace and the well-meant offer of the gospel; other Reformed bodies dispute these positions. Read titles knowing this."
+      ],
+      "website": "https://www.rfpa.org/",
+      "description": "Publisher founded in 1924 and tied to the Protestant Reformed Churches.",
+      "research_sources": [
+        "https://www.rfpa.org/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Reformed Free Publishing Association: website and public-record summary",
+        "organization": "Reformed Free Publishing Association",
+        "url": "https://www.rfpa.org/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     },
@@ -138,18 +195,25 @@
       "id": "evangelical-press",
       "name": "Evangelical Press",
       "placeholder": false,
-      "verification": "listed",
-      "location": "[Placeholder — information to be added]",
-      "tradition": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "location": "United Kingdom",
+      "tradition": "Reformed evangelical",
+      "doctrinal_posture": "Conservative evangelical",
+      "doctrinal_basis": "Evangelical and Reformed, drawn from the Welwyn commentary tradition.",
+      "points_to_weigh": [],
+      "website": "https://www.epbooks.org/",
+      "description": "UK publisher of Reformed and evangelical books, known for the Welwyn Commentary series; 10Publishing acquired rights in 2022.",
+      "research_sources": [
+        "https://www.epbooks.org/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Evangelical Press: website and public-record summary",
+        "organization": "Evangelical Press",
+        "url": "https://www.epbooks.org/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     },
@@ -157,18 +221,27 @@
       "id": "founders-press",
       "name": "Founders Press",
       "placeholder": false,
-      "verification": "listed",
-      "location": "[Placeholder — information to be added]",
-      "tradition": "[Placeholder — information to be added]",
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "location": "Cape Coral, Florida",
+      "tradition": "Reformed Baptist",
+      "doctrinal_posture": "Conservative evangelical",
+      "doctrinal_basis": "Reformed Baptist, within the Southern Baptist Convention.",
+      "points_to_weigh": [
+        "Baptist, not paedobaptist; on baptism and church polity it differs from Presbyterian publishers."
+      ],
+      "website": "https://press.founders.org/",
+      "description": "Press of Founders Ministries (founded 1982, press since 1983), promoting Reformed theology among Southern Baptists.",
+      "research_sources": [
+        "https://press.founders.org/"
+      ],
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Founders Press: website and public-record summary",
+        "organization": "Founders Press",
+        "url": "https://press.founders.org/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
       "tags": []
     }
