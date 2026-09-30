@@ -47,8 +47,17 @@ for f in sorted(DATA.glob("*.json")):
     d = json.load(open(f))
     for e in d.get("entries", []):
         w = f"{f.name}:{e.get('id')}"
-        check_source(w, e.get("source"), need_edition=(f.name == "catechisms.json" and any(not q.get("placeholder") for q in catechism_questions(e))))
+        check_source(w, e.get("source"), need_edition=(f.name == "catechisms.json" and e.get("structure") != "chapters" and any(not q.get("placeholder") for q in catechism_questions(e))))
         if f.name == "catechisms.json":
+            if e.get("structure") == "chapters":
+                chs = json.load(open(DATA / e["file"])).get("chapters", [])
+                if e.get("count") != len(chs): errors.append(f"{w}: count {e.get('count')} does not match {len(chs)} chapters")
+                for c in chs:
+                    for sec in c["sections"]:
+                        keys = {p["key"] for p in sec["proofs"]}
+                        marks = set(re.findall(r"\{([a-z]{1,2})\}", sec["text"]))
+                        if keys != marks: errors.append(f"{w}: {c['numeral']}.{sec['n']} footnote markers {sorted(marks)} != proofs {sorted(keys)}")
+                continue
             qs_ = catechism_questions(e)
             if e.get("count", len(qs_)) != len(qs_): errors.append(f"{w}: count {e.get('count')} does not match {len(qs_)} questions in its file")
             for q_ in qs_:

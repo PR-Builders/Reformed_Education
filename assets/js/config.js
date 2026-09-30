@@ -20,7 +20,7 @@
   ];
 
   RE.config = {
-    version: "202609300202",   // stamped by tools/bump_version.py; appended to data requests to avoid stale caches
+    version: "202609300207",   // stamped by tools/bump_version.py; appended to data requests to avoid stale caches
     siteName: "Reformed Education",
     tagline: "Reformed education and resources, in one place.",
     latinTagline: "Quaere et Disce",
@@ -247,6 +247,7 @@
     /* URL of the page that shows one entry. */
     urlFor(type, entry) {
       const c = RE.config.collections[type];
+      if (type === "catechisms" && entry.structure === "chapters") return `confession.html?id=${encodeURIComponent(entry.id)}`;
       if (c && c.detailPage) return `${c.detailPage}?id=${encodeURIComponent(entry.id)}`;
       return `entry.html?type=${encodeURIComponent(type)}&id=${encodeURIComponent(entry.id)}`;
     },

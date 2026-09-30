@@ -80,23 +80,27 @@
       "group": "Presbyterian / Reformed",
       "kind": "Confession",
       "placeholder": false,
-      "verification": "listed",
-      "status": "planned",
-      "description": "Planned. Text not yet added.",
+      "verification": "researched",
+      "status": "ready",
+      "description": "The Westminster Confession of Faith: 33 chapters, 172 numbered sections, each with its Scripture references.",
       "tags": [],
       "source": {
-        "title": "Westminster Confession of Faith",
+        "title": "The Westminster Confession of Faith",
         "copyright_status": "public-domain",
         "copyright": "Public domain.",
         "license": "Public domain",
-        "translation": "King James Version (Scripture proofs)",
-        "notes": "Public domain. Text to be added. Until the text is added here, a reading copy is linked from reformed.org's historic-documents index (not verified against this site).",
-        "url": "https://reformed.org/historic-confessions/1647westminsterconfession/"
+        "translation": "Scripture proofs given as references only",
+        "notes": "Public domain. Text transcribed from the unrevised (pre-1788) Westminster Confession as published by apuritansmind.com, which reformed.org's historic-documents index links to. Compared with the Orthodox Presbyterian Church's text (the American revision): the two agree except where the 1788 revision changed the chapters on the civil magistrate, marriage, church synods and the head of the church, and in scattered single-word variants (for example V.5, VII.3, XIII.2 and XVI.3). It has not yet been proofread against a standard printed edition.",
+        "url": "https://www.apuritansmind.com/westminster-standards/",
+        "date": "First published 1646–1647"
       },
-      "count": 0,
+      "count": 33,
       "research_sources": [
         "https://reformed.org/historic-confessions/"
-      ]
+      ],
+      "structure": "chapters",
+      "file": "catechisms/wcf.json",
+      "coverage_note": "Scripture references are shown as citations; the text of each passage is not yet included."
     },
     {
       "id": "heidelberg",

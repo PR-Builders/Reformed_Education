@@ -37,7 +37,7 @@
   function textOf(entry) {
     const parts = [];
     (function walk(v, key) {
-      if (v == null || key === "id" || /url|website|^source$|verification|listing_note|questions|front_matter/i.test(key || "")) return;
+      if (v == null || key === "id" || /url|website|^source$|verification|listing_note|questions|front_matter|chapters/i.test(key || "")) return;
       if (typeof v === "string") { if (!isPH(v)) parts.push(v); }
       else if (Array.isArray(v)) v.forEach((x) => walk(x, key));
       else if (typeof v === "object") Object.keys(v).forEach((k) => walk(v[k], k));
@@ -62,6 +62,14 @@
         docs.push({ type: "catechisms", kind: "Catechism question", group, order: q.n, id: `${cat.id}-${q.n}`,
           title: `${cat.short || cat.name} ${q.n}. ${q.question}`, url: `question.html?id=${encodeURIComponent(cat.id)}&q=${q.n}`,
           placeholder: !!q.placeholder, fields });
+      });
+      (cat.chapters || []).forEach((c) => {
+        c.sections.forEach((sec) => {
+          const fields = [{ label: `${cat.short} ${c.numeral}.${sec.n}`, text: sec.text.replace(/\{[a-z]{1,2}\}/g, ""), weight: 2 }];
+          sec.proofs.forEach((p) => fields.push({ label: "Scripture reference", text: p.ref, weight: 1 }));
+          docs.push({ type: "catechisms", kind: "Confession section", group, order: c.n * 100 + sec.n, id: `${cat.id}-${c.n}-${sec.n}`,
+            title: `${cat.short} ${c.numeral}.${sec.n} — ${c.title}`, url: `confession.html?id=${encodeURIComponent(cat.id)}&ch=${c.n}&sec=${sec.n}`, fields });
+        });
       });
       (cat.front_matter || []).forEach((f, fi) => {
         (f.blocks || []).forEach((b, bi) => {

@@ -115,3 +115,7 @@ No page, component or stylesheet needs to change.
 ## Not included (by design)
 
 No custom domain, accounts, authentication, analytics, advertising or external services.
+
+## Confessions (chapter-and-section documents)
+
+Documents that are not question-and-answer (currently the Westminster Confession) use `"structure": "chapters"` in `data/catechisms.json` and a file `data/catechisms/<id>.json` shaped `{ "chapters": [{ n, numeral, title, sections: [{ n, text, proofs: [{ key, ref }] }] }] }`. Footnote letters appear in the text as `{a}` and must match the `proofs` keys (checked by `tools/validate_data.py`). They are read at `confession.html?id=<id>` and are included in site search.
