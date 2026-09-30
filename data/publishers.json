@@ -27,7 +27,12 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "theology/systematic-theology",
+        "church-history",
+        "books"
+      ]
     },
     {
       "id": "presbyterian-reformed-publishing",
@@ -53,7 +58,11 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "theology/systematic-theology",
+        "books"
+      ]
     },
     {
       "id": "reformation-heritage-books",
@@ -79,7 +88,12 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "theology/systematic-theology",
+        "church-history",
+        "books"
+      ]
     },
     {
       "id": "christian-focus",
@@ -107,7 +121,12 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "theology/systematic-theology",
+        "christian-living/family-and-children",
+        "books"
+      ]
     },
     {
       "id": "reformation-trust",
@@ -135,7 +154,11 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "theology/systematic-theology",
+        "books"
+      ]
     },
     {
       "id": "westminster-seminary-press",
@@ -161,7 +184,11 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "theology/systematic-theology",
+        "books"
+      ]
     },
     {
       "id": "reformed-free-publishing-association",
@@ -189,7 +216,11 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "theology/systematic-theology",
+        "books"
+      ]
     },
     {
       "id": "evangelical-press",
@@ -215,7 +246,11 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "theology/biblical-theology",
+        "books"
+      ]
     },
     {
       "id": "founders-press",
@@ -243,7 +278,11 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "theology/systematic-theology",
+        "books"
+      ]
     }
   ]
 }

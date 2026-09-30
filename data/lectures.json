@@ -131,7 +131,11 @@
         "date": "[Placeholder — information to be added]",
         "license": "[Placeholder — information to be added]"
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "theology/systematic-theology",
+        "church-history"
+      ]
     },
     {
       "id": "puritan-reformed-seminary",
@@ -264,7 +268,11 @@
         "date": "[Placeholder — information to be added]",
         "license": "[Placeholder — information to be added]"
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "theology/biblical-theology",
+        "church-life/worship"
+      ]
     }
   ]
 }

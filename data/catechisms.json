@@ -22,7 +22,10 @@
         "notes": "The catechism text and its KJV Scripture proofs are in the public domain. Text supplied by reformededucation.org."
       },
       "count": 107,
-      "file": "catechisms/wsc.json"
+      "file": "catechisms/wsc.json",
+      "topic_ids": [
+        "theology/confessions-and-catechisms"
+      ]
     },
     {
       "id": "wlc",
@@ -45,7 +48,10 @@
       "coverage_note": "This text was transcribed from supplied copies and has not yet been proofread against a standard edition. Questions 1–114 were also compared with a second, differently edited copy, and a few wording conflicts were settled in its favour. Questions 115–196 rest on one text.",
       "placeholder": false,
       "count": 196,
-      "file": "catechisms/wlc.json"
+      "file": "catechisms/wlc.json",
+      "topic_ids": [
+        "theology/confessions-and-catechisms"
+      ]
     },
     {
       "id": "fishers",
@@ -71,7 +77,10 @@
         "license": "Public domain",
         "notes": "The text is in the public domain. Text supplied by reformededucation.org. Scripture is quoted within the answers."
       },
-      "has_front_matter": true
+      "has_front_matter": true,
+      "topic_ids": [
+        "theology/confessions-and-catechisms"
+      ]
     },
     {
       "id": "wcf",
@@ -100,7 +109,10 @@
       ],
       "structure": "chapters",
       "file": "catechisms/wcf.json",
-      "coverage_note": "Scripture proofs show the King James text. A few whole-chapter references are given without text."
+      "coverage_note": "Scripture proofs show the King James text. A few whole-chapter references are given without text.",
+      "topic_ids": [
+        "theology/confessions-and-catechisms"
+      ]
     },
     {
       "id": "heidelberg",
@@ -129,7 +141,10 @@
         "https://www.heidelberg-catechism.com/pdf/lords-days/Heidelberg-Catechism.pdf"
       ],
       "file": "catechisms/heidelberg.json",
-      "coverage_note": "Scripture proofs show the King James text. A few whole-chapter references are given without text."
+      "coverage_note": "Scripture proofs show the King James text. A few whole-chapter references are given without text.",
+      "topic_ids": [
+        "theology/confessions-and-catechisms"
+      ]
     },
     {
       "id": "belgic",
@@ -160,7 +175,10 @@
       "structure": "chapters",
       "unit": "article",
       "file": "catechisms/belgic.json",
-      "coverage_note": "This is the older English translation from the 1793 Constitution of the Reformed Dutch Church in North America. Later translations (for example the Christian Reformed Church's 1985 version) are in modern English and are copyrighted, so they are not used here. Scripture references appear in the text as the translation gives them."
+      "coverage_note": "This is the older English translation from the 1793 Constitution of the Reformed Dutch Church in North America. Later translations (for example the Christian Reformed Church's 1985 version) are in modern English and are copyrighted, so they are not used here. Scripture references appear in the text as the translation gives them.",
+      "topic_ids": [
+        "theology/confessions-and-catechisms"
+      ]
     },
     {
       "id": "dort",
@@ -191,7 +209,10 @@
       "structure": "chapters",
       "unit": "head",
       "file": "catechisms/dort.json",
-      "coverage_note": "This is the 1840 English printing in the Reformed Dutch Church's constitution. It gives the articles and the conclusion; the ‘Rejection of Errors’ sections found in some translations are not in this printing. The signatories’ list is left out. Modern translations, such as the Christian Reformed Church’s 2011 version, are copyrighted and are not used."
+      "coverage_note": "This is the 1840 English printing in the Reformed Dutch Church's constitution. It gives the articles and the conclusion; the ‘Rejection of Errors’ sections found in some translations are not in this printing. The signatories’ list is left out. Modern translations, such as the Christian Reformed Church’s 2011 version, are copyrighted and are not used.",
+      "topic_ids": [
+        "theology/confessions-and-catechisms"
+      ]
     },
     {
       "id": "helvetic2",
@@ -222,7 +243,10 @@
       "structure": "chapters",
       "unit": "chapter",
       "file": "catechisms/helvetic2.json",
-      "coverage_note": "This is Philip Schaff’s English version. Paragraphs are shown as the translation gives them; they are not numbered in the original, and Scripture references appear inside the text."
+      "coverage_note": "This is Philip Schaff’s English version. Paragraphs are shown as the translation gives them; they are not numbered in the original, and Scripture references appear inside the text.",
+      "topic_ids": [
+        "theology/confessions-and-catechisms"
+      ]
     },
     {
       "id": "lbcf1689",
@@ -253,7 +277,10 @@
       "structure": "chapters",
       "unit": "chapter",
       "file": "catechisms/lbcf1689.json",
-      "coverage_note": "Spelling is modernized in the text used here. The 1677 preface, the closing statement and the list of signatories are not included. Scripture proofs show the King James text and follow each section as the source groups them; a few references are given without text."
+      "coverage_note": "Spelling is modernized in the text used here. The 1677 preface, the closing statement and the list of signatories are not included. Scripture proofs show the King James text and follow each section as the source groups them; a few references are given without text.",
+      "topic_ids": [
+        "theology/confessions-and-catechisms"
+      ]
     },
     {
       "id": "baptist-catechism",
@@ -282,6 +309,9 @@
       "research_sources": [
         "https://baptistcatechism.org/",
         "https://www.reformedreader.org/ccc/keachcat.htm"
+      ],
+      "topic_ids": [
+        "theology/confessions-and-catechisms"
       ]
     },
     {
@@ -311,7 +341,10 @@
       "structure": "chapters",
       "unit": "creed",
       "file": "catechisms/apostles.json",
-      "coverage_note": "Read online. The creeds are given in English only."
+      "coverage_note": "Read online. The creeds are given in English only.",
+      "topic_ids": [
+        "theology/confessions-and-catechisms"
+      ]
     },
     {
       "id": "nicene",
@@ -340,7 +373,10 @@
       "structure": "chapters",
       "unit": "creed",
       "file": "catechisms/nicene.json",
-      "coverage_note": "Read online. The creeds are given in English only."
+      "coverage_note": "Read online. The creeds are given in English only.",
+      "topic_ids": [
+        "theology/confessions-and-catechisms"
+      ]
     },
     {
       "id": "athanasian",
@@ -369,7 +405,10 @@
       "structure": "chapters",
       "unit": "creed",
       "file": "catechisms/athanasian.json",
-      "coverage_note": "Read online. The creeds are given in English only."
+      "coverage_note": "Read online. The creeds are given in English only.",
+      "topic_ids": [
+        "theology/confessions-and-catechisms"
+      ]
     },
     {
       "id": "chalcedon",
@@ -398,7 +437,10 @@
       "structure": "chapters",
       "unit": "creed",
       "file": "catechisms/chalcedon.json",
-      "coverage_note": "Read online. The creeds are given in English only."
+      "coverage_note": "Read online. The creeds are given in English only.",
+      "topic_ids": [
+        "theology/confessions-and-catechisms"
+      ]
     }
   ]
 }

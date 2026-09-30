@@ -25,7 +25,10 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "christian-living/family-and-children"
+      ]
     },
     {
       "id": "new-growth-press",
@@ -45,7 +48,11 @@
         "date": "[Placeholder — information to be added]",
         "license": "[Placeholder — information to be added]"
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "christian-living/family-and-children",
+        "books"
+      ]
     },
     {
       "id": "reformed-family-books",
@@ -66,7 +73,11 @@
         "date": "[Placeholder — information to be added]",
         "license": "[Placeholder — information to be added]"
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "christian-living/family-and-children",
+        "books"
+      ]
     },
     {
       "id": "reformed-heritage-books",
@@ -87,7 +98,11 @@
         "date": "[Placeholder — information to be added]",
         "license": "[Placeholder — information to be added]"
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "christian-living/family-and-children",
+        "books"
+      ]
     },
     {
       "id": "opc-children-s-resources",
@@ -113,7 +128,11 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "christian-living/family-and-children",
+        "theology/confessions-and-catechisms"
+      ]
     },
     {
       "id": "pca-christian-education-resources",
@@ -133,7 +152,10 @@
         "date": "[Placeholder — information to be added]",
         "license": "[Placeholder — information to be added]"
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "christian-living/family-and-children"
+      ]
     },
     {
       "id": "presbyterian-catechism-resources",
@@ -154,7 +176,11 @@
         "license": "[Placeholder — information to be added]"
       },
       "tags": [],
-      "listing_note": "A category of resources rather than a single organization; entries to be researched and added individually."
+      "listing_note": "A category of resources rather than a single organization; entries to be researched and added individually.",
+      "topic_ids": [
+        "theology/confessions-and-catechisms",
+        "christian-living/family-and-children"
+      ]
     },
     {
       "id": "family-worship-resources",
@@ -175,7 +201,11 @@
         "license": "[Placeholder — information to be added]"
       },
       "tags": [],
-      "listing_note": "A category of resources rather than a single organization; entries to be researched and added individually."
+      "listing_note": "A category of resources rather than a single organization; entries to be researched and added individually.",
+      "topic_ids": [
+        "christian-living/daily-devotions",
+        "christian-living/family-and-children"
+      ]
     },
     {
       "id": "children-s-catechism-resources",
@@ -196,7 +226,11 @@
         "license": "[Placeholder — information to be added]"
       },
       "tags": [],
-      "listing_note": "A category of resources rather than a single organization; entries to be researched and added individually."
+      "listing_note": "A category of resources rather than a single organization; entries to be researched and added individually.",
+      "topic_ids": [
+        "theology/confessions-and-catechisms",
+        "christian-living/family-and-children"
+      ]
     },
     {
       "id": "reformed-homeschool-curricula",
@@ -217,7 +251,11 @@
         "license": "[Placeholder — information to be added]"
       },
       "tags": [],
-      "listing_note": "A category of resources rather than a single organization; entries to be researched and added individually."
+      "listing_note": "A category of resources rather than a single organization; entries to be researched and added individually.",
+      "topic_ids": [
+        "christian-living/family-and-children",
+        "education"
+      ]
     },
     {
       "id": "new-city-catechism",
@@ -246,7 +284,11 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "christian-living/family-and-children",
+        "theology/confessions-and-catechisms"
+      ]
     },
     {
       "id": "covenant-home-curriculum",
@@ -270,7 +312,11 @@
         "copyright_status": "retained",
         "notes": "Listed on reformed.org's directory; we have not yet checked the provider's own doctrinal statement."
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "christian-living/family-and-children",
+        "education"
+      ]
     },
     {
       "id": "puritans-home-school-curriculum",
@@ -294,7 +340,11 @@
         "copyright_status": "retained",
         "notes": "Listed on reformed.org's directory; we have not yet checked the provider's own doctrinal statement."
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "christian-living/family-and-children",
+        "education"
+      ]
     },
     {
       "id": "enlightium-academy",
@@ -318,7 +368,11 @@
         "copyright_status": "retained",
         "notes": "Listed on reformed.org's directory; we have not yet checked the provider's own doctrinal statement."
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "christian-living/family-and-children",
+        "education"
+      ]
     }
   ]
 }

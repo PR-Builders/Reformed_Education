@@ -20,7 +20,11 @@
         "date": "[Placeholder — information to be added]",
         "license": "[Placeholder — information to be added]"
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "theology/systematic-theology",
+        "theology/apologetics"
+      ]
     },
     {
       "id": "ligonier-ministries",
@@ -41,7 +45,11 @@
         "date": "[Placeholder — information to be added]",
         "license": "[Placeholder — information to be added]"
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "theology/systematic-theology",
+        "church-history"
+      ]
     },
     {
       "id": "monergism",
@@ -68,7 +76,11 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "theology/systematic-theology",
+        "books"
+      ]
     },
     {
       "id": "great-commission-publications",
@@ -93,7 +105,10 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "christian-living/family-and-children"
+      ]
     },
     {
       "id": "opc-committee-on-christian-education",
@@ -118,7 +133,11 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "church-life/government-and-offices",
+        "christian-living/family-and-children"
+      ]
     }
   ]
 }

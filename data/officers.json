@@ -20,7 +20,11 @@
         "date": "[Placeholder — information to be added]",
         "license": "[Placeholder — information to be added]"
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "theology/confessions-and-catechisms",
+        "church-life/government-and-offices"
+      ]
     },
     {
       "id": "elder-opc-elder-training",
@@ -47,7 +51,11 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "church-life/government-and-offices",
+        "church-life/presbyterianism"
+      ]
     },
     {
       "id": "elder-pca-officer-training",
@@ -75,7 +83,11 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "church-life/government-and-offices",
+        "church-life/presbyterianism"
+      ]
     },
     {
       "id": "elder-rpcna-officer-resources",
@@ -96,7 +108,11 @@
         "date": "[Placeholder — information to be added]",
         "license": "[Placeholder — information to be added]"
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "church-life/government-and-offices",
+        "church-life/presbyterianism"
+      ]
     },
     {
       "id": "elder-arp-resources",
@@ -117,7 +133,11 @@
         "date": "[Placeholder — information to be added]",
         "license": "[Placeholder — information to be added]"
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "church-life/government-and-offices",
+        "church-life/presbyterianism"
+      ]
     },
     {
       "id": "elder-presbyterian-polity",
@@ -138,7 +158,11 @@
         "date": "[Placeholder — information to be added]",
         "license": "[Placeholder — information to be added]"
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "church-life/government-and-offices",
+        "church-life/presbyterianism"
+      ]
     },
     {
       "id": "elder-shepherding",
@@ -159,7 +183,10 @@
         "date": "[Placeholder — information to be added]",
         "license": "[Placeholder — information to be added]"
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "church-life/pastoral-theology"
+      ]
     },
     {
       "id": "elder-pastoral-visitation",
@@ -180,7 +207,10 @@
         "date": "[Placeholder — information to be added]",
         "license": "[Placeholder — information to be added]"
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "church-life/pastoral-theology"
+      ]
     },
     {
       "id": "deacon-diaconal-ministry",
@@ -207,7 +237,10 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "church-life/government-and-offices"
+      ]
     },
     {
       "id": "deacon-mercy-ministry",
@@ -228,7 +261,10 @@
         "date": "[Placeholder — information to be added]",
         "license": "[Placeholder — information to be added]"
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "church-life/government-and-offices"
+      ]
     },
     {
       "id": "deacon-stewardship",
@@ -249,7 +285,10 @@
         "date": "[Placeholder — information to be added]",
         "license": "[Placeholder — information to be added]"
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "church-life/government-and-offices"
+      ]
     },
     {
       "id": "deacon-church-administration",
@@ -270,7 +309,10 @@
         "date": "[Placeholder — information to be added]",
         "license": "[Placeholder — information to be added]"
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "church-life/government-and-offices"
+      ]
     },
     {
       "id": "pastor-seminary-education",
@@ -297,7 +339,11 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "church-life/government-and-offices",
+        "church-life/pastoral-theology"
+      ]
     },
     {
       "id": "pastor-presbytery-requirements",
@@ -318,7 +364,10 @@
         "date": "[Placeholder — information to be added]",
         "license": "[Placeholder — information to be added]"
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "church-life/government-and-offices"
+      ]
     },
     {
       "id": "pastor-homiletics",
@@ -339,7 +388,10 @@
         "date": "[Placeholder — information to be added]",
         "license": "[Placeholder — information to be added]"
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "church-life/preaching"
+      ]
     },
     {
       "id": "pastor-pastoral-theology",
@@ -360,7 +412,10 @@
         "date": "[Placeholder — information to be added]",
         "license": "[Placeholder — information to be added]"
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "church-life/pastoral-theology"
+      ]
     },
     {
       "id": "pastor-church-polity",
@@ -381,7 +436,11 @@
         "date": "[Placeholder — information to be added]",
         "license": "[Placeholder — information to be added]"
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "church-life/government-and-offices",
+        "church-life/presbyterianism"
+      ]
     },
     {
       "id": "pastor-sacraments",
@@ -402,7 +461,10 @@
         "date": "[Placeholder — information to be added]",
         "license": "[Placeholder — information to be added]"
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "church-life/worship"
+      ]
     },
     {
       "id": "pastor-counseling",
@@ -423,7 +485,10 @@
         "date": "[Placeholder — information to be added]",
         "license": "[Placeholder — information to be added]"
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "biblical-counseling"
+      ]
     }
   ]
 }

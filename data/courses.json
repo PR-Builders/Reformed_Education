@@ -27,7 +27,11 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "theology/systematic-theology",
+        "theology/apologetics"
+      ]
     },
     {
       "id": "ligonier-ministries",
@@ -56,7 +60,11 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "theology/systematic-theology",
+        "church-history"
+      ]
     },
     {
       "id": "rts-online",
@@ -85,7 +93,12 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "theology/systematic-theology",
+        "theology/biblical-theology",
+        "church-life/pastoral-theology"
+      ]
     },
     {
       "id": "westminster-seminary-online-programs",
@@ -115,7 +128,13 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "theology/systematic-theology",
+        "theology/biblical-theology",
+        "biblical-counseling",
+        "church-life/pastoral-theology"
+      ]
     },
     {
       "id": "westminster-seminary-california-online-courses",
@@ -145,7 +164,10 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "theology/systematic-theology"
+      ]
     },
     {
       "id": "puritan-reformed-seminary",
@@ -175,7 +197,11 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "theology/systematic-theology",
+        "church-history"
+      ]
     },
     {
       "id": "covenant-seminary-online-resources",
@@ -205,7 +231,11 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "theology/biblical-theology",
+        "theology/systematic-theology"
+      ]
     },
     {
       "id": "reformed-presbyterian-seminary-resources",
@@ -235,7 +265,11 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "theology/systematic-theology",
+        "church-life/presbyterianism"
+      ]
     },
     {
       "id": "the-davenant-institute",
@@ -265,7 +299,12 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "church-history",
+        "theology/ethics",
+        "theology/systematic-theology"
+      ]
     },
     {
       "id": "theopolis-institute",
@@ -298,7 +337,12 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "theology/biblical-theology",
+        "church-life/worship",
+        "politics-and-culture/current-events"
+      ]
     }
   ]
 }

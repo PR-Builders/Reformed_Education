@@ -124,6 +124,10 @@
         {
           "id": "pastoral-theology",
           "name": "Pastoral Theology"
+        },
+        {
+          "id": "government-and-offices",
+          "name": "Church Government and Offices"
         }
       ]
     },
@@ -138,6 +142,17 @@
       "name": "Work and Business",
       "blurb": "Vocation, work and business from a Christian point of view.",
       "children": []
+    },
+    {
+      "id": "education",
+      "name": "Christian Education and Schooling",
+      "blurb": "Schools, curricula and approaches to educating children in the Christian faith.",
+      "children": [
+        {
+          "id": "classical-education",
+          "name": "Classical Christian Education"
+        }
+      ]
     }
   ],
   "labels": {
