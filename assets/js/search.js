@@ -60,7 +60,7 @@
         });
         if (q.topic && !isPH(q.topic)) fields.push({ label: "Topic", text: q.topic, weight: 1 });
         docs.push({ type: "catechisms", kind: "Catechism question", group, order: q.n, id: `${cat.id}-${q.n}`,
-          title: `${cat.short || cat.name} ${q.n}. ${q.question}`, url: `question.html?id=${encodeURIComponent(cat.id)}&q=${q.n}`,
+          title: `${cat.short || cat.name} ${q.n}. ${q.question}`, url: RE.config.urls.item(cat.id, q.n),
           placeholder: !!q.placeholder, fields });
       });
       (cat.chapters || []).forEach((c) => {

@@ -12,7 +12,7 @@ RE.pages.confession = function () {
     const lab = (c) => (/^[IVXL–]+$/.test(c.numeral) ? `${U} ${c.numeral}` : c.numeral);
     const cn = parseInt(param("ch"), 10), hl = parseInt(param("sec"), 10);
     const ch = chs.find((c) => c.n === cn);
-    const url = (n) => `confession.html?id=${encodeURIComponent(doc.id)}&ch=${n}`;
+    const url = (n) => RE.config.urls.item(doc.id, n);
     const crumbs = [{ label: "Home", href: "index.html" }, { label: "Catechisms", href: "catechisms.html" }];
     const cite = `<div style="margin-top:48px;max-width:640px">${RE.ui.citation(doc.source, { heading: "Edition & Source" })}</div>`;
     const note = doc.coverage_note ? `<div class="notice"><strong>Note.</strong> ${esc(doc.coverage_note)}</div>` : "";
@@ -27,14 +27,14 @@ RE.pages.confession = function () {
     }
     document.title = `${doc.short} ${ch.numeral} — Reformed Education`;
     const body = (sec) => esc(sec.text).replace(/\{([a-z]{1,2})\}/g, (m, k) => `<sup class="fn"><a href="#p${sec.n}${k}">${k}</a></sup>`);
-    root.innerHTML = `${RE.ui.breadcrumb(crumbs.concat([{ label: doc.short, href: `confession.html?id=${doc.id}` }, { label: lab(ch) }]))}
+    root.innerHTML = `${RE.ui.breadcrumb(crumbs.concat([{ label: doc.short, href: RE.config.urls.catechism(doc.id) }, { label: lab(ch) }]))}
       <p class="label">${esc(doc.name)} · ${esc(lab(ch))}</p><h1>${esc(ch.title)}</h1>${note}
       ${ch.sections.map((s) => `<section class="sec${s.n === hl ? " is-target" : ""}" id="s${s.n}">
         <p class="prose" style="font-size:1.12rem;white-space:pre-line">${art || s.label === "" ? "" : `<span class="sec-num">${esc(ch.numeral)}.${s.n}</span>`}${body(s)}</p>
         ${s.proofs.length ? `<ul class="proofs">${s.proofs.map((p) => `<li${p.key ? ` id="p${s.n}${esc(p.key)}"` : ""}><strong>${p.key ? esc(p.key) + ". " : ""}${esc(p.ref)}</strong>${p.text ? " " + esc(p.text) : ""}</li>`).join("")}</ul>` : ""}</section>`).join("")}
       <div class="tool-controls">
         ${chs.some((c) => c.n === ch.n - 1) ? `<a class="btn" href="${url(ch.n - 1)}">← ${esc(lab(chs[ch.n - 2]))}</a>` : ""}
-        <a class="btn" href="confession.html?id=${esc(doc.id)}">All ${art ? "articles" : "chapters"}</a>
+        <a class="btn" href="${esc(RE.config.urls.catechism(doc.id))}">All ${art ? "articles" : "chapters"}</a>
         ${chs.some((c) => c.n === ch.n + 1) ? `<a class="btn btn-primary" href="${url(ch.n + 1)}">${esc(lab(chs[ch.n]))} →</a>` : ""}</div>${cite}`;
     if (hl) { const el = document.getElementById("s" + hl); if (el) el.scrollIntoView(); }
   });

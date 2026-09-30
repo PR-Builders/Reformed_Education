@@ -9,7 +9,7 @@ A directory and resource hub for Reformed Christian education: seminaries, colle
 
 ## Architecture
 
-Static HTML, CSS and vanilla JavaScript. No backend, database, accounts, build step, analytics or framework.
+Static HTML, CSS and vanilla JavaScript. No backend, database, accounts, analytics or framework. One optional build step (`tools/build_seo.py`, below) pre-renders pages for search engines; its output is committed, so GitHub Pages serves the site as is.
 
 ```
 index.html, browse.html, about.html, search.html
@@ -139,3 +139,25 @@ A topic can list up to three **Start here** picks with `start_here` in `data/top
 ## Articles
 
 Original articles live in `data/articles.json` (`sections` with `paragraphs`, `points` or a `table`), are listed at `articles.html` and read at `article.html?id=...`. They are searchable and can be tagged into topics with `topic_ids` like any other entry.
+
+
+## SEO and pre-rendered pages
+
+The site renders in the browser from JSON, which search engines and link previews handle poorly. `tools/build_seo.py` fixes that without changing how the site works:
+
+```
+python3 tools/build_seo.py           # regenerate after any content change
+python3 tools/build_seo.py --bump    # also re-stamp script/style versions (when JS or CSS changed)
+python3 tools/build_seo.py --check   # verify nothing is missing (validate_data.py runs this too)
+```
+
+It needs Node with Playwright installed globally and Chromium (`npm i -g playwright`; set `CHROMIUM=/path/to/chromium` if it is not at `/opt/pw-browsers/chromium`). It starts a local server, lets the site's own JavaScript render each page, and saves the result. It writes:
+
+- a crawlable page at a clean URL for every entry (`resources/<id>/`, `schools/<id>/`, `articles/<id>/` …), topic (`topics/<path>/`), catechism (`catechisms/<id>/`), catechism question and confession chapter (`catechisms/<id>/<n>/`). Fisher's Catechism (about 3,800 questions) gets its document page only.
+- a unique `<title>`, description, canonical URL, Open Graph and Twitter tags, and JSON-LD (WebSite, Organization, BreadcrumbList, plus Article, Book, Church, CollegeOrUniversity, PodcastSeries or Question as fits) on every page
+- `sitemap.xml`, `sitemap.html`, `robots.txt`, `llms.txt`, `feed.xml` (Atom feed of articles), `404.html` and `assets/img/og-default.png`
+- head tags on the hand-written pages (between `<!-- seo:start -->` and `<!-- seo:end -->`; do not edit inside those markers)
+
+Placeholder and name-only entries are marked `noindex` and left out of the sitemap, so thin pages do not dilute the site. The old query-string pages (`entry.html?type=…`) still work but are `noindex`.
+
+The canonical address is `siteUrl` in `assets/js/config.js` (currently the GitHub Pages address). When a custom domain is connected, change it and re-run the build. Note that search engines read `robots.txt` only at the root of a domain, so on a project address (`…github.io/<repo>/`) it is ignored; submit `sitemap.xml` in Google Search Console and Bing Webmaster Tools instead.

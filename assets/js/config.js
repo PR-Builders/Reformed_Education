@@ -20,8 +20,9 @@
   ];
 
   RE.config = {
-    version: "202609301731",   // stamped by tools/bump_version.py; appended to data requests to avoid stale caches
+    version: "202609301739",   // stamped by tools/bump_version.py; appended to data requests to avoid stale caches
     siteName: "Reformed Education",
+    siteUrl: "https://pr-builders.github.io/Reformed_Education/",   // canonical address; tools/build_seo.py reads it. Change it when a custom domain is connected.
     tagline: "Reformed education and resources, in one place.",
     latinTagline: "Quaere et Disce",
     latinTranslation: "Seek and learn",
@@ -327,12 +328,29 @@
       unknown: "Status to be confirmed",
     },
 
-    /* URL of the page that shows one entry. */
-    urlFor(type, entry) {
-      const c = RE.config.collections[type];
-      if (type === "catechisms" && entry.structure === "chapters") return `confession.html?id=${encodeURIComponent(entry.id)}`;
-      if (c && c.detailPage) return `${c.detailPage}?id=${encodeURIComponent(entry.id)}`;
-      return `entry.html?type=${encodeURIComponent(type)}&id=${encodeURIComponent(entry.id)}`;
+    /* Clean, crawlable URLs. Each has a pre-rendered page made by tools/build_seo.py; the old query-string pages still work. */
+    urls: {
+      entry: (type, id) => `${type === "catechisms" ? "catechisms" : type}/${encodeURIComponent(id)}/`,
+      topic: (path) => `topics/${String(path).split("/").map(encodeURIComponent).join("/")}/`,
+      catechism: (id) => `catechisms/${encodeURIComponent(id)}/`,
+      item: (id, n) => `catechisms/${encodeURIComponent(id)}/${encodeURIComponent(n)}/`, /* a question or a chapter */
     },
+
+    /* Turn a legacy query-string link (as kept in data files) into its clean URL; anything else is returned unchanged. */
+    cleanHref(h) {
+      const m = /^(entry|article|question|confession|catechism|topics)\.html\?(.*)$/.exec(h || "");
+      if (!m) return h;
+      const q = new URLSearchParams(m[2]), u = RE.config.urls;
+      if (m[1] === "entry" && q.get("type") && q.get("id")) return u.entry(q.get("type"), q.get("id"));
+      if (m[1] === "article" && q.get("id")) return u.entry("articles", q.get("id"));
+      if (m[1] === "question" && q.get("id") && q.get("q")) return u.item(q.get("id"), q.get("q"));
+      if (m[1] === "confession" && q.get("id")) return q.get("ch") ? u.item(q.get("id"), q.get("ch")) : u.catechism(q.get("id"));
+      if (m[1] === "catechism" && q.get("id") && !q.get("mode")) return u.catechism(q.get("id"));
+      if (m[1] === "topics" && q.get("t")) return u.topic(q.get("t"));
+      return h;
+    },
+
+    /* URL of the page that shows one entry. */
+    urlFor(type, entry) { return RE.config.urls.entry(type, entry.id); },
   };
 })();

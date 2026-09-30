@@ -1,0 +1,51 @@
+# Reformed Education
+
+> Reformed education and resources, in one place. A free, static directory and resource hub for Reformed Christian education: seminaries, colleges, schools, catechisms and confessions, books, podcasts, courses, churches and denominations. Every entry cites its source; unknown details are marked as placeholders rather than guessed.
+
+Editorial positions (for example on Genesis 1 and on public schooling) are labelled as this site's position, separate from the facts recorded about each institution.
+
+## Directories
+
+- [Seminaries](https://pr-builders.github.io/Reformed_Education/seminaries.html): Theological seminaries and graduate schools of theology: confessional Reformed and Presbyterian seminaries first, then conservative and…
+- [Colleges](https://pr-builders.github.io/Reformed_Education/colleges.html): Undergraduate colleges and universities. Reformed and Presbyterian colleges come first; families who want a conservative education that is…
+- [Christian Schools](https://pr-builders.github.io/Reformed_Education/schools.html): Associations, networks and schools for children and families, distinguished by confessional emphasis.
+- [Online Courses](https://pr-builders.github.io/Reformed_Education/courses.html): Providers of courses in Reformed theology, church history, Scripture and related subjects, both credit-bearing seminary programs and…
+- [Educational Resources](https://pr-builders.github.io/Reformed_Education/resources.html): Books, lectures, podcasts, study guides, games and other Reformed educational resources.
+- [Publishers](https://pr-builders.github.io/Reformed_Education/publishers.html): Publishers of Reformed books, curricula and study materials. Start with the publisher, then find the books.
+- [Authors](https://pr-builders.github.io/Reformed_Education/authors.html): Reformed theologians and writers. Filter by topic, ease of reading and original language.
+- [Podcasts & Audio](https://pr-builders.github.io/Reformed_Education/podcasts.html): Podcasts and audio programs on Reformed theology, church life and history.
+- [Lectures & Video](https://pr-builders.github.io/Reformed_Education/lectures.html): Lecture series and video teaching from seminaries and ministries.
+- [Family & Children's Education](https://pr-builders.github.io/Reformed_Education/family.html): Catechisms, curricula, family worship and other resources for parents and children.
+- [Church Officer Education](https://pr-builders.github.io/Reformed_Education/officers.html): Training and resources for elders, deacons and pastors.
+- [Denominations](https://pr-builders.github.io/Reformed_Education/denominations.html): Presbyterian and Reformed church bodies in North America, with their confessional standards, origins and distinctives.
+- [Articles](https://pr-builders.github.io/Reformed_Education/articles.html): Short articles written for this site, explaining Reformed and Presbyterian practice and pointing to the sources.
+- [Notable Churches](https://pr-builders.github.io/Reformed_Education/churches.html): Well-known conservative Presbyterian churches with sermons online. Pastors change, so confirm the current pastor and beliefs on each…
+- [Catechisms](https://pr-builders.github.io/Reformed_Education/catechisms.html): Catechisms and confessions, with tools for study and memorization.
+
+## Topics
+
+- [Theology](https://pr-builders.github.io/Reformed_Education/topics/theology/): What the Bible teaches about God, man, salvation and the church, and how the Reformed confessions summarize it.
+- [Church History](https://pr-builders.github.io/Reformed_Education/topics/church-history/): The story of the church, from the early centuries through the Reformation and after.
+- [Christian Living](https://pr-builders.github.io/Reformed_Education/topics/christian-living/): Growing in faith day by day.
+- [Biblical Counseling and Mental Health](https://pr-builders.github.io/Reformed_Education/topics/biblical-counseling/): Helping people who struggle, and finding help yourself. Biblical counseling is not a substitute for medical or clinical…
+- [Technology](https://pr-builders.github.io/Reformed_Education/topics/technology/): How Christians should think about technology, the internet and artificial intelligence.
+- [Science](https://pr-builders.github.io/Reformed_Education/topics/science/): Science, creation and the Christian faith.
+- [Politics and Culture](https://pr-builders.github.io/Reformed_Education/topics/politics-and-culture/): Christians and public life, current events and the surrounding culture.
+- [Church Life and Ministry](https://pr-builders.github.io/Reformed_Education/topics/church-life/): Worship, preaching, church government and pastoral work.
+- [Books and Reading](https://pr-builders.github.io/Reformed_Education/topics/books/): Reading lists, book conversations and reading guides.
+- [Christian Education and Schooling](https://pr-builders.github.io/Reformed_Education/topics/education/): Schools, curricula and approaches to educating children in the Christian faith, and the parents’ part in it.
+
+## Articles
+
+- [Presbyterian church government: a church of courts](https://pr-builders.github.io/Reformed_Education/articles/presbyterian-church-of-courts/): Presbyterian churches are governed by elders who meet in a series of connected courts.
+- [Reformed church government: consistory, classis and synod](https://pr-builders.github.io/Reformed_Education/articles/reformed-church-government/): Continental Reformed churches also rule by elders, but they arrange their assemblies differently.
+- [Presbyterian and Reformed polity compared](https://pr-builders.github.io/Reformed_Education/articles/presbyterian-vs-reformed-polity/): Both are governed by elders, both call ministers through the congregation and both guard the church with confessions.
+- [How a minister is called and ordained: Presbyterian and Reformed compared](https://pr-builders.github.io/Reformed_Education/articles/calling-and-ordaining-ministers/): Step by step, how a pastor comes to serve a congregation in a Presbyterian church and in a continental Reformed church.
+- [Why Christian parents should not send their children to public school](https://pr-builders.github.io/Reformed_Education/articles/why-not-public-school/): The position of this site, with the reasons: God gives children to their parents to disciple, no school is neutral, and a school that must…
+- [Choosing an alternative to public school](https://pr-builders.github.io/Reformed_Education/articles/choosing-an-alternative-to-public-school/): Four main options for Christian parents: a Christian school, a classical Christian school, home education and a hybrid.
+- [Parents cannot farm out their children](https://pr-builders.github.io/Reformed_Education/articles/parents-cannot-farm-out-their-children/): Children are discipled by time with their parents, and that time cannot be handed to a school, a screen or a program.
+
+## Full list of pages
+
+- [Site map](https://pr-builders.github.io/Reformed_Education/sitemap.html)
+- [sitemap.xml](https://pr-builders.github.io/Reformed_Education/sitemap.xml)

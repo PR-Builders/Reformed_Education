@@ -67,5 +67,9 @@ for f in sorted(DATA.glob("*.json")):
         if e.get("website") and real(e["website"]) and not re.match(r"^https?://", e["website"]): errors.append(f"{w}: website must be http(s)")
     for s in d.get("sets", []): check_source(f"{f.name}:{s.get('id')}", s.get("source"))
 
+import subprocess
+chk = subprocess.run([sys.executable, str(pathlib.Path(__file__).with_name("build_seo.py")), "--check"], capture_output=True, text=True)
+if chk.returncode: errors.append(chk.stdout.strip())
+
 print("\n".join(errors) if errors else "OK: all data files pass source & attribution checks.")
 sys.exit(1 if errors else 0)

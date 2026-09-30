@@ -18,7 +18,7 @@ RE.pages.catechisms = function () {
     const knownKey = `known:${cat.id}`;
     const known = () => new Set(RE.store.get(knownKey, []));
     const saveKnown = (s) => RE.store.set(knownKey, [...s]);
-    const qUrl = (q) => `question.html?id=${encodeURIComponent(cat.id)}&q=${q.n}`;
+    const qUrl = (q) => RE.config.urls.item(cat.id, q.n);
 
     const groups = {
       Study: [["browse", "Q&A"], ["proofs", "Scripture proofs"], ["topics", "Topics"], ["search", "Search"]],

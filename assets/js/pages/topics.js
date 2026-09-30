@@ -7,7 +7,7 @@ RE.pages.topics = function () {
   RE.ui.run(root, async () => {
     const { top, nodes } = await RE.data.topics();
     const has = (n) => n.all.length > 0;
-    const href = (n) => `topics.html?t=${encodeURIComponent(n.path).replace(/%2F/g, "/")}`;
+    const href = (n) => RE.config.urls.topic(n.path);
     const node = nodes[param("t")];
     const crumbs = (n) => { const out = []; for (let x = n; x; x = x.parent && nodes[x.parent]) out.unshift(x); return out; };
     const card = (n) => `<article class="card"><h3 class="card-title"><a href="${href(n)}">${esc(n.name)}</a></h3>
@@ -32,7 +32,7 @@ RE.pages.topics = function () {
         <div class="lrows">${list.map((e) => RE.ui.directoryRow(type, e)).join("")}</div></details>`; }).join("");
     const picks = (node.start_here || []).map((p) => { const hit = node.all.find((i) => i.type === p.type && i.entry.id === p.id); return hit ? { hit, why: p.why, title: p.title, href: p.href } : null; }).filter(Boolean);
     const startHere = picks.length ? `<section class="starthere"><p class="label">Start here</p>
-      <ol>${picks.map(({ hit, why, title, href }) => `<li><a href="${esc(href || RE.config.urlFor(hit.type, hit.entry))}"><strong>${esc(title || hit.entry.name)}</strong></a> <span class="muted">· ${esc(RE.config.collections[hit.type].singular)}</span><br>${esc(why)}</li>`).join("")}</ol>
+      <ol>${picks.map(({ hit, why, title, href }) => `<li><a href="${esc(RE.config.cleanHref(href) || RE.config.urlFor(hit.type, hit.entry))}"><strong>${esc(title || hit.entry.name)}</strong></a> <span class="muted">· ${esc(RE.config.collections[hit.type].singular)}</span><br>${esc(why)}</li>`).join("")}</ol>
       <p class="muted" style="font-size:.82rem;margin:0">Editorial suggestions from reformededucation.org. They describe and do not endorse.</p></section>` : "";
     root.innerHTML = `<div class="page-head"><div class="container">
         ${RE.ui.breadcrumb([{ label: "Home", href: "index.html" }, { label: "Topics", href: "topics.html" }].concat(crumbs(node).map((n, i, a) => (i < a.length - 1 ? { label: n.name, href: href(n) } : { label: n.name }))))}

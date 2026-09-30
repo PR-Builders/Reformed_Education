@@ -172,7 +172,7 @@
         <div class="links">${p.links.map(([l, h]) => `<a href="${esc(h)}">${esc(l)} →</a>`).join("")}</div></div>`).join("");
     },
 
-    param: (name) => new URLSearchParams(location.search).get(name),
+    param: (name) => (window.RE_PARAMS && name in window.RE_PARAMS ? window.RE_PARAMS[name] : new URLSearchParams(location.search).get(name)),
     $: (sel, root) => (root || document).querySelector(sel),
     $$: (sel, root) => Array.from((root || document).querySelectorAll(sel)),
     shuffle(a) { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; },

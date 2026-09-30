@@ -7,10 +7,10 @@ RE.pages.catechisms = function () {
     const all = (cat && cat.questions) || [];
     const q = all.find((x) => x.n === n);
     if (!q) { root.innerHTML = `<div class="notice error">Question not found. <a href="catechisms.html">All catechisms</a></div>`; return; }
-    const u = (m) => `question.html?id=${encodeURIComponent(cat.id)}&q=${m}`;
+    const u = (m) => RE.config.urls.item(cat.id, m);
     const known = new Set(RE.store.get(`known:${cat.id}`, []));
     document.title = `${cat.short} Q${q.n} — Reformed Education`;
-    root.innerHTML = `${RE.ui.breadcrumb([{ label: "Home", href: "index.html" }, { label: "Catechisms", href: "catechisms.html" }, { label: cat.short, href: `catechism.html?id=${cat.id}` }, { label: `Question ${q.n}` }])}
+    root.innerHTML = `${RE.ui.breadcrumb([{ label: "Home", href: "index.html" }, { label: "Catechisms", href: "catechisms.html" }, { label: cat.short, href: RE.config.urls.catechism(cat.id) }, { label: `Question ${q.n}` }])}
       <p class="label">${esc(cat.name)} · Question ${q.n}</p>
       ${q.topic ? `<p class="muted" style="margin-top:-8px">Explaining ${esc(q.topic)}</p>` : ""}
       ${q.placeholder ? RE.ui.placeholderNotice("Question and answer text is placeholder content.") : ""}

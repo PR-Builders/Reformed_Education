@@ -37,13 +37,25 @@
         <p class="motto" lang="la">${esc(c.latinTagline)} <span>· ${esc(c.latinTranslation)}</span></p>
         <p class="muted">A directory and resource hub for Reformed Christian education. Early foundation — directory details are being added.</p></div>
       <div><h4>Explore</h4><ul>${c.categories.map((x) => `<li><a href="${x.href}">${esc(x.label)}</a></li>`).join("")}</ul></div>
-      <div><h4>Site</h4><ul><li><a href="browse.html">Browse</a></li><li><a href="search.html">Search</a></li><li><a href="sources.html">Sources &amp; Copyright</a></li><li><a href="about.html">About</a></li></ul></div>
+      <div><h4>Site</h4><ul><li><a href="browse.html">Browse</a></li><li><a href="search.html">Search</a></li><li><a href="sources.html">Sources &amp; Copyright</a></li><li><a href="sitemap.html">Site map</a></li><li><a href="about.html">About</a></li></ul></div>
     </div>
     <p class="footer-note">Nothing on this site is an endorsement. Directory information is provided for discovery; always verify details with the institution.</p>
   </div></footer>`;
 
-  document.body.insertAdjacentHTML("afterbegin", header);
-  document.body.insertAdjacentHTML("beforeend", footer);
+  /* Pre-rendered pages (tools/build_seo.py) already contain the header and footer. */
+  if (!document.querySelector(".site-header")) {
+    document.body.insertAdjacentHTML("afterbegin", header);
+    document.body.insertAdjacentHTML("beforeend", footer);
+  }
+
+  /* Pre-rendered pages use <base href>, which would send "#fragment" links to the home page; handle them in place. */
+  document.addEventListener("click", (e) => {
+    const a = e.target.closest && e.target.closest('a[href^="#"]');
+    if (!a || a.getAttribute("href") === "#") return;
+    const t = document.getElementById(decodeURIComponent(a.getAttribute("href").slice(1)));
+    if (!t) return;
+    e.preventDefault(); t.scrollIntoView(); history.replaceState(null, "", location.pathname + location.search + a.getAttribute("href"));
+  });
 
   const toggle = document.querySelector(".menu-toggle");
   toggle.addEventListener("click", () => {
@@ -57,5 +69,12 @@
     li.classList.toggle("open", open); b.setAttribute("aria-expanded", String(open));
   }));
   document.addEventListener("keydown", (e) => { if (e.key === "Escape") document.querySelectorAll(".has-sub.open").forEach((x) => { x.classList.remove("open"); x.querySelector(".sub-toggle").setAttribute("aria-expanded", "false"); }); });
+  /* A legacy query-string page points search engines to its clean, pre-rendered address. */
+  if (!window.RE_PARAMS && !document.querySelector('link[rel="canonical"]')) {
+    const clean = c.cleanHref(location.pathname.split("/").pop() + location.search);
+    if (clean && clean !== location.pathname.split("/").pop() + location.search) {
+      const l = document.createElement("link"); l.rel = "canonical"; l.href = new URL(clean, c.siteUrl).href; document.head.appendChild(l);
+    }
+  }
   if (RE.pages[page]) RE.pages[page]();
 })();
