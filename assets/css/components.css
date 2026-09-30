@@ -285,3 +285,6 @@ details.dgroup[open] > summary::before { content: "▾"; }
 details.dgroup .lrows, details.dgroup .grid { padding: 0 8px 8px; }
 .showmore { margin: var(--space-4) 0; }
 @media (max-width: 640px) { .lrow { flex-direction: column; gap: 6px; } .lrow-tags { justify-content: flex-start; max-width: none; } }
+details.more > summary { display: inline-block; cursor: pointer; list-style: none; }
+details.more > summary::-webkit-details-marker { display: none; }
+details.more[open] > summary { display: none; }

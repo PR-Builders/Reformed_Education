@@ -127,3 +127,7 @@ Documents that are not question-and-answer (currently the Westminster Confession
 ## Directory list pages
 
 Every directory page has a **List / Cards** toggle (remembered per page in the browser). Lists of more than 12 entries open as compact rows and show 40 at a time with "Show more". A collection can set `collapseBy` in `assets/js/config.js` (the podcasts do, by `organization`) to fold three or more entries from the same producer into one expandable group, for example all of Ligonier's podcasts. Setting `groupBy` (seminaries, colleges) still groups by theological posture with its explanatory notes.
+
+## Topics
+
+`topics.html` lists topic areas; `topics.html?t=biblical-counseling/ocd-and-scrupulosity` shows one topic, with its narrower topics above the resources in it. The tree lives in `data/topics.json` (up to three levels; add a child under any topic). An entry joins a topic through `topic_ids` (explicit paths) or through its existing subject labels, which `labels` in `topics.json` maps to paths, so podcasts, lectures and authors appear without extra tagging. A topic with no entries is hidden, and a parent topic shows everything beneath it.

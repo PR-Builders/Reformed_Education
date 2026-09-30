@@ -39,6 +39,10 @@
         "https://reformedforum.org/podcasts/ctc52/",
         "https://reformedforum.org/podcasts/ctc805/",
         "https://reformedforum.org/"
+      ],
+      "topic_ids": [
+        "technology",
+        "science"
       ]
     },
     {
@@ -398,7 +402,10 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "christian-living/daily-devotions"
+      ]
     },
     {
       "id": "ask-ligonier",
@@ -799,7 +806,10 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "biblical-counseling/ocd-and-scrupulosity"
+      ]
     },
     {
       "id": "acbc-truth-in-love",
@@ -834,7 +844,10 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "biblical-counseling/ocd-and-scrupulosity"
+      ]
     },
     {
       "id": "christian-faith-and-ocd",
@@ -868,7 +881,10 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": []
+      "tags": [],
+      "topic_ids": [
+        "biblical-counseling/ocd-and-scrupulosity"
+      ]
     }
   ]
 }

@@ -49,6 +49,29 @@
       const doc = await load("taxonomies");
       return (doc[type] && doc[type][field]) || null;
     },
+    /* Topic tree and which entries belong to which topic (see data/topics.json). */
+    async topics() {
+      const doc = await loadFile("topics.json");
+      const nodes = {}, top = [];
+      const walk = (n, parent, path) => {
+        const id = path ? path + "/" + n.id : n.id;
+        nodes[id] = Object.assign({}, n, { path: id, parent: parent || null, children: [], items: [] });
+        if (parent) nodes[parent].children.push(nodes[id]); else top.push(nodes[id]);
+        (n.children || []).forEach((c) => walk(c, id, id));
+      };
+      doc.topics.forEach((t) => walk(t, null, ""));
+      const all = await RE.data.all();
+      const seen = (node, key) => (node._seen = node._seen || new Set()).has(key);
+      Object.keys(all).forEach((type) => all[type].forEach((e) => {
+        const paths = new Set(e.topic_ids || []);
+        [].concat(e.subject || [], Array.isArray(e.topics) ? e.topics : []).forEach((l) => { if (typeof l === "string" && doc.labels[l]) paths.add(doc.labels[l]); });
+        paths.forEach((pth) => { const n = nodes[pth]; if (n && !seen(n, type + ":" + e.id)) { n._seen.add(type + ":" + e.id); n.items.push({ type, entry: e }); } });
+      }));
+      /* total = distinct entries in the topic and everything under it */
+      const total = (n) => { const set = new Map(n.items.map((i) => [i.type + ":" + i.entry.id, i])); n.children.forEach((c) => total(c).forEach((v, k) => set.set(k, v))); n.all = [...set.values()]; return set; };
+      top.forEach(total);
+      return { top, nodes };
+    },
     /* Quiz sets for the index/home pages. `count` is the number of questions; a set with `from_catechism`
        gets its questions generated from that catechism's text only when the quiz itself is opened. */
     async quizzes() {
