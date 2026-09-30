@@ -290,3 +290,13 @@ details.more > summary::-webkit-details-marker { display: none; }
 details.more[open] > summary { display: none; }
 .starthere { border-left: 3px solid var(--color-gold); background: var(--color-gold-100); padding: 16px 20px; margin-bottom: 32px; border-radius: 0 6px 6px 0; }
 .starthere ol { margin: 8px 0 12px; padding-left: 1.2rem; display: grid; gap: 8px; }
+
+/* Nav dropdowns */
+.site-nav .has-sub { position: relative; display: flex; align-items: center; }
+.sub-toggle { font: inherit; font-size: .8rem; background: none; border: 0; padding: 4px 6px; margin-left: -6px; cursor: pointer; color: var(--color-neutral-700); }
+.site-nav .submenu { display: none; position: absolute; top: 100%; left: 0; z-index: 30; min-width: 220px; margin: 0; padding: 6px 0; background: var(--color-bg, #fff); border: 1px solid var(--color-divider); border-radius: 0 0 6px 6px; box-shadow: 0 8px 20px rgba(0,0,0,.08); flex-direction: column; gap: 0; }
+.site-nav .submenu li { display: block; }
+.site-nav .submenu a { display: block; padding: 9px 16px; border-bottom: 0; white-space: nowrap; }
+.site-nav .submenu a:hover { background: var(--color-gold-100); }
+@media (min-width: 861px) { .site-nav .has-sub:hover > .submenu, .site-nav .has-sub:focus-within > .submenu, .site-nav .has-sub.open > .submenu { display: flex; } }
+@media (max-width: 860px) { .site-nav .submenu { position: static; display: none; box-shadow: none; border: 0; padding-left: 12px; flex-basis: 100%; } .site-nav .has-sub.open > .submenu { display: flex; } .site-nav .has-sub { flex-wrap: wrap; } }

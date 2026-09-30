@@ -20,7 +20,11 @@
       <button class="btn menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
     </div></div>
     <nav class="site-nav" id="site-nav" aria-label="Primary"><div class="container">
-      <ul>${c.nav.map((n) => `<li><a href="${n.href}"${(n.keys || [n.key]).includes(page) ? ' aria-current="page"' : ""}>${esc(n.label)}</a></li>`).join("")}</ul>
+      <ul>${c.nav.map((n) => {
+        const kids = n.children || [];
+        const here = (n.keys || []).includes(page) || kids.some((k) => k.key === page);
+        return `<li${kids.length ? ' class="has-sub"' : ""}><a href="${n.href}"${here ? ' aria-current="page"' : ""}>${esc(n.label)}</a>${kids.length ? `<button type="button" class="sub-toggle" aria-expanded="false" aria-label="${esc(n.label)} menu">▾</button>
+          <ul class="submenu">${kids.map((k) => `<li><a href="${k.href}"${k.key === page ? ' aria-current="page"' : ""}>${esc(k.label)}</a></li>`).join("")}</ul>` : ""}</li>`; }).join("")}</ul>
       <div class="nav-search">${searchForm("ns")}</div>
     </div></nav>
   </header>`;
@@ -45,5 +49,11 @@
     toggle.setAttribute("aria-expanded", open);
   });
 
+  document.querySelectorAll(".sub-toggle").forEach((b) => b.addEventListener("click", () => {
+    const li = b.parentElement, open = !li.classList.contains("open");
+    document.querySelectorAll(".has-sub.open").forEach((x) => { x.classList.remove("open"); x.querySelector(".sub-toggle").setAttribute("aria-expanded", "false"); });
+    li.classList.toggle("open", open); b.setAttribute("aria-expanded", String(open));
+  }));
+  document.addEventListener("keydown", (e) => { if (e.key === "Escape") document.querySelectorAll(".has-sub.open").forEach((x) => { x.classList.remove("open"); x.querySelector(".sub-toggle").setAttribute("aria-expanded", "false"); }); });
   if (RE.pages[page]) RE.pages[page]();
 })();

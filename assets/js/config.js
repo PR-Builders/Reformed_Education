@@ -20,7 +20,7 @@
   ];
 
   RE.config = {
-    version: "202609300431",   // stamped by tools/bump_version.py; appended to data requests to avoid stale caches
+    version: "202609301514",   // stamped by tools/bump_version.py; appended to data requests to avoid stale caches
     siteName: "Reformed Education",
     tagline: "Reformed education and resources, in one place.",
     latinTagline: "Quaere et Disce",
@@ -28,18 +28,26 @@
     dataPath: "data/",
     PLACEHOLDER,
 
+    /* Primary navigation. An item with `children` shows them in a dropdown under its own hub page. */
     nav: [
-      { label: "Education", href: "education.html", key: "education" },
-      { label: "Seminaries", href: "seminaries.html", key: "seminaries" },
-      { label: "Colleges", href: "colleges.html", key: "colleges" },
-      { label: "Schools", href: "schools.html", key: "schools" },
-      { label: "Courses", href: "courses.html", key: "courses" },
-      { label: "Catechisms", href: "catechisms.html", key: "catechisms" },
-      { label: "Topics", href: "topics.html", key: "topics" },
-      { label: "Library", href: "library.html", keys: ["library", "publishers", "authors", "podcasts", "lectures", "resources"] },
-      { label: "Family", href: "family.html", key: "family" },
-      { label: "Officers", href: "officers.html", key: "officers" },
-      { label: "Quizzes", href: "quizzes.html", key: "quizzes" },
+      { label: "Education", href: "education.html", keys: ["education"], children: [
+        { label: "Seminaries", href: "seminaries.html", key: "seminaries" },
+        { label: "Colleges", href: "colleges.html", key: "colleges" },
+        { label: "Schools", href: "schools.html", key: "schools" },
+        { label: "Courses", href: "courses.html", key: "courses" },
+        { label: "Church officer training", href: "officers.html", key: "officers" },
+      ] },
+      { label: "Catechisms", href: "catechisms.html", keys: ["catechisms", "catechism", "confession", "question"] },
+      { label: "Topics", href: "topics.html", keys: ["topics"] },
+      { label: "Library", href: "library.html", keys: ["library"], children: [
+        { label: "Authors", href: "authors.html", key: "authors" },
+        { label: "Publishers", href: "publishers.html", key: "publishers" },
+        { label: "Podcasts & audio", href: "podcasts.html", key: "podcasts" },
+        { label: "Lectures & video", href: "lectures.html", key: "lectures" },
+        { label: "Resources", href: "resources.html", key: "resources" },
+      ] },
+      { label: "Family", href: "family.html", keys: ["family"] },
+      { label: "Quizzes", href: "quizzes.html", keys: ["quizzes", "quiz"] },
     ],
 
     /* Directory collections. `file` is the JSON file in /data; `fields` drive the detail page;
