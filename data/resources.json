@@ -851,6 +851,470 @@
         "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
       },
       "tags": []
+    },
+    {
+      "id": "strickland-is-it-abuse",
+      "name": "Is It Abuse? A Biblical Guide to Identifying Domestic Abuse and Helping Victims",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Book",
+      "creator": "Darby A. Strickland",
+      "publisher": "P&R Publishing, 2020",
+      "subject": [
+        "Biblical Counseling"
+      ],
+      "doctrinal_basis": "Published by P&R, which publishes according to the Westminster Confession; written by a CCEF faculty member.",
+      "points_to_weigh": [
+        "Written mainly about abuse in marriage, particularly of wives.",
+        "If someone is in danger, contact emergency services or a domestic-violence advocate; a book is not a safety plan.",
+        "Biblical counseling is not a substitute for medical or clinical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://www.ccef.org/book/is-it-abuse-a-biblical-guide-to-identifying-domestic-abuse-and-helping-victims/",
+      "description": "360-page guide for pastors, counselors and friends: how to recognize physical, sexual, emotional, spiritual and financial abuse, its effect on victims and children, with case studies, worksheets and a safety action plan.",
+      "topic_ids": [
+        "biblical-counseling/abuse-and-trauma",
+        "biblical-counseling/marriage",
+        "biblical-counseling/helping-others"
+      ],
+      "research_sources": [
+        "https://www.ccef.org/book/is-it-abuse-a-biblical-guide-to-identifying-domestic-abuse-and-helping-victims/"
+      ],
+      "source": {
+        "title": "Is It Abuse? A Biblical Guide to Identifying Domestic Abuse and Helping Victims: publisher or organization page",
+        "organization": "P&R Publishing",
+        "url": "https://www.ccef.org/book/is-it-abuse-a-biblical-guide-to-identifying-domestic-abuse-and-helping-victims/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "national-domestic-violence-hotline",
+      "name": "National Domestic Violence Hotline",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Organization",
+      "creator": "U.S. national service",
+      "subject": [
+        "Mental Health"
+      ],
+      "doctrinal_basis": "A secular national service, not a Christian ministry.",
+      "points_to_weigh": [
+        "If you are in immediate danger, call your local emergency number. Outside the U.S., use your country’s services."
+      ],
+      "website": "https://www.thehotline.org/",
+      "description": "Free, confidential support 24/7 by phone (1-800-799-7233), by text (send START to 88788) and by chat, for people experiencing domestic violence and those concerned about them. United States only.",
+      "topic_ids": [
+        "biblical-counseling/abuse-and-trauma",
+        "biblical-counseling/crisis"
+      ],
+      "research_sources": [
+        "https://www.thehotline.org/"
+      ],
+      "source": {
+        "title": "National Domestic Violence Hotline: publisher or organization page",
+        "organization": "National Domestic Violence Hotline",
+        "url": "https://www.thehotline.org/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "fabel-suicide-care-plan",
+      "name": "A Suicide Care Plan: One Church’s Model",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Article",
+      "creator": "Kendra Fabel",
+      "publisher": "Journal of Biblical Counseling (CCEF)",
+      "subject": [
+        "Biblical Counseling"
+      ],
+      "doctrinal_basis": "CCEF.",
+      "points_to_weigh": [
+        "Written for churches. If someone is in immediate danger, call emergency services or, in the U.S., 988.",
+        "Biblical counseling is not a substitute for medical or clinical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://www.ccef.org/jbc-article/a-suicide-care-plan-one-churchs-model",
+      "description": "Journal of Biblical Counseling 36:3 (2022): how one congregation trains staff and volunteers in suicide prevention and uses a triage team for crises and care teams for longer-term support.",
+      "topic_ids": [
+        "biblical-counseling/crisis",
+        "biblical-counseling/helping-others"
+      ],
+      "research_sources": [
+        "https://www.ccef.org/jbc-article/a-suicide-care-plan-one-churchs-model"
+      ],
+      "source": {
+        "title": "A Suicide Care Plan: One Church’s Model: publisher or organization page",
+        "organization": "CCEF",
+        "url": "https://www.ccef.org/jbc-article/a-suicide-care-plan-one-churchs-model",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "til-176-suicide",
+      "name": "Truth in Love 176: Suicide",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Podcast episode",
+      "creator": "Dale Johnson with Keith Palmer",
+      "publisher": "ACBC",
+      "subject": [
+        "Biblical Counseling"
+      ],
+      "doctrinal_basis": "ACBC.",
+      "points_to_weigh": [
+        "Written for churches. If someone is in immediate danger, call emergency services or, in the U.S., 988.",
+        "Biblical counseling is not a substitute for medical or clinical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://biblicalcounseling.com/resource-library/podcast-episodes/til-176-suicide/",
+      "description": "ACBC podcast (15 October 2018) on how churches can support people with suicidal thoughts and families after a suicide: warning signs, a team approach, immediate safety and removing means of harm, and the ministry of presence.",
+      "topic_ids": [
+        "biblical-counseling/crisis",
+        "biblical-counseling/helping-others"
+      ],
+      "research_sources": [
+        "https://biblicalcounseling.com/resource-library/podcast-episodes/til-176-suicide/"
+      ],
+      "source": {
+        "title": "Truth in Love 176: Suicide: publisher or organization page",
+        "organization": "ACBC",
+        "url": "https://biblicalcounseling.com/resource-library/podcast-episodes/til-176-suicide/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "welch-eating-disorders",
+      "name": "Eating Disorders",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Article",
+      "creator": "Ed Welch",
+      "publisher": "Journal of Biblical Counseling (CCEF)",
+      "subject": [
+        "Biblical Counseling"
+      ],
+      "doctrinal_basis": "CCEF.",
+      "points_to_weigh": [
+        "The article as summarized does not mention medical care. Eating disorders can be medically dangerous; see a doctor.",
+        "Biblical counseling is not a substitute for medical or clinical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://www.ccef.org/jbc-article/eating-disorders/",
+      "description": "Journal of Biblical Counseling 24:2: presents anorexia as legalistic and bulimia as out of control, and both as centered on self, and points to honesty, Scripture and wise counsel.",
+      "topic_ids": [
+        "biblical-counseling/eating-disorders"
+      ],
+      "research_sources": [
+        "https://www.ccef.org/jbc-article/eating-disorders/"
+      ],
+      "source": {
+        "title": "Eating Disorders: publisher or organization page",
+        "organization": "CCEF",
+        "url": "https://www.ccef.org/jbc-article/eating-disorders/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "til-438-eating-disorders",
+      "name": "Truth in Love 438: Biblical Help with Eating Disorders",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Podcast episode",
+      "creator": "Dale Johnson with Manuel Herrera",
+      "publisher": "ACBC",
+      "subject": [
+        "Biblical Counseling"
+      ],
+      "doctrinal_basis": "ACBC.",
+      "points_to_weigh": [
+        "The guest and host say medical advice should accompany counseling.",
+        "Biblical counseling is not a substitute for medical or clinical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://biblicalcounseling.com/resource-library/podcast-episodes/biblical-help-with-eating-disorders-feat-manuel-herrera/",
+      "description": "ACBC podcast (30 October 2023) on heart attitudes behind disordered eating, from anorexia to gluttony. The guest says a medical evaluation is always necessary.",
+      "topic_ids": [
+        "biblical-counseling/eating-disorders"
+      ],
+      "research_sources": [
+        "https://biblicalcounseling.com/resource-library/podcast-episodes/biblical-help-with-eating-disorders-feat-manuel-herrera/"
+      ],
+      "source": {
+        "title": "Truth in Love 438: Biblical Help with Eating Disorders: publisher or organization page",
+        "organization": "ACBC",
+        "url": "https://biblicalcounseling.com/resource-library/podcast-episodes/biblical-help-with-eating-disorders-feat-manuel-herrera/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "welch-shame-interrupted",
+      "name": "Shame Interrupted: How God Lifts the Pain of Worthlessness and Rejection",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Book",
+      "creator": "Edward T. Welch",
+      "publisher": "New Growth Press, 2012",
+      "subject": [
+        "Biblical Counseling"
+      ],
+      "doctrinal_basis": "Written by a CCEF faculty member.",
+      "points_to_weigh": [
+        "Biblical counseling is not a substitute for medical or clinical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://www.ccef.org/book/shame-interrupted/",
+      "description": "337-page book on shame and how, through Jesus, the shamed are covered, adopted, cleansed and healed.",
+      "topic_ids": [
+        "biblical-counseling/shame-forgiveness-and-conflict"
+      ],
+      "research_sources": [
+        "https://www.ccef.org/book/shame-interrupted/"
+      ],
+      "source": {
+        "title": "Shame Interrupted: How God Lifts the Pain of Worthlessness and Rejection: publisher or organization page",
+        "organization": "New Growth Press",
+        "url": "https://www.ccef.org/book/shame-interrupted/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "brauns-unpacking-forgiveness",
+      "name": "Unpacking Forgiveness: Biblical Answers for Complex Questions and Deep Wounds",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Book",
+      "creator": "Chris Brauns",
+      "publisher": "Crossway, 2008",
+      "subject": [
+        "Biblical Counseling"
+      ],
+      "doctrinal_basis": "Written by a pastor (Red Brick Church, Illinois).",
+      "points_to_weigh": [
+        "It argues that forgiveness aligns with justice and is not automatic; people who have been abused should read it with a trusted counselor.",
+        "Biblical counseling is not a substitute for medical or clinical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://www.crossway.org/books/unpacking-forgiveness-tpb/",
+      "description": "240-page book on what biblical forgiveness means: pardoning the repentant and being reconciled, responding to unrepentant offenders and conquering bitterness.",
+      "topic_ids": [
+        "biblical-counseling/shame-forgiveness-and-conflict"
+      ],
+      "research_sources": [
+        "https://www.crossway.org/books/unpacking-forgiveness-tpb/"
+      ],
+      "source": {
+        "title": "Unpacking Forgiveness: Biblical Answers for Complex Questions and Deep Wounds: publisher or organization page",
+        "organization": "Crossway",
+        "url": "https://www.crossway.org/books/unpacking-forgiveness-tpb/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "sande-the-peacemaker",
+      "name": "The Peacemaker: A Biblical Guide to Resolving Personal Conflict",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Book",
+      "creator": "Ken Sande",
+      "publisher": "Baker",
+      "subject": [
+        "Biblical Counseling"
+      ],
+      "doctrinal_basis": "Written by an attorney and president of Peacemaker Ministries.",
+      "points_to_weigh": [
+        "Not designed for situations of abuse; see the abuse and trauma topic.",
+        "Biblical counseling is not a substitute for medical or clinical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://bakerpublishinggroup.com/products/9780801045356_the-peacemaker",
+      "description": "Guide to resolving conflict in four steps: glorify God, get the log out of your own eye, gently restore, and go and be reconciled.",
+      "topic_ids": [
+        "biblical-counseling/shame-forgiveness-and-conflict",
+        "biblical-counseling/marriage"
+      ],
+      "research_sources": [
+        "https://bakerpublishinggroup.com/products/9780801045356_the-peacemaker",
+        "https://www.9marks.org/review/peacemaker-ken-sande/"
+      ],
+      "source": {
+        "title": "The Peacemaker: A Biblical Guide to Resolving Personal Conflict: publisher or organization page",
+        "organization": "Baker Publishing Group",
+        "url": "https://bakerpublishinggroup.com/products/9780801045356_the-peacemaker",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "tedd-tripp-shepherding-a-childs-heart",
+      "name": "Shepherding a Child’s Heart",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Book",
+      "creator": "Tedd Tripp",
+      "publisher": "Shepherd Press",
+      "subject": [
+        "Biblical Counseling"
+      ],
+      "doctrinal_basis": "Written by a pastor and counselor.",
+      "points_to_weigh": [
+        "The publisher’s page could not be read; the description is from retailer pages.",
+        "Biblical counseling is not a substitute for medical or clinical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://www.shepherdpress.com/products/shepherding-a-childs-heart/",
+      "description": "Guide for parents of children of any age on speaking to a child’s heart, drawing on the author’s experience as pastor, counselor, school administrator and father.",
+      "topic_ids": [
+        "biblical-counseling/parenting",
+        "christian-living/family-and-children"
+      ],
+      "research_sources": [
+        "https://www.shepherdpress.com/products/shepherding-a-childs-heart/",
+        "https://store.ligonier.org/shepherding-a-childs-heart-paperback"
+      ],
+      "source": {
+        "title": "Shepherding a Child’s Heart: publisher or organization page",
+        "organization": "Shepherd Press",
+        "url": "https://www.shepherdpress.com/products/shepherding-a-childs-heart/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "paul-tripp-parenting",
+      "name": "Parenting: 14 Gospel Principles That Can Radically Change Your Family",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Book",
+      "creator": "Paul David Tripp",
+      "publisher": "Crossway",
+      "subject": [
+        "Biblical Counseling"
+      ],
+      "doctrinal_basis": "Written by a pastor and author with CCEF ties.",
+      "points_to_weigh": [
+        "Biblical counseling is not a substitute for medical or clinical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://www.crossway.org/books/parenting-hcj-2/",
+      "description": "Fourteen gospel-centered principles for parents, aimed at how parents think about raising children rather than a list of techniques; includes study questions.",
+      "topic_ids": [
+        "biblical-counseling/parenting",
+        "christian-living/family-and-children"
+      ],
+      "research_sources": [
+        "https://www.crossway.org/books/parenting-hcj-2/"
+      ],
+      "source": {
+        "title": "Parenting: 14 Gospel Principles That Can Radically Change Your Family: publisher or organization page",
+        "organization": "Crossway",
+        "url": "https://www.crossway.org/books/parenting-hcj-2/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "welch-blame-it-on-the-brain",
+      "name": "Blame It on the Brain? Distinguishing Chemical Imbalances, Brain Disorders, and Disobedience",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Book",
+      "creator": "Edward T. Welch",
+      "publisher": "P&R Publishing, 2024 (2nd edition)",
+      "subject": [
+        "Biblical Counseling",
+        "Mental Health"
+      ],
+      "doctrinal_basis": "Published by P&R; written by a CCEF faculty member who is a licensed psychologist.",
+      "points_to_weigh": [
+        "It discusses medication, with the author saying the question is ‘Is it wise?’; talk to a doctor about any medication decision.",
+        "Biblical counseling is not a substitute for medical or clinical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://www.prpbooks.com/book/blame-it-on-the-brain-2nd-edition",
+      "description": "192-page book (second edition, 2024) on how brain disorders differ from spiritual problems, with a four-step approach: understand the disease, distinguish the physical from the spiritual, address the heart and strengthen bodily weaknesses.",
+      "topic_ids": [
+        "biblical-counseling/mental-illness-and-the-brain",
+        "biblical-counseling/depression"
+      ],
+      "research_sources": [
+        "https://www.prpbooks.com/book/blame-it-on-the-brain-2nd-edition"
+      ],
+      "source": {
+        "title": "Blame It on the Brain? Distinguishing Chemical Imbalances, Brain Disorders, and Disobedience: publisher or organization page",
+        "organization": "P&R Publishing",
+        "url": "https://www.prpbooks.com/book/blame-it-on-the-brain-2nd-edition",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "tripp-what-did-you-expect",
+      "name": "What Did You Expect? Redeeming the Realities of Marriage",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Book",
+      "creator": "Paul David Tripp",
+      "publisher": "Crossway",
+      "subject": [
+        "Biblical Counseling"
+      ],
+      "doctrinal_basis": "Written by a pastor and author with CCEF ties.",
+      "points_to_weigh": [
+        "Not designed for situations of abuse; see the abuse and trauma topic.",
+        "Biblical counseling is not a substitute for medical or clinical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://www.crossway.org/books/what-did-you-expect-tpb-1/",
+      "description": "Marriage guide arguing that couples need changed expectations, radical commitments and grace, built around six commitments including confession and forgiveness, building trust and appreciating differences.",
+      "topic_ids": [
+        "biblical-counseling/marriage"
+      ],
+      "research_sources": [
+        "https://www.crossway.org/books/what-did-you-expect-tpb-1/"
+      ],
+      "source": {
+        "title": "What Did You Expect? Redeeming the Realities of Marriage: publisher or organization page",
+        "organization": "Crossway",
+        "url": "https://www.crossway.org/books/what-did-you-expect-tpb-1/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
     }
   ]
 }

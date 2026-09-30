@@ -345,13 +345,104 @@
           ]
         },
         {
+          "id": "abuse-and-trauma",
+          "name": "Abuse and Trauma",
+          "start_here": [
+            {
+              "type": "resources",
+              "id": "strickland-is-it-abuse",
+              "why": "A guide to identifying domestic abuse and helping victims, with a safety action plan."
+            },
+            {
+              "type": "resources",
+              "id": "national-domestic-violence-hotline",
+              "why": "Free, confidential 24/7 help (U.S.)."
+            }
+          ],
+          "notice": "If you are being hurt, or are afraid of someone at home, call your local emergency number. In the U.S., the National Domestic Violence Hotline is free, confidential and open 24/7: 1-800-799-7233, or text START to 88788. A book is not a safety plan."
+        },
+        {
+          "id": "eating-disorders",
+          "name": "Eating Disorders",
+          "start_here": [
+            {
+              "type": "resources",
+              "id": "til-438-eating-disorders",
+              "why": "ACBC episode; the guest says a medical evaluation is always necessary."
+            },
+            {
+              "type": "resources",
+              "id": "welch-eating-disorders",
+              "why": "Ed Welch’s Journal of Biblical Counseling article."
+            }
+          ]
+        },
+        {
+          "id": "shame-forgiveness-and-conflict",
+          "name": "Shame, Forgiveness and Conflict",
+          "start_here": [
+            {
+              "type": "resources",
+              "id": "welch-shame-interrupted",
+              "why": "How God lifts the pain of worthlessness and rejection."
+            },
+            {
+              "type": "resources",
+              "id": "brauns-unpacking-forgiveness",
+              "why": "What forgiveness means, and how to respond to the unrepentant."
+            },
+            {
+              "type": "resources",
+              "id": "sande-the-peacemaker",
+              "why": "Four steps for resolving conflict."
+            }
+          ]
+        },
+        {
+          "id": "parenting",
+          "name": "Parenting",
+          "start_here": [
+            {
+              "type": "resources",
+              "id": "tedd-tripp-shepherding-a-childs-heart",
+              "why": "On speaking to a child’s heart."
+            },
+            {
+              "type": "resources",
+              "id": "paul-tripp-parenting",
+              "why": "Fourteen gospel principles for parents."
+            }
+          ]
+        },
+        {
+          "id": "mental-illness-and-the-brain",
+          "name": "Mental Illness and the Brain",
+          "start_here": [
+            {
+              "type": "resources",
+              "id": "welch-blame-it-on-the-brain",
+              "why": "How brain disorders differ from spiritual problems; discusses medication."
+            }
+          ]
+        },
+        {
           "id": "marriage",
           "name": "Marriage",
           "start_here": [
             {
               "type": "resources",
+              "id": "tripp-what-did-you-expect",
+              "why": "Marriage, expectations and grace."
+            },
+            {
+              "type": "resources",
               "id": "harvey-when-sinners-say-i-do",
               "why": "Gospel-centered guide to marriage, with study guide and video."
+            },
+            {
+              "type": "resources",
+              "id": "sande-the-peacemaker",
+              "why": "Four steps for resolving conflict."
             }
           ]
         },
@@ -363,6 +454,16 @@
               "type": "resources",
               "id": "988-lifeline",
               "why": "Free, confidential, 24/7 by call, text or chat (U.S.)."
+            },
+            {
+              "type": "resources",
+              "id": "til-176-suicide",
+              "why": "ACBC on how churches can respond to suicidal thoughts and after a suicide."
+            },
+            {
+              "type": "resources",
+              "id": "fabel-suicide-care-plan",
+              "why": "How one church trains for and responds to suicide risk."
             }
           ]
         }
