@@ -75,12 +75,13 @@
         "Worship",
         "Confessions and Catechisms"
       ],
-      "reading_level": "[Placeholder — information to be added]",
+      "reading_level": "Challenging",
       "original_language": [
         "English"
       ],
-      "reading_note": "Christian History Institute recommends an edited volume of selections as the best place to begin. Not yet rated.",
+      "reading_note": "Rated Challenging by reformededucation.org for the History of the Reformation in Scotland in its original form: a description of Cuthbert Lennox’s edition says the original’s archaic, irregular spelling limits it to scholars and that his edition, with glosses and a glossary, makes it far easier to read. The Christian History Institute also recommends an edited volume of selections as the place to begin.",
       "reading_sources": [
+        "https://www.gutenberg.org/files/48250/48250-h/48250-h.htm",
         "https://christianhistoryinstitute.org/magazine/article/john-knox-recommended-resources"
       ]
     },
@@ -277,13 +278,15 @@
         "Biblical Theology",
         "Apologetics"
       ],
-      "reading_level": "[Placeholder — information to be added]",
+      "reading_level": "Moderate",
       "original_language": [
         "English"
       ],
-      "reading_note": "No reading-difficulty guidance found on the pages consulted. Not yet rated.",
+      "reading_note": "Rated Moderate by reformededucation.org. Reviewers describe the Systematic Theology (three volumes) as clearly written but a substantial academic work, and his Romans commentary as accessible to educated laypeople and a good way into his thinking. This is a judgment from those descriptions, not a measurement.",
       "reading_sources": [
-        "[Placeholder — information to be added]"
+        "https://banneroftruth.org/us/store/commentaries/romans/",
+        "https://www.logos.com/product/6237/commentary-on-the-epistle-to-the-romans",
+        "https://ccel.org/ccel/hodge/theology1.html"
       ]
     },
     {
@@ -317,11 +320,11 @@
         "Apologetics",
         "Church History"
       ],
-      "reading_level": "[Placeholder — information to be added]",
+      "reading_level": "Moderate",
       "original_language": [
         "English"
       ],
-      "reading_note": "Kim Riddlebarger notes that some of Warfield’s essays are quite basic (encyclopedia and magazine articles) while others are much more technical. Not yet rated.",
+      "reading_note": "Rated Moderate by reformededucation.org because the range is wide. Kim Riddlebarger says some of Warfield’s essays are quite basic (encyclopedia and magazine articles) and others much more technical (journal articles), and suggests choosing by topic; he especially recommends The Inspiration and Authority of the Bible and the short essay On the Religious Life of Theological Students.",
       "reading_sources": [
         "http://kimriddlebarger.squarespace.com/the-latest-post/2008/7/1/reading-warfield-where-to-begin.html"
       ]
@@ -753,9 +756,11 @@
       "original_language": [
         "English"
       ],
-      "reading_note": "No reading-difficulty guidance found. Not yet rated.",
+      "reading_note": "Not rated. The pages consulted (Wikipedia, the RTS reading guide and Monergism) describe his roles and lists of works, but none gives reading-difficulty guidance, and he has written and edited both scholarly and popular books. Rating one author from a book list would be a guess.",
       "reading_sources": [
-        "[Placeholder — information to be added]"
+        "https://en.wikipedia.org/wiki/Ligon_Duncan",
+        "https://rts.edu/readingguide/",
+        "https://www.monergism.com/j-ligon-duncan-iii"
       ]
     },
     {
