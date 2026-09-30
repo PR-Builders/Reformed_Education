@@ -2154,6 +2154,42 @@
         "notes": "Facts were gathered from the organization's own page. Its member count is its own claim. Classification and points to weigh are reformededucation.org's judgments."
       },
       "tags": []
+    },
+    {
+      "id": "tripp-shepherding-a-childs-heart-handbook",
+      "name": "Shepherding a Child's Heart: Parents Handbook",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Book",
+      "creator": "Tedd Tripp",
+      "publisher": "Shepherd Press (paperback, 2001; 143 pages)",
+      "subject": [
+        "Christian Living"
+      ],
+      "doctrinal_basis": "[Placeholder — information to be added]",
+      "points_to_weigh": [
+        "A companion workbook to Tripp’s book Shepherding a Child’s Heart, not the main book; the listing says it deepens the book’s shepherding model with Bible study, application and strategic questions.",
+        "Facts here come from a bookseller’s listing, not the publisher’s own page; the author’s and publisher’s doctrinal statements were not read."
+      ],
+      "website": "https://www.christianbook.com/shepherding-a-childs-heart-parents-handbook/tedd-tripp/9780966378641/pd/78644",
+      "description": "A 143-page paperback companion to Shepherding a Child’s Heart for parents: sections of Bible study, application, questions to help parents commit to change, and encouragement that the power of grace is at work in them.",
+      "topic_ids": [
+        "education/parents-and-the-home",
+        "christian-living/family-and-children"
+      ],
+      "research_sources": [
+        "https://www.christianbook.com/shepherding-a-childs-heart-parents-handbook/tedd-tripp/9780966378641/pd/78644"
+      ],
+      "source": {
+        "title": "Shepherding a Child's Heart: Parents Handbook: bookseller listing",
+        "organization": "Christianbook.com",
+        "url": "https://www.christianbook.com/shepherding-a-childs-heart-parents-handbook/tedd-tripp/9780966378641/pd/78644",
+        "date": "Accessed 2026-09-30 (page saved by the site owner)",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from a saved copy of the bookseller's listing. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the publisher."
+      },
+      "tags": []
     }
   ]
 }
