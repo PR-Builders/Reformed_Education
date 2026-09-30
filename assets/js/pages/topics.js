@@ -30,9 +30,9 @@ RE.pages.topics = function () {
     const sections = [...byType].map(([type, list]) => { const cfg = RE.config.collections[type];
       return `<details class="dgroup"${total <= 8 ? " open" : ""}><summary><span class="dgroup-title">${esc(cfg.label)}</span><span class="dgroup-sub">${list.length}</span></summary>
         <div class="lrows">${list.map((e) => RE.ui.directoryRow(type, e)).join("")}</div></details>`; }).join("");
-    const picks = (node.start_here || []).map((p) => { const hit = node.all.find((i) => i.type === p.type && i.entry.id === p.id); return hit ? { hit, why: p.why } : null; }).filter(Boolean);
+    const picks = (node.start_here || []).map((p) => { const hit = node.all.find((i) => i.type === p.type && i.entry.id === p.id); return hit ? { hit, why: p.why, title: p.title, href: p.href } : null; }).filter(Boolean);
     const startHere = picks.length ? `<section class="starthere"><p class="label">Start here</p>
-      <ol>${picks.map(({ hit, why }) => `<li><a href="${esc(RE.config.urlFor(hit.type, hit.entry))}"><strong>${esc(hit.entry.name)}</strong></a> <span class="muted">· ${esc(RE.config.collections[hit.type].singular)}</span><br>${esc(why)}</li>`).join("")}</ol>
+      <ol>${picks.map(({ hit, why, title, href }) => `<li><a href="${esc(href || RE.config.urlFor(hit.type, hit.entry))}"><strong>${esc(title || hit.entry.name)}</strong></a> <span class="muted">· ${esc(RE.config.collections[hit.type].singular)}</span><br>${esc(why)}</li>`).join("")}</ol>
       <p class="muted" style="font-size:.82rem;margin:0">Editorial suggestions from reformededucation.org. They describe and do not endorse.</p></section>` : "";
     root.innerHTML = `<div class="page-head"><div class="container">
         ${RE.ui.breadcrumb([{ label: "Home", href: "index.html" }, { label: "Topics", href: "topics.html" }].concat(crumbs(node).map((n, i, a) => (i < a.length - 1 ? { label: n.name, href: href(n) } : { label: n.name }))))}

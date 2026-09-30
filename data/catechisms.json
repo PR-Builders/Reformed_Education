@@ -24,7 +24,8 @@
       "count": 107,
       "file": "catechisms/wsc.json",
       "topic_ids": [
-        "theology/confessions-and-catechisms"
+        "theology/confessions-and-catechisms",
+        "christian-living/assurance-and-tender-consciences"
       ]
     },
     {
@@ -50,7 +51,8 @@
       "count": 196,
       "file": "catechisms/wlc.json",
       "topic_ids": [
-        "theology/confessions-and-catechisms"
+        "theology/confessions-and-catechisms",
+        "christian-living/assurance-and-tender-consciences"
       ]
     },
     {
@@ -111,7 +113,8 @@
       "file": "catechisms/wcf.json",
       "coverage_note": "Scripture proofs show the King James text. A few whole-chapter references are given without text.",
       "topic_ids": [
-        "theology/confessions-and-catechisms"
+        "theology/confessions-and-catechisms",
+        "christian-living/assurance-and-tender-consciences"
       ]
     },
     {
@@ -143,7 +146,8 @@
       "file": "catechisms/heidelberg.json",
       "coverage_note": "Scripture proofs show the King James text. A few whole-chapter references are given without text.",
       "topic_ids": [
-        "theology/confessions-and-catechisms"
+        "theology/confessions-and-catechisms",
+        "christian-living/assurance-and-tender-consciences"
       ]
     },
     {

@@ -1693,6 +1693,396 @@
         "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
       },
       "tags": []
+    },
+    {
+      "id": "sibbes-the-bruised-reed",
+      "name": "The Bruised Reed",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Book",
+      "creator": "Richard Sibbes",
+      "publisher": "Banner of Truth (Puritan Paperbacks; edition dated January 2021)",
+      "subject": [
+        "Christian Living",
+        "Biblical Counseling",
+        "Church History"
+      ],
+      "doctrinal_basis": "A Puritan pastoral classic published by Banner of Truth, which reprints Reformed and Puritan works.",
+      "points_to_weigh": [
+        "Seventeenth-century English; some readers find the style slow at first.",
+        "Martyn Lloyd-Jones is reported to have called it ‘balm to my soul’.",
+        "If your doubts come as repeated, intrusive thoughts that you cannot stop, see the OCD and Religious Scrupulosity topic: sources there (for example the International OCD Foundation’s packet for faith leaders) warn that extra reassurance and self-checking can feed the cycle, and recommend a qualified clinician.",
+        "This is pastoral encouragement, not medical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://banneroftruth.org/us/store/puritan-paperbacks/the-bruised-reed/",
+      "description": "An exposition of Isaiah 42:3 and Matthew 12:20, ‘a bruised reed he will not break’, on Christ’s tenderness toward the spiritually weak and discouraged, in 16 short chapters. Puritan Paperbacks edition, 160 pages; first published 1630.",
+      "topic_ids": [
+        "christian-living/assurance-and-tender-consciences",
+        "biblical-counseling/depression",
+        "biblical-counseling/shame-forgiveness-and-conflict"
+      ],
+      "research_sources": [
+        "https://banneroftruth.org/us/store/puritan-paperbacks/the-bruised-reed/"
+      ],
+      "source": {
+        "title": "The Bruised Reed: publisher or organization page",
+        "organization": "Banner of Truth",
+        "url": "https://banneroftruth.org/us/store/puritan-paperbacks/the-bruised-reed/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "brooks-heaven-on-earth",
+      "name": "Heaven on Earth: A Treatise on Christian Assurance",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Book",
+      "creator": "Thomas Brooks",
+      "publisher": "Banner of Truth (Puritan Paperbacks; edition first issued 1961)",
+      "subject": [
+        "Christian Living",
+        "Systematic Theology",
+        "Church History"
+      ],
+      "doctrinal_basis": "Puritan pastoral theology published by Banner of Truth.",
+      "points_to_weigh": [
+        "A long work in Puritan English; start with Beeke’s shorter articles if it feels heavy.",
+        "It deals with hindrances to assurance and with false assurance, which can be hard reading for a tender conscience; read it with a pastor if it troubles you.",
+        "If your doubts come as repeated, intrusive thoughts that you cannot stop, see the OCD and Religious Scrupulosity topic: sources there (for example the International OCD Foundation’s packet for faith leaders) warn that extra reassurance and self-checking can feed the cycle, and recommend a qualified clinician.",
+        "This is pastoral encouragement, not medical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://banneroftruth.org/us/store/puritan-paperbacks/heaven-on-earth/",
+      "description": "320-page Puritan treatise (first published 1654) on the roots, nature and fruit of assurance, with its hindrances and the difference between true assurance and false confidence, written with pastoral sensitivity.",
+      "topic_ids": [
+        "christian-living/assurance-and-tender-consciences"
+      ],
+      "research_sources": [
+        "https://banneroftruth.org/us/store/puritan-paperbacks/heaven-on-earth/"
+      ],
+      "source": {
+        "title": "Heaven on Earth: A Treatise on Christian Assurance: publisher or organization page",
+        "organization": "Banner of Truth",
+        "url": "https://banneroftruth.org/us/store/puritan-paperbacks/heaven-on-earth/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "lloyd-jones-spiritual-depression",
+      "name": "Spiritual Depression: Its Causes and Cure",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Book",
+      "creator": "D. Martyn Lloyd-Jones",
+      "publisher": "Eerdmans, 1965",
+      "subject": [
+        "Christian Living",
+        "Biblical Counseling",
+        "Pastoral Theology"
+      ],
+      "doctrinal_basis": "A Reformed preacher’s sermons, from the tradition of expository preaching.",
+      "points_to_weigh": [
+        "‘Spiritual depression’ here means discouragement in the Christian life, not clinical depression; see a doctor for clinical depression (see Ed Welch’s book on depression elsewhere on this site).",
+        "Written in the 1950s–60s as sermons; some illustrations are dated.",
+        "This is pastoral encouragement, not medical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://www.wtsbooks.com/products/spiritual-depression-martyn-lloyd-jones-9780802813879",
+      "description": "Twenty-one sermons from Westminster Chapel in London on the causes of the unhappiness many Christians experience and the cure, by a preacher who had trained as a physician. First published by Eerdmans in 1965, about 300 pages.",
+      "topic_ids": [
+        "christian-living/assurance-and-tender-consciences",
+        "biblical-counseling/depression"
+      ],
+      "research_sources": [
+        "https://www.wtsbooks.com/products/spiritual-depression-martyn-lloyd-jones-9780802813879",
+        "https://biblicalcounseling.com/resource-library/articles/spiritual-depression-its-causes-and-its-cure/"
+      ],
+      "source": {
+        "title": "Spiritual Depression: Its Causes and Cure: publisher or organization page",
+        "organization": "Eerdmans",
+        "url": "https://www.wtsbooks.com/products/spiritual-depression-martyn-lloyd-jones-9780802813879",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "beeke-faith-and-assurance",
+      "name": "Faith and Assurance",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Article",
+      "creator": "Joel Beeke",
+      "publisher": "Ligonier Ministries (Tabletalk)",
+      "subject": [
+        "Christian Living",
+        "Systematic Theology"
+      ],
+      "doctrinal_basis": "Written from the Westminster Confession’s teaching on assurance by a Reformed pastor and seminary president.",
+      "points_to_weigh": [
+        "One of the three means it names is pursuing obedience, which a person with a very tender conscience may turn into a test of themselves; read it with a pastor.",
+        "If your doubts come as repeated, intrusive thoughts that you cannot stop, see the OCD and Religious Scrupulosity topic: sources there (for example the International OCD Foundation’s packet for faith leaders) warn that extra reassurance and self-checking can feed the cycle, and recommend a qualified clinician.",
+        "This is pastoral encouragement, not medical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://learn.ligonier.org/articles/faith-and-assurance",
+      "description": "Tabletalk article (25 May 2013) arguing that assurance flows from faith as ‘the cream of faith’ but is not automatic, and naming three means of pursuing it: God’s covenant promises, growth in obedience and the leading of the Holy Spirit.",
+      "topic_ids": [
+        "christian-living/assurance-and-tender-consciences"
+      ],
+      "research_sources": [
+        "https://learn.ligonier.org/articles/faith-and-assurance"
+      ],
+      "source": {
+        "title": "Faith and Assurance: publisher or organization page",
+        "organization": "Ligonier Ministries",
+        "url": "https://learn.ligonier.org/articles/faith-and-assurance",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "beeke-loss-of-assurance",
+      "name": "Loss of Assurance",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Article",
+      "creator": "Joel Beeke",
+      "publisher": "Ligonier Ministries (Tabletalk)",
+      "subject": [
+        "Christian Living",
+        "Systematic Theology"
+      ],
+      "doctrinal_basis": "Drawn from the Westminster Confession, chapter XVIII.",
+      "points_to_weigh": [
+        "It includes reviewing one’s life; for someone prone to scrupulous self-checking this can become a compulsion, so read it with a pastor.",
+        "If your doubts come as repeated, intrusive thoughts that you cannot stop, see the OCD and Religious Scrupulosity topic: sources there (for example the International OCD Foundation’s packet for faith leaders) warn that extra reassurance and self-checking can feed the cycle, and recommend a qualified clinician.",
+        "This is pastoral encouragement, not medical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://learn.ligonier.org/articles/loss-assurance",
+      "description": "Tabletalk article (25 June 2016) on why Christians lose their sense of assurance (negligence, falling into sin, temptation, God withdrawing for their growth) and how it is recovered: by the same means it is first obtained, including confession and returning to God in repentance and faith, relying on Christ’s merit rather than oneself.",
+      "topic_ids": [
+        "christian-living/assurance-and-tender-consciences",
+        "biblical-counseling/shame-forgiveness-and-conflict"
+      ],
+      "research_sources": [
+        "https://learn.ligonier.org/articles/loss-assurance"
+      ],
+      "source": {
+        "title": "Loss of Assurance: publisher or organization page",
+        "organization": "Ligonier Ministries",
+        "url": "https://learn.ligonier.org/articles/loss-assurance",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "beeke-assurance-of-faith-series",
+      "name": "Assurance of Faith (teaching series)",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Lecture Series",
+      "creator": "Joel Beeke",
+      "publisher": "Ligonier Ministries",
+      "subject": [
+        "Christian Living",
+        "Systematic Theology"
+      ],
+      "doctrinal_basis": "Drawn from Scripture and the Westminster Confession.",
+      "points_to_weigh": [
+        "Paid (prices on Ligonier’s page when I checked); the articles above are free.",
+        "If your doubts come as repeated, intrusive thoughts that you cannot stop, see the OCD and Religious Scrupulosity topic: sources there (for example the International OCD Foundation’s packet for faith leaders) warn that extra reassurance and self-checking can feed the cycle, and recommend a qualified clinician.",
+        "This is pastoral encouragement, not medical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://www.ligonier.org/posts/assurance-faith-new-teaching-series-joel-beeke",
+      "description": "Eleven teaching sessions of about 23 minutes each from Ligonier: what assurance is, why people lack it, divine promises, personal evidences, the Holy Spirit’s role, and how to cultivate and renew assurance. Available as DVD, CD, digital download or through Ligonier Connect.",
+      "topic_ids": [
+        "christian-living/assurance-and-tender-consciences"
+      ],
+      "research_sources": [
+        "https://www.ligonier.org/posts/assurance-faith-new-teaching-series-joel-beeke"
+      ],
+      "source": {
+        "title": "Assurance of Faith (teaching series): publisher or organization page",
+        "organization": "Ligonier Ministries",
+        "url": "https://www.ligonier.org/posts/assurance-faith-new-teaching-series-joel-beeke",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "goodwin-the-heart-of-christ",
+      "name": "The Heart of Christ",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Book",
+      "creator": "Thomas Goodwin",
+      "publisher": "Banner of Truth (Puritan Paperbacks; edition dated January 2022)",
+      "subject": [
+        "Christian Living",
+        "Biblical Counseling",
+        "Church History"
+      ],
+      "doctrinal_basis": "A Puritan pastoral classic published by Banner of Truth, which reprints Reformed and Puritan works.",
+      "points_to_weigh": [
+        "Seventeenth-century English; first published 1651.",
+        "If your doubts come as repeated, intrusive thoughts that you cannot stop, see the OCD and Religious Scrupulosity topic: sources there (for example the International OCD Foundation’s packet for faith leaders) warn that extra reassurance and self-checking can feed the cycle, and recommend a qualified clinician.",
+        "This is pastoral encouragement, not medical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://banneroftruth.org/us/store/puritan-paperbacks/the-heart-of-christ/",
+      "description": "A 136-page Puritan Paperbacks edition of Goodwin’s most popular book, on Hebrews 4:15 and Christ’s tender affection in heaven toward his people, both in their afflictions and in their sins.",
+      "topic_ids": [
+        "christian-living/assurance-and-tender-consciences",
+        "biblical-counseling/depression",
+        "biblical-counseling/shame-forgiveness-and-conflict"
+      ],
+      "research_sources": [
+        "https://banneroftruth.org/us/store/puritan-paperbacks/the-heart-of-christ/"
+      ],
+      "source": {
+        "title": "The Heart of Christ: publisher or organization page",
+        "organization": "Banner of Truth",
+        "url": "https://banneroftruth.org/us/store/puritan-paperbacks/the-heart-of-christ/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "rutherford-letters",
+      "name": "Letters of Samuel Rutherford",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Book",
+      "creator": "Samuel Rutherford",
+      "publisher": "Banner of Truth (edition of 7 April 2006; facsimile of Andrew Bonar’s 1891 edition)",
+      "subject": [
+        "Christian Living",
+        "Church History"
+      ],
+      "doctrinal_basis": "Seventeenth-century pastoral letters reprinted by Banner of Truth, which publishes Reformed and Puritan works.",
+      "points_to_weigh": [
+        "744 pages with 365 letters; a large, reference-style book better read a letter at a time than straight through.",
+        "Some letters address church controversies of his day rather than personal struggles.",
+        "If your doubts come as repeated, intrusive thoughts that you cannot stop, see the OCD and Religious Scrupulosity topic: sources there (for example the International OCD Foundation’s packet for faith leaders) warn that extra reassurance and self-checking can feed the cycle, and recommend a qualified clinician.",
+        "This is pastoral encouragement, not medical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://banneroftruth.org/us/store/puritan-paperbacks/letters-of-samuel-rutherford/",
+      "description": "First published in 1664. Letters to people from nobility to ordinary parishioners on self-examination, deception, and the love of Christ known through suffering. Includes a 30-page biographical introduction, subject indices, a glossary of archaic terms and notes on the recipients.",
+      "topic_ids": [
+        "christian-living/assurance-and-tender-consciences",
+        "biblical-counseling/grief-and-suffering"
+      ],
+      "research_sources": [
+        "https://banneroftruth.org/us/store/puritan-paperbacks/letters-of-samuel-rutherford/"
+      ],
+      "source": {
+        "title": "Letters of Samuel Rutherford: publisher or organization page",
+        "organization": "Banner of Truth",
+        "url": "https://banneroftruth.org/us/store/puritan-paperbacks/letters-of-samuel-rutherford/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "brooks-precious-remedies",
+      "name": "Precious Remedies Against Satan’s Devices",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Book",
+      "creator": "Thomas Brooks",
+      "publisher": "Banner of Truth (Puritan Paperbacks; edition dated September 2021)",
+      "subject": [
+        "Christian Living",
+        "Biblical Counseling",
+        "Church History"
+      ],
+      "doctrinal_basis": "Puritan pastoral theology published by Banner of Truth.",
+      "points_to_weigh": [
+        "Seventeenth-century English; first published 1652.",
+        "Organized around Satan’s devices, including those that stir up doubt; read with care if you tend to over-examine yourself.",
+        "If your doubts come as repeated, intrusive thoughts that you cannot stop, see the OCD and Religious Scrupulosity topic: sources there (for example the International OCD Foundation’s packet for faith leaders) warn that extra reassurance and self-checking can feed the cycle, and recommend a qualified clinician.",
+        "This is pastoral encouragement, not medical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://banneroftruth.org/us/store/puritan-paperbacks/precious-remedies-against-satans-devices/",
+      "description": "344-page Puritan Paperbacks edition. Brooks sets out Satan’s devices to entice toward sin, to discourage religious practice and to create spiritual doubt, with biblical remedies for each.",
+      "topic_ids": [
+        "christian-living/assurance-and-tender-consciences",
+        "biblical-counseling/overcoming-sin"
+      ],
+      "research_sources": [
+        "https://banneroftruth.org/us/store/puritan-paperbacks/precious-remedies-against-satans-devices/"
+      ],
+      "source": {
+        "title": "Precious Remedies Against Satan’s Devices: publisher or organization page",
+        "organization": "Banner of Truth",
+        "url": "https://banneroftruth.org/us/store/puritan-paperbacks/precious-remedies-against-satans-devices/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "bunyan-grace-abounding",
+      "name": "Grace Abounding to the Chief of Sinners",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Book",
+      "creator": "John Bunyan",
+      "publisher": "Banner of Truth (edition of 25 April 2018)",
+      "subject": [
+        "Christian Living",
+        "Church History"
+      ],
+      "doctrinal_basis": "Puritan spiritual autobiography published by Banner of Truth.",
+      "points_to_weigh": [
+        "Bunyan recounts long seasons of terror and doubt before he came to rest in Christ; some readers find it a comfort, others find the intensity heavy.",
+        "First published 1666.",
+        "If your doubts come as repeated, intrusive thoughts that you cannot stop, see the OCD and Religious Scrupulosity topic: sources there (for example the International OCD Foundation’s packet for faith leaders) warn that extra reassurance and self-checking can feed the cycle, and recommend a qualified clinician.",
+        "This is pastoral encouragement, not medical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://banneroftruth.org/us/store/christian-living/grace-abounding/",
+      "description": "184 pages. Bunyan’s account of how he came to understand and rest in the love of God in Christ, written for his spiritual children; includes his imprisonment narrative and a continuation of his life.",
+      "topic_ids": [
+        "christian-living/assurance-and-tender-consciences",
+        "biblical-counseling/depression"
+      ],
+      "research_sources": [
+        "https://banneroftruth.org/us/store/christian-living/grace-abounding/"
+      ],
+      "source": {
+        "title": "Grace Abounding to the Chief of Sinners: publisher or organization page",
+        "organization": "Banner of Truth",
+        "url": "https://banneroftruth.org/us/store/christian-living/grace-abounding/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
     }
   ]
 }

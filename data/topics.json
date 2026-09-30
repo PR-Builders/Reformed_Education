@@ -112,6 +112,55 @@
       "blurb": "Growing in faith day by day.",
       "children": [
         {
+          "id": "assurance-and-tender-consciences",
+          "name": "Assurance and Tender Consciences",
+          "blurb": "Encouragement in the gospel for Christians who doubt that they are saved, who are weighed down by sin or discouragement, or who have a very tender conscience.",
+          "notice": "Doubt and a heavy conscience are common, and the gospel is for them. If your doubts come as repeated, intrusive thoughts you cannot stop, see the OCD and Religious Scrupulosity topic. If you are depressed or in crisis, talk to your pastor or a doctor; in the U.S. you can call or text 988 at any time.",
+          "start_here": [
+            {
+              "type": "resources",
+              "id": "sibbes-the-bruised-reed",
+              "why": "Christ will not break a bruised reed: a Puritan classic for the discouraged."
+            },
+            {
+              "type": "resources",
+              "id": "goodwin-the-heart-of-christ",
+              "why": "Christ’s tender heart in heaven toward his people in their sins and sorrows."
+            },
+            {
+              "type": "resources",
+              "id": "rutherford-letters",
+              "why": "Pastoral letters of comfort in suffering and doubt; best read one at a time."
+            },
+            {
+              "type": "resources",
+              "id": "beeke-faith-and-assurance",
+              "why": "A short article on how faith and assurance relate."
+            },
+            {
+              "type": "catechisms",
+              "id": "wcf",
+              "title": "Westminster Confession, chapter XVIII: Of the Assurance of Grace and Salvation",
+              "href": "confession.html?id=wcf&ch=18",
+              "why": "The church’s short statement on assurance, with Scripture proofs."
+            },
+            {
+              "type": "catechisms",
+              "id": "wlc",
+              "title": "Larger Catechism, questions 80–81",
+              "href": "question.html?id=wlc&q=80",
+              "why": "Can believers be assured, and must they always be? (Question 81: assurance is ‘not of the essence of faith’, so believers may wait long for it.)"
+            },
+            {
+              "type": "catechisms",
+              "id": "heidelberg",
+              "title": "Heidelberg Catechism, question 1",
+              "href": "question.html?id=heidelberg&q=1",
+              "why": "‘What is your only comfort in life and death?’"
+            }
+          ]
+        },
+        {
           "id": "daily-devotions",
           "name": "Daily Devotions",
           "start_here": [
