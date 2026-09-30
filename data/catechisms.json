@@ -82,15 +82,15 @@
       "placeholder": false,
       "verification": "researched",
       "status": "ready",
-      "description": "The Westminster Confession of Faith: 33 chapters, 172 numbered sections, each with its Scripture references.",
+      "description": "The Westminster Confession of Faith: 33 chapters, 172 numbered sections, each with its Scripture proofs from the King James Version.",
       "tags": [],
       "source": {
         "title": "The Westminster Confession of Faith",
         "copyright_status": "public-domain",
         "copyright": "Public domain.",
         "license": "Public domain",
-        "translation": "Scripture proofs given as references only",
-        "notes": "Public domain. Text transcribed from the unrevised (pre-1788) Westminster Confession as published by apuritansmind.com, which reformed.org's historic-documents index links to. Compared with the Orthodox Presbyterian Church's text (the American revision): the two agree except where the 1788 revision changed the chapters on the civil magistrate, marriage, church synods and the head of the church, and in scattered single-word variants (for example V.5, VII.3, XIII.2 and XVI.3). It has not yet been proofread against a standard printed edition.",
+        "translation": "Scripture proofs: King James Version",
+        "notes": "Public domain. Text transcribed from the unrevised (pre-1788) Westminster Confession as published by apuritansmind.com, which reformed.org's historic-documents index links to. Compared with the Orthodox Presbyterian Church's text (the American revision): the two agree except where the 1788 revision changed the chapters on the civil magistrate, marriage, church synods and the head of the church, and in scattered single-word variants (for example V.5, VII.3, XIII.2 and XVI.3). It has not yet been proofread against a standard printed edition. Scripture proof texts are the King James Version, from the public-domain Project Gutenberg edition, added with tools/add_kjv.py. A few references could not be matched to verses (whole-chapter references such as ‘Genesis 1 throughout’, and typing slips in the source) and are shown without text.",
         "url": "https://www.apuritansmind.com/westminster-standards/",
         "date": "First published 1646–1647"
       },
@@ -100,7 +100,7 @@
       ],
       "structure": "chapters",
       "file": "catechisms/wcf.json",
-      "coverage_note": "Scripture references are shown as citations; the text of each passage is not yet included."
+      "coverage_note": "Scripture proofs show the King James text. A few whole-chapter references are given without text."
     },
     {
       "id": "heidelberg",
@@ -111,15 +111,15 @@
       "placeholder": false,
       "verification": "researched",
       "status": "ready",
-      "description": "The Heidelberg Catechism: 129 questions and answers with Scripture references, grouped into the introduction and its three parts (misery, deliverance, thankfulness).",
+      "description": "The Heidelberg Catechism: 129 questions and answers with King James Version Scripture proofs, grouped into the introduction and its three parts (misery, deliverance, thankfulness).",
       "tags": [],
       "source": {
         "title": "The Heidelberg Catechism",
         "copyright_status": "public-domain",
         "copyright": "Public domain.",
         "license": "Public domain",
-        "translation": "English translation as published by apuritansmind.com; Scripture proofs given as references only",
-        "notes": "Public domain. Text transcribed from apuritansmind.com, which reformed.org's historic-documents index links to. Compared automatically with the PDF at heidelberg-catechism.com, which is the same translation family: 217 of 258 questions and answers matched. Of the 41 that did not, I checked 18 by hand: Q12, Q18, Q27, Q56 and Q61 differ in wording, and the others were page-layout noise in the PDF; the remaining 23 were not checked by hand. Not yet proofread against a printed edition. Part divisions are the standard ones (Q1–2 introduction; Q3–11 misery; Q12–85 deliverance; Q86–129 thankfulness). The question 23 creed text had verse-number markers removed.",
+        "translation": "English translation as published by apuritansmind.com; Scripture proofs: King James Version",
+        "notes": "Public domain. Text transcribed from apuritansmind.com, which reformed.org's historic-documents index links to. Compared automatically with the PDF at heidelberg-catechism.com, which is the same translation family: 217 of 258 questions and answers matched. Of the 41 that did not, I checked 18 by hand: Q12, Q18, Q27, Q56 and Q61 differ in wording, and the others were page-layout noise in the PDF; the remaining 23 were not checked by hand. Not yet proofread against a printed edition. Part divisions are the standard ones (Q1–2 introduction; Q3–11 misery; Q12–85 deliverance; Q86–129 thankfulness). The question 23 creed text had verse-number markers removed. Scripture proof texts are the King James Version, from the public-domain Project Gutenberg edition, added with tools/add_kjv.py. A few references could not be matched to verses (whole-chapter references such as ‘Genesis 1 throughout’, and typing slips in the source) and are shown without text.",
         "url": "https://www.apuritansmind.com/creeds-and-confessions/the-heidelberg-catechism-by-zacharias-ursinus/",
         "date": "First published 1563"
       },
@@ -129,7 +129,7 @@
         "https://www.heidelberg-catechism.com/pdf/lords-days/Heidelberg-Catechism.pdf"
       ],
       "file": "catechisms/heidelberg.json",
-      "coverage_note": "Scripture references are shown as citations; the text of each passage is not yet included."
+      "coverage_note": "Scripture proofs show the King James text. A few whole-chapter references are given without text."
     },
     {
       "id": "belgic",
@@ -233,15 +233,15 @@
       "placeholder": false,
       "verification": "researched",
       "status": "ready",
-      "description": "The Second London Baptist Confession of Faith (1677, adopted 1689): 32 chapters, with Scripture references for each section.",
+      "description": "The Second London Baptist Confession of Faith (1677, adopted 1689): 32 chapters, with King James Version Scripture proofs for each section.",
       "tags": [],
       "source": {
         "title": "The Second London Baptist Confession of Faith",
         "copyright_status": "public-domain",
         "copyright": "Public domain.",
         "license": "Public domain",
-        "translation": "English text, spelling modernized (original English)",
-        "notes": "Public domain: published before 1931. Text taken from Wikisource, which marks it as a text without a scanned source, and compared with a second transcription on reformedreader.org: the two agree apart from that site's footnote numbers, and both give the same section counts. Not yet proofread against a scanned original.",
+        "translation": "English text, spelling modernized; Scripture proofs: King James Version",
+        "notes": "Public domain: published before 1931. Text taken from Wikisource, which marks it as a text without a scanned source, and compared with a second transcription on reformedreader.org: the two agree apart from that site's footnote numbers, and both give the same section counts. Not yet proofread against a scanned original. Scripture proof texts are the King James Version, from the public-domain Project Gutenberg edition, added with tools/add_kjv.py. A few references could not be matched to verses (whole-chapter references such as ‘Genesis 1 throughout’, and typing slips in the source) and are shown without text.",
         "url": "https://en.wikisource.org/wiki/1689_Baptist_Confession_of_Faith",
         "date": "1677; adopted 1689"
       },
@@ -253,7 +253,7 @@
       "structure": "chapters",
       "unit": "chapter",
       "file": "catechisms/lbcf1689.json",
-      "coverage_note": "Spelling is modernized in the text used here. The 1677 preface, the closing statement and the list of signatories are not included. Scripture references are shown as a group after each section, as the source gives them."
+      "coverage_note": "Spelling is modernized in the text used here. The 1677 preface, the closing statement and the list of signatories are not included. Scripture proofs show the King James text and follow each section as the source groups them; a few references are given without text."
     },
     {
       "id": "baptist-catechism",
@@ -264,21 +264,21 @@
       "placeholder": false,
       "verification": "researched",
       "status": "ready",
-      "description": "The Baptist Catechism (commonly called Keach’s Catechism), in the text of the 1695 fifth edition: 114 questions and answers with Scripture references.",
+      "description": "The Baptist Catechism (commonly called Keach’s Catechism), in the text of the 1695 fifth edition: 114 questions and answers with King James Version Scripture proofs.",
       "tags": [],
       "source": {
         "title": "The Baptist Catechism (Keach’s Catechism)",
         "copyright_status": "public-domain",
         "copyright": "Public domain.",
         "license": "Public domain",
-        "translation": "Original English, spelling lightly modernized",
-        "notes": "Public domain: published before 1931. Text taken from baptistcatechism.org, which uses the oldest known copy (the 1695 fifth edition). The other online text I found (reformedreader.org) is the Spurgeon-era version, a different wording, so it could not be used to check this one. Not yet proofread against a scanned original.",
+        "translation": "Original English, spelling lightly modernized; Scripture proofs: King James Version",
+        "notes": "Public domain: published before 1931. Text taken from baptistcatechism.org, which uses the oldest known copy (the 1695 fifth edition). The other online text I found (reformedreader.org) is the Spurgeon-era version, a different wording, so it could not be used to check this one. Not yet proofread against a scanned original. Scripture proof texts are the King James Version, from the public-domain Project Gutenberg edition, added with tools/add_kjv.py. A few references could not be matched to verses (whole-chapter references such as ‘Genesis 1 throughout’, and typing slips in the source) and are shown without text.",
         "date": "1693; text of the 1695 fifth edition",
         "url": "https://baptistcatechism.org/"
       },
       "count": 114,
       "file": "catechisms/baptist-catechism.json",
-      "coverage_note": "Scripture references are shown as citations; the text of each passage is not yet included. This is the original 1693–1695 catechism. Charles Spurgeon’s later edition, which follows the Westminster Shorter Catechism more closely, is a different text.",
+      "coverage_note": "Scripture proofs show the King James text; a few whole-chapter references are given without text. This is the original 1693–1695 catechism. Charles Spurgeon’s later edition, which follows the Westminster Shorter Catechism more closely, is a different text.",
       "research_sources": [
         "https://baptistcatechism.org/",
         "https://www.reformedreader.org/ccc/keachcat.htm"

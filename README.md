@@ -119,3 +119,7 @@ No custom domain, accounts, authentication, analytics, advertising or external s
 ## Confessions (chapter-and-section documents)
 
 Documents that are not question-and-answer (currently the Westminster Confession) use `"structure": "chapters"` in `data/catechisms.json` and a file `data/catechisms/<id>.json` shaped `{ "chapters": [{ n, numeral, title, sections: [{ n, text, proofs: [{ key, ref }] }] }] }`. Footnote letters appear in the text as `{a}` and must match the `proofs` keys (checked by `tools/validate_data.py`). They are read at `confession.html?id=<id>` and are included in site search.
+
+## King James Version proof texts
+
+`tools/add_kjv.py path/to/pg10.txt` (Project Gutenberg's public-domain KJV plain text) fills in the text of Scripture references in `data/catechisms/*.json`. It splits multi-passage references into one proof per passage, keeps footnote keys, and prints the references it could not match (whole-chapter references and typing slips). It only touches proofs whose `text` is empty, so it is safe to re-run after adding a new document.

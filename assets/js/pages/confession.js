@@ -31,7 +31,7 @@ RE.pages.confession = function () {
       <p class="label">${esc(doc.name)} · ${esc(lab(ch))}</p><h1>${esc(ch.title)}</h1>${note}
       ${ch.sections.map((s) => `<section class="sec${s.n === hl ? " is-target" : ""}" id="s${s.n}">
         <p class="prose" style="font-size:1.12rem;white-space:pre-line">${art || s.label === "" ? "" : `<span class="sec-num">${esc(ch.numeral)}.${s.n}</span>`}${body(s)}</p>
-        ${s.proofs.length ? `<ul class="proofs">${s.proofs.map((p) => `<li${p.key ? ` id="p${s.n}${esc(p.key)}"` : ""}><strong>${p.key ? esc(p.key) + "." : "Scripture:"}</strong> ${esc(p.ref)}</li>`).join("")}</ul>` : ""}</section>`).join("")}
+        ${s.proofs.length ? `<ul class="proofs">${s.proofs.map((p) => `<li${p.key ? ` id="p${s.n}${esc(p.key)}"` : ""}><strong>${p.key ? esc(p.key) + ". " : ""}${esc(p.ref)}</strong>${p.text ? " " + esc(p.text) : ""}</li>`).join("")}</ul>` : ""}</section>`).join("")}
       <div class="tool-controls">
         ${chs.some((c) => c.n === ch.n - 1) ? `<a class="btn" href="${url(ch.n - 1)}">← ${esc(lab(chs[ch.n - 2]))}</a>` : ""}
         <a class="btn" href="confession.html?id=${esc(doc.id)}">All ${art ? "articles" : "chapters"}</a>
