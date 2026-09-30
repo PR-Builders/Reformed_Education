@@ -83,35 +83,36 @@
       "abbreviation": "RPCNA",
       "tradition": "Presbyterian",
       "doctrinal_posture": "Confessional Reformed",
-      "founded": "Descends from the Scottish Covenanters",
-      "standards": "The Westminster Confession of Faith and the Larger and Shorter Catechisms, with an official Testimony printed alongside stating objections",
-      "polity": "Presbyterian",
+      "founded": "First congregation organized in North America in 1743; roots in the Scottish Covenanters and the Seceders",
+      "standards": "The Westminster Confession of Faith and the Larger and Shorter Catechisms, together with the RPCNA Testimony, which it calls its continuing application of Scripture to the world and church today",
+      "polity": "Presbyterian: elders in each congregation, presbyteries and Synod",
       "size": "About 100 congregations and 7,000 members as of 2021 (reported by Wikipedia)",
-      "website": "https://www.reformedpresbyterian.org/convictions/",
-      "description": "Presbyterian denomination known for exclusive psalmody, singing only psalms and without instruments, and for affirming Jesus as king over all nations.",
-      "doctrinal_basis": "Keeps the original Westminster text rather than revised versions, stating its objections in its Testimony.",
+      "website": "https://reformedpresbyterian.org/convictions",
+      "description": "Presbyterian denomination of Covenanter heritage, known for exclusive psalmody without instruments and for confessing Christ as King over church and state. It has sister churches in Ireland, Scotland, Australia and Canada, and its institutions include Geneva College, Reformed Presbyterian Theological Seminary and Crown & Covenant Publications.",
+      "doctrinal_basis": "Commits to the Bible as the inerrant, infallible Word of God; accepts the Westminster Standards as subordinate standards and the RPCNA Testimony as its continuing application of Scripture.",
       "points_to_weigh": [
-        "The denomination’s own site returned a hosting suspension notice when I checked, so these facts come from secondary sources; confirm on its current site.",
-        "Its worship differs from most Presbyterian churches (exclusive psalmody, no instruments)."
+        "Its worship (psalms only, no instruments) differs from most Presbyterian churches, including the PCA and OPC.",
+        "Its membership figure (about 100 congregations and 7,000 members as of 2021) comes from Wikipedia; the denomination’s own page gives no figure."
       ],
       "research_sources": [
-        "https://en.wikipedia.org/wiki/Reformed_Presbyterian_Church_of_North_America",
-        "https://reformed.org/worship/exclusive-psalmody/"
+        "https://reformedpresbyterian.org/convictions (page saved by the site owner from the denomination’s own site)",
+        "https://en.wikipedia.org/wiki/Reformed_Presbyterian_Church_of_North_America"
       ],
       "source": {
         "title": "Reformed Presbyterian Church of North America: denomination pages and public-record summary",
         "organization": "Reformed Presbyterian Church of North America",
-        "url": "https://www.reformedpresbyterian.org/convictions/",
+        "url": "https://reformedpresbyterian.org/convictions",
         "date": "Accessed 2026-09-30",
         "license": "Facts only; no text reproduced",
         "copyright_status": "retained",
-        "notes": "Facts were gathered from the denomination's own pages where they could be read, and from the other sources listed. Sizes are as reported by the source and year named; confirm current figures with the denomination. Classification and points to weigh are reformededucation.org's judgments."
+        "notes": "Facts were gathered from the denomination's own pages where they could be read, and from the other sources listed. Sizes are as reported by the source and year named; confirm current figures with the denomination. Classification and points to weigh are reformededucation.org's judgments. Beliefs and history are from the denomination's own Convictions page, saved by the site owner because the site could not be reached; the size figure is from Wikipedia."
       },
       "tags": [],
       "distinctives": [
-        "Exclusive psalmody: only the psalms are sung in worship, without instruments.",
-        "Affirms Jesus as king over all nations.",
-        "Keeps the original Westminster text and states its objections in an official Testimony."
+        "Exclusive psalmody: congregational praise uses only the Book of Psalms, sung without musical instruments.",
+        "Confesses the kingship of Christ over the state as well as the church, from its Covenanter heritage (‘Christ’s Crown and Covenant’).",
+        "Adds its own Testimony to the Westminster Standards.",
+        "Sees reading and exposition of the Word as the center of worship."
       ]
     },
     {
