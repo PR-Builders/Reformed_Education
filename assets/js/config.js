@@ -20,7 +20,7 @@
   ];
 
   RE.config = {
-    version: "202609301538",   // stamped by tools/bump_version.py; appended to data requests to avoid stale caches
+    version: "202609301550",   // stamped by tools/bump_version.py; appended to data requests to avoid stale caches
     siteName: "Reformed Education",
     tagline: "Reformed education and resources, in one place.",
     latinTagline: "Quaere et Disce",
@@ -39,6 +39,7 @@
         ] },
         { title: "Churches", items: [
           { label: "Denominations", href: "denominations.html", key: "denominations", blurb: "Presbyterian and Reformed church bodies, with their standards and distinctives." },
+          { label: "Notable churches", href: "churches.html", key: "churches", blurb: "Well-known conservative Presbyterian churches with sermons online." },
           { label: "Church officer training", href: "officers.html", key: "officers", blurb: "Training for elders, deacons and pastors." },
         ] },
         { title: "Read and listen", items: [
@@ -223,6 +224,26 @@
           { key: "size", label: "Size (as reported)" },
           { key: "distinctives", label: "What it believes and practices", type: "list" },
           { key: "women_in_office", label: "Women in church office" },
+          { key: "doctrinal_basis", label: "Doctrinal basis" },
+          { key: "points_to_weigh", label: "Points to weigh", type: "list" },
+          { key: "research_sources", label: "Sources consulted", type: "list" },
+          { key: "website", label: "Website", type: "url" },
+          { key: "description", label: "Description", type: "text" },
+        ],
+      },
+      churches: {
+        file: "churches.json", label: "Notable Churches", singular: "Church", page: "churches.html",
+        intro: "Well-known conservative Presbyterian churches with sermons online. Pastors change, so confirm the current pastor and beliefs on each church's own site.",
+        cardMeta: ["location", "denomination"], filters: ["denomination"], defaultView: "list",
+        classificationNotice: "Groupings are reformededucation.org's own classification of each church's denomination, made from the sources listed on its page. They describe, and do not endorse. Churches change; confirm current details with the church.",
+        fields: [
+          { key: "doctrinal_posture", label: "Theological posture" },
+          { key: "denomination", label: "Denomination" },
+          { key: "location", label: "Location" },
+          { key: "founded", label: "Founded" },
+          { key: "pastors", label: "Pastors" },
+          { key: "standards", label: "Confessional standards" },
+          { key: "sermons", label: "Sermons", type: "url" },
           { key: "doctrinal_basis", label: "Doctrinal basis" },
           { key: "points_to_weigh", label: "Points to weigh", type: "list" },
           { key: "research_sources", label: "Sources consulted", type: "list" },

@@ -212,5 +212,19 @@
       "Broadly evangelical",
       "Mainline (PC(USA))"
     ]
+  },
+  "churches": {
+    "denomination": [
+      "Presbyterian Church in America",
+      "Orthodox Presbyterian Church",
+      "Associate Reformed Presbyterian Church"
+    ],
+    "doctrinal_posture": [
+      "Confessional Reformed",
+      "Reformed heritage",
+      "Conservative evangelical",
+      "Broadly evangelical",
+      "Mainline (PC(USA))"
+    ]
   }
 }
