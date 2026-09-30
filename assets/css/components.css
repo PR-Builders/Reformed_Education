@@ -288,3 +288,5 @@ details.dgroup .lrows, details.dgroup .grid { padding: 0 8px 8px; }
 details.more > summary { display: inline-block; cursor: pointer; list-style: none; }
 details.more > summary::-webkit-details-marker { display: none; }
 details.more[open] > summary { display: none; }
+.starthere { border-left: 3px solid var(--color-gold); background: var(--color-gold-100); padding: 16px 20px; margin-bottom: 32px; border-radius: 0 6px 6px 0; }
+.starthere ol { margin: 8px 0 12px; padding-left: 1.2rem; display: grid; gap: 8px; }

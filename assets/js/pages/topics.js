@@ -26,16 +26,21 @@ RE.pages.topics = function () {
     const kids = node.children.filter(has);
     const byType = new Map();
     node.all.forEach((i) => { if (!byType.has(i.type)) byType.set(i.type, []); byType.get(i.type).push(i.entry); });
+    const total = node.all.length;
     const sections = [...byType].map(([type, list]) => { const cfg = RE.config.collections[type];
-      return `<section class="group"><h2>${esc(cfg.label)} <span class="muted" style="font-size:1rem;font-family:var(--font-body);font-weight:400">(${list.length})</span></h2>
-        <div class="lrows">${list.slice(0, 12).map((e) => RE.ui.directoryRow(type, e)).join("")}</div>
-        ${list.length > 12 ? `<details class="more"><summary class="btn" style="margin-top:12px">Show the other ${list.length - 12}</summary><div class="lrows">${list.slice(12).map((e) => RE.ui.directoryRow(type, e)).join("")}</div></details>` : ""}</section>`; }).join("");
+      return `<details class="dgroup"${total <= 8 ? " open" : ""}><summary><span class="dgroup-title">${esc(cfg.label)}</span><span class="dgroup-sub">${list.length}</span></summary>
+        <div class="lrows">${list.map((e) => RE.ui.directoryRow(type, e)).join("")}</div></details>`; }).join("");
+    const picks = (node.start_here || []).map((p) => { const hit = node.all.find((i) => i.type === p.type && i.entry.id === p.id); return hit ? { hit, why: p.why } : null; }).filter(Boolean);
+    const startHere = picks.length ? `<section class="starthere"><p class="label">Start here</p>
+      <ol>${picks.map(({ hit, why }) => `<li><a href="${esc(RE.config.urlFor(hit.type, hit.entry))}"><strong>${esc(hit.entry.name)}</strong></a> <span class="muted">· ${esc(RE.config.collections[hit.type].singular)}</span><br>${esc(why)}</li>`).join("")}</ol>
+      <p class="muted" style="font-size:.82rem;margin:0">Editorial suggestions from reformededucation.org. They describe and do not endorse.</p></section>` : "";
     root.innerHTML = `<div class="page-head"><div class="container">
         ${RE.ui.breadcrumb([{ label: "Home", href: "index.html" }, { label: "Topics", href: "topics.html" }].concat(crumbs(node).map((n, i, a) => (i < a.length - 1 ? { label: n.name, href: href(n) } : { label: n.name }))))}
         <p class="label">${node.parent ? "Topic" : "Topic area"}</p><h1>${esc(node.name)}</h1>${node.blurb ? `<p class="prose">${esc(node.blurb)}</p>` : ""}</div></div>
       <div class="container page-body">
+        ${startHere}
         ${kids.length ? `<h2>Narrower topics</h2><div class="grid grid-cards" style="margin-bottom:40px">${kids.map(card).join("")}</div>` : ""}
-        ${kids.length ? `<h2>Everything in ${esc(node.name)}</h2>` : ""}${sections}
+        <h2>All ${total} resources in ${esc(node.name)}</h2>${sections}
       </div>`;
   });
 };

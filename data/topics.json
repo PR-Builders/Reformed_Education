@@ -8,7 +8,24 @@
       "children": [
         {
           "id": "systematic-theology",
-          "name": "Systematic Theology"
+          "name": "Systematic Theology",
+          "start_here": [
+            {
+              "type": "catechisms",
+              "id": "wsc",
+              "why": "The best-known short summary of Reformed teaching: 107 questions and answers, with study tools."
+            },
+            {
+              "type": "podcasts",
+              "id": "ask-ligonier",
+              "why": "Ligonier teachers answer listener questions on the Bible and theology."
+            },
+            {
+              "type": "podcasts",
+              "id": "renewing-your-mind",
+              "why": "Ligonier’s daily program of biblical and theological teaching."
+            }
+          ]
         },
         {
           "id": "biblical-theology",
@@ -24,11 +41,45 @@
         },
         {
           "id": "confessions-and-catechisms",
-          "name": "Confessions and Catechisms"
+          "name": "Confessions and Catechisms",
+          "start_here": [
+            {
+              "type": "catechisms",
+              "id": "wsc",
+              "why": "Short and memorizable: 107 questions and answers."
+            },
+            {
+              "type": "catechisms",
+              "id": "heidelberg",
+              "why": "129 questions in three parts: misery, deliverance, thankfulness."
+            },
+            {
+              "type": "catechisms",
+              "id": "wcf",
+              "why": "The fullest Westminster statement, in 33 chapters."
+            }
+          ]
         },
         {
           "id": "ethics",
           "name": "Ethics"
+        }
+      ],
+      "start_here": [
+        {
+          "type": "catechisms",
+          "id": "wsc",
+          "why": "The best-known short summary of Reformed teaching: 107 questions and answers, with study tools."
+        },
+        {
+          "type": "podcasts",
+          "id": "ask-ligonier",
+          "why": "Ligonier teachers answer listener questions on the Bible and theology."
+        },
+        {
+          "type": "podcasts",
+          "id": "renewing-your-mind",
+          "why": "Ligonier’s daily program of biblical and theological teaching."
         }
       ]
     },
@@ -41,6 +92,18 @@
           "id": "reformation-history",
           "name": "Reformation History"
         }
+      ],
+      "start_here": [
+        {
+          "type": "podcasts",
+          "id": "five-minutes-in-church-history",
+          "why": "Short episodes on key figures and events."
+        },
+        {
+          "type": "podcasts",
+          "id": "luther-in-real-time",
+          "why": "Follows Martin Luther’s words through the Reformation."
+        }
       ]
     },
     {
@@ -50,11 +113,52 @@
       "children": [
         {
           "id": "daily-devotions",
-          "name": "Daily Devotions"
+          "name": "Daily Devotions",
+          "start_here": [
+            {
+              "type": "podcasts",
+              "id": "things-unseen",
+              "why": "Devotional reflections, Monday to Friday."
+            }
+          ]
         },
         {
           "id": "family-and-children",
-          "name": "Family and Children"
+          "name": "Family and Children",
+          "start_here": [
+            {
+              "type": "family",
+              "id": "opc-children-s-resources",
+              "why": "A first catechism for children, youth Bible studies and camps from the OPC."
+            },
+            {
+              "type": "family",
+              "id": "new-city-catechism",
+              "why": "52 questions, with a kids’ edition for ages 4–11."
+            },
+            {
+              "type": "family",
+              "id": "great-commission-publications",
+              "why": "Sunday school curriculum from the OPC and PCA."
+            }
+          ]
+        }
+      ],
+      "start_here": [
+        {
+          "type": "podcasts",
+          "id": "things-unseen",
+          "why": "Devotional reflections, Monday to Friday."
+        },
+        {
+          "type": "podcasts",
+          "id": "renewing-your-mind",
+          "why": "Daily biblical teaching."
+        },
+        {
+          "type": "family",
+          "id": "new-city-catechism",
+          "why": "52 short questions for adults and children."
         }
       ]
     },
@@ -65,7 +169,24 @@
       "children": [
         {
           "id": "ocd-and-scrupulosity",
-          "name": "OCD and Religious Scrupulosity"
+          "name": "OCD and Religious Scrupulosity",
+          "start_here": [
+            {
+              "type": "podcasts",
+              "id": "where-life-and-scripture-meet",
+              "why": "‘OCD with Mike Emlet’, Parts 1 and 2, from CCEF."
+            },
+            {
+              "type": "podcasts",
+              "id": "acbc-truth-in-love",
+              "why": "Episode 443, ‘Scrupulosity’, from ACBC."
+            },
+            {
+              "type": "podcasts",
+              "id": "christian-faith-and-ocd",
+              "why": "A licensed counselor’s clinical approach (ICBT); not a Reformed ministry."
+            }
+          ]
         },
         {
           "id": "overcoming-sin",
@@ -75,19 +196,65 @@
           "id": "anxiety-and-depression",
           "name": "Anxiety and Depression"
         }
+      ],
+      "start_here": [
+        {
+          "type": "podcasts",
+          "id": "where-life-and-scripture-meet",
+          "why": "CCEF’s podcast, with a two-part conversation on OCD."
+        },
+        {
+          "type": "podcasts",
+          "id": "acbc-truth-in-love",
+          "why": "ACBC’s podcast, with an episode on scrupulosity."
+        },
+        {
+          "type": "podcasts",
+          "id": "christian-faith-and-ocd",
+          "why": "A licensed counselor’s podcast on OCD and scrupulosity (not a Reformed ministry)."
+        }
       ]
     },
     {
       "id": "technology",
       "name": "Technology",
       "blurb": "How Christians should think about technology, the internet and artificial intelligence.",
-      "children": []
+      "children": [],
+      "start_here": [
+        {
+          "type": "podcasts",
+          "id": "tech-reformation",
+          "why": "Reformed hosts on technology and Christianity (archive appears to end in 2021)."
+        },
+        {
+          "type": "podcasts",
+          "id": "reformed-forum",
+          "why": "Christ the Center, with a 2023 episode on AI in scholarship and ministry."
+        },
+        {
+          "type": "podcasts",
+          "id": "the-briefing",
+          "why": "Daily news analysis that often covers technology and AI."
+        }
+      ]
     },
     {
       "id": "science",
       "name": "Science",
       "blurb": "Science, creation and the Christian faith.",
-      "children": []
+      "children": [],
+      "start_here": [
+        {
+          "type": "podcasts",
+          "id": "reformed-forum",
+          "why": "Christ the Center’s ‘Redeeming Science’ with Vern Poythress."
+        },
+        {
+          "type": "podcasts",
+          "id": "the-briefing",
+          "why": "Daily news analysis with occasional science and ethics stories."
+        }
+      ]
     },
     {
       "id": "politics-and-culture",
@@ -96,11 +263,40 @@
       "children": [
         {
           "id": "politics",
-          "name": "Politics"
+          "name": "Politics",
+          "start_here": [
+            {
+              "type": "podcasts",
+              "id": "the-white-horse-inn",
+              "why": "Includes a series on the Reformed two-kingdoms view of politics."
+            },
+            {
+              "type": "podcasts",
+              "id": "the-briefing",
+              "why": "Daily news analysis from a Christian worldview."
+            }
+          ]
         },
         {
           "id": "current-events",
           "name": "Current Events and Culture"
+        }
+      ],
+      "start_here": [
+        {
+          "type": "podcasts",
+          "id": "the-white-horse-inn",
+          "why": "Includes a series on the Reformed two-kingdoms view of politics."
+        },
+        {
+          "type": "podcasts",
+          "id": "the-briefing",
+          "why": "Daily news analysis from a Christian worldview."
+        },
+        {
+          "type": "podcasts",
+          "id": "life-and-books-and-everything",
+          "why": "Conversation on current events, theology and books."
         }
       ]
     },
@@ -127,7 +323,24 @@
         },
         {
           "id": "government-and-offices",
-          "name": "Church Government and Offices"
+          "name": "Church Government and Offices",
+          "start_here": [
+            {
+              "type": "officers",
+              "id": "elder-pca-officer-training",
+              "why": "A kit of recommended resources for men considered for ruling elder."
+            },
+            {
+              "type": "officers",
+              "id": "elder-opc-elder-training",
+              "why": "The OPC’s Ruling Elder Podcast."
+            },
+            {
+              "type": "officers",
+              "id": "pastor-seminary-education",
+              "why": "The OPC’s ministerial training, internship and conferences."
+            }
+          ]
         }
       ]
     },
@@ -135,7 +348,19 @@
       "id": "books",
       "name": "Books and Reading",
       "blurb": "Reading lists, book conversations and reading guides.",
-      "children": []
+      "children": [],
+      "start_here": [
+        {
+          "type": "podcasts",
+          "id": "open-book",
+          "why": "Conversations on influential books."
+        },
+        {
+          "type": "podcasts",
+          "id": "life-and-books-and-everything",
+          "why": "Every episode spends time on books."
+        }
+      ]
     },
     {
       "id": "work-and-business",
@@ -150,7 +375,19 @@
       "children": [
         {
           "id": "classical-education",
-          "name": "Classical Christian Education"
+          "name": "Classical Christian Education",
+          "start_here": [
+            {
+              "type": "schools",
+              "id": "association-of-classical-christian-schools",
+              "why": "A classical Christian school association."
+            },
+            {
+              "type": "schools",
+              "id": "society-for-classical-learning",
+              "why": "A classical Christian learning society."
+            }
+          ]
         }
       ]
     }

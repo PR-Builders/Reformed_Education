@@ -131,3 +131,5 @@ Every directory page has a **List / Cards** toggle (remembered per page in the b
 ## Topics
 
 `topics.html` lists topic areas; `topics.html?t=biblical-counseling/ocd-and-scrupulosity` shows one topic, with its narrower topics above the resources in it. The tree lives in `data/topics.json` (up to three levels; add a child under any topic). An entry joins a topic through `topic_ids` (explicit paths) or through its existing subject labels, which `labels` in `topics.json` maps to paths, so podcasts, lectures and authors appear without extra tagging. A topic with no entries is hidden, and a parent topic shows everything beneath it.
+
+A topic can list up to three **Start here** picks with `start_here` in `data/topics.json` (`type`, `id`, and a one-line `why`). A pick is shown only if that entry is actually in the topic, and the lists below it are collapsed unless the topic has eight resources or fewer.
