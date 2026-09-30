@@ -634,7 +634,14 @@
         },
         {
           "id": "preaching",
-          "name": "Preaching"
+          "name": "Preaching",
+          "start_here": [
+            {
+              "type": "podcasts",
+              "id": "sermonaudio",
+              "why": "Free library of audio and video sermons from conservative churches worldwide (about 3.1 million, by its own count)."
+            }
+          ]
         },
         {
           "id": "pastoral-theology",

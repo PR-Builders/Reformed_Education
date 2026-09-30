@@ -20,7 +20,7 @@
   ];
 
   RE.config = {
-    version: "202609301534",   // stamped by tools/bump_version.py; appended to data requests to avoid stale caches
+    version: "202609301538",   // stamped by tools/bump_version.py; appended to data requests to avoid stale caches
     siteName: "Reformed Education",
     tagline: "Reformed education and resources, in one place.",
     latinTagline: "Quaere et Disce",
@@ -245,6 +245,14 @@
       "Conservative evangelical": "Not necessarily Reformed. Doctrinally conservative Baptist, fundamentalist and non-denominational schools with statements of faith on inerrancy and creation. They differ from the Westminster Standards on matters such as baptism, church government and eschatology. A good fit for families seeking a conservative education that is not strictly Reformed.",
       "Broadly evangelical": "Evangelical schools with an inerrancy-based statement of faith but broader communities of faculty and students. Positions on gender roles, origins and sexuality vary by school; check each entry.",
       "Mainline (PC(USA))": "Affiliated with the Presbyterian Church (U.S.A.), which since 2011 permits ordination of openly gay and lesbian officers and since 2015 defines marriage as between two persons. Listed so readers can recognize Presbyterian-named schools that are not aligned with the PCA or OPC.",
+    },
+    /* Posture notes for collections that are not schools (podcasts, resources, publishers, lectures...). */
+    genericPostureNotes: {
+      "Confessional Reformed": "Holds a Reformed confession (the Westminster Standards, the Three Forms of Unity or the 1689 Baptist Confession) as its standard.",
+      "Reformed heritage": "Reformed in heritage or emphasis, but its confessional commitment is broader, not stated or not checked; read the points to weigh.",
+      "Conservative evangelical": "Theologically conservative but not confessionally Reformed. It may differ from Reformed churches on baptism, church government or the end times.",
+      "Broadly evangelical": "Evangelical, with broader positions than the confessional groups; check the points to weigh.",
+      "Mainline (PC(USA))": "Associated with the Presbyterian Church (U.S.A.), which since 2011 permits ordination of openly gay and lesbian officers and since 2015 defines marriage as between two persons.",
     },
     classificationNotice: "Groupings are reformededucation.org's own classification, made from each school's published statements and the sources listed on its page. They describe, and do not endorse. Institutions change; confirm current statements with the school.",
 

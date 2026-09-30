@@ -889,6 +889,51 @@
         "biblical-counseling/ocd-and-scrupulosity",
         "biblical-counseling/clinical-and-professional-care"
       ]
+    },
+    {
+      "id": "sermonaudio",
+      "name": "SermonAudio",
+      "placeholder": false,
+      "verification": "researched",
+      "creator": "Founded in 2000 by Steven Lee",
+      "organization": "SermonAudio",
+      "subject": [
+        "Preaching",
+        "Pastoral Theology",
+        "Church History"
+      ],
+      "doctrinal_posture": "Conservative evangelical",
+      "doctrinal_basis": "Broadcasts only churches and ministries that are ‘theologically conservative’, according to its Articles of Faith.",
+      "points_to_weigh": [
+        "Its own description: ‘World’s Largest Christian Sermon Library’, with about 3.14 million sermons, 51,558 speakers and (through Global Sermons) 46 languages, as shown on its site when I checked.",
+        "Not specifically Reformed. It hosts conservative Protestant churches, particularly Reformed and Baptist ones, so preachers differ on baptism, church government and other matters; check each speaker’s church and confession.",
+        "Free for listeners. Churches pay a monthly fee and a signup fee to broadcast, so the library reflects churches that chose to join.",
+        "Its ‘Global Sermons’ service uses AI to re-preach sermons in other languages and it offers AI transcriptions; these are not the preacher’s own voice or words."
+      ],
+      "notable_episodes": [
+        "Listen on the web, in iOS and Android apps, on smart-TV apps and by a phone ‘Listen Line’; each broadcaster also gets a podcast feed."
+      ],
+      "website": "https://www.sermonaudio.com/",
+      "description": "Free library of audio and video sermons from conservative Christian churches and ministries around the world, searchable by speaker, church and topic, with mobile, smart-TV and smart-speaker apps.",
+      "research_sources": [
+        "https://www.sermonaudio.com/",
+        "https://www.sermonaudio.com/overview",
+        "https://www.sermonaudio.com/news/globalsermons"
+      ],
+      "topic_ids": [
+        "church-life/preaching",
+        "theology/systematic-theology"
+      ],
+      "source": {
+        "title": "SermonAudio: website and public-record summary",
+        "organization": "SermonAudio",
+        "url": "https://www.sermonaudio.com/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
     }
   ]
 }
