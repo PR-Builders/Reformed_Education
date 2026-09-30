@@ -106,7 +106,7 @@
       "id": "heidelberg",
       "name": "Heidelberg Catechism",
       "short": "HC",
-      "group": "Presbyterian / Reformed",
+      "group": "Continental Reformed",
       "kind": "Catechism",
       "placeholder": false,
       "verification": "researched",
@@ -135,7 +135,7 @@
       "id": "belgic",
       "name": "Belgic Confession",
       "short": "BC",
-      "group": "Presbyterian / Reformed",
+      "group": "Continental Reformed",
       "kind": "Confession",
       "placeholder": false,
       "verification": "researched",
@@ -166,51 +166,63 @@
       "id": "dort",
       "name": "Canons of Dort",
       "short": "CD",
-      "group": "Presbyterian / Reformed",
+      "group": "Continental Reformed",
       "kind": "Confession",
       "placeholder": false,
-      "verification": "listed",
-      "status": "planned",
-      "description": "Planned. Text not yet added.",
+      "verification": "researched",
+      "status": "ready",
+      "description": "The Canons of Dort (Synod of Dordrecht, 1618–1619): the four heads of doctrine, 59 articles, with the conclusion.",
       "tags": [],
       "source": {
-        "title": "Canons of Dort",
+        "title": "The Canons of the Synod of Dordrecht",
         "copyright_status": "public-domain",
         "copyright": "Public domain.",
         "license": "Public domain",
-        "translation": "King James Version (Scripture proofs)",
-        "notes": "Public domain. Text to be added. Until the text is added here, a reading copy is linked from reformed.org's historic-documents index (not verified against this site). Note: the translation linked from reformed.org's index is the 2011 Christian Reformed Church translation, which is copyrighted, so its text is not copied here.",
-        "url": "http://www.apuritansmind.com/creeds-and-confessions/the-synod-of-dordt-1618-1619-a-d/"
+        "translation": "English translation printed in the Constitution of the Reformed Dutch Church of North America (1840)",
+        "notes": "Public domain: published before 1931. Text taken from the Wikisource transcription of that printing; head and article counts (18, 9, 17 and 15) match the standard canons. Not yet compared with a second copy of the same translation or proofread against a printed edition.",
+        "url": "https://en.wikisource.org/wiki/The_Constitution_of_the_Reformed_Dutch_Church_of_North_America/Canons_of_the_Synod_of_Dordrecht",
+        "date": "1618–1619"
       },
-      "count": 0,
+      "count": 5,
       "research_sources": [
-        "https://reformed.org/historic-confessions/"
-      ]
+        "https://reformed.org/historic-confessions/",
+        "https://en.wikisource.org/wiki/The_Constitution_of_the_Reformed_Dutch_Church_of_North_America"
+      ],
+      "structure": "chapters",
+      "unit": "head",
+      "file": "catechisms/dort.json",
+      "coverage_note": "This is the 1840 English printing in the Reformed Dutch Church's constitution. It gives the articles and the conclusion; the ‘Rejection of Errors’ sections found in some translations are not in this printing. The signatories’ list is left out. Modern translations, such as the Christian Reformed Church’s 2011 version, are copyrighted and are not used."
     },
     {
       "id": "helvetic2",
       "name": "Second Helvetic Confession",
       "short": "2HC",
-      "group": "Presbyterian / Reformed",
+      "group": "Continental Reformed",
       "kind": "Confession",
       "placeholder": false,
-      "verification": "listed",
-      "status": "planned",
-      "description": "Planned. Text not yet added.",
+      "verification": "researched",
+      "status": "ready",
+      "description": "The Second Helvetic Confession (Heinrich Bullinger, 1566): 30 chapters and the conclusion.",
       "tags": [],
       "source": {
-        "title": "Second Helvetic Confession",
+        "title": "The Second Helvetic Confession",
         "copyright_status": "public-domain",
         "copyright": "Public domain.",
         "license": "Public domain",
-        "translation": "King James Version (Scripture proofs)",
-        "notes": "Public domain. Text to be added. Until the text is added here, a reading copy is linked from reformed.org's historic-documents index (not verified against this site).",
-        "url": "https://reformed.org/historic-confessions/the-second-helvetic-confession/"
+        "translation": "English version in Philip Schaff, The Creeds of Christendom, vol. 3 (third edition, 1885); several chapters adapted from the 1586 Harmony of Reformed Confessions",
+        "notes": "Public domain: published before 1931. Text taken from the Wikisource transcription. Compared with a second transcription on reformeddogmatika.com: 89% of the 8-word segments checked matched exactly, and the ones I looked at that differed were Scripture citations set in a different style. The rest of the differences were not checked. Not yet proofread against a printed edition.",
+        "url": "https://en.wikisource.org/wiki/The_Creeds_of_Christendom:_with_a_History_and_Critical_Notes/Volume_III/Appendix:_The_Second_Helvetic_Confession",
+        "date": "1566"
       },
-      "count": 0,
+      "count": 31,
       "research_sources": [
-        "https://reformed.org/historic-confessions/"
-      ]
+        "https://reformed.org/historic-confessions/the-second-helvetic-confession/",
+        "https://reformeddogmatika.com/second-helvetic-confession/"
+      ],
+      "structure": "chapters",
+      "unit": "chapter",
+      "file": "catechisms/helvetic2.json",
+      "coverage_note": "This is Philip Schaff’s English version. Paragraphs are shown as the translation gives them; they are not numbered in the original, and Scripture references appear inside the text."
     },
     {
       "id": "lbcf1689",
