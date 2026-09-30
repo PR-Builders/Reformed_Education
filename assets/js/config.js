@@ -20,7 +20,7 @@
   ];
 
   RE.config = {
-    version: "202609300410",   // stamped by tools/bump_version.py; appended to data requests to avoid stale caches
+    version: "202609300421",   // stamped by tools/bump_version.py; appended to data requests to avoid stale caches
     siteName: "Reformed Education",
     tagline: "Reformed education and resources, in one place.",
     latinTagline: "Quaere et Disce",
@@ -135,7 +135,8 @@
         fields: [
           { key: "kind", label: "Type" },
           { key: "creator", label: "Author / Creator" },
-          { key: "subject", label: "Subject" },
+          { key: "publisher", label: "Publisher" },
+          { key: "subject", label: "Subjects", type: "list" },
           { key: "audience", label: "Audience" },
           { key: "doctrinal_basis", label: "Doctrinal basis" }, { key: "points_to_weigh", label: "Points to weigh", type: "list" }, { key: "research_sources", label: "Sources consulted", type: "list" }, { key: "website", label: "Website", type: "url" },
           { key: "description", label: "Description", type: "text" },

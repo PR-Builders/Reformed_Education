@@ -103,7 +103,10 @@
       "Book",
       "Podcast",
       "Lecture Series",
-      "Game"
+      "Game",
+      "Article",
+      "Video",
+      "Podcast episode"
     ]
   },
   "family": {

@@ -138,6 +138,719 @@
         "church-life/government-and-offices",
         "christian-living/family-and-children"
       ]
+    },
+    {
+      "id": "ccef",
+      "name": "Christian Counseling & Educational Foundation (CCEF)",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Organization",
+      "creator": "Founded 1968 by Jay Adams and John Bettler",
+      "subject": [
+        "Biblical Counseling"
+      ],
+      "doctrinal_posture": "Reformed heritage",
+      "doctrinal_basis": "Affirms the unique authority of Scripture and subscribes to the Apostles’ and Nicene Creeds, the Westminster Confession of Faith, the London Baptist Confession and the Heidelberg Catechism; Protestant and grounded in the Reformed tradition.",
+      "points_to_weigh": [
+        "It also seeks to serve Christians from a range of theological perspectives, so its writers are not all from one church tradition.",
+        "Biblical counseling is not a substitute for medical or clinical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://www.ccef.org/about/beliefs-and-history/",
+      "description": "Biblical counseling ministry and training organization near Philadelphia, publishing articles, videos, podcasts, books and the Journal of Biblical Counseling.",
+      "topic_ids": [
+        "biblical-counseling/foundations",
+        "biblical-counseling"
+      ],
+      "research_sources": [
+        "https://www.ccef.org/about/beliefs-and-history/"
+      ],
+      "source": {
+        "title": "Christian Counseling & Educational Foundation (CCEF): publisher or organization page",
+        "organization": "CCEF",
+        "url": "https://www.ccef.org/about/beliefs-and-history/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "acbc",
+      "name": "Association of Certified Biblical Counselors (ACBC)",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Organization",
+      "creator": "ACBC",
+      "subject": [
+        "Biblical Counseling"
+      ],
+      "doctrinal_basis": "Its own Standards of Doctrine, written to allow members from Baptist, Presbyterian and other church traditions; it does not adopt a single confession.",
+      "points_to_weigh": [
+        "It is multi-denominational rather than confessionally Reformed.",
+        "Biblical counseling is not a substitute for medical or clinical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://biblicalcounseling.com/resource-library/articles/the-standards-of-doctrine-of-the-association-of-certified-biblical-counselors/",
+      "description": "Certifies biblical counselors and publishes articles, podcasts and training. Its Standards of Doctrine (updated 2015) are required of members.",
+      "topic_ids": [
+        "biblical-counseling/foundations",
+        "biblical-counseling"
+      ],
+      "research_sources": [
+        "https://biblicalcounseling.com/resource-library/articles/the-standards-of-doctrine-of-the-association-of-certified-biblical-counselors/",
+        "https://biblicalcounseling.com/about/"
+      ],
+      "source": {
+        "title": "Association of Certified Biblical Counselors (ACBC): publisher or organization page",
+        "organization": "ACBC",
+        "url": "https://biblicalcounseling.com/resource-library/articles/the-standards-of-doctrine-of-the-association-of-certified-biblical-counselors/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "biblical-counseling-coalition",
+      "name": "Biblical Counseling Coalition (BCC)",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Organization",
+      "creator": "Biblical Counseling Coalition",
+      "subject": [
+        "Biblical Counseling"
+      ],
+      "doctrinal_basis": "Confessional Statement of the BCC. Its central question is ‘What does it mean to counsel in the grace and truth of Christ?’",
+      "points_to_weigh": [
+        "Its statement was not compared with the Reformed confessions for this directory.",
+        "Biblical counseling is not a substitute for medical or clinical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://www.biblicalcounselingcoalition.org/confessional-statement/",
+      "description": "A collaboration of biblical counseling ministries that publishes resources and a Confessional Statement (made public 1 February 2011).",
+      "topic_ids": [
+        "biblical-counseling/foundations",
+        "biblical-counseling"
+      ],
+      "research_sources": [
+        "https://www.biblicalcounselingcoalition.org/confessional-statement/"
+      ],
+      "source": {
+        "title": "Biblical Counseling Coalition (BCC): publisher or organization page",
+        "organization": "Biblical Counseling Coalition",
+        "url": "https://www.biblicalcounselingcoalition.org/confessional-statement/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "harvest-usa",
+      "name": "Harvest USA",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Organization",
+      "creator": "Harvest USA",
+      "subject": [
+        "Biblical Counseling",
+        "Ethics"
+      ],
+      "doctrinal_basis": "Publishes a Doctrinal Statement and position statements on same-sex attraction and on gender and sexuality; no denomination is named on the page reviewed.",
+      "points_to_weigh": [
+        "The doctrinal statement was not compared with the Reformed confessions for this directory.",
+        "Biblical counseling is not a substitute for medical or clinical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://harvestusa.org/about/",
+      "description": "Ministry begun in 1983 that helps churches and individuals affected by sexual sin, including pornography, with discipleship, support groups and resources.",
+      "topic_ids": [
+        "biblical-counseling/overcoming-sin/pornography",
+        "biblical-counseling/helping-others"
+      ],
+      "research_sources": [
+        "https://harvestusa.org/about/"
+      ],
+      "source": {
+        "title": "Harvest USA: publisher or organization page",
+        "organization": "Harvest USA",
+        "url": "https://harvestusa.org/about/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "988-lifeline",
+      "name": "988 Suicide & Crisis Lifeline",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Organization",
+      "creator": "U.S. national service",
+      "subject": [
+        "Mental Health"
+      ],
+      "doctrinal_basis": "A secular national service, not a Christian ministry.",
+      "points_to_weigh": [
+        "If you or someone else is in immediate danger, call your local emergency number. Outside the U.S., use your country’s crisis line."
+      ],
+      "website": "https://988lifeline.org/",
+      "description": "Free, confidential support by call, text or chat, 24 hours a day, for people in emotional distress, a mental-health crisis or thinking about suicide. United States only.",
+      "topic_ids": [
+        "biblical-counseling/crisis"
+      ],
+      "research_sources": [
+        "https://988lifeline.org/"
+      ],
+      "source": {
+        "title": "988 Suicide & Crisis Lifeline: publisher or organization page",
+        "organization": "988 Suicide & Crisis Lifeline",
+        "url": "https://988lifeline.org/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "welch-depression",
+      "name": "Depression: Looking Up from the Stubborn Darkness",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Book",
+      "creator": "Edward T. Welch",
+      "publisher": "New Growth Press, 2011",
+      "subject": [
+        "Biblical Counseling",
+        "Mental Health"
+      ],
+      "doctrinal_basis": "Written by a CCEF faculty member who is a licensed psychologist.",
+      "points_to_weigh": [
+        "Chapter 21 covers medical treatments; read it alongside advice from a doctor.",
+        "Biblical counseling is not a substitute for medical or clinical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://www.ccef.org/book/depression-looking-stubborn-darkness/",
+      "description": "257-page book offering the comfort and hope of Christ rather than quick fixes, for people with depression and those alongside them. It includes a chapter on medical treatments and one for families and friends.",
+      "topic_ids": [
+        "biblical-counseling/depression",
+        "biblical-counseling/helping-others"
+      ],
+      "research_sources": [
+        "https://www.ccef.org/book/depression-looking-stubborn-darkness/"
+      ],
+      "source": {
+        "title": "Depression: Looking Up from the Stubborn Darkness: publisher or organization page",
+        "organization": "CCEF",
+        "url": "https://www.ccef.org/book/depression-looking-stubborn-darkness/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "welch-running-scared",
+      "name": "Running Scared: Fear, Worry, and the God of Rest",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Book",
+      "creator": "Edward T. Welch",
+      "publisher": "New Growth Press, 2007",
+      "subject": [
+        "Biblical Counseling",
+        "Mental Health"
+      ],
+      "doctrinal_basis": "Written by a CCEF faculty member who is a licensed psychologist.",
+      "points_to_weigh": [
+        "Biblical counseling is not a substitute for medical or clinical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://www.ccef.org/book/running-scared-fear-worry-and-god-rest/",
+      "description": "317-page book on the roots of fear and the effects of anxiety, worry and dread, in thirty short biblical meditations.",
+      "topic_ids": [
+        "biblical-counseling/anxiety-and-fear"
+      ],
+      "research_sources": [
+        "https://www.ccef.org/book/running-scared-fear-worry-and-god-rest/"
+      ],
+      "source": {
+        "title": "Running Scared: Fear, Worry, and the God of Rest: publisher or organization page",
+        "organization": "CCEF",
+        "url": "https://www.ccef.org/book/running-scared-fear-worry-and-god-rest/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "welch-side-by-side",
+      "name": "Side by Side: Walking with Others in Wisdom and Love",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Book",
+      "creator": "Edward T. Welch",
+      "publisher": "Crossway, 2015",
+      "subject": [
+        "Biblical Counseling"
+      ],
+      "doctrinal_basis": "Written by a CCEF faculty member for pastors and laypeople.",
+      "points_to_weigh": [
+        "Biblical counseling is not a substitute for medical or clinical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://www.crossway.org/books/side-by-side-tpb/",
+      "description": "171-page introduction to biblical counseling for ordinary Christians, written on the conviction that friends are the best helpers.",
+      "topic_ids": [
+        "biblical-counseling/helping-others",
+        "biblical-counseling/foundations"
+      ],
+      "research_sources": [
+        "https://www.crossway.org/books/side-by-side-tpb/"
+      ],
+      "source": {
+        "title": "Side by Side: Walking with Others in Wisdom and Love: publisher or organization page",
+        "organization": "Crossway",
+        "url": "https://www.crossway.org/books/side-by-side-tpb/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "tripp-instruments",
+      "name": "Instruments in the Redeemer’s Hands: People in Need of Change Helping People in Need of Change",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Book",
+      "creator": "Paul David Tripp",
+      "publisher": "P&R Publishing, 2002",
+      "subject": [
+        "Biblical Counseling",
+        "Pastoral Theology"
+      ],
+      "doctrinal_basis": "Published by P&R, which publishes according to the Westminster Confession.",
+      "points_to_weigh": [
+        "A large book; readers new to the subject may prefer a shorter one first."
+      ],
+      "website": "https://www.prpbooks.com/book/instruments-in-the-redeemer-s-hands",
+      "description": "362-page treatment of how God uses ordinary believers, who themselves need changing, to help others change, following Jesus’s example.",
+      "topic_ids": [
+        "biblical-counseling/helping-others",
+        "biblical-counseling/foundations"
+      ],
+      "research_sources": [
+        "https://www.prpbooks.com/book/instruments-in-the-redeemer-s-hands"
+      ],
+      "source": {
+        "title": "Instruments in the Redeemer’s Hands: People in Need of Change Helping People in Need of Change: publisher or organization page",
+        "organization": "P&R Publishing",
+        "url": "https://www.prpbooks.com/book/instruments-in-the-redeemer-s-hands",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "welch-addictions",
+      "name": "Addictions: A Banquet in the Grave",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Book",
+      "creator": "Edward T. Welch",
+      "publisher": "P&R Publishing, 2001",
+      "subject": [
+        "Biblical Counseling",
+        "Mental Health"
+      ],
+      "doctrinal_basis": "Published by P&R, which publishes according to the Westminster Confession.",
+      "points_to_weigh": [
+        "It describes addiction chiefly as a spiritual problem. Physical dependence can need medical supervision, for example when stopping alcohol; see a doctor.",
+        "Biblical counseling is not a substitute for medical or clinical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://www.prpbooks.com/book/addictions-a-banquet-in-the-grave",
+      "description": "320-page book arguing that addiction is a worship disorder and offering hope in the gospel, replacing a sickness–recovery–relapse cycle with sin, salvation and sanctification.",
+      "topic_ids": [
+        "biblical-counseling/overcoming-sin/addictions"
+      ],
+      "research_sources": [
+        "https://www.prpbooks.com/book/addictions-a-banquet-in-the-grave"
+      ],
+      "source": {
+        "title": "Addictions: A Banquet in the Grave: publisher or organization page",
+        "organization": "P&R Publishing",
+        "url": "https://www.prpbooks.com/book/addictions-a-banquet-in-the-grave",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "jones-uprooting-anger",
+      "name": "Uprooting Anger: Biblical Help for a Common Problem",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Book",
+      "creator": "Robert D. Jones",
+      "publisher": "Shepherd Press",
+      "subject": [
+        "Biblical Counseling"
+      ],
+      "doctrinal_basis": "Author is a biblical counseling professor at Southern Baptist Theological Seminary and a certified biblical counselor.",
+      "points_to_weigh": [
+        "I confirmed the description from several retailers, not from the publisher’s own page, and did not confirm the year.",
+        "Biblical counseling is not a substitute for medical or clinical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://www.shepherdpress.com/",
+      "description": "Practical guide to anger that focuses on the beliefs and desires of the heart, with discussion questions and homework for personal or group study.",
+      "topic_ids": [
+        "biblical-counseling/overcoming-sin/anger"
+      ],
+      "research_sources": [
+        "https://www.shepherdpress.com/",
+        "https://thecbcd.org/resources/book-review-uprooting-anger"
+      ],
+      "source": {
+        "title": "Uprooting Anger: Biblical Help for a Common Problem: publisher or organization page",
+        "organization": "Shepherd Press",
+        "url": "https://www.shepherdpress.com/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "lambert-finally-free",
+      "name": "Finally Free: Fighting for Purity with the Power of Grace",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Book",
+      "creator": "Heath Lambert",
+      "publisher": "Zondervan, 2013",
+      "subject": [
+        "Biblical Counseling",
+        "Ethics"
+      ],
+      "doctrinal_basis": "Written by a biblical counseling leader; foreword by Joshua Harris.",
+      "points_to_weigh": [
+        "Aimed mainly at men, though it is for women as well.",
+        "Biblical counseling is not a substitute for medical or clinical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://www.wtsbooks.com/products/finally-free-fighting-for-purity-with-the-power-of-grace-heath-lambert-9780310499237",
+      "description": "176-page book giving eight gospel-centered strategies against pornography: sorrow, accountability, radical measures, confession, your spouse (or singleness), humility, gratitude and a living relationship with Jesus.",
+      "topic_ids": [
+        "biblical-counseling/overcoming-sin/pornography"
+      ],
+      "research_sources": [
+        "https://www.wtsbooks.com/products/finally-free-fighting-for-purity-with-the-power-of-grace-heath-lambert-9780310499237",
+        "https://biblicalcounseling.com/resource-library/articles/finally-free-a-book-review/"
+      ],
+      "source": {
+        "title": "Finally Free: Fighting for Purity with the Power of Grace: publisher or organization page",
+        "organization": "Zondervan",
+        "url": "https://www.wtsbooks.com/products/finally-free-fighting-for-purity-with-the-power-of-grace-heath-lambert-9780310499237",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "challies-sexual-detox",
+      "name": "Sexual Detox: A Guide for Guys Who Are Sick of Porn",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Book",
+      "creator": "Tim Challies",
+      "publisher": "Cruciform Press, 2010",
+      "subject": [
+        "Biblical Counseling",
+        "Ethics"
+      ],
+      "doctrinal_basis": "Written for men by a Christian author and blogger.",
+      "points_to_weigh": [
+        "Written for men. The women’s article below (‘Women and Pornography’) covers a different audience.",
+        "Biblical counseling is not a substitute for medical or clinical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://www.cruciformpress.com/product/sexual-detox-3/",
+      "description": "103-page book for men on the lies of pornography, with two chapters on a biblical theology of sexuality before practical steps.",
+      "topic_ids": [
+        "biblical-counseling/overcoming-sin/pornography"
+      ],
+      "research_sources": [
+        "https://www.challies.com/books/sexual-detox/",
+        "https://www.cruciformpress.com/product/sexual-detox-3/"
+      ],
+      "source": {
+        "title": "Sexual Detox: A Guide for Guys Who Are Sick of Porn: publisher or organization page",
+        "organization": "Cruciform Press",
+        "url": "https://www.cruciformpress.com/product/sexual-detox-3/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "welch-someone-i-know-is-grieving",
+      "name": "Someone I Know Is Grieving: Responding with Humility and Compassion",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Book",
+      "creator": "Edward T. Welch",
+      "publisher": "New Growth Press",
+      "subject": [
+        "Biblical Counseling"
+      ],
+      "doctrinal_basis": "Written by a CCEF faculty member.",
+      "points_to_weigh": [
+        "I did not confirm the year or page count.",
+        "Biblical counseling is not a substitute for medical or clinical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://newgrowthpress.com/christian-books/biblical-counseling-books/someone-i-know-is-grieving-responding-with-humility-and-compassion/",
+      "description": "Compact book from the ‘Ask the Christian Counselor’ series on how to respond to grieving people without giving advice or trying to fix it.",
+      "topic_ids": [
+        "biblical-counseling/grief-and-suffering",
+        "biblical-counseling/helping-others"
+      ],
+      "research_sources": [
+        "https://newgrowthpress.com/christian-books/biblical-counseling-books/someone-i-know-is-grieving-responding-with-humility-and-compassion/"
+      ],
+      "source": {
+        "title": "Someone I Know Is Grieving: Responding with Humility and Compassion: publisher or organization page",
+        "organization": "New Growth Press",
+        "url": "https://newgrowthpress.com/christian-books/biblical-counseling-books/someone-i-know-is-grieving-responding-with-humility-and-compassion/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "harvey-when-sinners-say-i-do",
+      "name": "When Sinners Say “I Do”: Discovering the Power of the Gospel for Marriage",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Book",
+      "creator": "Dave Harvey",
+      "publisher": "Shepherd Press",
+      "subject": [
+        "Biblical Counseling"
+      ],
+      "doctrinal_basis": "The author chairs the board of CCEF and of the Sojourn Network.",
+      "points_to_weigh": [
+        "The publisher’s page could not be read; details come from retailer and ACBC review pages.",
+        "Biblical counseling is not a substitute for medical or clinical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://www.shepherdpress.com/products/when-sinners-say-i-do/",
+      "description": "Gospel-centered guide to marriage covering love, forgiveness and unity, with a study guide and video series.",
+      "topic_ids": [
+        "biblical-counseling/marriage"
+      ],
+      "research_sources": [
+        "https://www.shepherdpress.com/products/when-sinners-say-i-do/",
+        "https://biblicalcounseling.com/resource-library/articles/when-sinners-say-i-do-a-book-review/"
+      ],
+      "source": {
+        "title": "When Sinners Say “I Do”: Discovering the Power of the Gospel for Marriage: publisher or organization page",
+        "organization": "Shepherd Press",
+        "url": "https://www.shepherdpress.com/products/when-sinners-say-i-do/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "powlison-breaking-pornography-addiction",
+      "name": "Breaking Pornography Addiction",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Article",
+      "creator": "David Powlison",
+      "publisher": "CCEF",
+      "subject": [
+        "Biblical Counseling"
+      ],
+      "doctrinal_basis": "CCEF.",
+      "points_to_weigh": [
+        "Biblical counseling is not a substitute for medical or clinical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://www.ccef.org/breaking-pornography-addiction-part-1/",
+      "description": "Article (14 April 2016) adapted from Powlison’s mini book on sexual addiction: acknowledge pornography as sin, understand deeper struggles beneath it, and turn to God. It counts progress as fewer relapses, more honesty and quicker repentance.",
+      "topic_ids": [
+        "biblical-counseling/overcoming-sin/pornography"
+      ],
+      "research_sources": [
+        "https://www.ccef.org/breaking-pornography-addiction-part-1/"
+      ],
+      "source": {
+        "title": "Breaking Pornography Addiction: publisher or organization page",
+        "organization": "CCEF",
+        "url": "https://www.ccef.org/breaking-pornography-addiction-part-1/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "thorne-women-and-pornography",
+      "name": "Women and Pornography",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Article",
+      "creator": "Helen Thorne",
+      "publisher": "Journal of Biblical Counseling (CCEF)",
+      "subject": [
+        "Biblical Counseling"
+      ],
+      "doctrinal_basis": "CCEF.",
+      "points_to_weigh": [
+        "Biblical counseling is not a substitute for medical or clinical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://www.ccef.org/jbc-article/women-and-pornography",
+      "description": "Journal of Biblical Counseling 31:3 (2017): on the growing number of women who secretly view pornography, calling counselors and churches to notice and respond.",
+      "topic_ids": [
+        "biblical-counseling/overcoming-sin/pornography"
+      ],
+      "research_sources": [
+        "https://www.ccef.org/jbc-article/women-and-pornography"
+      ],
+      "source": {
+        "title": "Women and Pornography: publisher or organization page",
+        "organization": "CCEF",
+        "url": "https://www.ccef.org/jbc-article/women-and-pornography",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "stryd-help-a-teen-with-porn",
+      "name": "How can I help my teen struggling with pornography addiction?",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Video",
+      "creator": "Todd Stryd (CCEF faculty)",
+      "publisher": "CCEF",
+      "subject": [
+        "Biblical Counseling"
+      ],
+      "doctrinal_basis": "CCEF.",
+      "points_to_weigh": [
+        "Biblical counseling is not a substitute for medical or clinical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://www.ccef.org/video/how-can-i-help-my-teen-struggling-with-pornography-addiction",
+      "description": "Video (14 February 2024) for parents with three strategies: reinforce the teen’s battle, widen it beyond this one struggle, and limit the battlefield with practical measures.",
+      "topic_ids": [
+        "biblical-counseling/overcoming-sin/pornography",
+        "biblical-counseling/helping-others"
+      ],
+      "research_sources": [
+        "https://www.ccef.org/video/how-can-i-help-my-teen-struggling-with-pornography-addiction"
+      ],
+      "source": {
+        "title": "How can I help my teen struggling with pornography addiction?: publisher or organization page",
+        "organization": "CCEF",
+        "url": "https://www.ccef.org/video/how-can-i-help-my-teen-struggling-with-pornography-addiction",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "newheiser-fighting-depression-well",
+      "name": "Strategies for Fighting Depression Well",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Article",
+      "creator": "Jim Newheiser",
+      "publisher": "ACBC",
+      "subject": [
+        "Biblical Counseling",
+        "Mental Health"
+      ],
+      "doctrinal_basis": "ACBC.",
+      "points_to_weigh": [
+        "It briefly notes that medical intervention may be needed and should sit alongside faith.",
+        "Biblical counseling is not a substitute for medical or clinical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://biblicalcounseling.com/resource-library/articles/strategies-for-fighting-depression-well/",
+      "description": "ACBC article (1 October 2019) with five strategies: persevere, focus on eternity, honor physical limits, seek community support and remember your place in God’s army.",
+      "topic_ids": [
+        "biblical-counseling/depression"
+      ],
+      "research_sources": [
+        "https://biblicalcounseling.com/resource-library/articles/strategies-for-fighting-depression-well/"
+      ],
+      "source": {
+        "title": "Strategies for Fighting Depression Well: publisher or organization page",
+        "organization": "ACBC",
+        "url": "https://biblicalcounseling.com/resource-library/articles/strategies-for-fighting-depression-well/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "parker-battling-anxiety-and-depression",
+      "name": "Battling Anxiety and Depression",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Article",
+      "creator": "Joey Parker",
+      "publisher": "ACBC",
+      "subject": [
+        "Biblical Counseling",
+        "Mental Health"
+      ],
+      "doctrinal_basis": "ACBC.",
+      "points_to_weigh": [
+        "The article does not mention medical or professional care.",
+        "Biblical counseling is not a substitute for medical or clinical care. If you or someone you know is in crisis or danger, call your local emergency number or, in the U.S., call or text 988."
+      ],
+      "website": "https://biblicalcounseling.com/resource-library/articles/battling-anxiety-and-depression/",
+      "description": "ACBC article (20 July 2021) from personal experience: remembering God’s past faithfulness for depression, and reorienting thoughts through prayer and gratitude for anxiety.",
+      "topic_ids": [
+        "biblical-counseling/depression",
+        "biblical-counseling/anxiety-and-fear"
+      ],
+      "research_sources": [
+        "https://biblicalcounseling.com/resource-library/articles/battling-anxiety-and-depression/"
+      ],
+      "source": {
+        "title": "Battling Anxiety and Depression: publisher or organization page",
+        "organization": "ACBC",
+        "url": "https://biblicalcounseling.com/resource-library/articles/battling-anxiety-and-depression/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
     }
   ]
 }

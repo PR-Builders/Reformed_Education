@@ -165,8 +165,87 @@
     {
       "id": "biblical-counseling",
       "name": "Biblical Counseling and Mental Health",
-      "blurb": "Helping people who struggle. Biblical counseling is not a substitute for medical or clinical care.",
+      "blurb": "Helping people who struggle, and finding help yourself. Biblical counseling is not a substitute for medical or clinical care; in an emergency, call your local emergency number or, in the U.S., call or text 988.",
       "children": [
+        {
+          "id": "foundations",
+          "name": "What Is Biblical Counseling?",
+          "start_here": [
+            {
+              "type": "resources",
+              "id": "ccef",
+              "why": "Reformed-heritage biblical counseling organization."
+            },
+            {
+              "type": "resources",
+              "id": "acbc",
+              "why": "Multi-denominational; publishes Standards of Doctrine."
+            },
+            {
+              "type": "resources",
+              "id": "welch-side-by-side",
+              "why": "Short introduction to biblical counseling for ordinary Christians."
+            }
+          ]
+        },
+        {
+          "id": "helping-others",
+          "name": "Helping Someone in Need",
+          "start_here": [
+            {
+              "type": "resources",
+              "id": "welch-side-by-side",
+              "why": "Friends are the best helpers: a short guide for ordinary Christians."
+            },
+            {
+              "type": "resources",
+              "id": "tripp-instruments",
+              "why": "How believers in need of change help others change."
+            },
+            {
+              "type": "podcasts",
+              "id": "acbc-truth-in-love",
+              "why": "Includes ‘Talking to a Friend Who’s Depressed’ (episode 50)."
+            }
+          ]
+        },
+        {
+          "id": "depression",
+          "name": "Depression",
+          "start_here": [
+            {
+              "type": "resources",
+              "id": "welch-depression",
+              "why": "Book for people with depression and those beside them, with a chapter on medical treatments."
+            },
+            {
+              "type": "resources",
+              "id": "newheiser-fighting-depression-well",
+              "why": "Five strategies from ACBC; notes that medical help may be needed."
+            },
+            {
+              "type": "podcasts",
+              "id": "acbc-truth-in-love",
+              "why": "Episode 50: talking to a depressed friend."
+            }
+          ]
+        },
+        {
+          "id": "anxiety-and-fear",
+          "name": "Anxiety and Fear",
+          "start_here": [
+            {
+              "type": "resources",
+              "id": "welch-running-scared",
+              "why": "Thirty short meditations on fear, worry and the God of rest."
+            },
+            {
+              "type": "resources",
+              "id": "parker-battling-anxiety-and-depression",
+              "why": "A personal ACBC article (it does not mention medical care)."
+            }
+          ]
+        },
         {
           "id": "ocd-and-scrupulosity",
           "name": "OCD and Religious Scrupulosity",
@@ -190,28 +269,119 @@
         },
         {
           "id": "overcoming-sin",
-          "name": "Overcoming Sin"
+          "name": "Overcoming Sin",
+          "children": [
+            {
+              "id": "pornography",
+              "name": "Pornography",
+              "start_here": [
+                {
+                  "type": "resources",
+                  "id": "lambert-finally-free",
+                  "why": "Eight gospel-centered strategies for men and women."
+                },
+                {
+                  "type": "resources",
+                  "id": "powlison-breaking-pornography-addiction",
+                  "why": "Short CCEF article on roots and progress, not only behavior."
+                },
+                {
+                  "type": "resources",
+                  "id": "harvest-usa",
+                  "why": "A ministry for people and churches affected by sexual sin."
+                }
+              ]
+            },
+            {
+              "id": "anger",
+              "name": "Anger",
+              "start_here": [
+                {
+                  "type": "resources",
+                  "id": "jones-uprooting-anger",
+                  "why": "Focuses on the beliefs and desires of the heart."
+                }
+              ]
+            },
+            {
+              "id": "addictions",
+              "name": "Addictions",
+              "start_here": [
+                {
+                  "type": "resources",
+                  "id": "welch-addictions",
+                  "why": "Addiction as a worship problem; see a doctor for physical dependence."
+                }
+              ]
+            }
+          ],
+          "start_here": [
+            {
+              "type": "resources",
+              "id": "lambert-finally-free",
+              "why": "Eight gospel-centered strategies against pornography."
+            },
+            {
+              "type": "resources",
+              "id": "welch-addictions",
+              "why": "Addiction as a worship problem, with hope in the gospel."
+            },
+            {
+              "type": "resources",
+              "id": "jones-uprooting-anger",
+              "why": "Practical help for anger."
+            }
+          ]
         },
         {
-          "id": "anxiety-and-depression",
-          "name": "Anxiety and Depression"
+          "id": "grief-and-suffering",
+          "name": "Grief and Suffering",
+          "start_here": [
+            {
+              "type": "resources",
+              "id": "welch-someone-i-know-is-grieving",
+              "why": "How to respond to grieving people without trying to fix them."
+            }
+          ]
+        },
+        {
+          "id": "marriage",
+          "name": "Marriage",
+          "start_here": [
+            {
+              "type": "resources",
+              "id": "harvey-when-sinners-say-i-do",
+              "why": "Gospel-centered guide to marriage, with study guide and video."
+            }
+          ]
+        },
+        {
+          "id": "crisis",
+          "name": "In Crisis or Danger",
+          "start_here": [
+            {
+              "type": "resources",
+              "id": "988-lifeline",
+              "why": "Free, confidential, 24/7 by call, text or chat (U.S.)."
+            }
+          ]
         }
       ],
       "start_here": [
         {
-          "type": "podcasts",
-          "id": "where-life-and-scripture-meet",
-          "why": "CCEF’s podcast, with a two-part conversation on OCD."
+          "type": "resources",
+          "id": "ccef",
+          "why": "Biblical counseling organization: articles, videos, podcasts and books."
         },
         {
-          "type": "podcasts",
-          "id": "acbc-truth-in-love",
-          "why": "ACBC’s podcast, with an episode on scrupulosity."
+          "type": "resources",
+          "id": "acbc",
+          "why": "Certifies biblical counselors; articles, podcasts and training."
         },
         {
-          "type": "podcasts",
-          "id": "christian-faith-and-ocd",
-          "why": "A licensed counselor’s podcast on OCD and scrupulosity (not a Reformed ministry)."
+          "type": "resources",
+          "id": "welch-side-by-side",
+          "why": "A short introduction for ordinary Christians who want to help."
         }
       ]
     },

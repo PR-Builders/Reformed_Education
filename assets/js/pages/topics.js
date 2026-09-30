@@ -38,6 +38,7 @@ RE.pages.topics = function () {
         ${RE.ui.breadcrumb([{ label: "Home", href: "index.html" }, { label: "Topics", href: "topics.html" }].concat(crumbs(node).map((n, i, a) => (i < a.length - 1 ? { label: n.name, href: href(n) } : { label: n.name }))))}
         <p class="label">${node.parent ? "Topic" : "Topic area"}</p><h1>${esc(node.name)}</h1>${node.blurb ? `<p class="prose">${esc(node.blurb)}</p>` : ""}</div></div>
       <div class="container page-body">
+        ${/^biblical-counseling/.test(node.path) ? `<div class="notice"><strong>If you or someone you know is in danger or thinking about suicide,</strong> call your local emergency number now or, in the U.S., call or text <strong>988</strong>. Biblical counseling is not a substitute for medical or clinical care.</div>` : ""}
         ${startHere}
         ${kids.length ? `<h2>Narrower topics</h2><div class="grid grid-cards" style="margin-bottom:40px">${kids.map(card).join("")}</div>` : ""}
         <h2>All ${total} resources in ${esc(node.name)}</h2>${sections}
