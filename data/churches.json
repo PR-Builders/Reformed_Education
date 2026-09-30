@@ -82,23 +82,27 @@
     },
     {
       "id": "covenant-community-taylors",
-      "name": "Covenant Community Church (OPC), Taylors, SC",
+      "name": "Covenant Community Orthodox Presbyterian Church (OPC), Greenville area, SC",
       "placeholder": false,
       "verification": "researched",
       "denomination": "Orthodox Presbyterian Church",
       "doctrinal_posture": "Confessional Reformed",
-      "location": "418 E Main St, Taylors, South Carolina (Greenville area)",
+      "location": "776 S. Batesville Rd., Greer, South Carolina (Greenville area). Its SermonAudio page still lists 418 E Main St, Taylors",
       "founded": "Not stated on the pages reviewed",
-      "pastors": "Teacher Peter VanDoodewaard (1,340 of its sermons on SermonAudio); Ryan McGraw is also reported as a teacher there",
-      "standards": "Holds the Westminster Standards as an OPC congregation",
+      "pastors": "Rev. Peter Van Doodewaard (pastor and moderator, a graduate of Greenville Presbyterian Theological Seminary) and Rev. Caleb Harriman (pastor); Dr. Ryan McGraw is teacher; eight elders in all and four deacons",
+      "standards": "The Westminster Confession of Faith and the Larger and Shorter Catechisms, with the Bible as the only infallible rule of faith and practice",
       "sermons": "https://www.sermonaudio.com/broadcasters/taylors-opc/",
-      "website": "https://www.sermonaudio.com/broadcasters/taylors-opc/",
-      "description": "Small OPC congregation near Greenville with 1,969 sermons on SermonAudio. It describes itself as gathered ‘to praise the Triune God, to promote the edification of God’s people, and to proclaim the good news of salvation in Jesus Christ’.",
-      "doctrinal_basis": "OPC congregation.",
+      "website": "https://www.covenanttaylors.org",
+      "description": "OPC congregation in the Greenville area that says ‘we preach Christ and Him crucified’ and emphasizes Reformation Christianity. Sunday worship is at 10:30 am and 5:00 pm with Sunday School at 9:15 am (times as listed from August 23, 2026), streamed on YouTube, and its SermonAudio page has 1,969 sermons.",
+      "doctrinal_basis": "States that it grounds its doctrine in the Westminster Confession and Catechisms and is governed by elders, as a local congregation of the Orthodox Presbyterian Church.",
       "points_to_weigh": [
-        "I found no separate church website; the details come from its SermonAudio page and a search result, so confirm the church’s name and pastors before visiting."
+        "The church’s own site gives a Greer address, while its SermonAudio page still gives the Taylors address; confirm the location before visiting.",
+        "Its own pages did not say whether it sings only psalms in worship."
       ],
       "research_sources": [
+        "https://www.covenanttaylors.org",
+        "https://www.covenanttaylors.org/about",
+        "https://www.covenanttaylors.org/leadership",
         "https://www.sermonaudio.com/broadcasters/taylors-opc/"
       ],
       "topic_ids": [
@@ -106,9 +110,9 @@
         "church-life/presbyterianism"
       ],
       "source": {
-        "title": "Covenant Community Church (OPC), Taylors, SC: church website and public-record summary",
+        "title": "Covenant Community Orthodox Presbyterian Church (OPC), Greenville area, SC: church website and public-record summary",
         "organization": "Covenant Community Church (OPC), Taylors, SC",
-        "url": "https://www.sermonaudio.com/broadcasters/taylors-opc/",
+        "url": "https://www.covenanttaylors.org",
         "date": "Accessed 2026-09-30",
         "license": "Facts only; no text reproduced",
         "copyright_status": "retained",
