@@ -286,6 +286,21 @@
         "copyright_status": "unknown",
         "notes": "Quiz questions are written for this site. Any quoted source material will be attributed here."
       }
+    },
+    {
+      "id": "heidelberg",
+      "title": "Heidelberg Catechism",
+      "category": "Catechisms",
+      "status": "ready",
+      "description": "Multiple-choice questions generated from the text of the Heidelberg Catechism.",
+      "questions": [],
+      "source": {
+        "title": "The Heidelberg Catechism",
+        "copyright_status": "public-domain",
+        "license": "Public domain",
+        "notes": "Questions are generated from the catechism text, which is in the public domain."
+      },
+      "from_catechism": "heidelberg"
     }
   ]
 }

@@ -109,23 +109,27 @@
       "group": "Presbyterian / Reformed",
       "kind": "Catechism",
       "placeholder": false,
-      "verification": "listed",
-      "status": "planned",
-      "description": "Planned. Text not yet added.",
+      "verification": "researched",
+      "status": "ready",
+      "description": "The Heidelberg Catechism: 129 questions and answers with Scripture references, grouped into the introduction and its three parts (misery, deliverance, thankfulness).",
       "tags": [],
       "source": {
-        "title": "Heidelberg Catechism",
+        "title": "The Heidelberg Catechism",
         "copyright_status": "public-domain",
         "copyright": "Public domain.",
         "license": "Public domain",
-        "translation": "King James Version (Scripture proofs)",
-        "notes": "Public domain. Text to be added. Until the text is added here, a reading copy is linked from reformed.org's historic-documents index (not verified against this site).",
-        "url": "http://www.apuritansmind.com/creeds-and-confessions/the-heidelberg-catechism-by-zacharias-ursinus/"
+        "translation": "English translation as published by apuritansmind.com; Scripture proofs given as references only",
+        "notes": "Public domain. Text transcribed from apuritansmind.com, which reformed.org's historic-documents index links to. Compared automatically with the PDF at heidelberg-catechism.com, which is the same translation family: 217 of 258 questions and answers matched. Of the 41 that did not, I checked 18 by hand: Q12, Q18, Q27, Q56 and Q61 differ in wording, and the others were page-layout noise in the PDF; the remaining 23 were not checked by hand. Not yet proofread against a printed edition. Part divisions are the standard ones (Q1–2 introduction; Q3–11 misery; Q12–85 deliverance; Q86–129 thankfulness). The question 23 creed text had verse-number markers removed.",
+        "url": "https://www.apuritansmind.com/creeds-and-confessions/the-heidelberg-catechism-by-zacharias-ursinus/",
+        "date": "First published 1563"
       },
-      "count": 0,
+      "count": 129,
       "research_sources": [
-        "https://reformed.org/historic-confessions/"
-      ]
+        "https://reformed.org/historic-confessions/",
+        "https://www.heidelberg-catechism.com/pdf/lords-days/Heidelberg-Catechism.pdf"
+      ],
+      "file": "catechisms/heidelberg.json",
+      "coverage_note": "Scripture references are shown as citations; the text of each passage is not yet included."
     },
     {
       "id": "belgic",
