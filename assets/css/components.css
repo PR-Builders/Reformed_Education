@@ -262,3 +262,26 @@ sup.fn a { text-decoration: none; color: var(--accent, inherit); font-weight: 60
 .sec-num { font-family: var(--font-display, inherit); font-weight: 600; margin-right: 8px; }
 .toc { columns: 2 320px; column-gap: 32px; padding-left: 0; list-style: none; }
 .toc li { break-inside: avoid; padding: 4px 0; }
+
+/* Directory list view & collapsible groups */
+.viewtoggle { display: inline-flex; border: 1px solid var(--color-divider); border-radius: 4px; overflow: hidden; }
+.viewtoggle button { font: inherit; font-size: .85rem; padding: 7px 14px; background: transparent; border: 0; cursor: pointer; color: var(--color-neutral-800); }
+.viewtoggle button[aria-pressed="true"] { background: var(--color-gold-100); color: #5a3b0a; font-weight: 600; }
+.lrows { display: flex; flex-direction: column; border-top: 1px solid var(--color-divider); }
+.lrow { display: flex; gap: var(--space-4); justify-content: space-between; align-items: baseline; padding: 9px 6px; border-bottom: 1px solid var(--color-divider); text-decoration: none; color: inherit; }
+.lrow:hover, .lrow:focus-visible { background: var(--color-gold-100); }
+.lrow-main { display: flex; flex-wrap: wrap; align-items: baseline; column-gap: 12px; row-gap: 0; min-width: 0; }
+.lrow-title { font-family: var(--font-display, inherit); font-size: 1.1rem; font-weight: 600; }
+.lrow-meta { font-size: .82rem; color: var(--color-muted); }
+.lrow-desc { flex: 1 0 100%; font-size: .9rem; color: var(--color-neutral-800); overflow: hidden; display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; }
+.lrow-tags { display: flex; flex-wrap: wrap; gap: 6px; justify-content: flex-end; flex: 0 0 auto; max-width: 42%; }
+details.dgroup { border: 1px solid var(--color-divider); border-radius: 6px; margin-bottom: var(--space-3); background: var(--color-surface, transparent); }
+details.dgroup > summary { cursor: pointer; padding: 14px 16px; list-style: none; display: flex; gap: var(--space-3); align-items: baseline; flex-wrap: wrap; }
+details.dgroup > summary::-webkit-details-marker { display: none; }
+details.dgroup > summary::before { content: "▸"; color: var(--color-muted); }
+details.dgroup[open] > summary::before { content: "▾"; }
+.dgroup-title { font-family: var(--font-display, inherit); font-size: 1.3rem; font-weight: 600; }
+.dgroup-sub { font-size: .85rem; color: var(--color-muted); }
+details.dgroup .lrows, details.dgroup .grid { padding: 0 8px 8px; }
+.showmore { margin: var(--space-4) 0; }
+@media (max-width: 640px) { .lrow { flex-direction: column; gap: 6px; } .lrow-tags { justify-content: flex-start; max-width: none; } }

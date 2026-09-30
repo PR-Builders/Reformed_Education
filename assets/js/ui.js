@@ -42,6 +42,18 @@
       </article>`;
     },
 
+    /* One compact line for a directory entry (list view): name, who/where, one-line summary, tags. */
+    directoryRow(type, e) {
+      const cfg = RE.config.collections[type];
+      const meta = cfg.cardMeta.map((k) => [].concat(e[k])).flat().filter((v) => v && !isPH(v)).join(" · ");
+      const subj = (Array.isArray(e.subject) ? e.subject : []).filter((v) => v && !isPH(v)).slice(0, 3);
+      const pending = e.placeholder || e.verification === "listed";
+      return `<a class="lrow" href="${esc(RE.config.urlFor(type, e))}">
+        <span class="lrow-main"><span class="lrow-title">${esc(e.name)}</span>${meta ? `<span class="lrow-meta">${esc(meta)}</span>` : ""}
+          ${isPH(e.description) ? "" : `<span class="lrow-desc">${esc(e.description)}</span>`}</span>
+        <span class="lrow-tags">${subj.map((t) => ui.tag(t)).join("")}${pending ? ui.tag("Details pending", "tag-placeholder") : ""}</span></a>`;
+    },
+
     /* Detail body for a directory entry: a definition list driven by the collection's field config. */
     detailFacts(type, e, skip) {
       const cfg = RE.config.collections[type];

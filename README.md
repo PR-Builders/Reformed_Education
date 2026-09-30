@@ -123,3 +123,7 @@ Documents that are not question-and-answer (currently the Westminster Confession
 ## King James Version proof texts
 
 `tools/add_kjv.py path/to/pg10.txt` (Project Gutenberg's public-domain KJV plain text) fills in the text of Scripture references in `data/catechisms/*.json`. It splits multi-passage references into one proof per passage, keeps footnote keys, and prints the references it could not match (whole-chapter references and typing slips). It only touches proofs whose `text` is empty, so it is safe to re-run after adding a new document.
+
+## Directory list pages
+
+Every directory page has a **List / Cards** toggle (remembered per page in the browser). Lists of more than 12 entries open as compact rows and show 40 at a time with "Show more". A collection can set `collapseBy` in `assets/js/config.js` (the podcasts do, by `organization`) to fold three or more entries from the same producer into one expandable group, for example all of Ligonier's podcasts. Setting `groupBy` (seminaries, colleges) still groups by theological posture with its explanatory notes.

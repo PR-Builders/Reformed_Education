@@ -20,7 +20,7 @@
   ];
 
   RE.config = {
-    version: "202609300347",   // stamped by tools/bump_version.py; appended to data requests to avoid stale caches
+    version: "202609300356",   // stamped by tools/bump_version.py; appended to data requests to avoid stale caches
     siteName: "Reformed Education",
     tagline: "Reformed education and resources, in one place.",
     latinTagline: "Quaere et Disce",
@@ -166,7 +166,7 @@
       podcasts: {
         file: "podcasts.json", label: "Podcasts & Audio", singular: "Podcast", page: "podcasts.html",
         intro: "Podcasts and audio programs on Reformed theology, church life and history.",
-        cardMeta: ["creator", "doctrinal_posture"], filters: ["subject", "doctrinal_posture"],
+        cardMeta: ["creator", "doctrinal_posture"], filters: ["subject", "doctrinal_posture"], collapseBy: "organization",
         fields: [{ key: "doctrinal_posture", label: "Theological posture" }, { key: "creator", label: "Host / Producer" }, { key: "organization", label: "Organization" }, { key: "subject", label: "Subjects", type: "list" }, { key: "website", label: "Website", type: "url" }, { key: "doctrinal_basis", label: "Doctrinal basis" }, { key: "notable_episodes", label: "Notable episodes", type: "list" }, { key: "points_to_weigh", label: "Points to weigh", type: "list" }, { key: "research_sources", label: "Sources consulted", type: "list" }, { key: "description", label: "Description", type: "text" }],
       },
       lectures: {
