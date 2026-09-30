@@ -21,10 +21,12 @@
     </div></div>
     <nav class="site-nav" id="site-nav" aria-label="Primary"><div class="container">
       <ul>${c.nav.map((n) => {
-        const kids = n.children || [];
+        const groups = n.groups || [];
+        const kids = groups.flatMap((g) => g.items);
         const here = (n.keys || []).includes(page) || kids.some((k) => k.key === page);
-        return `<li${kids.length ? ' class="has-sub"' : ""}><a href="${n.href}"${here ? ' aria-current="page"' : ""}>${esc(n.label)}</a>${kids.length ? `<button type="button" class="sub-toggle" aria-expanded="false" aria-label="${esc(n.label)} menu">▾</button>
-          <ul class="submenu">${kids.map((k) => `<li><a href="${k.href}"${k.key === page ? ' aria-current="page"' : ""}>${esc(k.label)}</a></li>`).join("")}</ul>` : ""}</li>`; }).join("")}</ul>
+        const item = (k) => `<li><a href="${k.href}"${k.key === page ? ' aria-current="page"' : ""}>${esc(k.label)}</a></li>`;
+        return `<li${groups.length ? ' class="has-sub"' : ""}><a href="${n.href}"${here ? ' aria-current="page"' : ""}>${esc(n.label)}</a>${groups.length ? `<button type="button" class="sub-toggle" aria-expanded="false" aria-label="${esc(n.label)} menu">▾</button>
+          <div class="submenu">${groups.map((g) => `<div class="submenu-col"><p class="submenu-title">${esc(g.title)}</p><ul>${g.items.map(item).join("")}</ul></div>`).join("")}</div>` : ""}</li>`; }).join("")}</ul>
       <div class="nav-search">${searchForm("ns")}</div>
     </div></nav>
   </header>`;
@@ -35,7 +37,7 @@
         <p class="motto" lang="la">${esc(c.latinTagline)} <span>· ${esc(c.latinTranslation)}</span></p>
         <p class="muted">A directory and resource hub for Reformed Christian education. Early foundation — directory details are being added.</p></div>
       <div><h4>Explore</h4><ul>${c.categories.map((x) => `<li><a href="${x.href}">${esc(x.label)}</a></li>`).join("")}</ul></div>
-      <div><h4>Site</h4><ul><li><a href="education.html">Education</a></li><li><a href="search.html">Search</a></li><li><a href="sources.html">Sources &amp; Copyright</a></li><li><a href="about.html">About</a></li></ul></div>
+      <div><h4>Site</h4><ul><li><a href="browse.html">Browse</a></li><li><a href="search.html">Search</a></li><li><a href="sources.html">Sources &amp; Copyright</a></li><li><a href="about.html">About</a></li></ul></div>
     </div>
     <p class="footer-note">Nothing on this site is an endorsement. Directory information is provided for discovery; always verify details with the institution.</p>
   </div></footer>`;

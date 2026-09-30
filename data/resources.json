@@ -1613,6 +1613,80 @@
         "notes": "Facts were gathered from the organization's or publisher's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
       },
       "tags": []
+    },
+    {
+      "id": "answers-in-genesis",
+      "name": "Answers in Genesis (AiG)",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Organization",
+      "creator": "Founded 1993 by Ken Ham, Mark Looy and Mike Zovath",
+      "subject": [
+        "Science",
+        "Apologetics"
+      ],
+      "doctrinal_basis": "Its Statement of Faith holds that the 66 books of the Bible are the unique written Word of God, that creation took six consecutive 24-hour days about 4,000 years before Christ, and that Noah’s flood was global and shaped most of the fossil record.",
+      "points_to_weigh": [
+        "Answers in Genesis holds a young-earth, six-day, global-flood position and says that day-age and progressive-creation views are incompatible with Scripture. The standard scientific view dates the earth at about 4.5 billion years, which AiG rejects. Other Christians read Genesis 1 and the age of the earth differently; if you are weighing the question, read more than one Christian view.",
+        "Not confessionally Reformed: AiG describes itself as nondenominational."
+      ],
+      "website": "https://answersingenesis.org/about/",
+      "description": "Creation apologetics ministry in northern Kentucky (with offices in Mexico, Australia and Canada) that teaches a young-earth view of Genesis and runs the Creation Museum and the Ark Encounter.",
+      "topic_ids": [
+        "science/creation-and-origins",
+        "science"
+      ],
+      "research_sources": [
+        "https://answersingenesis.org/about/",
+        "https://answersingenesis.org/about/faith/"
+      ],
+      "source": {
+        "title": "Answers in Genesis (AiG): organization page",
+        "organization": "Answers in Genesis",
+        "url": "https://answersingenesis.org/about/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "creation-museum",
+      "name": "Creation Museum",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Museum",
+      "creator": "Answers in Genesis",
+      "subject": [
+        "Science",
+        "Apologetics"
+      ],
+      "doctrinal_basis": "Operated by Answers in Genesis and presents its Statement of Faith’s young-earth position.",
+      "points_to_weigh": [
+        "Answers in Genesis holds a young-earth, six-day, global-flood position and says that day-age and progressive-creation views are incompatible with Scripture. The standard scientific view dates the earth at about 4.5 billion years, which AiG rejects. Other Christians read Genesis 1 and the age of the earth differently; if you are weighing the question, read more than one Christian view.",
+        "Not confessionally Reformed: AiG describes itself as nondenominational.",
+        "A physical attraction: check dates, hours and admission on its site before a visit."
+      ],
+      "website": "https://creationmuseum.org/",
+      "description": "Museum in Petersburg, Kentucky, near Cincinnati, run by Answers in Genesis: more than 140 exhibits, dinosaur fossils, a planetarium, botanical gardens, a zoo and a 4D theater, presenting Bible history and ‘creation science’ from a young-earth view.",
+      "topic_ids": [
+        "science/creation-and-origins",
+        "science"
+      ],
+      "research_sources": [
+        "https://creationmuseum.org/"
+      ],
+      "source": {
+        "title": "Creation Museum: organization page",
+        "organization": "Answers in Genesis",
+        "url": "https://creationmuseum.org/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
     }
   ]
 }

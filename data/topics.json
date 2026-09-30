@@ -539,17 +539,39 @@
       "id": "science",
       "name": "Science",
       "blurb": "Science, creation and the Christian faith.",
-      "children": [],
+      "children": [
+        {
+          "id": "creation-and-origins",
+          "name": "Creation and Origins",
+          "start_here": [
+            {
+              "type": "resources",
+              "id": "answers-in-genesis",
+              "why": "Young-earth creation ministry (it teaches six 24-hour days); its own Statement of Faith is on its site."
+            },
+            {
+              "type": "resources",
+              "id": "creation-museum",
+              "why": "AiG’s museum in Petersburg, Kentucky, near Cincinnati."
+            }
+          ]
+        }
+      ],
       "start_here": [
+        {
+          "type": "resources",
+          "id": "answers-in-genesis",
+          "why": "Young-earth creation ministry (it teaches six 24-hour days); its own Statement of Faith is on its site."
+        },
+        {
+          "type": "resources",
+          "id": "creation-museum",
+          "why": "AiG’s museum in Petersburg, Kentucky, near Cincinnati."
+        },
         {
           "type": "podcasts",
           "id": "reformed-forum",
           "why": "Christ the Center’s ‘Redeeming Science’ with Vern Poythress."
-        },
-        {
-          "type": "podcasts",
-          "id": "the-briefing",
-          "why": "Daily news analysis with occasional science and ethics stories."
         }
       ]
     },

@@ -20,7 +20,7 @@
   ];
 
   RE.config = {
-    version: "202609301514",   // stamped by tools/bump_version.py; appended to data requests to avoid stale caches
+    version: "202609301518",   // stamped by tools/bump_version.py; appended to data requests to avoid stale caches
     siteName: "Reformed Education",
     tagline: "Reformed education and resources, in one place.",
     latinTagline: "Quaere et Disce",
@@ -28,24 +28,26 @@
     dataPath: "data/",
     PLACEHOLDER,
 
-    /* Primary navigation. An item with `children` shows them in a dropdown under its own hub page. */
+    /* Primary navigation. "Browse" opens a two-column menu (`groups`) of every directory and is also its own overview page. */
     nav: [
-      { label: "Education", href: "education.html", keys: ["education"], children: [
-        { label: "Seminaries", href: "seminaries.html", key: "seminaries" },
-        { label: "Colleges", href: "colleges.html", key: "colleges" },
-        { label: "Schools", href: "schools.html", key: "schools" },
-        { label: "Courses", href: "courses.html", key: "courses" },
-        { label: "Church officer training", href: "officers.html", key: "officers" },
+      { label: "Browse", href: "browse.html", keys: ["browse"], groups: [
+        { title: "Study", items: [
+          { label: "Seminaries", href: "seminaries.html", key: "seminaries", blurb: "Theological institutions that train pastors, teachers and scholars." },
+          { label: "Colleges", href: "colleges.html", key: "colleges", blurb: "Undergraduate education, from confessional Reformed to broadly evangelical." },
+          { label: "Christian schools", href: "schools.html", key: "schools", blurb: "Schools and school networks, distinguished by confessional emphasis." },
+          { label: "Online courses", href: "courses.html", key: "courses", blurb: "Study Reformed theology and church history from anywhere." },
+          { label: "Church officer training", href: "officers.html", key: "officers", blurb: "Training for elders, deacons and pastors." },
+        ] },
+        { title: "Read and listen", items: [
+          { label: "Authors", href: "authors.html", key: "authors", blurb: "Reformed theologians and writers, filtered by topic and ease of reading." },
+          { label: "Publishers", href: "publishers.html", key: "publishers", blurb: "Start with the publisher, then find the books." },
+          { label: "Podcasts & audio", href: "podcasts.html", key: "podcasts", blurb: "Audio programs on theology, counseling, technology and more." },
+          { label: "Lectures & video", href: "lectures.html", key: "lectures", blurb: "Lecture series and video teaching from seminaries and ministries." },
+          { label: "Resources", href: "resources.html", key: "resources", blurb: "Books, articles, organizations and other resources." },
+        ] },
       ] },
-      { label: "Catechisms", href: "catechisms.html", keys: ["catechisms", "catechism", "confession", "question"] },
       { label: "Topics", href: "topics.html", keys: ["topics"] },
-      { label: "Library", href: "library.html", keys: ["library"], children: [
-        { label: "Authors", href: "authors.html", key: "authors" },
-        { label: "Publishers", href: "publishers.html", key: "publishers" },
-        { label: "Podcasts & audio", href: "podcasts.html", key: "podcasts" },
-        { label: "Lectures & video", href: "lectures.html", key: "lectures" },
-        { label: "Resources", href: "resources.html", key: "resources" },
-      ] },
+      { label: "Catechisms", href: "catechisms.html", keys: ["catechisms", "catechism", "confession", "question"] },
       { label: "Family", href: "family.html", keys: ["family"] },
       { label: "Quizzes", href: "quizzes.html", keys: ["quizzes", "quiz"] },
     ],
@@ -222,7 +224,7 @@
       { key: "schools", numeral: "III", label: "Christian Schools", href: "schools.html", blurb: "Schools and school networks, distinguished by confessional emphasis." },
       { key: "courses", numeral: "IV", label: "Online Courses", href: "courses.html", blurb: "Study Reformed theology and church history from anywhere." },
       { key: "catechisms", numeral: "V", label: "Catechisms", href: "catechisms.html", blurb: "Confessions, catechisms and creeds, with study tools." },
-      { key: "library", numeral: "VI", label: "Library", href: "library.html", blurb: "Publishers, authors, podcasts, lectures and educational resources." },
+      { key: "library", numeral: "VI", label: "Books, podcasts and lectures", href: "browse.html#read", blurb: "Publishers, authors, podcasts, lectures and other resources." },
       { key: "family", numeral: "VII", label: "Family & Children", href: "family.html", blurb: "Resources for parents: catechisms, curricula and family worship." },
       { key: "officers", numeral: "VIII", label: "Church Officer Education", href: "officers.html", blurb: "Training for elders, deacons and pastors." },
       { key: "quizzes", numeral: "IX", label: "Quizzes", href: "quizzes.html", blurb: "Test your knowledge of Scripture, doctrine and church history." },

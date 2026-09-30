@@ -300,3 +300,7 @@ details.more[open] > summary { display: none; }
 .site-nav .submenu a:hover { background: var(--color-gold-100); }
 @media (min-width: 861px) { .site-nav .has-sub:hover > .submenu, .site-nav .has-sub:focus-within > .submenu, .site-nav .has-sub.open > .submenu { display: flex; } }
 @media (max-width: 860px) { .site-nav .submenu { position: static; display: none; box-shadow: none; border: 0; padding-left: 12px; flex-basis: 100%; } .site-nav .has-sub.open > .submenu { display: flex; } .site-nav .has-sub { flex-wrap: wrap; } }
+
+.submenu-col ul { display: block; margin: 0; padding: 0; list-style: none; }
+.submenu-title { margin: 0; padding: 6px 16px 2px; font-size: .68rem; letter-spacing: .14em; text-transform: uppercase; color: var(--color-muted); font-family: var(--font-body, inherit); }
+@media (min-width: 861px) { .site-nav .has-sub:hover > .submenu, .site-nav .has-sub:focus-within > .submenu, .site-nav .has-sub.open > .submenu { display: flex; flex-direction: row; gap: 8px; } .site-nav .submenu { min-width: 460px; } }
