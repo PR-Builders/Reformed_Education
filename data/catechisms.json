@@ -90,9 +90,13 @@
         "copyright": "Public domain.",
         "license": "Public domain",
         "translation": "King James Version (Scripture proofs)",
-        "notes": "Public domain. Text to be added."
+        "notes": "Public domain. Text to be added. Until the text is added here, a reading copy is linked from reformed.org's historic-documents index (not verified against this site).",
+        "url": "https://reformed.org/historic-confessions/1647westminsterconfession/"
       },
-      "count": 0
+      "count": 0,
+      "research_sources": [
+        "https://reformed.org/historic-confessions/"
+      ]
     },
     {
       "id": "heidelberg",
@@ -111,9 +115,13 @@
         "copyright": "Public domain.",
         "license": "Public domain",
         "translation": "King James Version (Scripture proofs)",
-        "notes": "Public domain. Text to be added."
+        "notes": "Public domain. Text to be added. Until the text is added here, a reading copy is linked from reformed.org's historic-documents index (not verified against this site).",
+        "url": "http://www.apuritansmind.com/creeds-and-confessions/the-heidelberg-catechism-by-zacharias-ursinus/"
       },
-      "count": 0
+      "count": 0,
+      "research_sources": [
+        "https://reformed.org/historic-confessions/"
+      ]
     },
     {
       "id": "belgic",
@@ -132,9 +140,13 @@
         "copyright": "Public domain.",
         "license": "Public domain",
         "translation": "King James Version (Scripture proofs)",
-        "notes": "Public domain. Text to be added."
+        "notes": "Public domain. Text to be added. Until the text is added here, a reading copy is linked from reformed.org's historic-documents index (not verified against this site).",
+        "url": "http://www.apuritansmind.com/creeds-and-confessions/the-belgic-confession-circa-1561-a-d/"
       },
-      "count": 0
+      "count": 0,
+      "research_sources": [
+        "https://reformed.org/historic-confessions/"
+      ]
     },
     {
       "id": "dort",
@@ -153,9 +165,13 @@
         "copyright": "Public domain.",
         "license": "Public domain",
         "translation": "King James Version (Scripture proofs)",
-        "notes": "Public domain. Text to be added."
+        "notes": "Public domain. Text to be added. Until the text is added here, a reading copy is linked from reformed.org's historic-documents index (not verified against this site).",
+        "url": "http://www.apuritansmind.com/creeds-and-confessions/the-synod-of-dordt-1618-1619-a-d/"
       },
-      "count": 0
+      "count": 0,
+      "research_sources": [
+        "https://reformed.org/historic-confessions/"
+      ]
     },
     {
       "id": "helvetic2",
@@ -174,9 +190,13 @@
         "copyright": "Public domain.",
         "license": "Public domain",
         "translation": "King James Version (Scripture proofs)",
-        "notes": "Public domain. Text to be added."
+        "notes": "Public domain. Text to be added. Until the text is added here, a reading copy is linked from reformed.org's historic-documents index (not verified against this site).",
+        "url": "https://reformed.org/historic-confessions/the-second-helvetic-confession/"
       },
-      "count": 0
+      "count": 0,
+      "research_sources": [
+        "https://reformed.org/historic-confessions/"
+      ]
     },
     {
       "id": "lbcf1689",
@@ -195,9 +215,13 @@
         "copyright": "Public domain.",
         "license": "Public domain",
         "translation": "King James Version (Scripture proofs)",
-        "notes": "Public domain. Text to be added."
+        "notes": "Public domain. Text to be added. Until the text is added here, a reading copy is linked from reformed.org's historic-documents index (not verified against this site).",
+        "url": "http://www.apuritansmind.com/creeds-and-confessions/1689-baptist-confession/"
       },
-      "count": 0
+      "count": 0,
+      "research_sources": [
+        "https://reformed.org/historic-confessions/"
+      ]
     },
     {
       "id": "baptist-catechism",
@@ -237,9 +261,13 @@
         "copyright": "Public domain.",
         "license": "Public domain",
         "translation": "King James Version (Scripture proofs)",
-        "notes": "Public domain. Text to be added."
+        "notes": "Public domain. Text to be added. Until the text is added here, a reading copy is linked from reformed.org's historic-documents index (not verified against this site).",
+        "url": "http://www.apuritansmind.com/creeds-and-confessions/the-apostles-creed/"
       },
-      "count": 0
+      "count": 0,
+      "research_sources": [
+        "https://reformed.org/historic-confessions/"
+      ]
     },
     {
       "id": "nicene",
@@ -258,9 +286,13 @@
         "copyright": "Public domain.",
         "license": "Public domain",
         "translation": "King James Version (Scripture proofs)",
-        "notes": "Public domain. Text to be added."
+        "notes": "Public domain. Text to be added. Until the text is added here, a reading copy is linked from reformed.org's historic-documents index (not verified against this site).",
+        "url": "http://www.apuritansmind.com/creeds-and-confessions/nicene-creed/"
       },
-      "count": 0
+      "count": 0,
+      "research_sources": [
+        "https://reformed.org/historic-confessions/"
+      ]
     },
     {
       "id": "athanasian",
@@ -279,9 +311,13 @@
         "copyright": "Public domain.",
         "license": "Public domain",
         "translation": "King James Version (Scripture proofs)",
-        "notes": "Public domain. Text to be added."
+        "notes": "Public domain. Text to be added. Until the text is added here, a reading copy is linked from reformed.org's historic-documents index (not verified against this site).",
+        "url": "http://www.apuritansmind.com/creeds-and-confessions/the-athanasian-creed-circa-500-a-d/"
       },
-      "count": 0
+      "count": 0,
+      "research_sources": [
+        "https://reformed.org/historic-confessions/"
+      ]
     },
     {
       "id": "chalcedon",
@@ -300,9 +336,13 @@
         "copyright": "Public domain.",
         "license": "Public domain",
         "translation": "King James Version (Scripture proofs)",
-        "notes": "Public domain. Text to be added."
+        "notes": "Public domain. Text to be added. Until the text is added here, a reading copy is linked from reformed.org's historic-documents index (not verified against this site).",
+        "url": "http://www.apuritansmind.com/creeds-and-confessions/the-chalcedonian-creed-circa-451-a-d/"
       },
-      "count": 0
+      "count": 0,
+      "research_sources": [
+        "https://reformed.org/historic-confessions/"
+      ]
     }
   ]
 }
