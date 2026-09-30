@@ -22,7 +22,7 @@
   RE.config = {
     version: "202609301739",   // stamped by tools/bump_version.py; appended to data requests to avoid stale caches
     siteName: "Reformed Education",
-    siteUrl: "https://pr-builders.github.io/Reformed_Education/",   // canonical address; tools/build_seo.py reads it. Change it when a custom domain is connected.
+    siteUrl: "https://reformededucation.org/",   // canonical address; tools/build_seo.py reads it
     tagline: "Reformed education and resources, in one place.",
     latinTagline: "Quaere et Disce",
     latinTranslation: "Seek and learn",

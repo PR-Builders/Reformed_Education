@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://pr-builders.github.io/Reformed_Education/sitemap.xml
+Sitemap: https://reformededucation.org/sitemap.xml
