@@ -204,7 +204,8 @@
       "listing_note": "A category of resources rather than a single organization; entries to be researched and added individually.",
       "topic_ids": [
         "christian-living/daily-devotions",
-        "christian-living/family-and-children"
+        "christian-living/family-and-children",
+        "education/parents-and-the-home"
       ]
     },
     {
@@ -254,7 +255,8 @@
       "listing_note": "A category of resources rather than a single organization; entries to be researched and added individually.",
       "topic_ids": [
         "christian-living/family-and-children",
-        "education"
+        "education",
+        "education/homeschooling"
       ]
     },
     {
@@ -315,7 +317,8 @@
       "tags": [],
       "topic_ids": [
         "christian-living/family-and-children",
-        "education"
+        "education",
+        "education/homeschooling"
       ]
     },
     {
@@ -343,7 +346,8 @@
       "tags": [],
       "topic_ids": [
         "christian-living/family-and-children",
-        "education"
+        "education",
+        "education/homeschooling"
       ]
     },
     {
@@ -371,7 +375,8 @@
       "tags": [],
       "topic_ids": [
         "christian-living/family-and-children",
-        "education"
+        "education",
+        "education/homeschooling"
       ]
     }
   ]

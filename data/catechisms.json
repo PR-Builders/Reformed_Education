@@ -51,8 +51,10 @@
       "count": 196,
       "file": "catechisms/wlc.json",
       "topic_ids": [
-        "theology/confessions-and-catechisms",
-        "christian-living/assurance-and-tender-consciences"
+        "christian-living/assurance-and-tender-consciences",
+        "education/parents-and-the-home",
+        "education/public-school-and-the-christian-parent",
+        "theology/confessions-and-catechisms"
       ]
     },
     {

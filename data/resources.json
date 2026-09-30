@@ -2083,6 +2083,77 @@
         "notes": "Facts were gathered from the publisher's or organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
       },
       "tags": []
+    },
+    {
+      "id": "baucham-family-driven-faith",
+      "name": "Family Driven Faith: Doing What It Takes to Raise Sons and Daughters Who Walk with God",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Book",
+      "creator": "Voddie Baucham Jr.",
+      "publisher": "Crossway (paperback, 2011; 256 pages)",
+      "subject": [
+        "Christian Living"
+      ],
+      "doctrinal_basis": "Written by a Reformed Baptist pastor and published by Crossway, an evangelical publisher.",
+      "points_to_weigh": [
+        "Argues that parents, not churches or schools, are responsible for discipling children; its author is Baptist, so it does not address infant baptism in the Presbyterian and Reformed way.",
+        "The publisher's description cites a statistic on teens leaving the faith; this site has not verified it."
+      ],
+      "website": "https://www.crossway.org/books/family-driven-faith-tpb/",
+      "description": "A parenting guide for Christian parents on discipling children in the home, with a preface and study guide added to the 2011 paperback edition.",
+      "topic_ids": [
+        "education/public-school-and-the-christian-parent",
+        "education/parents-and-the-home",
+        "christian-living/family-and-children"
+      ],
+      "research_sources": [
+        "https://www.crossway.org/books/family-driven-faith-tpb/"
+      ],
+      "source": {
+        "title": "Family Driven Faith: publisher page",
+        "organization": "Crossway",
+        "url": "https://www.crossway.org/books/family-driven-faith-tpb/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the publisher's own page. Classification and points to weigh are reformededucation.org's judgments; confirm current details."
+      },
+      "tags": []
+    },
+    {
+      "id": "hslda",
+      "name": "Home School Legal Defense Association (HSLDA)",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Organization",
+      "creator": "[Placeholder — information to be added]",
+      "subject": [
+        "Christian Living"
+      ],
+      "doctrinal_basis": "States that its leaders, directors and employees are Christians who seek to honor God; it does not require religious belief for membership or services.",
+      "points_to_weigh": [
+        "A membership organization for legal defense, legislative advocacy and resources. It is not a curriculum or a school, and it is not confessionally Reformed.",
+        "Laws on home education differ by state and country; confirm your own requirements with a current source."
+      ],
+      "website": "https://hslda.org/about",
+      "description": "Nonprofit that advocates for and protects homeschool freedom, offering legal defense, legislative advocacy, educational resources and support to member families; it says it serves over 90,000 families.",
+      "topic_ids": [
+        "education/homeschooling"
+      ],
+      "research_sources": [
+        "https://hslda.org/about"
+      ],
+      "source": {
+        "title": "HSLDA: about page",
+        "organization": "HSLDA",
+        "url": "https://hslda.org/about",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own page. Its member count is its own claim. Classification and points to weigh are reformededucation.org's judgments."
+      },
+      "tags": []
     }
   ]
 }

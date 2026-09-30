@@ -39,6 +39,7 @@
       "tags": [],
       "topic_ids": [
         "education",
+        "education/christian-schools",
         "education/classical-education"
       ]
     },
@@ -78,6 +79,7 @@
       "tags": [],
       "topic_ids": [
         "education",
+        "education/christian-schools",
         "education/classical-education"
       ]
     },
@@ -116,7 +118,8 @@
       },
       "tags": [],
       "topic_ids": [
-        "education"
+        "education",
+        "education/christian-schools"
       ]
     },
     {
@@ -155,7 +158,8 @@
       },
       "tags": [],
       "topic_ids": [
-        "education"
+        "education",
+        "education/christian-schools"
       ]
     },
     {
@@ -196,7 +200,8 @@
       },
       "tags": [],
       "topic_ids": [
-        "education"
+        "education",
+        "education/christian-schools"
       ]
     },
     {
@@ -237,6 +242,7 @@
       "tags": [],
       "topic_ids": [
         "education",
+        "education/christian-schools",
         "education/classical-education"
       ]
     },
@@ -276,6 +282,7 @@
       "tags": [],
       "topic_ids": [
         "education",
+        "education/christian-schools",
         "education/classical-education"
       ]
     },
@@ -316,7 +323,48 @@
       },
       "tags": [],
       "topic_ids": [
-        "education"
+        "education",
+        "education/christian-schools"
+      ]
+    },
+    {
+      "id": "memoria-press",
+      "name": "Memoria Press",
+      "placeholder": false,
+      "verification": "researched",
+      "org_type": "Curriculum",
+      "emphasis": [
+        "Classical Christian"
+      ],
+      "location": "Louisville, Kentucky (10901 Shelbyville Road), with online courses and an affiliated online academy",
+      "grades": "Preschool through grade 12",
+      "founded": "[Placeholder — information to be added]",
+      "affiliation": "Not stated on the page reviewed",
+      "doctrinal_basis": "[Placeholder — information to be added]",
+      "points_to_weigh": [
+        "Describes itself as a classical Christian curriculum provider but the page reviewed names no denomination or statement of faith, so it is not confirmed Reformed; read its material before relying on it for a Reformed family.",
+        "Its own figures (over half a million homeschoolers have used it; used in over 650 U.S. schools) are the company's claims and were not independently checked."
+      ],
+      "accreditation": "[Placeholder — information to be added]",
+      "tuition": "[Placeholder — information to be added]",
+      "website": "https://www.memoriapress.com/",
+      "description": "Classical Christian curriculum for homeschools and schools: Classical Core Curriculum packages with daily lesson plans, subject materials with Latin as a foundation, streaming courses and Memoria Academy.",
+      "research_sources": [
+        "https://www.memoriapress.com/"
+      ],
+      "source": {
+        "title": "Memoria Press: website summary",
+        "organization": "Memoria Press",
+        "url": "https://www.memoriapress.com/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
+      },
+      "tags": [],
+      "topic_ids": [
+        "education/homeschooling",
+        "education/christian-schools"
       ]
     }
   ]

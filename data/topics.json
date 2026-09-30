@@ -746,7 +746,7 @@
     {
       "id": "education",
       "name": "Christian Education and Schooling",
-      "blurb": "Schools, curricula and approaches to educating children in the Christian faith.",
+      "blurb": "Schools, curricula and approaches to educating children in the Christian faith, and the parents’ part in it.",
       "children": [
         {
           "id": "classical-education",
@@ -761,6 +761,96 @@
               "type": "schools",
               "id": "society-for-classical-learning",
               "why": "A classical Christian learning society."
+            }
+          ]
+        },
+        {
+          "id": "public-school-and-the-christian-parent",
+          "name": "Public School and the Christian Parent",
+          "blurb": "Why this site holds that Christian parents should not send their children to public school, what Scripture and the catechism say about parents’ duty, and where Reformed Christians differ.",
+          "start_here": [
+            {
+              "type": "articles",
+              "id": "why-not-public-school",
+              "why": "The site’s position and its reasons, with what it does not claim."
+            },
+            {
+              "type": "articles",
+              "id": "choosing-an-alternative-to-public-school",
+              "why": "The options compared and questions to ask any school."
+            },
+            {
+              "type": "articles",
+              "id": "parents-cannot-farm-out-their-children",
+              "why": "Why no school can do parents’ work."
+            },
+            {
+              "type": "catechisms",
+              "id": "wlc",
+              "title": "Larger Catechism, question 129",
+              "href": "question.html?id=wlc&q=129",
+              "why": "What superiors, and first parents, owe those under them."
+            },
+            {
+              "type": "resources",
+              "id": "baucham-family-driven-faith",
+              "why": "A book on discipling children in the home."
+            }
+          ]
+        },
+        {
+          "id": "christian-schools",
+          "name": "Christian Schools",
+          "blurb": "Christian and classical Christian schools, school associations and teacher training. Each entry says whether it is Reformed.",
+          "start_here": [
+            {
+              "type": "schools",
+              "id": "association-for-covenantal-reformed-education",
+              "why": "A Reformed approach to school-based education."
+            },
+            {
+              "type": "schools",
+              "id": "association-of-classical-christian-schools",
+              "why": "A classical Christian school association (not all member schools are Reformed)."
+            }
+          ]
+        },
+        {
+          "id": "homeschooling",
+          "name": "Home Education",
+          "blurb": "Curricula and help for Christian families who teach their children at home.",
+          "start_here": [
+            {
+              "type": "family",
+              "id": "covenant-home-curriculum",
+              "why": "A home curriculum listed in the Family directory."
+            },
+            {
+              "type": "schools",
+              "id": "memoria-press",
+              "why": "A classical Christian curriculum (denomination not stated)."
+            },
+            {
+              "type": "resources",
+              "id": "hslda",
+              "why": "Legal defense and support for home educators."
+            }
+          ]
+        },
+        {
+          "id": "parents-and-the-home",
+          "name": "Parents and the Home",
+          "blurb": "Parents’ time with their children, family worship and the marriage at the centre of the home.",
+          "start_here": [
+            {
+              "type": "articles",
+              "id": "parents-cannot-farm-out-their-children",
+              "why": "Time, marriage and what the research does and does not show."
+            },
+            {
+              "type": "family",
+              "id": "family-worship-resources",
+              "why": "Help with family worship."
             }
           ]
         }

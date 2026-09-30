@@ -341,6 +341,280 @@
         "notes": "Written for this site. It describes the two systems as their own governing documents state them and does not settle debates between churches. Always read your own church’s book of order."
       },
       "tags": []
+    },
+    {
+      "id": "why-not-public-school",
+      "name": "Why Christian parents should not send their children to public school",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Article",
+      "author": "reformededucation.org",
+      "date": "Written 2026-09-30",
+      "description": "The position of this site, with the reasons: God gives children to their parents to disciple, no school is neutral, and a school that must be secular teaches a worldview. It also says plainly where Reformed Christians disagree.",
+      "sections": [
+        {
+          "heading": "This is the site’s position",
+          "paragraphs": [
+            "Reformed Education holds that Christian parents should not place their children in public (government) schools, and that they should choose a Christian school, a classical Christian school or home education instead. That is an editorial position of this site, stated openly. It is not a doctrine of the Westminster Standards, the Three Forms of Unity or any denomination we list.",
+            "Reformed Christians do disagree about it. Some faithful parents use public schools and some churches do not press the matter. This article gives the reasons for our view, then says what it does not claim."
+          ]
+        },
+        {
+          "heading": "1. God gives the education of children to parents",
+          "paragraphs": [
+            "The great Old Testament text on teaching children is addressed to parents: “And thou shalt teach them diligently unto thy children, and shalt talk of them when thou sittest in thine house, and when thou walkest by the way, and when thou liest down, and when thou risest up” (Deuteronomy 6:7, KJV). Psalm 78:5–7 says the Lord commanded the fathers to make his law known to their children, so that each generation would set its hope in God.",
+            "The New Testament gives the same charge: “ye fathers, provoke not your children to wrath: but bring them up in the nurture and admonition of the Lord” (Ephesians 6:4, KJV). The Westminster Larger Catechism, in answer 129, lists what parents and other superiors owe those under them: “to instruct, counsel, and admonish them”, and it cites Deuteronomy 6:6–7 and Ephesians 6:4 among its proofs.",
+            "Parents may use teachers, as they use doctors and pastors. But the responsibility stays with them. Choosing a school is choosing who will stand in the place of the parent for about thirty hours a week, and that choice belongs to a father and mother before God."
+          ]
+        },
+        {
+          "heading": "2. No education is neutral",
+          "paragraphs": [
+            "Every subject, from history to science to literature, is taught from some view of God, man and the world. A school cannot teach without assuming answers to the questions ‘What is man?’, ‘What is right?’ and ‘Where did we come from?’",
+            "A government school that serves a whole nation is in a difficult position. It cannot teach the gospel, so it teaches as if God did not matter. The Presbyterian theologian A. A. Hodge saw this coming. In lectures published in 1887 he argued that if every party has the right to remove from the public schools what it does not believe, then “he that believes most must give way to him that believes least”, until nothing is left that assumes God. He warned that, carried through consistently, “the United States system of national popular education will be the most efficient and wide instrument for the propagation of Atheism which the world has ever seen” (Popular Lectures on Theological Themes, ‘The Kingly Office of Christ’, p. 281). Hodge wrote that as a prediction of where a consistent secular system leads, not as a description of every teacher or school."
+          ]
+        },
+        {
+          "heading": "3. Children are discipled by whoever spends the most time with them",
+          "paragraphs": [
+            "Jesus said, “The disciple is not above his master: but every one that is perfect shall be as his master” (Luke 6:40, KJV). Children become like the people who teach them and the people they grow up among. “He that walketh with wise men shall be wise: but a companion of fools shall be destroyed” (Proverbs 13:20, KJV).",
+            "A school day puts a child for most of his waking hours among teachers and classmates whom the parents did not choose and who may share none of the family’s convictions. The Christian parent has to ask honestly who is forming the child’s loves, habits and friendships."
+          ]
+        },
+        {
+          "heading": "4. The aim is more than safety",
+          "paragraphs": [
+            "It is common to defend public school by saying that Christian children can be light in a dark place. There is truth in this for grown believers. But children are not sent to school to be missionaries; they are sent to be taught. Parents are told to train them first (Proverbs 22:6), and a child who is still being formed is not the best person to hold a position against a system built by adults.",
+            "The positive aim matters more than the warning. Christian education seeks to teach every subject as a part of God’s world, under Christ, with the catechism and the Scriptures as the frame for the rest. That is hard to do in a school that has to stay silent about him."
+          ]
+        },
+        {
+          "heading": "What this does not claim",
+          "points": [
+            "It does not claim that every child in a public school will lose the faith, or that every public school teacher is an enemy. Many are kind and capable.",
+            "It does not say that Christian schools and homeschools are automatically faithful. Some are only moral or only academic, and they need the same testing. See ‘Choosing an alternative to public school’ on this site.",
+            "It does not condemn parents who have no other choice. Some families cannot afford a school or cannot teach at home. The church should help them, and they can still do most of the work of discipling at home (see ‘Parents cannot farm out their children’).",
+            "It does not settle the question for your church. Ask your elders, and compare the views of your own denomination."
+          ],
+          "paragraphs": []
+        },
+        {
+          "heading": "If your children are already in public school",
+          "paragraphs": [
+            "Do not panic, and do not wait. Begin family worship and catechism if you have not. Know what they are being taught and talk about it at the table. Talk to your pastor and elders, and pray about a move. Look at the options in the Education section of this site, and consider the cost, the distance, the time and the help your church can give."
+          ]
+        }
+      ],
+      "topic_ids": [
+        "education/public-school-and-the-christian-parent"
+      ],
+      "related": [
+        "choosing-an-alternative-to-public-school",
+        "parents-cannot-farm-out-their-children"
+      ],
+      "research_sources": [
+        "https://archive.org/details/popularlectureso00hodg"
+      ],
+      "source": {
+        "title": "Why Christian parents should not send their children to public school",
+        "author": "reformededucation.org",
+        "organization": "reformededucation.org",
+        "url": "https://archive.org/details/popularlectureso00hodg",
+        "date": "2026-09-30",
+        "license": "Original writing for this site; quoted phrases are short and credited",
+        "copyright_status": "retained",
+        "notes": "States the site’s position as an editorial judgment. The Hodge passage was checked against the full text of Popular Lectures on Theological Themes (1887), pp. 280–281, on the Internet Archive; the catechism answer is from the Westminster Larger Catechism as held in this site’s catechism data. Reformed churches differ on the application."
+      }
+    },
+    {
+      "id": "choosing-an-alternative-to-public-school",
+      "name": "Choosing an alternative to public school",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Article",
+      "author": "reformededucation.org",
+      "date": "Written 2026-09-30",
+      "description": "Four main options for Christian parents: a Christian school, a classical Christian school, home education and a hybrid. What each asks of you, and what to check before you choose.",
+      "sections": [
+        {
+          "heading": "Start with the aim",
+          "paragraphs": [
+            "An alternative to public school is only as good as what it teaches and who teaches it. Before choosing, write down what you want: sound doctrine, a real academic education, a godly community, the time to disciple your children yourselves, or all of these. Different options give different things."
+          ]
+        },
+        {
+          "heading": "The four main options",
+          "table": {
+            "head": [
+              "Option",
+              "What it is",
+              "Often a good fit when",
+              "Watch for"
+            ],
+            "rows": [
+              [
+                "Christian school",
+                "A school run by a church or a group of Christian families, with Christian teachers.",
+                "Both parents work, or parents want a school community and teaching from others.",
+                "Doctrine differs between schools; some are only ‘Christian’ in name. Ask for the statement of faith and read it. Tuition can be high."
+              ],
+              [
+                "Classical Christian school",
+                "A Christian school that teaches the liberal arts, Latin, logic and rhetoric and the great books.",
+                "Parents value a demanding, book-centred education with a Christian frame.",
+                "Schools range from Reformed to broadly evangelical. Membership in an association is not a guarantee of your church’s doctrine."
+              ],
+              [
+                "Home education",
+                "Parents teach, using curriculum chosen for their family.",
+                "A parent can be at home, and the family wants to teach the faith and the school day together.",
+                "It asks a great deal of one parent’s time and patience. Legal requirements vary by state and country, so check your own."
+              ],
+              [
+                "Hybrid or co-op",
+                "Children attend school or a co-op for some days and learn at home on others, or families teach one another’s children.",
+                "A family wants help with teaching but keeps the home as the centre.",
+                "Needs commitment from several families and a clear statement of what is taught."
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Questions to ask any school or curriculum",
+          "points": [
+            "What is its statement of faith, and which church or churches stand behind it?",
+            "Who teaches, and are the teachers professing Christians who are members of a church?",
+            "How does it teach history, science and literature? Ask to see the books.",
+            "How does it handle discipline, and how are parents kept involved?",
+            "What does it cost, and what help does it give to families who cannot pay? Do not assume costs; ask for current figures.",
+            "If it is a homeschool curriculum, does it fit the number of children and the time you have?"
+          ]
+        },
+        {
+          "heading": "Finding them on this site",
+          "paragraphs": [
+            "Reformed Education lists schools, school associations, curricula and teacher-training groups, and gives the doctrinal basis and points to weigh for each. Some are Reformed and some are not, and each entry says which. Start with the Education topic, then open ‘Christian Schools’ or ‘Home Education’. Where a detail is unknown the page says so, and you should confirm details with the school itself."
+          ]
+        },
+        {
+          "heading": "Whichever you choose",
+          "paragraphs": [
+            "No school or curriculum can do the work that belongs to parents. Family worship, catechism, church and time at home are what make any of these options Christian. See ‘Parents cannot farm out their children’ on this site."
+          ]
+        }
+      ],
+      "topic_ids": [
+        "education/christian-schools",
+        "education/homeschooling",
+        "education/public-school-and-the-christian-parent"
+      ],
+      "related": [
+        "why-not-public-school",
+        "parents-cannot-farm-out-their-children"
+      ],
+      "research_sources": [
+        "https://classicalchristian.org/",
+        "https://www.memoriapress.com/",
+        "https://hslda.org/about"
+      ],
+      "source": {
+        "title": "Choosing an alternative to public school",
+        "author": "reformededucation.org",
+        "organization": "reformededucation.org",
+        "url": "https://classicalchristian.org/",
+        "date": "2026-09-30",
+        "license": "Original writing for this site; quoted phrases are short and credited",
+        "copyright_status": "retained",
+        "notes": "Written for this site as a practical guide. It makes general observations and does not rate or recommend any single school. Confirm details with each school or curriculum provider."
+      }
+    },
+    {
+      "id": "parents-cannot-farm-out-their-children",
+      "name": "Parents cannot farm out their children",
+      "placeholder": false,
+      "verification": "researched",
+      "kind": "Article",
+      "author": "reformededucation.org",
+      "date": "Written 2026-09-30",
+      "description": "Children are discipled by time with their parents, and that time cannot be handed to a school, a screen or a program. What the research does and does not show about family stability and parents’ marriage.",
+      "sections": [
+        {
+          "heading": "The plain point",
+          "paragraphs": [
+            "Christian parents are sometimes told that if they choose the right school, church programme or curriculum, the children will be taken care of. They will not. A school can teach, and a church can teach. Neither can replace a father and a mother who are present, who talk with their children, pray with them and eat with them.",
+            "Deuteronomy 6:7 describes the pattern: the words of God are to be talked of “when thou sittest in thine house, and when thou walkest by the way, and when thou liest down, and when thou risest up” (KJV). Discipleship here is not a class. It is the ordinary hours of the day, shared."
+          ]
+        },
+        {
+          "heading": "What the Westminster Standards say parents owe",
+          "paragraphs": [
+            "The Larger Catechism (answer 129) says superiors, and first of all parents, owe those under them love, prayer and blessing; instruction, counsel and admonition; and “protecting, and providing for them all things necessary for soul and body”, and a “grave, wise, holy, and exemplary carriage”. Nearly all of these need presence. A child cannot be instructed or given an example by someone who is not there."
+          ]
+        },
+        {
+          "heading": "What we can ask of a busy household",
+          "points": [
+            "A meal together most days, with no screens.",
+            "Family worship: a short passage, a prayer and a catechism question. Sources for this are in the Family section of this site.",
+            "One-to-one time with each child, doing something together.",
+            "Saying no to activities that take the family out of the house every evening.",
+            "Being at church together and talking about the sermon afterwards.",
+            "Fathers especially: Ephesians 6:4 addresses fathers by name."
+          ]
+        },
+        {
+          "heading": "Parents’ marriage is part of their children’s education",
+          "paragraphs": [
+            "Children learn what a husband and wife are by watching theirs. Ephesians 5 sets the pattern: the husband loves as Christ loved the church and the wife respects and submits to him; that marriage pictures Christ and the church. A home where the parents love each other and stay together teaches children more about the gospel than any lesson can.",
+            "Research is consistent with this, and it is worth stating carefully:"
+          ]
+        },
+        {
+          "heading": "What the research shows, and does not show",
+          "points": [
+            "Family stability is among the strongest correlates of a child’s later prospects. A study by Raj Chetty and colleagues of 40 million children (“Where is the Land of Opportunity?”, National Bureau of Economic Research, 2014) found that areas with higher upward mobility have “greater family stability”, along with less segregation, less inequality, better primary schools and more social capital. The authors wrote that the fraction of children living in single-parent households was the single strongest correlate of upward income mobility among the variables they explored, as reported by the American Enterprise Institute’s review of the work.",
+            "That research is descriptive. The authors say it does not identify the causes, and later work found the link weaker for the causal effect of a place. It is a strong association across communities, not a proof about any one child.",
+            "Parents’ relationship quality is linked to how they parent. A 2014 study in the Journal of Family Issues (Ratcliffe, Norton and Dutschi), summarized by the Institute for Family Studies, found that parents who reported an affectionate, positive relationship engaged more positively with their child two years later, and that this was linked to fewer behaviour problems in the child at age five.",
+            "We have not found a study showing that parents staying together and liking each other is the single greatest predictor of an individual child’s success, so this site does not make that claim. It is fair to say that the evidence points strongly in that direction and that it agrees with what Scripture teaches about marriage and the home."
+          ]
+        },
+        {
+          "heading": "For those whose marriage has ended or never was",
+          "paragraphs": [
+            "Single parents and widowed, divorced or abandoned parents are not condemned by any of this, and many raise godly children. The church is told to look after widows and the fatherless (James 1:27). If you are such a parent, ask your church for help, including men to be examples for your sons and women for your daughters."
+          ]
+        },
+        {
+          "heading": "If your marriage is struggling",
+          "paragraphs": [
+            "Talk to your pastor or elders soon, and consider biblical counseling. The Biblical Counseling section of this site lists organizations and books on marriage. If you are in danger, call your local emergency number or, in the U.S., call or text 988."
+          ]
+        }
+      ],
+      "topic_ids": [
+        "education/parents-and-the-home",
+        "christian-living/family-and-children",
+        "education/public-school-and-the-christian-parent"
+      ],
+      "related": [
+        "why-not-public-school",
+        "choosing-an-alternative-to-public-school"
+      ],
+      "research_sources": [
+        "https://www.nber.org/papers/w19843",
+        "https://www.aei.org/research-products/report/re-centering-family-structure-in-opportunity-insights-work-on-intergenerational-mobility-how-important-is-single-parenthood/",
+        "https://ifstudies.org/blog/how-parents-relationship-quality-affects-kids"
+      ],
+      "source": {
+        "title": "Parents cannot farm out their children",
+        "author": "reformededucation.org",
+        "organization": "reformededucation.org",
+        "url": "https://www.nber.org/papers/w19843",
+        "date": "2026-09-30",
+        "license": "Original writing for this site; quoted phrases are short and credited",
+        "copyright_status": "retained",
+        "notes": "Written for this site. The Chetty abstract was read at NBER; the ‘single strongest correlate’ wording is from the AEI review, which quotes the published paper (p. 1616), and was not checked against the paper itself. The Ratcliffe, Norton and Dutschi findings are from the Institute for Family Studies summary. Correlation is not causation."
+      }
     }
   ]
 }
