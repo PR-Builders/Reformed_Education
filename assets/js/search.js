@@ -65,10 +65,10 @@
       });
       (cat.chapters || []).forEach((c) => {
         c.sections.forEach((sec) => {
-          const fields = [{ label: `${cat.short} ${c.numeral}.${sec.n}`, text: sec.text.replace(/\{[a-z]{1,2}\}/g, ""), weight: 2 }];
+          const fields = [{ label: `${cat.short} ${c.numeral}`, text: sec.text.replace(/\{[a-z]{1,2}\}/g, ""), weight: 2 }];
           sec.proofs.forEach((p) => fields.push({ label: "Scripture reference", text: p.ref, weight: 1 }));
           docs.push({ type: "catechisms", kind: "Confession section", group, order: c.n * 100 + sec.n, id: `${cat.id}-${c.n}-${sec.n}`,
-            title: `${cat.short} ${c.numeral}.${sec.n} — ${c.title}`, url: `confession.html?id=${encodeURIComponent(cat.id)}&ch=${c.n}&sec=${sec.n}`, fields });
+            title: `${cat.short} ${c.numeral}${cat.unit === "article" ? "" : "." + sec.n} — ${c.title}`, url: `confession.html?id=${encodeURIComponent(cat.id)}&ch=${c.n}&sec=${sec.n}`, fields });
         });
       });
       (cat.front_matter || []).forEach((f, fi) => {

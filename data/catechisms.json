@@ -138,23 +138,29 @@
       "group": "Presbyterian / Reformed",
       "kind": "Confession",
       "placeholder": false,
-      "verification": "listed",
-      "status": "planned",
-      "description": "Planned. Text not yet added.",
+      "verification": "researched",
+      "status": "ready",
+      "description": "The Belgic Confession (Guido de Brès, 1561, revised at the Synod of Dort, 1618–1619): 37 articles.",
       "tags": [],
       "source": {
-        "title": "Belgic Confession",
+        "title": "The Belgic Confession",
         "copyright_status": "public-domain",
         "copyright": "Public domain.",
         "license": "Public domain",
-        "translation": "King James Version (Scripture proofs)",
-        "notes": "Public domain. Text to be added. Until the text is added here, a reading copy is linked from reformed.org's historic-documents index (not verified against this site).",
-        "url": "http://www.apuritansmind.com/creeds-and-confessions/the-belgic-confession-circa-1561-a-d/"
+        "translation": "English translation printed in the Constitution of the Reformed Dutch Church in North America (1793)",
+        "notes": "Public domain: published before 1931. Text taken from the proofread Wikisource transcription of that printing. Compared with a second English text on apuritansmind.com (a lightly modernized version of the same lineage): the two agree in substance and differ in wording, for example 'saith' against 'says'. Not yet proofread against a printed edition.",
+        "url": "https://en.wikisource.org/wiki/Belgic_Confession",
+        "date": "1561; revised 1618–1619"
       },
-      "count": 0,
+      "count": 37,
       "research_sources": [
-        "https://reformed.org/historic-confessions/"
-      ]
+        "https://reformed.org/historic-confessions/",
+        "https://www.apuritansmind.com/creeds-and-confessions/the-belgic-confession-circa-1561-a-d/"
+      ],
+      "structure": "chapters",
+      "unit": "article",
+      "file": "catechisms/belgic.json",
+      "coverage_note": "This is the older English translation from the 1793 Constitution of the Reformed Dutch Church in North America. Later translations (for example the Christian Reformed Church's 1985 version) are in modern English and are copyrighted, so they are not used here. Scripture references appear in the text as the translation gives them."
     },
     {
       "id": "dort",
@@ -173,7 +179,7 @@
         "copyright": "Public domain.",
         "license": "Public domain",
         "translation": "King James Version (Scripture proofs)",
-        "notes": "Public domain. Text to be added. Until the text is added here, a reading copy is linked from reformed.org's historic-documents index (not verified against this site).",
+        "notes": "Public domain. Text to be added. Until the text is added here, a reading copy is linked from reformed.org's historic-documents index (not verified against this site). Note: the translation linked from reformed.org's index is the 2011 Christian Reformed Church translation, which is copyrighted, so its text is not copied here.",
         "url": "http://www.apuritansmind.com/creeds-and-confessions/the-synod-of-dordt-1618-1619-a-d/"
       },
       "count": 0,
