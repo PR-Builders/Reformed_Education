@@ -3,25 +3,43 @@
   "entries": [
     {
       "id": "reformed-forum",
-      "name": "Reformed Forum",
+      "name": "Reformed Forum: Christ the Center",
       "placeholder": false,
-      "verification": "listed",
-      "creator": "[Placeholder — information to be added]",
-      "organization": "[Placeholder — information to be added]",
+      "verification": "researched",
+      "creator": "Camden Bucey, Jim Cassidy and panelists",
+      "organization": "Reformed Forum",
       "subject": [
-        "[Placeholder — information to be added]"
+        "Systematic Theology",
+        "Apologetics",
+        "Science",
+        "Technology",
+        "Politics",
+        "Culture and Current Events"
       ],
-      "website": "[Placeholder — information to be added]",
-      "description": "[Placeholder — information to be added]",
+      "website": "https://reformedforum.org/",
+      "description": "Reformed Forum’s long-running panel program, Christ the Center, on Reformed theology with episodes on science, technology and culture.",
       "source": {
-        "title": "[Placeholder — information to be added]",
-        "author": "[Placeholder — information to be added]",
-        "organization": "[Placeholder — information to be added]",
-        "url": "[Placeholder — information to be added]",
-        "date": "[Placeholder — information to be added]",
-        "license": "[Placeholder — information to be added]"
+        "title": "Reformed Forum: website and public-record summary",
+        "organization": "Reformed Forum",
+        "url": "https://reformedforum.org/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": []
+      "tags": [],
+      "doctrinal_posture": "Confessional Reformed",
+      "doctrinal_basis": "Committed to the Westminster Standards and the Three Forms of Unity (Reformed Forum).",
+      "points_to_weigh": [],
+      "notable_episodes": [
+        "‘Redeeming Science’ with Vern Poythress (16 January 2009): why the triune God of the Bible is required for the possibility of science; also covers creation days and education. https://reformedforum.org/podcasts/ctc52/",
+        "‘Artificial Intelligence in Scholarship and Pastoral Ministry’ (2 June 2023): possibilities and perils of AI for scholarship and ministry. https://reformedforum.org/podcasts/ctc805/"
+      ],
+      "research_sources": [
+        "https://reformedforum.org/podcasts/ctc52/",
+        "https://reformedforum.org/podcasts/ctc805/",
+        "https://reformedforum.org/"
+      ]
     },
     {
       "id": "mortification-of-spin",
@@ -90,7 +108,8 @@
       "organization": "Sola Media / Modern Reformation",
       "subject": [
         "Systematic Theology",
-        "Apologetics"
+        "Apologetics",
+        "Politics"
       ],
       "doctrinal_basis": "Reformation-centered; multi-denominational.",
       "points_to_weigh": [
@@ -99,7 +118,8 @@
       "website": "https://www.whitehorseinn.org/",
       "description": "Radio and podcast program begun in 1990; hosts include Michael Horton.",
       "research_sources": [
-        "https://www.whitehorseinn.org/"
+        "https://www.whitehorseinn.org/",
+        "https://whitehorseinn.org/resource-library/shows/david-vandrunen-and-two-kingdoms/"
       ],
       "source": {
         "title": "The White Horse Inn: website and public-record summary",
@@ -110,7 +130,10 @@
         "copyright_status": "retained",
         "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
       },
-      "tags": []
+      "tags": [],
+      "notable_episodes": [
+        "‘David VanDrunen and Two Kingdoms’: a series on the Christian’s relationship to politics from the Reformed two-kingdoms view. https://whitehorseinn.org/resource-library/shows/david-vandrunen-and-two-kingdoms/"
+      ]
     },
     {
       "id": "theology-simply-profound",
@@ -273,6 +296,573 @@
         "title": "The Gospel Coalition: website and public-record summary",
         "organization": "The Gospel Coalition",
         "url": "https://www.thegospelcoalition.org/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
+      },
+      "tags": []
+    },
+    {
+      "id": "renewing-your-mind",
+      "name": "Renewing Your Mind",
+      "placeholder": false,
+      "verification": "researched",
+      "creator": "Ligonier teachers",
+      "organization": "Ligonier Ministries",
+      "subject": [
+        "Systematic Theology",
+        "Christian Living"
+      ],
+      "doctrinal_posture": "Reformed heritage",
+      "doctrinal_basis": "Ligonier affirms the Westminster Standards, the Three Forms of Unity and the 1689 Baptist Confession as consistent with its teaching (see the Ligonier Ministries entry).",
+      "points_to_weigh": [
+        "Ligonier is multi-denominational; its teachers include both paedobaptists and credobaptists."
+      ],
+      "website": "https://www.renewingyourmind.org/",
+      "description": "Ligonier’s daily program of biblical and theological teaching.",
+      "research_sources": [
+        "https://learn.ligonier.org/podcasts",
+        "https://www.renewingyourmind.org/"
+      ],
+      "source": {
+        "title": "Renewing Your Mind: website and public-record summary",
+        "organization": "Ligonier Ministries",
+        "url": "https://www.renewingyourmind.org/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
+      },
+      "tags": []
+    },
+    {
+      "id": "five-minutes-in-church-history",
+      "name": "5 Minutes in Church History",
+      "placeholder": false,
+      "verification": "researched",
+      "creator": "Stephen Nichols",
+      "organization": "Ligonier Ministries",
+      "subject": [
+        "Church History"
+      ],
+      "doctrinal_posture": "Reformed heritage",
+      "doctrinal_basis": "Ligonier affirms the Westminster Standards, the Three Forms of Unity and the 1689 Baptist Confession as consistent with its teaching (see the Ligonier Ministries entry).",
+      "points_to_weigh": [
+        "Ligonier is multi-denominational; its teachers include both paedobaptists and credobaptists."
+      ],
+      "website": "https://learn.ligonier.org/podcasts/5-minutes-in-church-history-with-stephen-nichols",
+      "description": "Short episodes on key figures and events in Christian history.",
+      "research_sources": [
+        "https://learn.ligonier.org/podcasts",
+        "https://learn.ligonier.org/podcasts/5-minutes-in-church-history-with-stephen-nichols"
+      ],
+      "source": {
+        "title": "5 Minutes in Church History: website and public-record summary",
+        "organization": "Ligonier Ministries",
+        "url": "https://learn.ligonier.org/podcasts/5-minutes-in-church-history-with-stephen-nichols",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
+      },
+      "tags": []
+    },
+    {
+      "id": "things-unseen",
+      "name": "Things Unseen with Sinclair Ferguson",
+      "placeholder": false,
+      "verification": "researched",
+      "creator": "Sinclair Ferguson",
+      "organization": "Ligonier Ministries",
+      "subject": [
+        "Christian Living"
+      ],
+      "doctrinal_posture": "Reformed heritage",
+      "doctrinal_basis": "Ligonier affirms the Westminster Standards, the Three Forms of Unity and the 1689 Baptist Confession as consistent with its teaching (see the Ligonier Ministries entry).",
+      "points_to_weigh": [
+        "Ligonier is multi-denominational; its teachers include both paedobaptists and credobaptists."
+      ],
+      "website": "https://learn.ligonier.org/podcasts/things-unseen-with-sinclair-ferguson",
+      "description": "Devotional reflections on the Christian life, Monday to Friday.",
+      "research_sources": [
+        "https://learn.ligonier.org/podcasts",
+        "https://learn.ligonier.org/podcasts/things-unseen-with-sinclair-ferguson"
+      ],
+      "source": {
+        "title": "Things Unseen with Sinclair Ferguson: website and public-record summary",
+        "organization": "Ligonier Ministries",
+        "url": "https://learn.ligonier.org/podcasts/things-unseen-with-sinclair-ferguson",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
+      },
+      "tags": []
+    },
+    {
+      "id": "ask-ligonier",
+      "name": "Ask Ligonier Podcast",
+      "placeholder": false,
+      "verification": "researched",
+      "creator": "Nathan W. Bingham",
+      "organization": "Ligonier Ministries",
+      "subject": [
+        "Systematic Theology",
+        "Christian Living"
+      ],
+      "doctrinal_posture": "Reformed heritage",
+      "doctrinal_basis": "Ligonier affirms the Westminster Standards, the Three Forms of Unity and the 1689 Baptist Confession as consistent with its teaching (see the Ligonier Ministries entry).",
+      "points_to_weigh": [
+        "Ligonier is multi-denominational; its teachers include both paedobaptists and credobaptists."
+      ],
+      "website": "https://learn.ligonier.org/podcasts/ask-ligonier",
+      "description": "Ligonier teachers answer listener questions on the Bible and theology.",
+      "research_sources": [
+        "https://learn.ligonier.org/podcasts",
+        "https://learn.ligonier.org/podcasts/ask-ligonier"
+      ],
+      "source": {
+        "title": "Ask Ligonier Podcast: website and public-record summary",
+        "organization": "Ligonier Ministries",
+        "url": "https://learn.ligonier.org/podcasts/ask-ligonier",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
+      },
+      "tags": []
+    },
+    {
+      "id": "ultimately-with-rc-sproul",
+      "name": "Ultimately with R.C. Sproul",
+      "placeholder": false,
+      "verification": "researched",
+      "creator": "R. C. Sproul",
+      "organization": "Ligonier Ministries",
+      "subject": [
+        "Systematic Theology"
+      ],
+      "doctrinal_posture": "Reformed heritage",
+      "doctrinal_basis": "Ligonier affirms the Westminster Standards, the Three Forms of Unity and the 1689 Baptist Confession as consistent with its teaching (see the Ligonier Ministries entry).",
+      "points_to_weigh": [
+        "Ligonier is multi-denominational; its teachers include both paedobaptists and credobaptists."
+      ],
+      "website": "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul",
+      "description": "Brief episodes drawn from R. C. Sproul’s lifetime of Bible study.",
+      "research_sources": [
+        "https://learn.ligonier.org/podcasts",
+        "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul"
+      ],
+      "source": {
+        "title": "Ultimately with R.C. Sproul: website and public-record summary",
+        "organization": "Ligonier Ministries",
+        "url": "https://learn.ligonier.org/podcasts/ultimately-with-rc-sproul",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
+      },
+      "tags": []
+    },
+    {
+      "id": "open-book",
+      "name": "Open Book with Stephen Nichols",
+      "placeholder": false,
+      "verification": "researched",
+      "creator": "Stephen Nichols",
+      "organization": "Ligonier Ministries",
+      "subject": [
+        "Books",
+        "Church History"
+      ],
+      "doctrinal_posture": "Reformed heritage",
+      "doctrinal_basis": "Ligonier affirms the Westminster Standards, the Three Forms of Unity and the 1689 Baptist Confession as consistent with its teaching (see the Ligonier Ministries entry).",
+      "points_to_weigh": [
+        "Ligonier is multi-denominational; its teachers include both paedobaptists and credobaptists."
+      ],
+      "website": "https://learn.ligonier.org/podcasts/open-book-with-stephen-nichols",
+      "description": "Conversations on influential books and their impact on Christian teachers.",
+      "research_sources": [
+        "https://learn.ligonier.org/podcasts",
+        "https://learn.ligonier.org/podcasts/open-book-with-stephen-nichols"
+      ],
+      "source": {
+        "title": "Open Book with Stephen Nichols: website and public-record summary",
+        "organization": "Ligonier Ministries",
+        "url": "https://learn.ligonier.org/podcasts/open-book-with-stephen-nichols",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
+      },
+      "tags": []
+    },
+    {
+      "id": "simply-put",
+      "name": "Simply Put",
+      "placeholder": false,
+      "verification": "researched",
+      "creator": "Barry Cooper",
+      "organization": "Ligonier Ministries",
+      "subject": [
+        "Systematic Theology",
+        "Christian Living"
+      ],
+      "doctrinal_posture": "Reformed heritage",
+      "doctrinal_basis": "Ligonier affirms the Westminster Standards, the Three Forms of Unity and the 1689 Baptist Confession as consistent with its teaching (see the Ligonier Ministries entry).",
+      "points_to_weigh": [
+        "Ligonier is multi-denominational; its teachers include both paedobaptists and credobaptists."
+      ],
+      "website": "https://learn.ligonier.org/podcasts/simply-put",
+      "description": "Weekly explanations of theological terms with practical application.",
+      "research_sources": [
+        "https://learn.ligonier.org/podcasts",
+        "https://learn.ligonier.org/podcasts/simply-put"
+      ],
+      "source": {
+        "title": "Simply Put: website and public-record summary",
+        "organization": "Ligonier Ministries",
+        "url": "https://learn.ligonier.org/podcasts/simply-put",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
+      },
+      "tags": []
+    },
+    {
+      "id": "luther-in-real-time",
+      "name": "Luther: In Real Time",
+      "placeholder": false,
+      "verification": "researched",
+      "creator": "Ligonier Ministries",
+      "organization": "Ligonier Ministries",
+      "subject": [
+        "Church History"
+      ],
+      "doctrinal_posture": "Reformed heritage",
+      "doctrinal_basis": "Ligonier affirms the Westminster Standards, the Three Forms of Unity and the 1689 Baptist Confession as consistent with its teaching (see the Ligonier Ministries entry).",
+      "points_to_weigh": [
+        "Ligonier is multi-denominational; its teachers include both paedobaptists and credobaptists."
+      ],
+      "website": "https://learn.ligonier.org/podcasts/luther-in-real-time",
+      "description": "A historical podcast that follows Martin Luther’s words through the Reformation.",
+      "research_sources": [
+        "https://learn.ligonier.org/podcasts",
+        "https://learn.ligonier.org/podcasts/luther-in-real-time"
+      ],
+      "source": {
+        "title": "Luther: In Real Time: website and public-record summary",
+        "organization": "Ligonier Ministries",
+        "url": "https://learn.ligonier.org/podcasts/luther-in-real-time",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
+      },
+      "tags": []
+    },
+    {
+      "id": "westminster-shorter-catechism-podcast",
+      "name": "The Westminster Shorter Catechism (Ligonier podcast)",
+      "placeholder": false,
+      "verification": "researched",
+      "creator": "Sinclair Ferguson",
+      "organization": "Ligonier Ministries",
+      "subject": [
+        "Systematic Theology"
+      ],
+      "doctrinal_posture": "Reformed heritage",
+      "doctrinal_basis": "Ligonier affirms the Westminster Standards, the Three Forms of Unity and the 1689 Baptist Confession as consistent with its teaching (see the Ligonier Ministries entry).",
+      "points_to_weigh": [
+        "Ligonier is multi-denominational; its teachers include both paedobaptists and credobaptists."
+      ],
+      "website": "https://learn.ligonier.org/podcasts/westminster-shorter-catechism",
+      "description": "Sinclair Ferguson reads each question and answer of the Shorter Catechism.",
+      "research_sources": [
+        "https://learn.ligonier.org/podcasts",
+        "https://learn.ligonier.org/podcasts/westminster-shorter-catechism"
+      ],
+      "source": {
+        "title": "The Westminster Shorter Catechism (Ligonier podcast): website and public-record summary",
+        "organization": "Ligonier Ministries",
+        "url": "https://learn.ligonier.org/podcasts/westminster-shorter-catechism",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
+      },
+      "tags": []
+    },
+    {
+      "id": "renovando-tu-mente",
+      "name": "Renovando Tu Mente (Spanish)",
+      "placeholder": false,
+      "verification": "researched",
+      "creator": "Ligonier Ministries",
+      "organization": "Ligonier Ministries",
+      "subject": [
+        "Systematic Theology",
+        "Christian Living"
+      ],
+      "doctrinal_posture": "Reformed heritage",
+      "doctrinal_basis": "Ligonier affirms the Westminster Standards, the Three Forms of Unity and the 1689 Baptist Confession as consistent with its teaching (see the Ligonier Ministries entry).",
+      "points_to_weigh": [
+        "Ligonier is multi-denominational; its teachers include both paedobaptists and credobaptists.",
+        "In Spanish."
+      ],
+      "website": "https://renovandotumente.org/",
+      "description": "Spanish-language version of Renewing Your Mind.",
+      "research_sources": [
+        "https://learn.ligonier.org/podcasts",
+        "https://renovandotumente.org/"
+      ],
+      "source": {
+        "title": "Renovando Tu Mente (Spanish): website and public-record summary",
+        "organization": "Ligonier Ministries",
+        "url": "https://renovandotumente.org/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
+      },
+      "tags": []
+    },
+    {
+      "id": "5-minutos-en-la-historia-de-la-iglesia",
+      "name": "5 Minutos en la Historia de la Iglesia (Spanish)",
+      "placeholder": false,
+      "verification": "researched",
+      "creator": "Ligonier Ministries",
+      "organization": "Ligonier Ministries",
+      "subject": [
+        "Church History"
+      ],
+      "doctrinal_posture": "Reformed heritage",
+      "doctrinal_basis": "Ligonier affirms the Westminster Standards, the Three Forms of Unity and the 1689 Baptist Confession as consistent with its teaching (see the Ligonier Ministries entry).",
+      "points_to_weigh": [
+        "Ligonier is multi-denominational; its teachers include both paedobaptists and credobaptists.",
+        "In Spanish."
+      ],
+      "website": "https://5minutosenlahistoriadelaiglesia.com/",
+      "description": "Spanish edition of 5 Minutes in Church History.",
+      "research_sources": [
+        "https://learn.ligonier.org/podcasts",
+        "https://5minutosenlahistoriadelaiglesia.com/"
+      ],
+      "source": {
+        "title": "5 Minutos en la Historia de la Iglesia (Spanish): website and public-record summary",
+        "organization": "Ligonier Ministries",
+        "url": "https://5minutosenlahistoriadelaiglesia.com/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
+      },
+      "tags": []
+    },
+    {
+      "id": "life-and-books-and-everything",
+      "name": "Life and Books and Everything",
+      "placeholder": false,
+      "verification": "researched",
+      "creator": "Kevin DeYoung, with Justin Taylor and Collin Hansen",
+      "organization": "Clearly Reformed",
+      "subject": [
+        "Systematic Theology",
+        "Books",
+        "Culture and Current Events",
+        "Politics"
+      ],
+      "doctrinal_posture": "Reformed heritage",
+      "doctrinal_basis": "Published by Clearly Reformed. The page reviewed does not state a confession or denomination for the podcast.",
+      "points_to_weigh": [
+        "Covers current events and ‘hot topics’ as well as theology, so its political and cultural comment reflects the hosts’ views rather than a church’s position."
+      ],
+      "website": "https://clearlyreformed.org/life-and-books-and-everything/",
+      "description": "Kevin DeYoung’s conversational podcast with Justin Taylor and Collin Hansen on faith, theology, history, current events and books; long-form episodes, often with a guest.",
+      "research_sources": [
+        "https://clearlyreformed.org/life-and-books-and-everything/",
+        "https://podcasts.apple.com/us/podcast/life-and-books-and-everything/id1526483896"
+      ],
+      "source": {
+        "title": "Life and Books and Everything: website and public-record summary",
+        "organization": "Clearly Reformed",
+        "url": "https://clearlyreformed.org/life-and-books-and-everything/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
+      },
+      "tags": []
+    },
+    {
+      "id": "the-briefing",
+      "name": "The Briefing with Albert Mohler",
+      "placeholder": false,
+      "verification": "researched",
+      "creator": "Albert Mohler",
+      "organization": "The Southern Baptist Theological Seminary",
+      "subject": [
+        "Politics",
+        "Technology",
+        "Culture and Current Events",
+        "Science"
+      ],
+      "doctrinal_posture": "Conservative evangelical",
+      "doctrinal_basis": "Produced by the president of a Southern Baptist seminary; Calvinistic within the Southern Baptist Convention.",
+      "points_to_weigh": [
+        "Baptist rather than Presbyterian or Reformed churchly; on baptism and church government it differs from the Westminster and Three Forms churches.",
+        "Political and news commentary reflects the host’s judgments, which other Reformed Christians do not always share."
+      ],
+      "website": "https://albertmohler.com/the-briefing",
+      "description": "Daily (Monday to Friday) analysis of news through a Christian worldview: politics, technology and AI, culture, religious freedom and ethics.",
+      "research_sources": [
+        "https://albertmohler.com/the-briefing"
+      ],
+      "source": {
+        "title": "The Briefing with Albert Mohler: website and public-record summary",
+        "organization": "The Southern Baptist Theological Seminary",
+        "url": "https://albertmohler.com/the-briefing",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
+      },
+      "tags": []
+    },
+    {
+      "id": "tech-reformation",
+      "name": "Tech Reformation",
+      "placeholder": false,
+      "verification": "researched",
+      "creator": "Derek Mast, David Mikucki, Craig Elliss, Ryan Tankersley, Ben Robin and Joe Carter",
+      "organization": "Tech Reformation",
+      "subject": [
+        "Technology",
+        "Culture and Current Events"
+      ],
+      "doctrinal_posture": "Reformed heritage",
+      "doctrinal_basis": "Hosts describe themselves as Reformed Christians; no confession or denomination is stated on the site.",
+      "points_to_weigh": [
+        "The episode archive on the site appears to end in April 2021 (episode 198), although the site shows newer blog posts. It may be an archive rather than an active show."
+      ],
+      "website": "https://techreformation.com/",
+      "description": "Weekly podcast by Reformed Christians on the intersection of technology and Christianity, including whether technology is morally neutral and how online platforms shape communication and values.",
+      "research_sources": [
+        "https://techreformation.com/"
+      ],
+      "source": {
+        "title": "Tech Reformation: website and public-record summary",
+        "organization": "Tech Reformation",
+        "url": "https://techreformation.com/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
+      },
+      "tags": []
+    },
+    {
+      "id": "where-life-and-scripture-meet",
+      "name": "Where Life & Scripture Meet (CCEF)",
+      "placeholder": false,
+      "verification": "researched",
+      "creator": "Alasdair Groves (former host) and CCEF faculty",
+      "organization": "Christian Counseling & Educational Foundation",
+      "subject": [
+        "Biblical Counseling",
+        "Mental Health",
+        "Christian Living"
+      ],
+      "doctrinal_basis": "CCEF describes its approach as gospel-based ministry to struggling Christians. Its statement of faith was not checked this session; read it on CCEF’s site.",
+      "points_to_weigh": [
+        "Biblical counseling is not a substitute for medical or clinical care. If you or someone you know struggles with OCD, consider seeing a licensed clinician as well as a pastor or counselor.",
+        "Sources differ on how far clinical therapy and pastoral counseling should be combined (see the other counseling podcasts in this list)."
+      ],
+      "notable_episodes": [
+        "OCD with Mike Emlet, Part 2 (13 June 2017): a gospel-based ministry approach to Christians troubled by obsessive doubt, scrupulosity and an overly sensitive conscience. https://www.ccef.org/podcast/ocd-mike-emlet-part-2/",
+        "OCD with Mike Emlet, Part 1: https://www.ccef.org/resources/podcast/ocd-mike-emlet-part-1"
+      ],
+      "website": "https://www.ccef.org/podcast/ocd-mike-emlet-part-2/",
+      "description": "The podcast of the Christian Counseling & Educational Foundation (CCEF), on biblical counseling for anxiety, depression, OCD and other struggles.",
+      "research_sources": [
+        "https://www.ccef.org/podcast/ocd-mike-emlet-part-2/"
+      ],
+      "source": {
+        "title": "Where Life & Scripture Meet (CCEF): website and public-record summary",
+        "organization": "Christian Counseling & Educational Foundation",
+        "url": "https://www.ccef.org/podcast/ocd-mike-emlet-part-2/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
+      },
+      "tags": []
+    },
+    {
+      "id": "acbc-truth-in-love",
+      "name": "Truth in Love (ACBC)",
+      "placeholder": false,
+      "verification": "researched",
+      "creator": "Dale Johnson",
+      "organization": "Association of Certified Biblical Counselors",
+      "subject": [
+        "Biblical Counseling",
+        "Mental Health",
+        "Christian Living"
+      ],
+      "doctrinal_basis": "ACBC certifies biblical counselors; its doctrinal statement was not checked this session.",
+      "points_to_weigh": [
+        "Biblical counseling is not a substitute for medical or clinical care. If you or someone you know struggles with OCD, consider seeing a licensed clinician as well as a pastor or counselor."
+      ],
+      "notable_episodes": [
+        "Episode 443, ‘Scrupulosity’ with Brent Osterberg (4 December 2023): religious OCD, ‘a tender conscience on steroids’, intrusive thoughts and compulsive confessing, and the role of grace and Christ’s redemption. https://biblicalcounseling.com/resource-library/podcast-episodes/scrupulosity-feat-brent-osterberg/"
+      ],
+      "website": "https://biblicalcounseling.com/resource-library/podcast-episodes/scrupulosity-feat-brent-osterberg/",
+      "description": "Podcast of the Association of Certified Biblical Counselors, hosted by its executive director Dale Johnson.",
+      "research_sources": [
+        "https://biblicalcounseling.com/resource-library/podcast-episodes/scrupulosity-feat-brent-osterberg/"
+      ],
+      "source": {
+        "title": "Truth in Love (ACBC): website and public-record summary",
+        "organization": "Association of Certified Biblical Counselors",
+        "url": "https://biblicalcounseling.com/resource-library/podcast-episodes/scrupulosity-feat-brent-osterberg/",
+        "date": "Accessed 2026-09-30",
+        "license": "Facts only; no text reproduced",
+        "copyright_status": "retained",
+        "notes": "Facts were gathered from the organization's own pages and the sources listed. Classification and points to weigh are reformededucation.org's judgments; confirm current details with the organization."
+      },
+      "tags": []
+    },
+    {
+      "id": "christian-faith-and-ocd",
+      "name": "Christian Faith and OCD, Scrupulosity, Intrusive Thoughts, Compulsions",
+      "placeholder": false,
+      "verification": "researched",
+      "creator": "Carrie Bock, Licensed Professional Counselor",
+      "organization": "Carrie Bock",
+      "subject": [
+        "Mental Health",
+        "Christian Living"
+      ],
+      "doctrinal_basis": "Explicitly Christian; no denomination or confession is stated.",
+      "points_to_weigh": [
+        "Not a Reformed ministry. The host is a licensed counselor and teaches a clinical approach (ICBT); it is included because it deals directly with religious OCD.",
+        "The host argues that church culture and biblical counseling can unintentionally reinforce the OCD cycle. Biblical-counseling ministries (CCEF and ACBC above) take a different approach, so weigh them together with your pastor and a licensed clinician.",
+        "This is not medical advice."
+      ],
+      "website": "https://podcasts.apple.com/us/podcast/christian-faith-and-ocd-scrupulosity-intrusive/id1541042680",
+      "description": "Podcast about living with OCD and scrupulosity from a Christian perspective, teaching an inference-based cognitive behavioral approach (ICBT); more than 240 episodes.",
+      "research_sources": [
+        "https://podcasts.apple.com/us/podcast/christian-faith-and-ocd-scrupulosity-intrusive/id1541042680",
+        "https://www.listennotes.com/podcasts/christian-faith-and-ocd-scrupulosity-J5d86Ose2Pz/"
+      ],
+      "source": {
+        "title": "Christian Faith and OCD, Scrupulosity, Intrusive Thoughts, Compulsions: website and public-record summary",
+        "organization": "Carrie Bock",
+        "url": "https://podcasts.apple.com/us/podcast/christian-faith-and-ocd-scrupulosity-intrusive/id1541042680",
         "date": "Accessed 2026-09-30",
         "license": "Facts only; no text reproduced",
         "copyright_status": "retained",
