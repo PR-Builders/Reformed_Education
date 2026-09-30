@@ -20,7 +20,7 @@
   ];
 
   RE.config = {
-    version: "202609301558",   // stamped by tools/bump_version.py; appended to data requests to avoid stale caches
+    version: "202609301657",   // stamped by tools/bump_version.py; appended to data requests to avoid stale caches
     siteName: "Reformed Education",
     tagline: "Reformed education and resources, in one place.",
     latinTagline: "Quaere et Disce",
@@ -222,8 +222,8 @@
           { key: "standards", label: "Confessional standards" },
           { key: "polity", label: "Polity" },
           { key: "size", label: "Size (as reported)" },
-          { key: "distinctives", label: "What it believes and practices", type: "list" },
-          { key: "women_in_office", label: "Women in church office" },
+          { key: "distinctives", label: "What it believes and practices", type: "list", optional: true },
+          { key: "women_in_office", label: "Women in church office", optional: true },
           { key: "doctrinal_basis", label: "Doctrinal basis" },
           { key: "points_to_weigh", label: "Points to weigh", type: "list" },
           { key: "research_sources", label: "Sources consulted", type: "list" },

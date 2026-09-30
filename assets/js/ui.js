@@ -57,7 +57,7 @@
     /* Detail body for a directory entry: a definition list driven by the collection's field config. */
     detailFacts(type, e, skip) {
       const cfg = RE.config.collections[type];
-      return `<dl class="facts">${cfg.fields.filter((f) => f.type !== "text" && !(skip || []).includes(f.key)).map((f) =>
+      return `<dl class="facts">${cfg.fields.filter((f) => f.type !== "text" && !(skip || []).includes(f.key) && !(f.optional && (e[f.key] == null || e[f.key] === "" || (Array.isArray(e[f.key]) && !e[f.key].length)))).map((f) =>
         `<div class="row"><dt>${esc(f.label)}</dt><dd>${ui.value(e[f.key], f.type)}</dd></div>`).join("")}</dl>`;
     },
 
